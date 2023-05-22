@@ -1,0 +1,26 @@
+---
+title: Experience League LIVE, Episod 2 - Gör nästa målgruppssegment smartare än någonsin
+description: Framgången för alla goda marknadsföringskampanjer beror på att ni målgruppsanpassar er målgrupp exakt. Med nya Adobe Experience Platform Segment Builder kan ni skapa nästa målgruppssegment med hjälp av profildata och tidsbaserade användarbeteenden i alla kanaler. Det finns inget bättre sätt att se till att era meddelanden når de människor som behöver höra dem bäst. Delta i en diskussion med tre Adobe-experter som har varit med om att ta med den här tekniken till dig. Vi kommer att visa dig effektiva sätt att skapa både enkla och komplexa segment.
+solution: Experience Platform
+kt: 8581
+thumbnail: 336422.jpg
+event-cta-url: null
+event-start-time: 2021-08-26 09:00-7
+event-guests: Aaron Shields,Yaya Wang,Andres Monroy
+exl-id: b44e406b-eb82-4026-bf88-377c626e1056
+source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+workflow-type: tm+mt
+source-wordcount: '215'
+ht-degree: 0%
+
+---
+
+# Experience League LIVE, Episod 2 - Gör nästa målgruppssegment smartare än någonsin
+
+Framgången för alla goda marknadsföringskampanjer beror på att ni målgruppsanpassar er målgrupp exakt. Med nya Adobe Experience Platform Segment Builder kan ni skapa nästa målgruppssegment med hjälp av profildata och tidsbaserade användarbeteenden i alla kanaler. Det finns inget bättre sätt att se till att era meddelanden når de människor som behöver höra dem bäst.
+
+Delta i en diskussion med tre Adobe-experter som har varit med om att ta med den här tekniken till dig. Vi kommer att visa dig effektiva sätt att skapa både enkla och komplexa segment.
+
+>[!VIDEO](https://video.tv.adobe.com/v/336422/?quality=12&learn=on)
+
+Om du vill diskutera denna session går du till [diskussion i Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/questions-and-discussion-for-experience-league-live-ep-2-make/m-p/420645#M68){target="_blank"}.
