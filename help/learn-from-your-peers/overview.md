@@ -10,8 +10,6 @@ ht-degree: 0%
 
 # [!DNL Experience Makers - Learn from your peers] {#overview}
 
-&lt;!— <img alt="Upplevelsemakare Lär dig av andra" src="./assets/skill-exchange.png" /> --->
-
 Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina lösningar från Adobe. När ämnen väljs ut för yrkesverksamma _av_ dessa interaktiva sessioner delar med sig av&quot;art of the possible&quot; use case, best practices samt tips och tricks.
 
 >[!TIP]
