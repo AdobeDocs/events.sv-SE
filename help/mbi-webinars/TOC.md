@@ -2,7 +2,7 @@
 user-guide-title: MBI-händelser
 breadcrumb-title: MBI-händelser
 user-guide-description: MBI Events är ett videobibliotek där experter och kollegor har delat med sig av sina tankar och idéer om Adobe Commerce.
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 5%
@@ -13,8 +13,8 @@ ht-degree: 5%
 # MBI-händelser  {#mbi-webinars-recordings}
 
 + [Översikt](overview.md)
-+ 2022 {#2022}
-   + [Hantera datauppsättningar i MBI](2021-22/manage-data-sets.md)
++ 2023 {#2023}
+   + [Hantera datauppsättningar i MBI](2023/manage-data-sets.md)
 + 2021 {#2021}
    + [Komma igång med MBI](2021-22/getting-started.md)
    + [Optimera din MBI-Data warehouse](2021-22/optimize-data-warehouse.md)
@@ -22,7 +22,7 @@ ht-degree: 5%
    + [Semesterberedskap med MBI](2021-22/holiday-readiness.md)
    + [MBI - Fråga en expert](2021-22/ask-expert.md)
 
-<!---+ Commerce Events {#commerce-events}
+<!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)
   + 2022 {#2022}
     + [Top Tips and Tricks for Adobe Campaign Standard](customer-journeys/2022/tips-and-tricks.md)
@@ -35,4 +35,4 @@ ht-degree: 5%
     + [Sensei and Analysis Workspace](data-and-insights/2022/sensei.md)
     + [Personalize and automate with Adobe Target](data-and-insights/2022/personalize.md)
     + [Analytics and Target applications for Mobile and Apps](data-and-insights/2022/mobile-and-apps.md)
-    + [Cross Device Analytics and Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md) --->
+    + [Cross Device Analytics and Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md) -->

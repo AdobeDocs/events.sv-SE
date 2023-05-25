@@ -2,10 +2,10 @@
 user-guide-title: Handel och kaffeevenemang
 breadcrumb-title: Handel och kaffeevenemang
 user-guide-description: Adobe Commerce och Coffee är ett videobibliotek där experter och kollegor har delat med sig av sina tankar och idéer om hur man använder Adobe Commerce.
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 7%
+source-wordcount: '63'
+ht-degree: 6%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 7%
 + [Översikt](overview.md)
 + 2023 {#2023}
    + [Organisk tillväxt](2023/organic-growth.md)
+   + [7 sätt att bygga upp kundlojalitet och kundlojalitet](2023/loyalty-retention.md)
 + 2022 {#2022}
    + [AI och automatisering](2022/ai-and-automation.md)
    + [E-handelstrender](2022/ecommerce-trends.md)
@@ -23,7 +24,7 @@ ht-degree: 7%
    + [Högsäsong Fråga mig något](2022/peak-season-ask-anything.md)
    + [Personalisering](2022/personalization.md)
 
-<!---+ Commerce Events {#commerce-events}
+<!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)
   + 2022 {#2022}
     + [Top Tips and Tricks for Adobe Campaign Standard](customer-journeys/2022/tips-and-tricks.md)
@@ -36,4 +37,4 @@ ht-degree: 7%
     + [Sensei and Analysis Workspace](data-and-insights/2022/sensei.md)
     + [Personalize and automate with Adobe Target](data-and-insights/2022/personalize.md)
     + [Analytics and Target applications for Mobile and Apps](data-and-insights/2022/mobile-and-apps.md)
-    + [Cross Device Analytics and Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md) --->
+    + [Cross Device Analytics and Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md) -->

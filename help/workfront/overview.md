@@ -1,7 +1,7 @@
 ---
 title: Workfront On-Demand Events
 description: Workfront Events är ett videobibliotek där experter och kollegor har delat med sig av sina tankar och idéer om hur man kan använda Workfront för att förbättra det arbete som utförs i organisationen.
-source-git-commit: 408a3ae9ada432dc515d49c1108ce1f732c3a1f2
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Ett bibliotek med inspelade Workfront-event där experter och kollegor berättar
       </a>
       <div>
          <a href="user-groups/workfront-system-maintenance.md"><strong>Workfront System Maintenance</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -35,7 +35,7 @@ Ett bibliotek med inspelade Workfront-event där experter och kollegor berättar
       </a>
       <div>
          <a href="user-groups/reporting-and-dashboards.md"><strong>Rapportering och instrumentpaneler</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -48,7 +48,7 @@ Ett bibliotek med inspelade Workfront-event där experter och kollegor berättar
       </a>
       <div>
          <a href="user-groups/agile-in-marketing.md"><strong>Agile in Marketing</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>

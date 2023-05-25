@@ -2,7 +2,7 @@
 title: Adobe Developers Live november 2022
 description: En samling videor och självstudiekurser för Adobe Experience Manager Sites som levereras som en del av Adobe Developers Live event.
 sub-product: sites, content-services
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Det här var en virtuell konferens som hölls i november 2022 med live-sessioner
 
 Håll kontakten med högtalare och sessioner efter eventet i [kontexttrådar för community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-aem-headless-2022-complete-session-list/td-p/553511).
 
-<!--- 
+<!-- 
 ## Highlights
 
 <table>
@@ -66,7 +66,7 @@ Håll kontakten med högtalare och sessioner efter eventet i [kontexttrådar fö
    </td> 
   </tr>
 </table>
---->
+-->
 
 >[!TIP]
 >

@@ -1,10 +1,10 @@
 ---
 user-guide-title: Kunskapsbyggaren
 user-guide-description: Detta är en beskrivning av användarhandboken som ska visas på landningssidan.
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 10%
+source-wordcount: '170'
+ht-degree: 11%
 
 ---
 
@@ -44,6 +44,8 @@ ht-degree: 10%
       + [Trender inom kundresor och innovation inom B2B och B2C](customer-journeys/2022/keynote.md)
       + [Bättre tillsammans - Adobe Marketo Engage och Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
       + [B2B-upplevelser med Marketo Engage och Adobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
+
+<!--    + [Adobe Campaign Classic V7 vs V8](customer-journeys/2022/classic-v7-vs-v8.md) -->
 + Data och insikter {#data-and-insights}
    + [Översikt](data-and-insights/overview.md)
    + 2022 {#2022}
