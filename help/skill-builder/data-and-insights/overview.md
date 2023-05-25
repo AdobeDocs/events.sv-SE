@@ -1,9 +1,9 @@
 ---
 title: Kunskapsbyggaren - översikt
 description: Driv personalisering i realtid i alla kanaler med hjälp av insikter om online- och offlinedata i hela organisationen.
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Driv personalisering i realtid i alla kanaler med hjälp av insikter om online- 
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/personalize.html">
+    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/personalize.html">
       <img alt="Anpassa och automatisera med Adobe Target" src="assets/343821.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/personalize.html">
+      <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/personalize.html">
         <strong>Anpassa och automatisera med Adobe Target</strong>
       </a>
     </div>
@@ -30,11 +30,11 @@ Driv personalisering i realtid i alla kanaler med hjälp av insikter om online- 
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/innovations.html">
+    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/innovations.html">
       <img alt="2022 Innovationer och trender" src="assets/343818.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/innovations.html">
+      <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/innovations.html">
         <strong>2022 Innovationer och trender</strong>
       </a>
     </div>
@@ -43,11 +43,11 @@ Driv personalisering i realtid i alla kanaler med hjälp av insikter om online- 
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/mobile-and-apps.html">
+    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/mobile-and-apps.html">
       <img alt="Analys- och målapplikationer för mobiler och appar" src="assets/343819.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/mobile-and-apps.html">
+      <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/mobile-and-apps.html">
         <strong>Analys- och målapplikationer för mobiler och appar</strong>
       </a>
     </div>
