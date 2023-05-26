@@ -10,19 +10,19 @@ role: Developer
 level: Experienced
 kt: 7166
 thumbnail: 331734.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: 442098f1-512a-4801-8bf1-85fc84be4aca
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Experience Platform Launch Demo
 
 Driftsätt och hantera marknadsförings- och annonseringstaggar på klientsidan snabbt och enkelt med AEP Launch, lär dig anpassa och skriva egna tillägg.
 
-Fortsätt konversationen i **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
+Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331734/?quality=12&learn=on&hidetitle=true)
 

@@ -11,18 +11,18 @@ version: Cloud Service
 kt: 7174
 type: Event
 thumbnail: 331740.jpg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: e1ac9124-847a-4432-8ab4-eef52b2a88c7
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-
 # OSGi inuti - varför vi älskar det och varför du inte verkligen behöver bry dig
 
 En panel med Carsten Ziegeler, Karl Pauls och David Bosschaert om varför vi använder OSGi, varför det är relevant i molnet och vad Adobe Experience Manager-utvecklare behöver veta om det.
 
-Fortsätt konversationen i **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
+Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331740/?quality=12&learn=on&hidetitle=true)

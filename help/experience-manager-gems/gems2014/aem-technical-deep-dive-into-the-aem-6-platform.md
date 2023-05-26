@@ -4,7 +4,8 @@ description: Fördjupa dig i den nya databasarkitekturen och lär dig viktiga sk
 uuid: 8038fb68-e841-4d35-affd-c32d53e4cc8f
 discoiquuid: 1374a0f7-4456-47ba-b061-1b6d67d12d55
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: d76a0437-2fdd-490d-a575-f64bbe449d7f
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 1%
@@ -34,5 +35,5 @@ Jukka ZPassing, Senior Developer, Adobe
 
 ## Relaterade länkar {#related-links}
 
-* [AEM uppgraderingsdokumentation](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
-* [Presentation från ApacheCon &quot;Oak, arkitekturen för Apache Jackrabbit 3&quot;](http://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)
+* [AEM uppgraderingsdokumentation](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
+* [Presentation från ApacheCon &quot;Oak, arkitekturen för Apache Jackrabbit 3&quot;](https://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)

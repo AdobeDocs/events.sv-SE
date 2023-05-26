@@ -10,19 +10,19 @@ version: Cloud Service
 kt: 7175
 type: Event
 thumbnail: 331741.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: 5c303ecd-d33e-48c6-94da-f8bbb07577f1
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Developer App Builder Deep Dive
 
 Vill du höra mer om Adobe Developer App Builder? Följ oss och se hur App Builder fungerar: kod, säkerhet, headfull- och headless-appar, CI/CD med mera.
 
-Fortsätt konversationen i **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
+Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331741/?quality=12&learn=on&hidetitle=true)
 

@@ -4,9 +4,10 @@ description: Att avgöra om en AEM är felfri är inte en enkel uppgift. Den hä
 uuid: 33d6c0e2-9bf8-443d-babe-2ceda52a1837
 discoiquuid: 8b674cc3-c88a-48a4-b113-abf3efd5069f
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 03298b03-360c-43af-9ece-ad95b49f581b
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -25,7 +26,10 @@ Att avgöra om en AEM är felfri är inte en enkel uppgift. Den här sessionen g
 
 [Hämta fil](assets/aem-gems-health-checks-for-aem.pdf)
 
+>[!WARNING]
+>
+>AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar uppgradering till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns här [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+
 ## Relaterade länkar {#related-links}
 
-* [AEM](https://docs.adobe.com/docs/en/aem/6-3/administer/operations/operations-dashboard.html#Health%20Reports)
 * [Sling Documentation](https://sling.apache.org/documentation/bundles/sling-health-check-tool.html)

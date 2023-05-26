@@ -4,9 +4,10 @@ description: AEM Screens är den nya digitala signeringslösningen som är integ
 uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 1beeb807-c3b3-425c-8053-06cd2d359c35
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -34,5 +35,10 @@ Exempelprojekt
 
 ## Relaterade länkar {#related-links}
 
-* [Distribuera skärmar](https://docs.adobe.com/docs/en/aem/6-2/deploy/screens.html)
-* [Skärmkoncept](https://docs.adobe.com/docs/en/aem/6-2/administer/screens.html)
+
+>[!WARNING]
+>
+>AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar uppgradering till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns här [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>Se vad som gäller denna session *Distribuera skärmar* och *Skärmkoncept* i AEM 6.2-dokumentationen.
+

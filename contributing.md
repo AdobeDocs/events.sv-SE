@@ -1,8 +1,8 @@
 ---
-source-git-commit: 504ae54ecf4ea2a687e1aa3c90cf0e74734d4a9a
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 # Bidra
@@ -29,7 +29,7 @@ samförstånd om projektriktning och utfärda lösningar inom problemtrådar
 ## Licensavtal för bidragsgivare
 
 Alla bidrag från tredje part till detta projekt måste åtföljas av ett undertecknat licensavtal 
-för bidragsgivare. Detta ger Adobe tillstånd att återdistribuera dina bidrag som en del av projektet. [Signera vårt licensavtal för bidragsgivare](http://opensource.adobe.com/cla.html). Du 
+för bidragsgivare. Detta ger Adobe tillstånd att återdistribuera dina bidrag som en del av projektet. [Signera vårt licensavtal för bidragsgivare](https://opensource.adobe.com/cla.html). Du 
 behöver bara skicka ett licensavtal för bidragsgivare hos Adobe en gång, så om du redan har skickat ett tidigare 
 är du klar!
 

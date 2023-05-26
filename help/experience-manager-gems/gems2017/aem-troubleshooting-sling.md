@@ -5,9 +5,10 @@ uuid: 823b2bda-411b-49af-9a75-ab5eb9562d57
 topic-tags: troubleshoot
 discoiquuid: 58c61b72-166b-4c7e-ab63-3edd68e3e925
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 19ded93d-2183-4a26-9dc6-8c25cdd4caeb
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '182'
 ht-degree: 3%
 
 ---
@@ -30,11 +31,12 @@ Timothee Maret, Senior Developer, Adobe
 
 ## Resurser {#resources}
 
-Användarsynkronisering
+>[!WARNING]
+>
+>AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar uppgradering till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns här [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>Se vad som gäller denna session *Användarsynkronisering* i AEM.
 
-* [AEM 6.3 Dokumentation](https://docs.adobe.com/docs/en/aem/6-3/administer/security/security/sync.html)
-* [AEM 6.2 Dokumentation](https://docs.adobe.com/docs/en/aem/6-2/administer/security/security/sync.html)
-* [AEM 6.1 Dokumentation](https://docs.adobe.com/docs/en/aem/6-1/administer/security/security/sync.html)
 * [Distribution av Apache Sling-innehåll](https://sling.apache.org/documentation/bundles/content-distribution.html)
 * [Återgå till Översikt](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 

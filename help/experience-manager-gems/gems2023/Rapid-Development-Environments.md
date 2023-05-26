@@ -12,7 +12,9 @@ doc-type: Event
 last-substantial-update: 2023-01-31T00:00:00Z
 kt: 11797
 thumbnail: kt-11797.jpeg
-source-git-commit: 59c814af6f0bb745e50ec6ca481a79f7520995fe
+event-start-time: 2023-2-22 08:30-8
+exl-id: 6749cb7d-9130-4855-8a6a-8818810339ae
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -40,6 +42,6 @@ Tack vare de lokala redigeringssystemen kan utvecklare snabbt driftsätta och gr
 
 >[!NOTE]
 >
->* Besök följande om du vill se sessionsspecifika communityinteraktioner på Experience League: [Sammanhangsberoende koppling](http://bit.ly/3x1Cl8x)
+>* Besök följande om du vill se sessionsspecifika communityinteraktioner på Experience League: [Sammanhangsberoende koppling](https://bit.ly/3x1Cl8x)
 >* Om du vill få meddelanden om våra kommande webbinarier registrerar du dig på [AdobeAEM User Group](https://aem-augs.adobe.com/).
 

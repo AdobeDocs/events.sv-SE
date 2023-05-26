@@ -4,9 +4,10 @@ description: Den här AEM Gem visar hur du kör AEM på MongoDB i en produktions
 uuid: 8ca5b7d0-b71e-481c-961c-c91ee987f374
 discoiquuid: 198f9f6e-4156-468a-88d7-6902f51dd6c1
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: a730275f-cfc9-4fbe-aa7b-d0a5220a8417
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -29,7 +30,11 @@ Den här AEM Gem visar hur du kör AEM på MongoDB i en produktionsinställning.
 
 ## Relaterade länkar {#related-links}
 
-[AEM med MongoDB](https://docs.adobe.com/content/docs/en/aem/6-1/deploy/platform/aem-with-mongodb.html)
+>[!WARNING]
+>
+>AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar uppgradering till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns här [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>Se vad som gäller denna session *Fråga och indexera: AEM med MongoDB* i AEM 6.1-dokumentationen.
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

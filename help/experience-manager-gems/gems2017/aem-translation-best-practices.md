@@ -4,9 +4,10 @@ description: Under den här sessionen kommer vi att presentera AEM 6.3-funktione
 uuid: 19ef8f6e-90ab-4724-9cc3-febe30543f00
 discoiquuid: 6a78c294-abc1-4ebb-bd9d-f9abe214ad98
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: b68fee5a-1dac-4488-8725-ec6ef73db549
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -30,6 +31,8 @@ Mathias Siegel, Sr Product Manager, [!DNL AEM Sites], Adobe
 
 ## Relaterade länkar {#related-links}
 
-* [AEM Sites Translation Documents](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation.html)
-* [Hantera flerspråkiga resurser](https://docs.adobe.com/docs/en/aem/6-3/author/assets/managing-assets-touch-ui/multilingual-assets.html)
-* [Dokumentation om översättningsmetoder](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation/tc-bp.html)
+>[!WARNING]
+>
+>AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar uppgradering till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns här [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>Se vad som gäller denna session *AEM Sites Translation Documents*, *Dokumentation om översättningsmetoder* och *Hantera flerspråkiga resurser* i AEM 6.3-dokumentationen.

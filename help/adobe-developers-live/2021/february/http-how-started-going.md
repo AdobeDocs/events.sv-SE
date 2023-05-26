@@ -8,18 +8,18 @@ level: Beginner, Intermediate, Experienced
 kt: 7172
 type: Event
 thumbnail: 331738.jpg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 424175a9-0efb-4486-8028-1ab4e48bd0e9
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 2%
 
 ---
 
-
 # HTTP? Hur det började, hur det går
 
 Intervju med Roy Fielding, medförfattare till HTTP-protokollet och uppfinnare av REST, om hur HTTP utvecklas från tidiga dagar till nuvarande arbete med QUIC &amp; HTTP/3.
 
-Fortsätt konversationen i **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
+Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331738/?quality=12&learn=on&hidetitle=true)
