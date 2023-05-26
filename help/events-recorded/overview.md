@@ -1,9 +1,10 @@
 ---
 title: Adobe Experience League Events
 description: En samling händelseinspelningar som förvägrats användning av Adobe Enterprise-produkter
-source-git-commit: 9dc3872ec0b8bb547a8a8993517aad09bf544c59
+exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
+source-git-commit: ecbca1c217f26d718dc5fb69f063c8fbb0f5cdb2
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -157,7 +158,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
       </a>
       <div>
          <a href="/help/learn-from-your-peers/overview.md"><strong>Lär dig av andra</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Marketo</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Experience Manager, Adobe Marketo</em>
       </div>
       <p>
         <br/>
