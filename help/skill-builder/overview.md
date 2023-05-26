@@ -1,7 +1,7 @@
 ---
 title: Kunskapsbyggaren - översikt
 description: Inspelade webbinarier för att bygga upp din kunskapsbas och maximera er investering i Adobe Experience Cloud.
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+source-git-commit: b85f434224e5e4b08e80c99b6da0edb9acac1ee9
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 3%
@@ -48,7 +48,7 @@ SKill Builder är en webbinärserie som utformats för att bygga upp din kunskap
     <p>
     <em>Driv personalisering i realtid i alla kanaler med hjälp av insikter om online- och offlinedata i hela organisationen.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bläddra bland sessioner</span>
     </a>
   </td>  
