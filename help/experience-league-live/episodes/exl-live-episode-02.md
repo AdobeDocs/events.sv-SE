@@ -3,12 +3,12 @@ title: Experience League LIVE, Episod 2 - Gör nästa målgruppssegment smartare
 description: Framgången för alla goda marknadsföringskampanjer beror på att ni målgruppsanpassar er målgrupp exakt. Med nya Adobe Experience Platform Segment Builder kan ni skapa nästa målgruppssegment med hjälp av profildata och tidsbaserade användarbeteenden i alla kanaler. Det finns inget bättre sätt att se till att era meddelanden når de människor som behöver höra dem bäst. Delta i en diskussion med tre Adobe-experter som har varit med om att ta med den här tekniken till dig. Vi kommer att visa dig effektiva sätt att skapa både enkla och komplexa segment.
 solution: Experience Platform
 kt: 8581
-thumbnail: 336422.jpg
+thumbnail: https://video.tv.adobe.com/v/336422?format=jpeg
 event-cta-url: null
 event-start-time: 2021-08-26 09:00-7
 event-guests: Aaron Shields,Yaya Wang,Andres Monroy
 exl-id: b44e406b-eb82-4026-bf88-377c626e1056
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%

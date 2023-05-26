@@ -3,12 +3,12 @@ title: Experience League LIVE, Episod 1 - Mina tre favoriter i Adobe Analytics i
 description: Du har sett honom på Summit. Du har hört honom dela expertråd på Adobe Insider Tours. Du kan till och med ha haft fördelen att jobba med honom på din egen Adobe Analytics-implementering. Nu kommer Eric Matisoff med sina tre favorittips för Adobe Analytics-implementering till den här exklusiva diskussionen om Experience League Live.
 solution: Analytics
 kt: 8553
-thumbnail: 335921.jpg
+thumbnail: https://video.tv.adobe.com/v/335921?format=jpeg
 event-cta-url: null
 event-start-time: 2021-07-29 09:00-7
 event-guests: Eric Matisoff,Dasha Fitzpatrick
 exl-id: 75361648-8bb6-4def-9be8-b94f106c0347
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%

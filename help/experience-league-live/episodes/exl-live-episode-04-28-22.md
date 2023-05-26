@@ -3,12 +3,12 @@ title: Hur hanterar jag alla dessa målgrupper?
 description: Häng med hos Doug Moore och gästerna Nick Cammuso och Jackie Chevallier när de tittar på hur de kan använda både Audience Manager (AAM) och Real-time Customer Data Platform ... (Beskrivningarna ska vara mellan 60 och 160 tecken)
 solution: Audience Manager, Real-time Customer Data Platform
 kt: 10358
-thumbnail: 342611.jpeg
+thumbnail: https://video.tv.adobe.com/v/342611?format=jpeg
 event-cta-url: null
 event-start-time: 2022-04-28 09:00-7
 event-guests: Nick Cammuso,Jackie Chevallier
 exl-id: a1262eef-da2b-4e79-92d8-73819bc47744
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
