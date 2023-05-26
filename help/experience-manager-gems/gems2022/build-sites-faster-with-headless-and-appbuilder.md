@@ -10,7 +10,7 @@ role: Developer
 level: Intermediate
 kt: 10053
 thumbnail: 341311.jpeg
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+source-git-commit: d9ab4de0d6666713727f41bb385ad80e2de42cb2
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -28,7 +28,10 @@ Bootstrap och driftsätt enkelt single-page-appar (SPA) med arbetsflöden och ve
 Det här webbinariet genomfördes den 23 mars 2022 och presenterades av Duy Nguyen, Software Development Engineer
 
 >[!MORELIKETHIS]
-<!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->
+>
 >* [Motsvarande sammanhangsberoende tråd](https://adobe.ly/3LkSWdm)
 >* Registrera dig på [AdobeAEM User Group](https://aem-augs.adobe.com/) för att få meddelanden om kommande webbinarier.
 
+
+
+<!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->
