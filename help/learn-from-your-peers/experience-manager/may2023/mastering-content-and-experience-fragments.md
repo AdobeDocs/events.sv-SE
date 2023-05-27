@@ -12,13 +12,14 @@ doc-type: Event
 last-substantial-update: 2023-05-19T00:00:00Z
 jira: KT-13305
 thumbnail: 3419557.jpeg
-source-git-commit: 7ee71356c51c875e454f6f895eaa678ae0a7c21b
+event-start-time: 2023-5-16 08:30-8
+exl-id: 63f9ae5b-f5ba-4b09-b2af-20824ad418d2
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # Mastering Content &amp; Experience Fragments On Demand Webinar
 

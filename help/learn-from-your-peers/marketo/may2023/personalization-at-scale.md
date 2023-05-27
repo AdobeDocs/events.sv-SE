@@ -8,13 +8,14 @@ doc-type: Event
 last-substantial-update: 2023-05-05T00:00:00Z
 jira: KT-13214
 thumbnail: 3419133.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+event-start-time: 2023-5-4 08:30-8
+exl-id: 82a9be2d-a3b8-4582-8b63-91dc91defce0
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
 
 ---
-
 
 # Krackning av personalisering vid skalkod med Marketo Engage
 

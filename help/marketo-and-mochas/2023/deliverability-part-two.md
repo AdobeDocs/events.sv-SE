@@ -7,13 +7,14 @@ doc-type: Event
 last-substantial-update: 2023-05-03T00:00:00Z
 jira: KT-13134
 thumbnail: 3418668.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+event-start-time: 2023-4-24 08:30-8
+exl-id: 72e4c251-2c1a-454b-83e4-a16ba266accb
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # Marketo and Mochas - Deliverability (Part 2)
 

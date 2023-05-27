@@ -1,9 +1,10 @@
 ---
 title: Kunskapsbyggaren - översikt
 description: Inspelade webbinarier för att bygga upp din kunskapsbas och maximera er investering i Adobe Experience Cloud.
-source-git-commit: b85f434224e5e4b08e80c99b6da0edb9acac1ee9
+exl-id: a2c07218-6f1d-434a-8b69-f6686c9f3370
+source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '159'
 ht-degree: 3%
 
 ---
@@ -36,7 +37,7 @@ SKill Builder är en webbinärserie som utformats för att bygga upp din kunskap
     <p>
     <em>Utveckla kundprofiler i realtid genom att hämta data från alla källor för att skapa personaliserade flerkanalsresor.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bläddra bland sessioner</span>
     </a>
   </td>
@@ -48,7 +49,7 @@ SKill Builder är en webbinärserie som utformats för att bygga upp din kunskap
     <p>
     <em>Driv personalisering i realtid i alla kanaler med hjälp av insikter om online- och offlinedata i hela organisationen.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bläddra bland sessioner</span>
     </a>
   </td>  
