@@ -2,9 +2,10 @@
 title: Adobe Developers Live
 description: En samling sessionsinspelningar från Adobe Developers Live
 solution: Experience Cloud, Experience Manager
-source-git-commit: 284ccf5a5cebf2f813dbe2b8df98a8cb325526a3
+exl-id: 912ad972-27ef-4b59-a742-26b49f935c8d
+source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -23,11 +24,13 @@ Registrera dig för framtida evenemang **[här](https://developerevents.adobe.co
 >
 >**Alla inspelade sessioner visas i navigeringen till vänster**.
 
-## Oktober 2021
+<!--
 
-Adobe produktteam i Adobe Experience Cloud, Document Cloud och Creative Cloud har presenterat de senaste teknikframstegen och utvecklarverktygen för design, arbetsflöden för innehållsskapande, dokumenttjänster och hantering av kundupplevelser i olika branscher.
+## October 2021
 
-Kolla in de andra [sessioner](2021/october/overview.md) !
+Adobe product teams across Adobe Experience Cloud, Document Cloud and Creative Cloud showcased the latest tech advances and developer tools powering design, content creation workflows, document services and customer experience management across industries.
+
+Check out the all of the other [sessions](2021/october/overview.md) !
 
 <table>
   <tr>
@@ -37,48 +40,48 @@ Kolla in de andra [sessioner](2021/october/overview.md) !
       </a>
       <div>
          <a href="2021/october/headless.md"><strong>Headless Sites</strong></a>         
-         <br/><em>med Mathias Siegl, Principal Product Manager, AEM Sites</em>
+         <br/><em>with Mathias Siegl, Principal Product Manager, AEM Sites</em>
       </div>
       <p>
         <br/>
-         Med GraphQL for Content Fragments för AEM 6.5 och Adobe Experience Manager as a Cloud Service kan vi utforska hur Adobe Experience Manager kan användas som headless CMS.
+         With GraphQL for Content Fragments available for AEM 6.5 and Adobe Experience Manager as a Cloud Service, let's explore how Adobe Experience Manager can be used as a headless CMS.
       </p>
      </td>   
      <td>
       <a href="2021/october/aep-integration.md">
-      <img alt="Översikt över Adobe Experience Platform-integrering" src="assets/eric.png"/>
+      <img alt="Overview of Adobe Experience Platform integration" src="assets/eric.png"/>
       </a>
       <div>
-         <a href="2021/october/aep-integration.md"><strong>Översikt över Adobe Experience Platform-integrering</strong></a>
-         <br/><em>med Eric Knee, chef Enterprise Solution Architect</em>
+         <a href="2021/october/aep-integration.md"><strong>Overview of Adobe Experience Platform integration</strong></a>
+         <br/><em>with Eric Knee, Principal Enterprise Solution Architect</em>
       </div>
       <p>
         <br/>
-         Under den här sessionen får du en överblick över olika sätt som Adobe Experience Platform kan integrera i ditt ekosystem och saker att tänka på när du planerar integreringsarbetet.
+         This session will give you an overall view of different ways that Adobe Experience Platform can integrate within your ecosystem and things to consider when planning the integration work.
       </p>
    </td>
    </td>
      <td>
       <a href="2021/october/pdf-services-api.md">
-      <img alt="Generera dokument och samla in e-signaturer i appar med Adobe Sign API" src="assets/ben.png"/>
+      <img alt="Generating documents and capturing e-signatures in your apps using Adobe Sign API" src="assets/ben.png"/>
       </a>
       <div>
-         <a href="2021/october/pdf-services-api.md"><strong>Generera dokument och samla in e-signaturer i appar med Adobe Sign API</strong></a>
-         <br/><em>med Ben Vanderberg, Principal Developer Evangelist</em>
+         <a href="2021/october/pdf-services-api.md"><strong>Generating documents and capturing e-signatures in your apps using Adobe Sign API</strong></a>
+         <br/><em>with Ben Vanderberg, Principal Developer Evangelist</em>
       </div>
       <p>
         <br/>
-         Adobe Document Generation API är en kraftfull dokumentskapningstjänst som bygger på Microsoft Word-mallar som sammanfogas med dina data. I kombination med Adobe Sign API kan utvecklare enkelt generera dynamiska dokument som är klara att bearbetas via signeringsflödet.
+         Adobe Document Generation API is a powerful document creation service driven by Microsoft Word templates merged with your data. When combined with Adobe Sign API, developers have an easy way to generate dynamic documents ready to be processed through the Sign workflow.
       </p>
    </td> 
   </tr>
 </table>
 
-## Februari 2021
+## February 2021
 
-Denna tvådagarskonferens innehåller viktiga uppdateringar för Adobe Experience Manager-utvecklare, som Headless och GraphQL, Adobe Experience Manager as a Cloud Service, tekniska sessioner och communitynätverk.
+This two-day conference featured important Adobe Experience Manager developer updates, such as Headless and GraphQL, Adobe Experience Manager as a Cloud Service, technical sessions and community networking opportunities.
 
-Kolla in de andra [sessioner](2021/february/overview.md).
+Check out the all of the other [sessions](2021/february/overview.md).
 
 <table>
   <tr>
@@ -88,39 +91,41 @@ Kolla in de andra [sessioner](2021/february/overview.md).
       </a>
       <div>
          <a href="2021/february/headless-graphql-content-fragments.md"><strong>Headless - GraphQL with Content Fragments</strong></a>         
-         <br/><em>med Jabran Asghar, Sr. Software Engineer</em>
+         <br/><em>with Jabran Asghar, Sr. Software Engineer</em>
       </div>
       <p>
         <br/>
-         Läs om de nya headless-funktionerna med de senaste förbättringarna i Content Fragment. Under den här sessionen kommer vi att fokusera på GraphQL API för AEM Cloud Service.
+         Learn about the new headless capabilities with the most recent Content Fragment enhancements. This session will focus on the GraphQL API for AEM Cloud Service.
       </p>
      </td>   
      <td>
       <a href="2021/february/rapid-frontend-devlopment.md">
-      <img alt="Frontend Dev - Ditt framtida arbetsflöde för att snabbt bygga och driftsätta webbplatsens frontlinje." src="assets/gabriel.png"/>
+      <img alt="Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site." src="assets/gabriel.png"/>
       </a>
       <div>
-         <a href="2021/february/rapid-frontend-devlopment.md"><strong>Frontend Dev - Ditt framtida arbetsflöde för att snabbt bygga och driftsätta webbplatsens frontlinje.</strong></a>
-         <br/><em>med Gabriel Walt, Sr. Product Manager</em>
+         <a href="2021/february/rapid-frontend-devlopment.md"><strong>Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site.</strong></a>
+         <br/><em>with Gabriel Walt, Sr. Product Manager</em>
       </div>
       <p>
         <br/>
-         Använd webbplatsmallar för att skapa nya webbplatser med bara några klick, och återställ det roliga i frontend-utvecklingen med den snabba driftsättningen av klientresurser som CSS&amp;JS.
+         Use Site Templates to create new sites in few clicks, and bring back the fun of frontend development with the rapid deployment of frontend assets like CSS&JS.
       </p>
    </td>
    </td>
      <td>
       <a href="2021/february/get-ready-aem-cloud.md">
-      <img alt="Gör dig redo för Cloud Servicen - Bästa praxis för migrering" src="assets/andreea.png"/>
+      <img alt="Get ready for the Cloud Service - Migration best practices" src="assets/andreea.png"/>
       </a>
       <div>
-         <a href="2021/february/get-ready-aem-cloud.md"><strong>Gör dig redo för Cloud Servicen - Bästa praxis för migrering</strong></a>
-         <br/><em>med Andreea Moise, Sr. Software Engineer</em>
+         <a href="2021/february/get-ready-aem-cloud.md"><strong>Get ready for the Cloud Service - Migration best practices</strong></a>
+         <br/><em>with Andreea Moise, Sr. Software Engineer</em>
       </div>
       <p>
         <br/>
-         Att anpassa kodbasen så att den blir molnvänlig och punktsäker mot framtida uppgraderingar som hanteras under huven är avgörande för att maximera fördelarna med AEM Cloud Service.
+         Adapting your code base to make it cloud-friendly and bulletproof against future upgrades handled under the hood is key to maximize AEM Cloud Service benefits.
       </p>
    </td>
   </tr>
 </table>
+
+-->

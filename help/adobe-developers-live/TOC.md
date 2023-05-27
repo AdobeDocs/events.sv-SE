@@ -3,9 +3,9 @@ user-guide-title: Adobe Developers Live Events
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Samling med inspelningar från Adobe Developer Live Content event
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
 workflow-type: tm+mt
-source-wordcount: '619'
+source-wordcount: '664'
 ht-degree: 2%
 
 ---
@@ -14,6 +14,19 @@ ht-degree: 2%
 # Adobe Developers Live Events {#adobe-developers-live-recordings}
 
 + [Översikt](overview.md)
++ 2023 {#2023}
+   + Maj {#may2023}
+      + [Öppnar inledningsanförandet](2023/may/keynote.md)
+      + [API-demo](2023/may/new-apis.md)
+      + [Fördjupa dig i AEM kärnkomponenter för e-post och Forms](2023/may/core-components.md)
+      + [Bädda in resursväljaren](2023/may/asset-picker.md)
+      + [Redigera med Microsoft 365/Google Workspace](2023/may/microsoft-365.md)
+      + [Snabbare driftsättning](2023/may/workflows.md)
+      + [Fireside chat med AEM produktledare](2023/may/fireside.md)
+      + [JavaScript-block](2023/may/javascript-blocks.md)
+      + [Smidig integrering av AEM Assets med tillämpningar](2023/may/seamless-intergration.md)
+      + [Förstå GraphQL API](2023/may/graphql.md)
+      + [Universell redigerare](2023/may/universal-editor.md)
 + 2022 {#2022}
    + Februari - Handel {#feb2022}
       + [Översikt](2022/february/overview.md)
