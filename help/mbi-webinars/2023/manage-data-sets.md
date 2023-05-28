@@ -8,8 +8,7 @@ solution: Commerce, Magento Business Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 344680.jpeg
-exl-id: fa45b78f-9dc6-4466-a7d1-0deeb08c4d2c
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%

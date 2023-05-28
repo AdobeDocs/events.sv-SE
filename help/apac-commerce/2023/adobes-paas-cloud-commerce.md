@@ -11,13 +11,13 @@ doc-type: Event
 last-substantial-update: 2023-05-17T00:00:00Z
 jira: KT-13206
 event-start-time: 2023-4-27 08:30-8
-exl-id: 064aa963-a1a9-4f0d-8294-dc7b774420b0
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
+
 
 # Effektivisera verksamheten med Adobe PaaS Cloud Commerce
 
