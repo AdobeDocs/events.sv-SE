@@ -44,8 +44,6 @@ ht-degree: 11%
       + [Trender inom kundresor och innovation inom B2B och B2C](customer-journeys/2022/keynote.md)
       + [Bättre tillsammans - Adobe [!DNL Marketo Engage] och Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
       + [B2B-upplevelser med [!DNL Marketo Engage] och Adobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
-&lt;!---    +> 
-[Adobe Campaign Classic V7 vs. V8](customer-journeys/2022/classic-v7-vs-v8.md) —>
 + Data och insikter {#data-and-insights}
    + [Översikt](data-and-insights/overview.md)
    + 2022 {#2022}
