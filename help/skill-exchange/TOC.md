@@ -3,9 +3,9 @@ user-guide-title: Kunskapsutbyte
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Samling av inspelningar från Experience Makers Kunskapsutbyte
 event-series: The Skill Exchange
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: d2aab682b1ae08111655081bd39b29b8370ad816
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '361'
 ht-degree: 7%
 
 ---
@@ -80,18 +80,18 @@ ht-degree: 7%
       + [Skalbarhet och effektivitet med hjälp av variabler](marketo/feb2022/using-tokens.md)
       + [Använda engagemangsprogram för att engagera kunderna](marketo/feb2022/utilize-engagement-programs.md)
    + Augusti 2021 {#aug2021}
-      + [Skapa program i Marketo Engage](marketo/aug2021/create-programs.md)
-      + [Marketo Engage Rockstars](marketo/aug2021/engage-rockstars.md)
+      + [Skapa program i [!DNL Marketo Engage]](marketo/aug2021/create-programs.md)
+      + [[!DNL Marketo Engage] Rockstars](marketo/aug2021/engage-rockstars.md)
       + [Styrkan hos en smart kampanj](marketo/aug2021/smart-campaign.md)
       + [Anpassade fält för programmedlem](marketo/aug2021/program-member-custom-fields.md)
-      + [Rapportering inom Marketo Engage](marketo/aug2021/reporting.md)
+      + [Rapportera inom [!DNL Marketo Engage]](marketo/aug2021/reporting.md)
       + [Din Marketo-karta](marketo/aug2021/marketo-roadmap.md)
    + Februari 2021 {#feb2021}
       + [En topprope-dykning i anpassade objekt och hastighet](marketo/feb2021/custom-objects.md)
-      + [Adobe Marketo Engage Rockstar Segment](marketo/feb2021/rockstar.md)
-      + [Skapa program inom Adobe Marketo Engage](marketo/feb2021/create-programs.md)
+      + [Adobe [!DNL Marketo Engage] Rockstar-segment](marketo/feb2021/rockstar.md)
+      + [Skapa program i Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
       + [Styrkan hos en smart kampanj](marketo/feb2021/power-of-smart-campaign.md)
-      + [Rapportering inom Marketo Engage](marketo/feb2021/reporting-within-marketo.md)
+      + [Rapportera inom [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Ultimata tips och tricks för din Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + April 2022 {#apr2022}

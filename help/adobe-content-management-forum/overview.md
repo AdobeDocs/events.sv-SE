@@ -1,9 +1,10 @@
 ---
 title: Adobe Content Management Forum
 description: En samling sessionsinspelningar från Adobe Content Management Forum
-source-git-commit: cbe5f3ee2730859babdfe7f55196689be7ba7904
+exl-id: 8c882248-0790-4a50-bf8f-55dce1f68b6b
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -17,8 +18,8 @@ Delta i sessionerna nedan och lär dig mer:
 * Så här moderniserar ni upplevelsehanteringen som gör det kreativt att skapa innehåll, gör flerkanalsleverans till en lätt match och skalar personalisering så att alla upplevelser räknas.
 * Så här skapar du en innehållsleveranskedja som kan anpassas efter personalisering
 * Hur man snabbar upp time to market för att skapa nya webbplatser och minskar beroendet av tekniska resurser
-* De senaste innovationerna för Experience Manager som erbjuds som molnbaserade tjänster och hur ni anpassar er efter föränderliga förväntningar på marknaden samtidigt som ni håller er i framkant
-* Skapa webbplatser snabbare med Adobe Experience Manager som ett headless CMS med GraphQL och Content Fragments
+* De senaste innovationerna för [!DNL Experience Manager] som erbjuds som en molnbaserad tjänst och hur ni anpassar er efter de föränderliga marknadsförväntningarna samtidigt som ni håller er i framkant
+* Skapa sajter snabbare med Adobe [!DNL Experience Manager] som ett headless CMS med GraphQL och Content Fragments
 * Bästa praxis för utvecklare som snabbar upp time-to-market för Adobe Experience Manager Sites
 
 >[!TIP]
@@ -45,12 +46,12 @@ Delta i sessionerna nedan och lär dig mer:
       <img alt="Resurser för alla" src="assets/assets-for-all.png" >
       </a>
       <div>
-         <a href="2022/assets-for-all.md"><strong>Utöka Adobe Experience Manager Headless med Adobe App Builder</strong></a>         
+         <a href="2022/assets-for-all.md"><strong>Utöka Adobe [!DNL Experience Manager] Headless with Adobe [!DNL App Builder]</strong></a>         
          <br/><em>med Purnima rachoor Roy</em>
       </div>
       <p>
         <br/>
-          Läs om hur Assets Essentials är det nya Digital Asset Management-systemet för avdelningar och medelstora företag.
+          Läs om hur [!DNL Assets Essentials] är den nya [!DNL Digital Asset Management] för avdelningar och medelstora företag.
       </p>
    </td>
    <td>

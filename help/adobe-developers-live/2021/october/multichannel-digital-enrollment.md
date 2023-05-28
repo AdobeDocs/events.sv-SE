@@ -1,15 +1,16 @@
 ---
 title: Adobe Experience Manager Forms Cloud Service - Säker digital registrering i flera kanaler
-description: Lär dig skapa moderna, säkra, moderna digitala registreringsupplevelser med Adobe Experience Manager Forms as a Cloud Service. Under den här sessionen kommer vi att belysa bästa praxis när det gäller att skydda data som bearbetas i arbetsflöden, externalisera skickade data till Azure-lagring och samla in insikter med hjälp av Adobe Analytics med Adaptive Forms i molntjänsten.
+description: Lär dig skapa moderna, säkra, moderna digitala registreringsupplevelser med Adobe Experience Manager Forms as a Cloud Service. Den här sessionen kommer att belysa bästa praxis när det gäller att skydda data som bearbetas i arbetsflöden, externalisera skickade data till Azure-lagring och samla in insikter med Adobe [!DNL Analytics] med Adaptiv Forms på molntjänster.
 solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
 version: Cloud Service
 kt: 9194
 type: Event
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 5ac915d0-9e53-4bc8-9d4d-9d8dafe0c06e
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '181'
 ht-degree: 12%
 
 ---
@@ -18,7 +19,7 @@ ht-degree: 12%
 
 Lär dig skapa moderna, säkra, moderna digitala registreringsupplevelser med Adobe Experience Manager Forms as a Cloud Service.
 
-Under den här sessionen kommer vi att belysa bästa praxis när det gäller att skydda data som bearbetas i arbetsflöden, externalisera skickade data till Azure-lagring och samla in insikter med hjälp av Adobe Analytics med Adaptive Forms i molntjänsten.
+Den här sessionen kommer att belysa bästa praxis när det gäller att skydda data som bearbetas i arbetsflöden, externalisera skickade data till Azure-lagring och samla in insikter med Adobe [!DNL Analytics] med Adaptiv Forms på molntjänster.
 
 Vi kommer även att ta med en förhandsgranskning av vissa integreringar i vår färdplan, som Microsoft PowerAutomate och Teams-integrering med Adobe Experience Manager Forms.
 

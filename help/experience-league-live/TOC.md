@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 02e78a5b7959dbcca9b73845266e3aa021bf7fd9
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
    + [Ep. 23: Få igång datainsamling och händelsehantering med bara några klick!](episodes/exl-live-episode-4-25-23.md)
    + [Ep. 22: Snabba upp webbupplevelserna](episodes/exl-live-episode-2-16-23.md)
    + [Ep. 21: Markeringar av datainsamling och färdplan](episodes/exl-live-episode-1-26-23.md)
-   + [Ep. 20: Analyser på kontoret eller var du än är](episodes/exl-live-episode-11-18-22.md)
+   + [Ep. 20: [!DNL Analytics] på kontoret eller på resande fot](episodes/exl-live-episode-11-18-22.md)
    + [Ep. 19: Leverera rätt erbjudande vid rätt tidpunkt med beslutsstöd](episodes/exl-live-episode-10-25-22.md)
    + [Ep. 18: Kör era kampanjer i Adobe Journey Optimizer](episodes/exl-live-episode-09-22-22.md)
    + [Ep. 17: Erbjuda en mer personaliserad kundupplevelse i realtid](episodes/exl-live-episode-09-20-22.md)
@@ -44,5 +44,5 @@ ht-degree: 0%
    + [Ep. 4: Vem klickade på det där? Och sedan vad gjorde de?](episodes/exl-live-episode-04.md)
    + [Ep. 3: Experttips som får dina semesterkampanjer att sticka ut](episodes/exl-live-episode-03.md)
    + [Ep. 2: Gör nästa målgruppssegment smartare än någonsin](episodes/exl-live-episode-02.md)
-   + [Ep. 1: Mina tre favoriter i Adobe Analytics implementeringstips](episodes/exl-live-episode-01.md)
+   + [Ep. 1: Mina tre favoriter Adobe [!DNL Analytics] Implementeringstips](episodes/exl-live-episode-01.md)
 + [Experience League LIVE Assets](exl-live-assets.md)

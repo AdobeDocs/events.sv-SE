@@ -1,21 +1,22 @@
 ---
-title: Skalbarhet och effektivitet med hjälp av token i Marketo Engage
-description: Lär dig använda variabler utöver personalisering för att göra programbygget och driften effektivare i Marketo Engage.
+title: Skalbarhet och effektivitet med hjälp av token i [!DNL Marketo Engage]
+description: Lär dig använda variabler utöver personalisering för att göra programbygget och åtgärderna effektivare i [!DNL Marketo Engage].
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9770
 thumbnail: 340593.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 8f061a2b-2a7a-4186-be46-55690e21c0fd
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-# Skalbarhet och effektivitet med hjälp av token i Marketo Engage
+# Skalbarhet och effektivitet med hjälp av token i [!DNL Marketo Engage]
 
-Lär dig använda variabler utöver personalisering för att göra programbygget och driften effektivare i Marketo Engage.
+Lär dig använda variabler utöver personalisering för att göra programbygget och åtgärderna effektivare i [!DNL Marketo Engage].
 
 **Viktiga uppgifter**
 

@@ -1,7 +1,7 @@
 ---
 user-guide-title: Kunskapsbyggaren
 user-guide-description: Detta är en beskrivning av användarhandboken som ska visas på landningssidan.
-source-git-commit: 37202c8171ae1638888b80c55b39c42ce580355f
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 11%
@@ -40,10 +40,12 @@ ht-degree: 11%
    + [Översikt](customer-journeys/overview.md)
    + 2022 {#2022}
       + [Tips och tricks för Adobe Campaign Standard](customer-journeys/2022/tips-and-tricks.md)
-      + [Utveckla och anpassa datamodeller i Adobe Campaign Classic](customer-journeys/2022/data-models.md)
+      + [Utveckla och anpassa datamodeller i Adobe [!DNL Campaign Classic]](customer-journeys/2022/data-models.md)
       + [Trender inom kundresor och innovation inom B2B och B2C](customer-journeys/2022/keynote.md)
-      + [Bättre tillsammans - Adobe Marketo Engage och Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
-      + [B2B-upplevelser med Marketo Engage och Adobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
+      + [Bättre tillsammans - Adobe [!DNL Marketo Engage] och Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
+      + [B2B-upplevelser med [!DNL Marketo Engage] och Adobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
+&lt;!---    +> 
+[Adobe Campaign Classic V7 vs. V8](customer-journeys/2022/classic-v7-vs-v8.md) —>
 + Data och insikter {#data-and-insights}
    + [Översikt](data-and-insights/overview.md)
    + 2022 {#2022}

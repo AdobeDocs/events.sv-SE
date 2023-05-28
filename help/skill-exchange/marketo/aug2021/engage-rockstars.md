@@ -1,20 +1,21 @@
 ---
 title: Marketo Engage Rockstars
-description: Tre"Rockstar"-kunder kommer var och en att presentera sitt bästa Marketo Engage-tips eller -trick. Vem ska imponera på dig? Titta och rösta i realtid.
+description: Tre"Rockstar"-kunder kommer var och en att presentera sina bästa [!DNL Marketo Engage] tips eller trick. Vem ska imponera på dig? Titta och rösta i realtid.
 solution: Marketo Engage
 role: User
 level: Intermediate, Experienced
 kt: 10327
 thumbnail: 342559.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 2f47b7af-0802-4f64-9f28-2b2520a8c4b3
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# Marketo Engage Rockstars
+# [!DNL Marketo Engage] Rockstars
 
-Tre&quot;Rockstar&quot;-kunder kommer var och en att presentera sitt bästa Marketo Engage-tips eller -trick. Vem ska imponera på dig? Titta och rösta i realtid.
+Tre&quot;Rockstar&quot;-kunder kommer var och en att presentera sina bästa [!DNL Marketo Engage] tips eller trick. Vem ska imponera på dig? Titta och rösta i realtid.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342559/?quality=12&learn=on)

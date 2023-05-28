@@ -3,9 +3,9 @@ user-guide-title: Adobe Developers Live Events
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Samling med inspelningar från Adobe Developer Live Content event
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
+source-git-commit: e7e3172bb80aab23550aab7720e7554beedfd269
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: '663'
 ht-degree: 2%
 
 ---
@@ -87,7 +87,7 @@ ht-degree: 2%
       + [Översikt](2021/october/overview.md)
       + [Öppnar inledningsanförandet](2021/october/keynote.md)
       + [Accelerating Transition to Experience Manager CS](2021/october/accelerate-transistion.md)
-      + [Adobe Analytics API:er du behöver veta 2021](2021/october/analytics-api.md)
+      + [Adobe [!DNL Analytics] API:er som du behöver veta 2021](2021/october/analytics-api.md)
       + [Adobe-klientdatalager](2021/october/adobe-client-data-layer.md)
       + [Adobe Commerce och gemenskapens bidragsmodell](2021/october/community-contribution-model.md)
       + [Adobe Commerce Live Search - resultat](2021/october/adobe-commerce-search.md)

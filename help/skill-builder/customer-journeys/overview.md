@@ -2,9 +2,9 @@
 title: Kunskapsbyggaren - kundresor
 description: Inspelade webbinarier hjälper er att utveckla kundprofiler i realtid genom att hämta data från alla källor för att skapa personaliserade, kanalövergripande kundresor.
 exl-id: 0ea7bc07-8b82-4aba-abaa-78ac7f4c8ce2
-source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '207'
 ht-degree: 1%
 
 ---
@@ -19,28 +19,28 @@ Utveckla kundprofiler i realtid genom att hämta data från alla källor för at
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-      <img alt="Bättre tillsammans - Adobe Marketo Engage och Real-Time CDP" src="https://video.tv.adobe.com/v/343824?format=jpeg" />
+      <img alt="Bättre tillsammans - Adobe [!DNL Marketo Engage] och Real-Time CDP" src="assets/343824.jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-        <strong>Bättre tillsammans - Adobe Marketo Engage och Real-Time CDP</strong>
+        <strong>Bättre tillsammans - Adobe [!DNL Marketo Engage] och Real-Time CDP</strong>
       </a>
     </div>
     <p>
-    <em>Lär dig hur ni kan samordna B2B-kampanjer med Marketo Engage och RT-CDP (B2B-utgåvan) och vilka av de viktigaste användningsområdena och fördelarna som är olåsta.</em>
+    <em>Lär dig att samordna B2B-kampanjer med [!DNL Marketo Engage] och RT-CDP (B2B-utgåva) och vilka som är de viktigaste användningsområdena och fördelarna som har låsts upp.</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-      <img alt="Utveckla och anpassa datamodeller i Adobe Campaign Classic" src="https://video.tv.adobe.com/v/343829?format=jpeg" />
+      <img alt="Utveckla och anpassa datamodeller i Adobe [!DNL Campaign Classic]" src="assets/343829.jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-        <strong>Utveckla och anpassa datamodeller i Adobe Campaign Classic</strong>
+        <strong>Utveckla och anpassa datamodeller i Adobe [!DNL Campaign Classic]</strong>
       </a>
     </div>
     <p>
-    <em>Delta i denna session med vår Campaign Trainer för att lära dig hur du utvecklar ett dataschema inuti en datamodell i Campaign Classic.</em>
+    <em>Delta i den här sessionen med vår Campaign Trainer för att lära dig hur du utvecklar ett dataschema inuti en datamodell inom [!DNL Campaign Classic].</em>
     <p>
   </td>  
   <td>
