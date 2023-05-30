@@ -1,10 +1,10 @@
 ---
 user-guide-title: Kunskapsbyggaren
 user-guide-description: Detta är en beskrivning av användarhandboken som ska visas på landningssidan.
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+source-git-commit: 14496a09a0e2dccb88b1ef90a6a070f8f5c3990c
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 11%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
