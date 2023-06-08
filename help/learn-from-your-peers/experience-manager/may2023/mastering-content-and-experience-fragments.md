@@ -4,7 +4,7 @@ description: Revolutionera ditt sätt att skapa innehåll och frigör dess fulla
 solution: Experience Manager
 version: Cloud Service
 feature-set: Experience Manager, Experience Manager Assets, Experience Manager Sites
-feature: Content Fragments, Experience Fragments
+feature: Content Fragments, Experience Fragments, Learn From Your Peers
 topic: Content Management
 role: User
 level: Intermediate
@@ -13,13 +13,13 @@ last-substantial-update: 2023-05-19T00:00:00Z
 jira: KT-13305
 thumbnail: 3419557.jpeg
 event-start-time: 2023-5-16 08:30-8
-source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
+exl-id: 63f9ae5b-f5ba-4b09-b2af-20824ad418d2
+source-git-commit: ab5fda39e65bdfc0941ef97cd512333a2694bb5e
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # Mastering Content &amp; Experience Fragments On Demand Webinar
 
