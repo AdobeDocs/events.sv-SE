@@ -2,9 +2,9 @@
 title: APAC Commerce Webinar Series
 description: APAC Commerce Webinar Series är en månatlig mötesplats för Adobe Commerce-kunder som täcker ett brett urval av ämnen, från metodtips till produktplaner och branschtrender.
 exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
-source-git-commit: a5958d739ab6dbbc97626a8f95be6d46ee85cfbd
+source-git-commit: 147a7e327b387d0b02e4110e1405c1f8b6f3c883
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -45,15 +45,15 @@ APAC Commerce Webinar Series är en månatlig mötesplats för Adobe Commerce-ku
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-      <img alt="New Relic Masterclass" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
+      <img alt="Sammanslagna handelsstrategier för skalbar och flexibel e-handel" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-        <strong>New Relic Masterclass</strong>
+        <strong>Sammanslagna handelsstrategier för skalbar och flexibel e-handel</strong>
       </a>
     </div>
     <p>
-    <em>Gå med i det här webbinariet och lär dig hur du tar kontroll över din infrastruktur med New Relic. Ta er nya kampanj med helt förtroende genom att få tillgång till och förstå era infrastrukturdata.</em>
+    <em>Delta i vårt webbinarium som kommer att bli en del av den kompositbara arkitekturen och som kommer att revolutionera e-handelslandskapet.</em>
     <p>
   </td>  
 </tr>
