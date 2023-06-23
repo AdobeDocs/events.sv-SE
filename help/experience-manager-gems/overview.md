@@ -11,7 +11,7 @@ level: Intermediate
 type: Event
 user-guide-description: AEM GEM-sessioner
 exl-id: 595f6977-935a-4859-9cfd-161d45847f85
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 4f5886c31f9ccad98106469899388feba1ebee22
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 2%
@@ -45,7 +45,7 @@ ht-degree: 2%
 
 -->
 Vårt senaste AEM GEM-webbinarium på **Snabbare utveckling av Adobe Experience Manager-Cloud Service med miljöer för snabb utveckling** har utförts den *22 februari 2023*.
-The **inspelning** finns här: [AEM Rapid Development Environment webbinarium](gems2023/Rapid-Development-Environments.md)
+The **inspelning** finns här: [AEM Rapid Development Environment webbinarium](gems2023/rapid-development-environments.md)
 
 >[!NOTE]
 >

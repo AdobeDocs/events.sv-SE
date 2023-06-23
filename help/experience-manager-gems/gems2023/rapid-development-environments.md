@@ -14,9 +14,9 @@ kt: 11797
 thumbnail: kt-11797.jpeg
 event-start-time: 2023-2-22 08:30-8
 exl-id: 6749cb7d-9130-4855-8a6a-8818810339ae
-source-git-commit: 1d1337a886a5d06474fd8e919861c9e1d6cd525b
+source-git-commit: 3f5c48bace5f449a8ce7f6ab40caaedef93063ce
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,7 @@ Detta webbinarium ägde rum den 22 februari 2023. Se inspelningen nedan.
 ## Sessionsbeskrivning
 
 För att kunna driftsätta ändringar kräver de aktuella utvecklingsmiljöerna i molnet en process som använder omfattande regler för kodssäkerhet och -kvalitet som kallas CI/CD-pipeline. I situationer där snabba och iterativa förändringar behövs har Adobe infört snabba utvecklingsmiljöer (RDE) för kort tid.
+
 Tack vare de lokala redigeringssystemen kan utvecklare snabbt driftsätta och granska ändringar, vilket minimerar den tid som krävs för att testa funktioner som är beprövade i en lokal utvecklingsmiljö.
 
 ## Presentatörer
@@ -42,5 +43,7 @@ Tack vare de lokala redigeringssystemen kan utvecklare snabbt driftsätta och gr
 
 >[!NOTE]
 >
+>* Besök följande om du vill se sessionsspecifika communityinteraktioner på Experience League: [Sammanhangsberoende koppling](http://bit.ly/3x1Cl8x)
 >* Besök följande om du vill se sessionsspecifika communityinteraktioner på Experience League: [Sammanhangsberoende koppling](https://bit.ly/3x1Cl8x)
+>
 >* Om du vill få meddelanden om våra kommande webbinarier registrerar du dig på [AdobeAEM User Group](https://aem-augs.adobe.com/).
