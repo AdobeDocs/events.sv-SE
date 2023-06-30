@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 06de70ea4e8f35ed3ed5930261e49626a4a029bf
+source-git-commit: f03cd70edc922b35903a4aa7882dbae9278d00e9
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 0%
 
 + [Översikt](overview.md)
 + Avsnitten {#episodes}
+   + [Ep. 26: Användbara målgrupper, på ett och samma ställe &#x200B;, från vilken källa som helst, med standardkontroller](episodes/exl-live-episode-7-20-23.md)
    + [Ep. 25: Utforska framtiden för Adobe Journey Optimizer med webbkanalen och innehållsexperimenterande](episodes/exl-live-episode-6-14-23.md)
    + [Ep. 24: Maximera mobilappens potential med Adobe Journey Optimizer](episodes/exl-live-episode-5-24-23.md)
    + [Ep. 23: Få igång datainsamling och händelsehantering med bara några klick!](episodes/exl-live-episode-4-25-23.md)
