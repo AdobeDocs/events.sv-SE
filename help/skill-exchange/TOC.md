@@ -3,7 +3,7 @@ user-guide-title: Kunskapsutbyte
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Samling av inspelningar från Experience Makers Kunskapsutbyte
 event-series: The Skill Exchange
-source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
+source-git-commit: b16db3497f0e9801b71294bcaa66ae3cd9a2eb5c
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 7%
@@ -17,7 +17,7 @@ ht-degree: 7%
 + Analytics {#analytics}
    + Maj 2023 {#may2023}
       + [Adobe Analytics Tips &amp; Tricks](analytics/may2023/tips-and-tricks.md)
-      + [Migrera till EDDL/WebSDK](analytics/may2023/tips-and-tricks.md)
+      + [Migrera till EDDL/WebSDK](analytics/may2023/migrate.md)
       + [Rockstar Tips](analytics/may2023/rockstar-tips.md)
       + [Öka produktiviteten](analytics/may2023/productivity.md)
       + [Förstå mått](analytics/may2023/metrics.md)
