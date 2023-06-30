@@ -1,19 +1,21 @@
 ---
-title: APAC Commerce Webinar Series
-description: APAC Commerce Webinar Series är en månatlig mötesplats för Adobe Commerce-kunder som täcker ett brett urval av ämnen, från metodtips till produktplaner och branschtrender.
-exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
-source-git-commit: 0122cd988472a6c1b87318b925f87b56e908c6e9
+title: Kontor för AEM
+description: Denna Adobe Experience Manager User Group (AEMUG) underlättas av AEM Champion Class 2022-2023. Champions kommer att använda denna AEMUG som plattform för sina månatliga kontorstider
+source-git-commit: 231676141badaab1abfff99fad3c2f820e3047cb
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
-# APAC Commerce Webinar Series
+# Kontor för AEM
 
-APAC Commerce Webinar Series är en månatlig mötesplats för Adobe Commerce-kunder som täcker ett brett urval av ämnen, från metodtips till produktplaner och branschtrender. Hör olika produktexperter i hela företaget och delta live för att få möjlighet att ställa frågor och kontakta teamet direkt. Denna serie hjälper er att lyckas och maximera er investering i Adobe Commerce.
+Denna Adobe Experience Manager User Group (AEMUG) underlättas av AEM Champion Class 2022-2023. Champions kommer att använda denna AEMUG som plattform för sina månatliga kontorstider, där AEM och utvecklare på alla erfarenhetsnivåer kan närvara och få sina tuffaste frågor besvarade av Experience Manager kunder, partners och konsulter.
 
-## Nyheter
+Om du är intresserad av att utveckla dina kunskaper om och din användning av Adobe Experience Manager, interagera med Experience Manager och få exklusiv rabatt - gå med i AEM Champion Office Hours User Group idag!
+
+<!--
+## What's New
 
 <table>
 <tr>
@@ -23,41 +25,42 @@ APAC Commerce Webinar Series är en månatlig mötesplats för Adobe Commerce-ku
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
-        <strong>Effektivisera verksamheten med Adobe PaaS Cloud Commerce</strong>
+        <strong>Streamline Your Business with Adobe's PaaS Cloud Commerce</strong>
       </a>
     </div>
     <p>
-    <em>Gå med i vårt webbinarium och upptäck fördelarna med Adobe Commerce Cloud PaaS, oavsett om du är självvärd och nyfiken på PaaS eller en befintlig kund som vill optimera konfigurationen.</em>
+    <em>Join our webinar to discover the benefits of Adobe's Commerce Cloud PaaS solution, whether you're self-hosting and curious about PaaS or an existing customer seeking to optimize your setup.</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/ai-personalisation.html">
-      <img alt="Fördelar med att uppgradera till Adobe Commerce 2.4.4" src="https://video.tv.adobe.com/v/3419107?format=jpeg" />
+      <img alt="Benefits of upgrading to Adobe Commerce 2.4.4" src="https://video.tv.adobe.com/v/3419107?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/ai-personalisation.html">
-        <strong>AI-driven personalisering</strong>
+        <strong>AI Powered Personalisation</strong>
       </a>
     </div>
     <p>
-    <em>Utnyttja kraften i AI för en enastående kundupplevelse med Adobe investering i AI och dess integrering i Commerce.</em>
+    <em>Harness the power of AI for an exceptional customer experience with Adobe's investment in AI and its integration into Commerce.</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-      <img alt="Sammanslagna handelsstrategier för skalbar och flexibel e-handel" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
+      <img alt="Composable commerce strategies for scalable and agile e-commerce" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-        <strong>Sammanslagna handelsstrategier för skalbar och flexibel e-handel</strong>
+        <strong>Composable commerce strategies for scalable and agile e-commerce</strong>
       </a>
     </div>
     <p>
-    <em>Delta i vårt webbinarium som kommer att bli en del av den kompositbara arkitekturen och som kommer att revolutionera e-handelslandskapet.</em>
+    <em>Join us for an insightful webinar that will delve into the world of composable architecture and how it is revolutionising the e-commerce landscape.</em>
     <p>
   </td>  
 </tr>
 </table>
+-->
 
 >[!TIP]
 >
