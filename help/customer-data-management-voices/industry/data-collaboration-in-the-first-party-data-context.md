@@ -1,7 +1,7 @@
 ---
 title: Datasamarbete i förstahandskontexten
 description: Det här webbinariet kommer att hjälpa till att frigöra möjligheter till datasamarbete i framtiden utan cookies från tredje part.
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Data Management
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
@@ -9,7 +9,7 @@ type: Event
 thumbnail: 337665.jpg
 kt: 9145
 exl-id: 4381a5c0-4f74-4828-bd06-4dc2c5ef3bc6
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 4%
