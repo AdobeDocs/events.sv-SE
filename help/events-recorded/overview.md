@@ -3,9 +3,9 @@ title: Adobe Experience League Events
 description: En samling inspelningar med fokus på att använda Adobe Enterprise-produkter
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: 0122cd988472a6c1b87318b925f87b56e908c6e9
+source-git-commit: 6ec7be7a69a315606e4c9aa11d700cca0f78b33f
 workflow-type: tm+mt
-source-wordcount: '792'
+source-wordcount: '836'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,19 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
          APAC Commerce Webinar Series är en månatlig mötesplats för Adobe Commerce-kunder som täcker ett brett urval av ämnen, från metodtips till produktplaner och branschtrender.
       </p>
     </td>
+      <td>
+      <a href="/help/adobe-customer-success-webinars/overview.md">
+      <img style="width:100%" alt="Adobe webbseminarier" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png"/>
+      </a>
+      <div>
+         <a href="/help/adobe-customer-success-webinars/overview.md"><strong>Adobe webbseminarier</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Experience Cloud, Audience Manager, Real-Time CDP</em>
+      </div>
+      <p>
+        <br/>
+         Adobe kundnöjda webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe-lösningar.
+      </p>
+    </td> 
    <td>
       <a href="/help/commerce-and-coffee/overview.md">
       <img style="width:100%" alt="Handel och kaffe" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png"/>
@@ -113,6 +126,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
          Ert mål som ansvarig för hantering av kunddata, teknik och marknadsföring samt specialist. Ett steg till att höra vad kollegor tycker, få inspiration och lära sig om utvecklingen inom marknadsföringsbranschen.
       </p>
     </td>
+   <tr> 
    <td>
       <a href="/help/deep-dives/overview.md">
       <img style="width:100%" alt="Djupdykning" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png"/>
@@ -126,8 +140,6 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
          Med Deep Dive On-demand-inspelningar får du en bättre förståelse för hur du kan använda Adobe Marketo för att stödja ditt företag.
       </p>
     </td>
-    </tr>
-    <tr>
    <td>
       <a href="/help/experience-league-live/overview.md">
       <img style="width:100%" alt="Experience League LIVE" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png"/>
@@ -167,6 +179,8 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
          Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager as a Cloud Service. Det här är korta, ungefär 10 minuter långa videor från AEM produktgrupp som delar med sig av de senaste releasernas högdagrar.
       </p>
     </td>
+    </tr>
+    <tr>
     <td>
       <a href="/help/learn-from-your-peers/overview.md">
       <img style="width:100%" alt="Lär dig av andra" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png"/>
@@ -180,8 +194,6 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
          Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina lösningar från Adobe. Med ämnen som yrkesverksamma har valt ut för yrkesverksamma delar dessa interaktiva sessioner"konst av möjliga" användningsfall, bästa praxis samt tips och tricks.
       </p>
     </td>
-    </tr>
-    <tr>
    <td>
       <a href="/help/marketo-and-mochas/overview.md">
       <img style="width:100%" alt="Marketo och Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png"/>
@@ -221,6 +233,8 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
          SKill Builder är en webbinärserie som utformats för att bygga upp din kunskapsbas och maximera din investering i Adobe Experience Cloud.
       </p>
     </td>
+    </tr>
+    <tr>
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo och Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
@@ -234,8 +248,6 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
          Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som fokuserar på att fördjupa sig i Adobe Experience Cloud lösningar. Programmet ger möjlighet att lära sig av produktexperter och expertkollegor på Adobe genom att dela med sig av bästa praxis och tips och tricks.
       </p>
     </td>
-    </tr>
-    <tr>
     <td>
       <a href="/help/workfront/overview.md">
       <img style="width:100%" alt="Workfront" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png"/>
