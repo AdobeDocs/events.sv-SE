@@ -2,10 +2,10 @@
 user-guide-title: Handel och kaffeevenemang
 breadcrumb-title: Handel och kaffeevenemang
 user-guide-description: Adobe Commerce och Coffee är ett videobibliotek där experter och kollegor har delat med sig av sina tankar och idéer om hur man använder Adobe Commerce.
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+source-git-commit: 45197a447b183e1be3f0c2806fe33b19780086e5
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 6%
+source-wordcount: '67'
+ht-degree: 5%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 6%
 + 2023 {#2023}
    + [Organisk tillväxt](2023/organic-growth.md)
    + [7 sätt att bygga upp kundlojalitet och kundlojalitet](2023/loyalty-retention.md)
+   + [B2B-samarbete lyckades](2023/b2b.md)
 + 2022 {#2022}
    + [AI och automatisering](2022/ai-and-automation.md)
    + [E-handelstrender](2022/ecommerce-trends.md)
