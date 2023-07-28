@@ -1,20 +1,20 @@
 ---
 title: Experience League LIVE Events
 description: En samling länkar till tidigare Experience League LIVE-händelser
-solution: Experience Platform,Real-time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
+solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 4017a3a3d649af24fd668a24ceece6ed32598c35
+source-git-commit: 1f9b259f31faf9c58a8ea161d17dcffdba47a53d
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '167'
 ht-degree: 1%
 
 ---
 
-# Experience League LIVE
+# EXPERIENCE LEAGUE LIVE
 
 Experience League LIVE är ett direktuppspelningsprogram som producerats av Experience League-teamet.  Det är en chans att få kontakt med produktexperter på Adobe och lära dig praktiska tips, tricks och strategier som du kan använda med Adobe Experience Cloud-programmen.
 
@@ -24,8 +24,16 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 <table>
 <tr>
-  <td style="vertical-align: top;">
-    Gå tillbaka till den här sidan snart om du vill ha mer information om det kommande programmet från augusti 2023.
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-8-23-23.md">
+      <img alt="Experience League LIVE 21 april" src="assets/Aug23_exl_live_banner_web_1920_WebBanner.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-8-23-23.md">
+        <strong>API Triggered Messaging i Adobe Journey Optimizer</strong>
+      </a>
+      <br/><em>med Sandra Hausmann, Siddharth Jain, Nikhil Sharma och Chetan Prasad</em>
+      <br/><em>23 augusti 2023</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -92,4 +100,4 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 >[!TIP]
 >
->Om du vill ha fler inlärningsmetoder kan du titta på vår kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) såväl som individ [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).
+>Om du vill ha fler inlärningsmetoder kan du titta på vår kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) såväl som individ [självstudier](https://experienceleague.adobe.com/docs/home-tutorials.html).
