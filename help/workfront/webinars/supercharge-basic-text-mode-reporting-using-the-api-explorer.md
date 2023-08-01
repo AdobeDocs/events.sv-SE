@@ -1,21 +1,21 @@
 ---
-title: Fråga experten - Utnyttja grundläggande textlägesrapportering med API-utforskaren
+title: Fråga experten - Utnyttja grundläggande textlägesrapportering med API Explorer
 description: Lär dig mer om API-utforskaren, hur du använder den och hur du förbättrar dina rapporter med hjälp av det grundläggande textläget. Det här webbinariet spelades in den 22 januari 2020.
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9918
 exl-id: ea4716c9-2c61-4c44-9d2a-cbd4f07699d5
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 5952a51bcc4ec25d14cf5527ec1af218ebc0ae11
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '1660'
 ht-degree: 2%
 
 ---
 
-# Fråga experten - Utnyttja grundläggande textlägesrapportering med API-utforskaren
+# Fråga experten - Utnyttja grundläggande textlägesrapportering med API Explorer
 
-Lär dig mer om API-utforskaren, hur du använder den och hur du förbättrar dina rapporter med hjälp av det grundläggande textläget. Det här webbinariet spelades in den 22 januari 2020.
+Läs mer om [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/), hur du använder det och hur du förbättrar dina rapporter med hjälp av det grundläggande textläget. Det här webbinariet spelades in den 22 januari 2020.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341124/?quality=12)
 
@@ -81,7 +81,7 @@ Går det att använda en samling i en rapport i textläge?
 
 **Svar**
 
-Ja, du kan använda vilket objekt som helst i samlingsområdet. Du kommer att vilja utforska och se vad du har tillgång till. Allt har inte åtkomst till både användarobjektet och jobbrollsobjektet som vi såg med användarrollsobjektet i API-utforskaren.
+Ja, du kan använda vilket objekt som helst i samlingsområdet. Du ska utforska och se vad du har tillgång till. Allt har inte åtkomst till både användarobjektet och jobbrollsobjektet som vi såg med användarrollsobjektet i API-utforskaren.
 
 **Fråga**
 
@@ -109,7 +109,7 @@ Workfront stöder inte [!DNL CSS] i textläge.
 
 **Fråga**
 
-Vilket är det bästa och snabbaste sättet att hitta ett eget fältnamn - för textlägesrapportering? Jag har använt redigeringsalternativet HTML i webbläsaren ELLER genom att lägga till ett fält i en rapport och växla till textläge för att ta tag i det MEN.. nyfiken hur andra gör detta
+Vilket är det bästa och snabbaste sättet att hitta ett eget fältnamn - för textlägesrapportering? Jag har använt redigeringsalternativet HTML i webbläsaren ELLER genom att lägga till ett fält i en rapport och växla till textläge för att ta tag i det MEN.. nyfiken på hur andra gör det här
 
 **Svar**
 
