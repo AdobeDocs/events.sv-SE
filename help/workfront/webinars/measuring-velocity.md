@@ -4,11 +4,12 @@ description: Lär dig mäta och spåra hastigheten med [!DNL Workfront] rapporte
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: 9912
+jira: KT-9912
+last-substantial-update: 2023-08-14T00:00:00Z
 exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e087e65f2ddea9bf9ca11a5ae7b3dae516402d8c
 workflow-type: tm+mt
-source-wordcount: '3919'
+source-wordcount: '3918'
 ht-degree: 1%
 
 ---
@@ -30,7 +31,7 @@ Format: Datum
 Beräkning:
 
 ```
-IF(ISBLANK(First Commit Date),Default Baseline.Planned Completion Date,First Commit Date)
+IF(ISBLANK({DE:First Commit Date}),{defaultBaseline}.{plannedCompletionDate},{DE:First Commit Date})
 ```
 
 **Första varaktighet**
@@ -40,7 +41,7 @@ Format: Text
 Beräkning:
 
 ```
-IF(ISBLANK(First Duration),Default Baseline.Duration,First Duration)
+IF(ISBLANK({DE:First Duration}),{defaultBaseline}.{durationMinutes},{DE:First Duration})
 ```
 
 **Förhållande mellan arbete och implementering**
@@ -50,7 +51,7 @@ Format:Number
 Beräkning:
 
 ```
-ROUND(DIV(Actual Duration,First Duration),1)
+ROUND(DIV({actualDurationMinutes},{DE:First Duration}),1)
 ```
 
 **Status för förhållandet mellan arbete och implementering**
@@ -60,7 +61,7 @@ format:text
 Beräkning:
 
 ```
-IF({Work-to-Commit Ratio}>2,"Terrible",IF({Work-to-CommitRatio}>1.6,"Poor",IF({Work-to-Commit Ratio}>1.2,"Not Bad","Exc ellent")))
+IF({DE:Work-to-Commit Ratio}>2,"Terrible",IF({DE:Work-to-Commit Ratio}>1.6,"Poor",IF({DE:Work-to-Commit Ratio}>1.2,"Not Bad","Excellent")))
 ```
 
 **Justerad hastighet**
@@ -70,7 +71,7 @@ Format:Number
 Beräkning:
 
 ```
-ROUND(DIV(Actual Duration,Duration),1)
+ROUND(DIV({actualDurationMinutes},{durationMinutes}),1)
 ```
 
 **Justerad hastighetsstatus**
@@ -80,7 +81,7 @@ format:text
 Beräkning:
 
 ```
-IF(Adjusted Velocity>2,"Terrible",IF(Adjusted Velocity>1.6,"Poor",IF(Adjusted Velocity>1.2,"Not Bad","Excellent")))
+IF({DE:Adjusted Velocity}>2,"Terrible",IF({DE:Adjusted Velocity}>1.6,"Poor",IF({DE:Adjusted Velocity}>1.2,"Not Bad","Excellent")))
 ```
 
 ## Frågor och svar
@@ -95,7 +96,7 @@ I en sådan här situation kan du använda filtrering och massredigering för at
 
 Gör följande:
 
-1. Avgör vilka lägesvärden du vill koppla till villkorsvärden. Anta till exempel att du har ett lägesvärde på&quot;Late&quot; och&quot;Mycket sen&quot; som båda mappar till villkorsvärdet&quot;In Trouble&quot;
+1. Avgör vilka lägesvärden du vill koppla till villkorsvärden. Anta till exempel att du har ett lägesvärde på&quot;Late&quot; och&quot;Mycket sen&quot; som båda mappas till villkorsvärdet&quot;In Trouble&quot;
 1. Skapa en projektrapport som visar alla projekt med det statliga värdet&quot;Late&quot; och&quot;Mycket Late&quot;
 1. Kör rapporten. Se till att du visar alla projekt (se alternativen längst ned till höger i rapporten)
 1. Klicka på kryssrutan uppe till vänster i rapporten i fältet med kolumnrubriker. Då väljs alla projekt i rapporten
@@ -111,7 +112,7 @@ Hur definieras Utmärkt, Inte dåligt osv.?
 
 **Svar**
 
-Det här var bara ett exempel, men så här konfigurerar jag det. Först beräknade jag två index:
+Det här var bara ett exempel, men så här ställer jag in det. Först beräknade jag två index:
 
 Justerad hastighet
 
@@ -121,12 +122,12 @@ Förhållande mellan arbete och implementering
 
 Formeln är som Justerad hastighet förutom att vi i stället för att använda värdet för planerad varaktighet från den slutliga omplaneringen vill använda den planerade varaktighet som först utlovades till kunden. Vi antar att originalplanen innehåller denna information (och vi planerar att från och med nu be våra projektledare att planera sina projekt på det här sättet så att vi kan samla in korrekta data). Vi hämtade det här varaktighetsvärdet från den ursprungliga baslinjen och kallade det First Duration.
 
-Genom att dividera Faktisk varaktighet med antingen Planerad varaktighet eller Första varaktighet får vi ett tal som kan tala om för oss hur nära det var att vi var på måfå. Om den planerade varaktigheten eller den första varaktigheten är lika med den faktiska varaktigheten kommer indexvärdet att vara lika med 1. Om den faktiska varaktigheten är större blir svaret mer än 1. Ju fler desto värre blev det när vi mötte vår dejt.
+Genom att dividera Faktisk varaktighet med antingen Planerad varaktighet eller Första varaktighet får vi ett tal som kan tala om för oss hur nära det var att vi var på måfå. Om den planerade varaktigheten eller den första varaktigheten är lika med den faktiska varaktigheten kommer indexvärdet att vara 1. Om den faktiska varaktigheten är större blir svaret mer än 1. Ju fler desto värre blev det när vi mötte vår dejt.
 
 Med tanke på allt jag bestämde mig för att tilldela status för både Justerad hastighet och Förhållande mellan arbete och implementering enligt följande:
 
 * 1.1 eller under Jag heter Excellent.
-* 1.2 till 1.5 Jag ringde &quot;Inte dåligt&quot;.
+* 1.2 till 1.5 Jag kallade Inte dåligt.
 * 1.6 till 1.9 Jag kallade Dålig.
 * 2 eller högre kallade jag Terrible.
 
@@ -136,7 +137,7 @@ Vad behöver arbetaren göra för att hålla reda på hur lång tid det tar att 
 
 **Svar**
 
-Vi spårar inte hur många timmar som har ägnats åt att arbeta med projekten här, vi spårar bara och jämför tiden. Men om du spårar timmar och vill använda faktiska timmar över planerade timmar för att beräkna hastigheten, kan du göra samma typ av rapportering genom att jämföra planerade timmar med faktiska timmar. Du vill även hämta planerade timmar från den ursprungliga baslinjen.
+Vi spårar inte hur många timmar som har ägnats åt att arbeta med projekten här. Vi håller bara på att spåra och jämföra varaktigheten. Men om du spårar timmar och vill använda faktiska timmar över planerade timmar för att beräkna hastigheten, kan du göra samma typ av rapportering genom att jämföra planerade timmar med faktiska timmar. Du vill även hämta planerade timmar från den ursprungliga baslinjen.
 
 **Fråga**
 
@@ -215,7 +216,7 @@ Beräknade fält beräknas om:
 
 * När en användare redigerar objektet
 * Vid massredigering med aktiverade Omberäkna anpassade uttryck
-* Ändringar av formuläret med alternativet Uppdatera tidigare beräkningar valt
+* Ändringar i formuläret med alternativet Uppdatera tidigare beräkningar valt
 
 **Fråga**
 
@@ -231,7 +232,7 @@ Vad är skillnaden mellan den första varaktigheten och planens varaktighet?
 
 **Svar**
 
-Första varaktighet är antalet dagar som du ursprungligen lovade kunden som projektet skulle ta. Vi får det här numret från den ursprungliga baslinjen som registrerades när projektet ändrades från Planering till Aktuell.
+Första varaktighet är antalet dagar som du ursprungligen lovade kunden som projektet skulle ta. Vi får det här numret från den ursprungliga baslinjen som spelades in när projektet ändrades från Planering till Aktuell.
 
 Planerad varaktighet är antalet dagar från projektstart till planerat slutförandedatum. Inledningsvis är de här två varaktigheterna desamma, men om projektet någonsin planerats om och det planerade slutförandedatumet ändrats så var det den planerade varaktigheten också.
 
@@ -251,7 +252,7 @@ Jag försöker avgöra om det är möjligt att skapa en kontrollpanel med ett om
 
 **Svar**
 
-Låt oss se om jag förstår er fråga. Anta att jag har ett eget formulär som heter Tammy-formulär med ett fält i det som heter Tammy Field.
+Låt oss se om jag förstår din fråga. Anta att jag har ett eget formulär som heter Tammy-formulär med ett fält i det som heter Tammy Field.
 
 Du vill ha en uppgiftsrapport som visar alla uppgifter som har bifogade Tammy-formulär och där Tammy-fält har något värde.
 
@@ -309,7 +310,7 @@ Kan du gå över skillnaden mellan första varaktighet och faktisk varaktighet?
 
 **Svar**
 
-Första varaktighet är antalet dagar som du ursprungligen lovade kunden som projektet skulle ta. Vi får det här numret från den ursprungliga baslinjen som registrerades när projektet ändrades från Planering till Aktuell.
+Första varaktighet är antalet dagar som du ursprungligen lovade kunden som projektet skulle ta. Vi får det här numret från den ursprungliga baslinjen som spelades in när projektet ändrades från Planering till Aktuell.
 
 Faktisk varaktighet är antalet dagar från det att ditt projekt har startats till det faktiska slutförandedatumet.
 
@@ -365,9 +366,9 @@ Kan du beräkna något på COLUMN-nivå? Istället för att anropa ett beräknat
 
 **Svar**
 
-Det skulle ha varit möjligt att använda ett värdeuttryck i textläge för att utföra dessa beräkningar. Vi kunde inte ha gjort First Duration eller First Commit Date, men vi behövde fånga dem på en plats där de inte skulle ändras.
+Det skulle ha varit möjligt att använda ett värdeuttryck i textläge för att utföra dessa beräkningar. Vi kunde inte ha gjort First Duration eller First Commit Date, men vi behövde fånga dem där de inte skulle ändras.
 
-När det gäller förhållandet mellan arbete och implementering och den justerade hastighetsstatusen behövde dessa fält vara anpassade så att vi kunde använda dem på fliken Diagram. Fliken Diagram känner inte igen grupperingar i textläge, de måste vara anpassade fält. Och eftersom vi behövde Work-to-Commit Ratio och Adjustment Velocity för att beräkna dessa statusvärden behövde vi även dessa anpassade fält. I det här fallet behövde de alltså alla vara anpassade fält, men det är alltid bra att fundera över båda sätten och välja vad som fungerar bäst. Tack för frågan.
+När det gäller förhållandet mellan arbete och implementering och den justerade hastighetsstatusen behövde dessa fält vara anpassade så att vi kunde använda dem på fliken Diagram. Fliken Diagram känner inte igen grupperingar i textläge, de måste vara anpassade fält. Och eftersom vi behövde Work-to-Commit Ratio och Adjustment Velocity för att beräkna dessa statusvärden behövde vi även dessa anpassade fält. I det här fallet behövde de alla vara anpassade fält, men det är alltid bra att fundera över båda sätten och välja vad som skulle fungera bäst. Tack för frågan.
 
 **Fråga**
 
@@ -377,7 +378,7 @@ Våra projekt förändras ofta på grund av att kunderna blir försenade eller f
 
 Det bästa sättet är att använda en listruta för att spåra detta. Lägg in så många &quot;anledningar&quot; som du kan tänka dig att börja med och lägg sedan till ett &quot;annat&quot; alternativ för att fånga en anledning som inte finns med i listan. Om den nya anledningen ser ut eller blir vanlig lägger du till den i listrutan. Du kan enkelt rapportera om saker i en nedrullningsbar lista och du kan gruppera det här fältet (du kan inte gruppera i kryssrutor eller i en flervalslistruta).
 
-Bara en kommentar till. Du kanske inte vill inkludera alla projekt i dina Snabbrapporter. Om du åtgärdar fel eller&quot;håller på att gå där ingen har gått tidigare&quot; gör du troligen inte samma typ av åtagande om ett slutdatum som om du bygger ett hus som du har byggt många gånger tidigare.
+Bara en kommentar till. Du kanske inte vill inkludera alla projekt i dina Snabbrapporter. Om du ska fixa buggar eller&quot;gå dit ingen har gått tidigare&quot; gör du antagligen inte samma typ av åtagande till ett slutdatum som om du bygger ett hus som du har byggt många gånger tidigare.
 
 Se till att ni lägger in snabba rapporter där det kan hjälpa er att uppnå era mål.
 
@@ -407,7 +408,7 @@ Ja. Du måste skapa en dokumentrapport. Det låter som om du vill ange ett speci
 
 **Fråga**
 
-Varför är värden tillgängliga som kolumner men inte tillgängliga för markering eller gruppering i rapporter. Till exempel: Ärendekälla.
+Varför är värden tillgängliga som kolumner men inte tillgängliga för markering eller gruppering i rapporter. Exempel: Utgivningskälla.
 
 **Svar**
 
@@ -448,7 +449,7 @@ Skapa nu en anteckningsrapport och gör följande:
 På fliken Kolumner (Visa):
 
 * Ersätt kolumnen &quot;Anteckningstext&quot; för &quot;Granskningstext&quot;. Detta visar information om vad statusen ändrades från och till
-* Lämna projektet: Namn och kolumnerna Postdatum
+* Lämna kolumnerna &quot;Projekt: Namn&quot; och &quot;Inmatningsdatum&quot;
 * Klicka på kolumnen Ingångsdatum och markera sedan Sortera efter den här kolumnen på panelen Kolumninställningar. Om du vill se de senaste statusändringarna sorterar du dem i fallande ordning.
 
 På fliken Grupperingar:
