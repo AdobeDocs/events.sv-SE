@@ -3,9 +3,9 @@ title: Adobe Experience League Events
 description: En samling inspelningar med fokus på att använda Adobe Enterprise-produkter
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: 297506bdd6d1bb73335f8e4054f4aeb3b4c5d2d8
+source-git-commit: e6b314b48137e9d3ee7d389977843f10cb6927f3
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '895'
 ht-degree: 0%
 
 ---
@@ -80,7 +80,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
       </a>
       <div>
          <a href="/help/aem-champion-office-hours/overview.md"><strong>Kontor för AEM</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Commerce, Adobe Experience Manager, Adobe Campaign, Adobe Marketo, Adobe Target, Customer Journey Analytics, Real-Time CDP</em>
       </div>
       <p>
         <br/>
@@ -102,10 +102,10 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
     </td>
       <td>
       <a href="/help/adobe-customer-success-webinars/overview.md">
-      <img style="width:100%" alt="Adobe webbseminarier" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png"/>
+      <img style="width:100%" alt="Adobe - nöjda webbseminarier" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png"/>
       </a>
       <div>
-         <a href="/help/adobe-customer-success-webinars/overview.md"><strong>Adobe webbseminarier</strong></a>
+         <a href="/help/adobe-customer-success-webinars/overview.md"><strong>Adobe - nöjda webbseminarier</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Experience Cloud, Audience Manager, Real-Time CDP</em>
       </div>
       <p>
@@ -156,10 +156,10 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
     </td>
    <td>
       <a href="/help/experience-league-live/overview.md">
-      <img style="width:100%" alt="Experience League LIVE" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png"/>
+      <img style="width:100%" alt="EXPERIENCE LEAGUE LIVE" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png"/>
       </a>
       <div>
-         <a href="/help/experience-league-live/overview.md"><strong>Experience League LIVE</strong></a>
+         <a href="/help/experience-league-live/overview.md"><strong>EXPERIENCE LEAGUE LIVE</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Audience Manager, Adobe Experience Manager, Adobe Experience Platform, Real-Time CDP, Adobe Journey Optimizer, Adobe Target </em>
       </div>
       <p>
@@ -221,6 +221,21 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
          Marketo och Mochas hjälper er att få en bättre förståelse för hur ni kan använda Adobe Marketo för att stödja ert företag.
       </p>
     </td>
+    </tr>
+    <tr>
+    <td>
+      <a href="/help/office-hours/overview.md">
+      <img style="width:100%" alt="Kontorstimmar" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
+      </a>
+      <div>
+         <a href="/help/mbi-webinars/overview.md"><strong>Kontorstimmar</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
+      </div>
+      <p>
+        <br/>
+         Kontorstid är en proaktiv metod för att hantera fallavböjningar genom att erbjuda kunderna lösningsspecifika webbinarier. 
+      </p>
+    </td>
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="MBI Webinars" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -234,8 +249,6 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
          MBI-webbseminarierna är en periodisk händelse för MBI-kunder. Webbinarierna täcker ett brett urval av ämnen och bästa praxis för att använda MBI till sin fulla potential.
       </p>
     </td>
-    </tr>
-    <tr> 
     <td>
       <a href="/help/skill-builder/overview.md">
       <img style="width:100%" alt="Kunskapsbyggaren" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png"/>
@@ -249,6 +262,8 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
          SKill Builder är en webbinärserie som utformats för att bygga upp din kunskapsbas och maximera din investering i Adobe Experience Cloud.
       </p>
     </td>
+    </tr>
+    <tr>     
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo och Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
