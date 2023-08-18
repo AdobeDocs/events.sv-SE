@@ -3,7 +3,7 @@ title: Adobe Experience League Events
 description: En samling inspelningar med fokus på att använda Adobe Enterprise-produkter
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: e6b314b48137e9d3ee7d389977843f10cb6927f3
+source-git-commit: 0babdbc3b4429b9a691e6436f0973adadc68d5b1
 workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 0%
@@ -221,8 +221,6 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
          Marketo och Mochas hjälper er att få en bättre förståelse för hur ni kan använda Adobe Marketo för att stödja ert företag.
       </p>
     </td>
-    </tr>
-    <tr>
     <td>
       <a href="/help/office-hours/overview.md">
       <img style="width:100%" alt="Kontorstimmar" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
@@ -236,6 +234,8 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
          Kontorstid är en proaktiv metod för att hantera fallavböjningar genom att erbjuda kunderna lösningsspecifika webbinarier. 
       </p>
     </td>
+    </tr>
+    <tr>    
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="MBI Webinars" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -261,9 +261,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
         <br/>
          SKill Builder är en webbinärserie som utformats för att bygga upp din kunskapsbas och maximera din investering i Adobe Experience Cloud.
       </p>
-    </td>
-    </tr>
-    <tr>     
+    </td>   
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo och Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
@@ -276,7 +274,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
         <br/>
          Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som fokuserar på att fördjupa sig i Adobe Experience Cloud lösningar. Programmet ger möjlighet att lära sig av produktexperter och expertkollegor på Adobe genom att dela med sig av bästa praxis och tips och tricks.
       </p>
-    </td>
+    </td> 
     <td>
       <a href="/help/workfront/overview.md">
       <img style="width:100%" alt="Workfront" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png"/>
