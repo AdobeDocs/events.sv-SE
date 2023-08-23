@@ -7,9 +7,9 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 1f9b259f31faf9c58a8ea161d17dcffdba47a53d
+source-git-commit: 6682d7be406a8922067c520b7c21cd2da001fd80
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '171'
 ht-degree: 1%
 
 ---
@@ -24,16 +24,8 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-8-23-23.md">
-      <img alt="Experience League LIVE 21 april" src="assets/Aug23_exl_live_banner_web_1920_WebBanner.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-8-23-23.md">
-        <strong>API Triggered Messaging i Adobe Journey Optimizer</strong>
-      </a>
-      <br/><em>med Sandra Hausmann, Siddharth Jain, Nikhil Sharma och Chetan Prasad</em>
-      <br/><em>23 augusti 2023</em>
-    </div>
+  <td>
+    Besök den här sidan inom en snar framtid för att få reda på mer om kommande avsnitt, inklusive avsnittet från september 2023 om Lookalike-målgrupper i Real-time Customer Data Platform!
   </td>
 </tr>
 </table>
