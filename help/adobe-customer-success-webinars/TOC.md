@@ -2,9 +2,9 @@
 user-guide-title: Adobe - nöjda webbseminarier
 breadcrumb-title: Adobe - nöjda webbseminarier
 user-guide-description: Adobe kundnöjda webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe-lösningar.
-source-git-commit: 379df4dc0d73a35b5bda3bd015875e7fb5466a31
+source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '69'
 ht-degree: 1%
 
 ---
@@ -17,4 +17,5 @@ ht-degree: 1%
    + [Building the Foundation for Personalization at Scale](2023/personalization-at-scale.md)
    + [Effektiv mätningsstrategi](2023/measurement-strategy.md)
    + [Prioritera intelligens och mätning](2023/intelligence-and-measurement.md)
+   + [Att fastställa en effektiv Audience Activation-strategi](2023/audience-activation.md)
    + [Övergång till RTCDP](2023/aam-to-rtcdp.md)

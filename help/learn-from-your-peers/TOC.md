@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Insamling av inspelningar från [!DNL Experience Makers Learn from your peers]"
-source-git-commit: e52d34d59b96fcde3e964733c3cfec49f0a46cff
+source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 17%
+source-wordcount: '97'
+ht-degree: 16%
 
 ---
 
@@ -15,6 +15,8 @@ ht-degree: 17%
 + [Upplevelsemakare](overview.md)
 + Analytics {#analytics}
    + 2023 {#2023}
+      + Augusti {#aug2023}
+         + [Frigöra kraften i Bearbetningsregler i Adobe Analytics](analytics/aug2023/processing-rules.md)
       + Februari {#feb2023}
          + [Bygga en datadriven kultur](analytics/feb2023/data-driven-culture.md)
          + [Bygga upp frågor och svar om uppföljning av datadriven kultur](analytics/feb2023/data-driven-culture-q-and-a.md)
