@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-09-07T00:00:00Z
 jira: KT-13911
 thumbnail: 3423966.jpeg
-source-git-commit: af2e6fa6688927c1259f8d673231d1901c352461
+source-git-commit: ce580d05a3de350517960eba121dd5b739028643
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -23,6 +23,7 @@ ht-degree: 0%
 Delta i det här webbinariet&quot;Learn from your peer&quot; som Adobe Marketo Champion Beth Massera, där hon berättar hur hon bedömer faktorer som påverkar e-postleveransen, agerar på röda flaggor och ser till att materialet kan levereras med hjälp av inbyggda funktioner i Marketo Engage.
 
 I det här webbinariet får du lära dig mer om:
+
 * Vilka faktorer som bidrar till e-postleveransen.
 * Utvärderar ditt aktuella tillstånd med hjälp av e-postprestandarapporter, personprestandarapporter och smarta listor.
 * Steg som ska vidtas för att minska riskerna för e-postleveransen, inklusive verifieringsprotokoll, upprätthålla databaskvaliteten och använda exakt målinriktning.
