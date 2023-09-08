@@ -2,9 +2,9 @@
 user-guide-title: Adobe - nöjda webbseminarier
 breadcrumb-title: Adobe - nöjda webbseminarier
 user-guide-description: Adobe kundnöjda webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe-lösningar.
-source-git-commit: aa5a4e33d739dc33f17c6d5627552df5e0e772c1
+source-git-commit: 7378dc0e3e7caf4942e90e95668806bca03c1067
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '79'
 ht-degree: 1%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 1%
    + [Prioritera intelligens och mätning](2023/intelligence-and-measurement.md)
    + [Beredskap för CDP-migrering i realtid](2023/rtcdp-migration-readiness.md)
    + [Att fastställa en effektiv Audience Activation-strategi](2023/audience-activation.md)
-   + [Övergång till RTCDP](2023/aam-to-rtcdp.md)
+   + [Övergång till CDP i realtid](2023/aam-to-rtcdp.md)
