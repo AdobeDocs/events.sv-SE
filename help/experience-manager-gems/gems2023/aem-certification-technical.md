@@ -11,17 +11,17 @@ doc-type: Event
 last-substantial-update: 2023-06-22T00:00:00Z
 jira: KT-13542
 thumbnail: KT-13542.jpeg
-source-git-commit: bbbaa32a14c7da72225a94a6c15533aa0c3dd469
+source-git-commit: c475497b293909a5ea8365463a0d075bc34d4e01
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
 
 
-# Överordnad the Art of Experience Manager Certification: Gör dig redo, kom igång, certifiera dig!
+# Lär dig konsten med Experience Manager-certifiering: Gör dig redo, kom igång, bli certifierad!
 
-Det här webbinariet kommer att genomföras på **28 juni**, 2023 (8.00 PST). Registrera dig här [länk till händelsesida](https://adobe.ly/3Ni6XeL).
+Det här webbinariet har genomförts på **28 juni**, 2023. Se inspelningen nedan.
 
 ## Sessionsbeskrivning
 
@@ -37,3 +37,13 @@ Gör anspråk på din plats idag och ta en resa till nya höjder med Experience 
 
 * Ayana Nickerson, Sr. Credential Certification Program Manager, Adobe
 * Payal Banerjee, Sr. Solutions Consultant, Adobe
+
+## Inspelning av webbinarium - 2023-06-28
+
+>[!VIDEO](https://video.tv.adobe.com/v/3421028)
+
+>[!NOTE]
+>
+>* Besök följande om du vill se sessionsspecifika communityinteraktioner på Experience League: [Sammanhangsberoende koppling](https://adobe.ly/3p2CmbA)
+>
+>* Om du vill få meddelanden om våra kommande webbinarier registrerar du dig på [AdobeAEM User Group](https://aem-augs.adobe.com/).
