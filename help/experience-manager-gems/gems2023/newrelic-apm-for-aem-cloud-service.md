@@ -1,6 +1,6 @@
 ---
 title: newrelic apm for aem cloud service
-description: "Delta i vårt seminarium där vi hjälper er att identifiera och lösa problem som påverkar era slutanvändarkunder, säkerställa en enastående upplevelse genom att förbättra effektiviteten i ert AEM as a Cloud Service projekt, mäta påverkan av externa tjänster för ert as a Cloud Service AEM och få ut det mesta av anpassade och skräddarsydda vyer. Upptäck processen för åtkomst till New Relic, en funktion som ingår som standard med AEM as a Cloud Service. Tveka inte att engagera dig i dina frågor."
+description: Delta i vårt seminarium där vi hjälper dig att identifiera och lösa problem som påverkar dina slutanvändarkunder, säkerställa en enastående upplevelse genom att förbättra effektiviteten i ditt AEM as a Cloud Service projekt, mäta påverkan av externa tjänster för ditt as a Cloud Service AEM och få ut så mycket som möjligt av anpassade och anpassade vyer. Upptäck processen för åtkomst till New Relic, en funktion som ingår som standard med AEM as a Cloud Service. Tveka inte att engagera dig i dina frågor.
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -11,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 2bbbbeee2332f7353a6fe527fdc83718030ce23a
+source-git-commit: ac72726b967b526018640f76de930a4abb1e6b59
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -35,7 +35,9 @@ Delta i vårt seminarium, där vi hjälper er att identifiera och lösa problem 
 
 * Förbättra effektiviteten i ditt AEM as a Cloud Service projekt
 * Mäta påverkan av externa tjänster på ditt AEM as a Cloud Service system
-* Få ut det mesta av skräddarsydda vyer Upptäck processen för åtkomst till New Relic, en funktion som ingår som standard med AEM as a Cloud Service. Tveka inte att engagera dig i dina frågor.
+* Få ut det mesta av skräddarsydda vyer
+
+Upptäck processen för åtkomst till New Relic, en funktion som ingår som standard med AEM as a Cloud Service. Tveka inte att engagera dig i dina frågor.
 
 ## Presentatörer
 
