@@ -11,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 192b072538492f4b4161f0915441e851e933c1d2
+source-git-commit: 51133c6630872a8da35522544e7184884905d2a0
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -19,7 +19,9 @@ ht-degree: 0%
 ---
 
 
-# Släpp loss potentialen i New Relic APM för AEM as a Cloud Service. Maximera prestanda och få en snabbare problemlösning.
+# Frigöra potentialen i New Relic APM för AEM as a Cloud Service
+
+Maximera prestanda och få en snabbare problemlösning.
 
 Det här webbinariet kommer att hållas 20-17:00 CEST | 8 am PDT | IST 18.30
 
@@ -48,4 +50,3 @@ Delta i vårt seminarium, där vi hjälper er att identifiera och lösa problem 
 >* För sessionsspecifika communityinteraktioner på Experience League kommer en länk att publiceras inom kort.
 >
 >* Om du vill få meddelanden om våra kommande webbinarier registrerar du dig på [AdobeAEM User Group](https://aem-augs.adobe.com/).
-
