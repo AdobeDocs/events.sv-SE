@@ -1,38 +1,38 @@
 ---
-title: Djupdykning för MBI-instrumentpaneler
-description: Titta på det här webbinariet för en guidad genomgång av de fyra instrumentpanelerna som ingår i konfigurationen för varje MBI-konto.
-landing-page-description: Titta på det här inspelade webbinariet för en guidad genomgång av de fyra instrumentpanelerna som ingår i konfigurationen för varje MBI-konto.
-short-description: Titta på det här inspelade webbinariet för en guidad genomgång av de fyra instrumentpanelerna som ingår i konfigurationen för varje MBI-konto.
+title: Deep Dive för kontrollpaneler för Commerce Intelligence
+description: Titta på det här webbinariet för en guidad genomgång av de fyra instrumentpaneler som ingår i konfigurationen för alla Commerce Intelligence-konton.
+landing-page-description: Titta på det här inspelade webbinariet för en guidad genomgång av de fyra instrumentpaneler som ingår i konfigurationen för alla Commerce Intelligence-konton.
+short-description: Titta på det här inspelade webbinariet för en guidad genomgång av de fyra instrumentpaneler som ingår i konfigurationen för alla Commerce Intelligence-konton.
 kt: 10496
 solution: Commerce, Magento Business Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 343498.jpeg
 exl-id: 07faedac-54cd-45fc-a7f0-05379bc8ab28
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
-# Djupdykning för MBI-instrumentpaneler
+# Deep Dive för kontrollpaneler för Commerce Intelligence
 
-Ta en guidad genomgång av de fyra instrumentpanelerna som ingår i konfigurationen för varje MBI-konto. Det här inspelade webbinariet belyser den roll som dina standardinstrumentpaneler spelar när det gäller att få ut värde från eCommerce Store-data och täcker de övergripande målen för varje instrumentpanel. Den kan också användas i vissa vanliga fall av de färdigbyggda rapporterna, som:
+>[!NOTE]
+>
+>Adobe Commerce Intelligence kallades tidigare [!DNL Magento Business Intelligence (MBI)]. Inspelningar för tidigare händelser återspeglar det tidigare namnet.
+
+Ta en guidad genomgång av de fyra instrumentpaneler som ingår i varje Commerce Intelligence-konto. Det här inspelade webbinariet belyser den roll som dina standardinstrumentpaneler spelar när det gäller att få ut värde från eCommerce Store-data och täcker de övergripande målen för varje instrumentpanel. Den kan också användas i vissa vanliga fall av de färdigbyggda rapporterna, som:
 
 - Identifiera effekten av kundvärvningskampanjer genom att visualisera relationen mellan kundvärvningsmånad och livstidsvärde.
-- Dekortrender för timorderplacering som anger behov av lager eller personalallokering.
-- Bestäm dina mest framgångsrika produkter efter försäljningsvolym och GMV, och vilka produkter som ger flest återbetalningar.
+- Dekortrender för timorderplacering som indikerar behov av lager eller personalallokering.
+- Bestäm dina mest framgångsrika produkter efter försäljningsvolym och GMV, och vilka produkter som utgör mest återbetalning.
 
 ## Videoinnehåll
 
 >[!VIDEO](https://video.tv.adobe.com/v/343498?quality=12&learn=on)
 
 ## Användbara resurser
-
->[!TIP]
->
->Om du inte har använt MBI tidigare kan du [Komma igång med videoserie](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) ger också en fullständig översikt för att få bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
 
 [Kontrollpaneler](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
 [Exporterar diagramdata](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)

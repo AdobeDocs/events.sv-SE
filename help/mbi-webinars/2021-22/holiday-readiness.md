@@ -1,5 +1,5 @@
 ---
-title: Semesterberedskap med MBI
+title: Readiness with Commerce Intelligence
 description: Titta på det här webbinariet och lär dig hur du kan använda dina e-handelsdata för att lyckas under semestersäsongen.
 landing-page-description: Titta på det här inspelade webbinariet och lär dig hur du kan använda dina e-handelsdata för att lyckas under semestersäsongen.
 short-description: Titta på det här inspelade webbinariet och lär dig hur du kan använda dina e-handelsdata för att lyckas under semestersäsongen.
@@ -9,16 +9,20 @@ role: Leader, User, Data Architect
 level: Intermediate
 thumbnail: 342496.jpeg
 exl-id: 958d2e09-e4bd-4f6c-91d8-3aa83368013f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '210'
 ht-degree: 2%
 
 ---
 
-# Semesterberedskap med MBI
+# Readiness with Commerce Intelligence
 
-Använd era e-handelsdata för att lyckas under semestersäsongen. Det här webbinariet belyser några vanliga säsongsanalyser och metoder för att hantera dem med hjälp av viktiga MBI-funktioner, bland annat:
+>[!NOTE]
+>
+>Adobe Commerce Intelligence kallades tidigare [!DNL Magento Business Intelligence (MBI)]. Inspelningar för tidigare händelser återspeglar det tidigare namnet.
+
+Använd era e-handelsdata för att lyckas under helgen. Det här webbinariet belyser några vanliga säsongsanalyser och metoder för att hantera dem med hjälp av viktiga MBI-funktioner, som:
 
 - Undvik lagerutleveranser genom att skapa en ny inventeringsrapport och skicka dagliga uppdateringar via e-postsammanfattning
 - Bestäm effekten av dina försäljningsstrategijusteringar i år genom att skapa en rapport om årets resultat runt ett nyckeldatum (t.ex. Black Friday) med beräknade kolumner
@@ -35,9 +39,5 @@ Använd era e-handelsdata för att lyckas under semestersäsongen. Det här webb
 
 ## Användbara resurser
 
->[!TIP]
->
->Om du inte har använt MBI tidigare kan du [Komma igång med videoserie](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) ger en fullständig översikt för att få bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
-
-[Användarhandbok för MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=sv)
-[MBI-support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Användarhandbok för Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=sv)
+[Stöd för Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

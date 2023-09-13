@@ -1,6 +1,6 @@
 ---
-title: Optimera din MBI-Data warehouse
-description: Titta på det här webbinariet om du vill veta mer om Data warehouse Manager.
+title: Optimera er Commerce Intelligence-Data Warehouse
+description: Titta på det här webbinariet om du vill veta mer om Data Warehouse Manager.
 landing-page-description: Se det inspelade webbinariet
 short-description: Se det inspelade webbinariet
 kt: 10403
@@ -9,27 +9,31 @@ role: Leader, User, Data Architect
 level: Intermediate, Experienced
 thumbnail: 342562.jpeg
 exl-id: 34e017c3-721d-459a-8f38-76cc165e2d02
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-# Optimera din MBI-Data warehouse
-
-Med hjälp av Data warehouse Manager kan du hantera tabell- och kolumnsynkroniseringsinställningar, gå nedåt i en tabells schema och skapa beräknade kolumner som kan användas i rapporter.
+# Optimera er Commerce Intelligence-Data Warehouse
 
 >[!NOTE]
 >
->Åtkomst till Data warehouse Manager kräver administratörsbehörighet.
+>Adobe Commerce Intelligence kallades tidigare [!DNL Magento Business Intelligence (MBI)]. Inspelningar för tidigare händelser återspeglar det tidigare namnet.
+
+Med hjälp av Data Warehouse Manager kan du hantera tabell- och kolumnsynkroniseringsinställningar, gå nedåt i en tabells schema och skapa beräknade kolumner som kan användas i rapporter.
+
+>[!NOTE]
+>
+>Åtkomst till Data Warehouse Manager kräver administratörsbehörighet.
 
 I det här webbinariet:
 
-- Introduktion till Data warehouse
+- Introduktion till Datan Warehouse
 - Uppdatera cykel och optimering
 - Replikering och omkontroller
-- data warehouse-vyer
+- Vyer över Data Warehouse
 - Frågor och svar
 
 ## Videoinnehåll
@@ -37,10 +41,6 @@ I det här webbinariet:
 >[!VIDEO](https://video.tv.adobe.com/v/342562?quality=12&learn=on)
 
 ## Användbara resurser
-
->[!TIP]
->
->Om du inte har använt MBI tidigare kan du [Komma igång med videoserie](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) ger en fullständig översikt för att få bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
 
 [Optimera databasen för analys](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
 [Rekommenderade Dimensioner för segmentering och filtrering](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
