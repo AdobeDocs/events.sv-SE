@@ -4,12 +4,12 @@ description: Titta på det här webbinariet för en guidad genomgång av de fyra
 landing-page-description: Titta på det här inspelade webbinariet för en guidad genomgång av de fyra instrumentpaneler som ingår i konfigurationen för alla Commerce Intelligence-konton.
 short-description: Titta på det här inspelade webbinariet för en guidad genomgång av de fyra instrumentpaneler som ingår i konfigurationen för alla Commerce Intelligence-konton.
 kt: 10496
-solution: Commerce, Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 343498.jpeg
 exl-id: 07faedac-54cd-45fc-a7f0-05379bc8ab28
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+source-git-commit: c0382de473c121272f48d89170c887ae65bd60cf
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%

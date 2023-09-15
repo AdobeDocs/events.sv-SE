@@ -4,12 +4,12 @@ description: Titta på det här webbinariet och lär dig mer om kärnfunktionern
 landing-page-description: Titta på det här inspelade webbinariet för att lära dig mer om kärnfunktionerna i Commerce Intelligence för din Adobe Commerce eller Magento Open Source store.
 short-description: Titta på det här inspelade webbinariet för att lära dig mer om kärnfunktionerna i Commerce Intelligence för din Adobe Commerce eller Magento Open Source store.
 kt: 10408
-solution: Commerce, Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 342501.jpeg
 exl-id: 4d0843b1-251d-45dc-94ab-85a35b71771f
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+source-git-commit: c0382de473c121272f48d89170c887ae65bd60cf
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%

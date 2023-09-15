@@ -4,12 +4,12 @@ description: Titta på det här webbinariet om du vill veta mer om Data Warehous
 landing-page-description: Se det inspelade webbinariet
 short-description: Se det inspelade webbinariet
 kt: 10403
-solution: Commerce, Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Intermediate, Experienced
 thumbnail: 342562.jpeg
 exl-id: 34e017c3-721d-459a-8f38-76cc165e2d02
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+source-git-commit: c0382de473c121272f48d89170c887ae65bd60cf
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
