@@ -1,5 +1,5 @@
 ---
-title: AEM GEM-sessioner
+title: AEM GEM Sessions
 description: Det här är landningssidan för AEM GEM-företag, inklusive information om webbinarier och registreringsinformation, föregående och kommande webbinarier
 role: Leader
 cloud: Experience Cloud
@@ -9,11 +9,11 @@ feature-set: Experience Manager
 feature: Release Information
 level: Intermediate
 type: Event
-user-guide-description: AEM GEM-sessioner
+user-guide-description: AEM GEM Sessions
 exl-id: 595f6977-935a-4859-9cfd-161d45847f85
-source-git-commit: 4f5886c31f9ccad98106469899388feba1ebee22
+source-git-commit: 845008d5f0024ed3a6af4cfad0ebdd53ff713a93
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '286'
 ht-degree: 2%
 
 ---
@@ -44,8 +44,8 @@ ht-degree: 2%
 </table>
 
 -->
-Vårt senaste AEM GEM-webbinarium på **Snabbare utveckling av Adobe Experience Manager-Cloud Service med miljöer för snabb utveckling** har utförts den *22 februari 2023*.
-The **inspelning** finns här: [AEM Rapid Development Environment webbinarium](gems2023/rapid-development-environments.md)
+Vårt senaste AEM GEM-webbinarium på **Släpp loss potentialen i New Relic APM för AEM as a Cloud Service. Maximera prestanda och få en snabbare problemlösning.** har utförts den *20 september 2023*.
+The **inspelning** finns här: [NEW RELIC i AEM](/help/experience-manager-gems/gems2023/newrelic-apm-for-aem-cloud-service.md)
 
 >[!NOTE]
 >
@@ -57,7 +57,7 @@ Välkommen till **AEM GEM** - våra webbinarier med tekniska djupdykningar om Ad
 
 Webbseminarierna kommer att genomföras regelbundet, bland annat följande:
 
-* Maximala längden är 60 minuter
+* Maximala 60 minuter
 * Frågor och svar i slutet och chattexperterna som finns i webbinariet
 * Inspelning tillgänglig efter varje webbinarium
 * Webbseminariet är kostnadsfritt
@@ -70,6 +70,6 @@ Registrera dig på [AdobeAEM User Group](https://aem-augs.adobe.com/) för att f
 
 Våra [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) spelar en viktig roll när det gäller att stödja produktimplementering och kundframgångar.
 
-* Anslutning: Nätverk med kollegor och Adobe för vägledning och bästa metoder, från implementering till utökad produktanvändning
-* Snabbsvar: Omfattande pool av fallsvar från verkliga användare som stöder en framgångsrik aktiv användning av Adobe-lösningar
-* Idéer och feedback: Ta del av kundernas produktidéer och ge värdefull feedback till produktteamen
+* Anslutning: Nätverk med kollegor och Adobe för vägledning och bästa praxis från implementering till utökad produktanvändning
+* Snabba svar: Omfattande antal fallsvar från verkligheten som stöder ett framgångsrikt och aktivt utnyttjande av Adobe-lösningar
+* Identifiering och feedback: Ta del av kundernas produktidéer och ge värdefull feedback till produktteamen
