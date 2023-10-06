@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Insamling av inspelningar från [!DNL Experience Makers Learn from your peers]"
-source-git-commit: aa5a4e33d739dc33f17c6d5627552df5e0e772c1
+source-git-commit: 3ae2f5392dbf58f63f9b2ef1dcaef6ff6f5134d4
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 16%
+source-wordcount: '113'
+ht-degree: 15%
 
 ---
 
@@ -31,10 +31,12 @@ ht-degree: 16%
       + Mars {#mar2022}
          + [Telling Impact Stories with Data](analytics/mar2022/stories-with-data.md)
 + Experience Manager {#experience-manager}
-   + Maj {#may2023}
-      + [Mastering av innehålls- och upplevelsefragment](experience-manager/may2023/mastering-content-and-experience-fragments.md)
+   + September {#sept2023}
+      + [En djupdykning i verktygen för AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
    + Juli {#july2023}
       + [Effektiva säkerhetsstrategier inom Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+   + Maj {#may2023}
+      + [Mastering av innehålls- och upplevelsefragment](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
    + September {#sept2023}
       + [Öka e-postleveransen med Marketo Engage](marketo/sept2023/email-deliverability.md)
