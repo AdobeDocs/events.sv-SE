@@ -1,6 +1,6 @@
 ---
 title: Adobe-klientdatalager - händelsestyrd datahantering
-description: Har du någonsin velat veta hemligheterna och detaljerna bakom Adobe Client Data Layer? Hur den är utformad, hur den ser ut och hur du kan utnyttja den fullt ut? Gå med i detta seminarium och lär dig allt om det. Ett exempel på e-handel visar hur Core Components hyr ACDL och senare Launch-tillägget interagerar med andra program, som Adobe [!DNL Analytics] eller Adobe Target.
+description: Har du någonsin velat veta hemligheterna och detaljerna bakom Adobe Client Data Layer? Hur den är utformad, hur den ser ut och hur du kan utnyttja den fullt ut? Gå med i det här seminariet och lär dig allt om det. Ett exempel på e-handel visar hur Core Components hyr ACDL och senare Launch-tillägget interagerar med andra program, som Adobe. [!DNL Analytics] eller Adobe Target.
 solution: Data Collection,Experience Manager
 feature: Tags
 topic: Development
@@ -9,8 +9,8 @@ level: Experienced
 version: Cloud Service
 kt: 9134
 type: Event
-exl-id: 948f7869-71f9-41e8-9686-ef55fd476951
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: a38f67cd-3eb5-4590-a9be-484d0074508f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 11%
@@ -19,7 +19,7 @@ ht-degree: 11%
 
 # Adobe-klientdatalager - händelsestyrd datahantering
 
-Har du någonsin velat veta hemligheterna och detaljerna bakom Adobe Client Data Layer? Hur den är utformad, hur den ser ut och hur du kan utnyttja den fullt ut? Gå med i detta seminarium och lär dig allt om det. Ett exempel på e-handel visar hur Core Components hyr ACDL och senare Launch-tillägget interagerar med andra program, som Adobe [!DNL Analytics] eller Adobe Target.
+Har du någonsin velat veta hemligheterna och detaljerna bakom Adobe Client Data Layer? Hur den är utformad, hur den ser ut och hur du kan utnyttja den fullt ut? Gå med i det här seminariet och lär dig allt om det. Ett exempel på e-handel visar hur Core Components hyr ACDL och senare Launch-tillägget interagerar med andra program, som Adobe. [!DNL Analytics] eller Adobe Target.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337585/?quality=12&learn=on&hidetitle=true)
 

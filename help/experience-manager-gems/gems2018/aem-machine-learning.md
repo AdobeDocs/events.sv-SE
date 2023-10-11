@@ -1,19 +1,19 @@
 ---
 title: Maskininlärning i AEM - Smarta taggar, Smart Layout med mera
-description: Läs om hur maskininlärning ökar produktiviteten och låser upp nya användningsfall i Experience Manager version 6.4
+description: Läs om hur Machine Learning ökar produktiviteten och låser upp nya användningsfall i Experience Manager version 6.4
 uuid: 23acfe70-e441-414b-905d-376a4d98f0fa
 topic-tags: smart-tags
 discoiquuid: c0b3b1f6-5765-44f7-ba12-e17267e1c89e
 targetaudience: target-audience advanced
-exl-id: f4f8de53-a22c-42e8-80d5-fc308a6af5a8
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 4e6496fc-4389-4cfa-8921-a23736f23e13
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 1%
 
 ---
 
-# Maskinininlärning i AEM: Förbättrade smarta taggar, smart layout med mera{#machine-learning-in-aem-enhanced-smart-tags-smart-layout-and-more}
+# Maskininlärning i AEM: Förbättrade smarta taggar, smart layout med mera{#machine-learning-in-aem-enhanced-smart-tags-smart-layout-and-more}
 
 >[!VIDEO](https://video.tv.adobe.com/v/22255/?quality=9)
 
@@ -37,5 +37,4 @@ Jonas Dahl, Product Manager, Adobe
 
 >[!MORELIKETHIS]
 >
->* [Maskinininlärning i AEM: Förbättrade smarta taggar, smart layout med mera](aem-machine-learning.md)
-
+>* [Maskininlärning i AEM: Förbättrade smarta taggar, smart layout med mera](aem-machine-learning.md)

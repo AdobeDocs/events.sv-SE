@@ -6,8 +6,8 @@ role: Developer
 level: Beginner
 kt: 9708
 thumbnail: 340313.jpeg
-exl-id: d84c53e1-40a4-4172-a173-73ebde451edd
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 573d9faa-8259-451a-b729-6714f4172780
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # En topprope-dykning i anpassade objekt och hastighet
 
-En-till-många-relationsdata plus en tidstestad mallmotor. det perfekta taggteamet för avancerat e-postinnehåll. Lär dig taktik för design av CO-scheman. sortera, filtrera och sammanställa CO-uppgifter, identifiera postuppdateringar, och integrera pseudo-CO med JSON. Vi kommer även att ta upp allmänna snabbhetsuppgifter som lokalisering av datum, tider och valutor.
+En-till-många-relationsdata plus en tidstestad mallmotor; den perfekta taggruppen för avancerat e-postinnehåll. Lär dig mer om CO-schemadesign, sortering, filtrering och aggregering av CO-poster, identifiering av postuppdateringar och integrering av pseudo-CO med JSON. Vi kommer även att ta upp allmänna snabbhetsuppgifter som lokalisering av datum, tider och valutor.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340313/?quality=12&learn=on)

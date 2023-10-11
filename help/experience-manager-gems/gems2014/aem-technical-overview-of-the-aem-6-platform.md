@@ -4,8 +4,8 @@ description: Under den här sessionen ser Peter Klassen - Product Manager JCR Re
 uuid: 53be1e40-6fe9-44b5-a015-ba7ad7801d7c
 discoiquuid: f4f6e2b0-7910-4d1d-a024-583ef17ffcda
 targetaudience: target-audience advanced
-exl-id: 674467f9-d05d-49ab-b457-975f413342fe
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 505430d5-0d85-423d-83f5-59eb4deff427
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 2%
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 # Teknisk översikt av plattformen AEM 6{#technical-overview-of-the-aem-platform}
 
-Under det här seminariet kommer Peter Klassen - Product Manager att titta på följande: JCR-databasen har lästs in på nytt - prestandaförbättringar och nya skalbarhetsalternativ vid ett tillfälle, mongoDB i AEM 6, där binärfiler ska lagras - översikt över nya DataStore-alternativ, plattformsåtgärder på ett enkelt sätt. Målgruppen för denna session är partners och kunder. projektledare, arkitekter och administratörer.
+Under den här sessionen kommer Peter Klassen - Product Manager att titta på följande: JCR Repository reloaded - prestandaförbättringar och nya skalbarhetsalternativ åt gången, mongoDB i AEM 6, där binärfiler ska lagras - en ny översikt över alternativen i DataStore, plattformsåtgärder på ett enkelt sätt. Målgruppen för sessionen är partners och kunder, projektledare, arkitekter och administratörer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19517/?quality=9)
 

@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 9765
 thumbnail: 340596.jpeg
-exl-id: c09970c3-00a4-4c0f-a406-f59eb0e4b9aa
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: ba392278-96b2-46a5-bb19-95f77de74e52
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -20,6 +20,6 @@ Under den här sessionen kommer du att lära dig
 
 * Hur människor, processer och tekniker samverkar för att uppnå&quot;rena data&quot;
 * Enkla metoder som används för att hålla dina mest värdefulla resurser rena
-* Bevakade meddelanden att inspektera
+* Efterfrågade meddelanden att inspektera
 
 >[!VIDEO](https://video.tv.adobe.com/v/340596/?quality=12&learn=on)

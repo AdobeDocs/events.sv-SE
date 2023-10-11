@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9913
-exl-id: 5993c6c3-0583-4d1c-94aa-2e64a699e7f1
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 49cce53f-457b-4973-a0d9-1b5ce2272884
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '2224'
 ht-degree: 1%
@@ -35,7 +35,7 @@ Om din arbetsinsats är en blandning av projekt/uppgifter och ärenden/förfråg
 
 **Svar**
 
-Projekt, uppgifter och ärenden måste ha sina egna rapporter med sina egna anpassade formulär. De kan dock använda samma arbetstypfält. Du kan visa de tre rapporterna på en kontrollpanel.
+Projekt, uppgifter och ärenden måste ha sina egna rapporter med sina egna anpassade formulär. De kan dock använda samma arbetstypfält. Du kanske vill visa de tre rapporterna på en kontrollpanel.
 
 **Fråga**
 
@@ -112,7 +112,7 @@ Helen
 
 Vilken uppgift ska visas först i en sortering? Du kan säga &quot;sortera efter förnamnet i listan&quot;, men det är inte nödvändigt eftersom du inte kan styra ordningen. Workfront undviker problemet genom att inte tillåta dig att sortera efter listor.
 
-Gruppera efter lista då? Om vi kunde gruppera efter en lista med namn, skulle du hitta alla uppgifter som tilldelats Jane, Bill, Dan grupperade tillsammans och alla uppgifter som tilldelats Jane, Dan, Bill (samma lista, men i en annan ordning) i en annan gruppering. Workfront undviker problemet genom att inte tillåta gruppering efter listor.
+Gruppera efter lista, då? Om vi kunde gruppera efter en lista med namn, skulle du hitta alla uppgifter som tilldelats Jane, Bill, Dan grupperade tillsammans och alla uppgifter som tilldelats Jane, Dan, Bill (samma lista, men i en annan ordning) i en annan gruppering. Workfront undviker problemet genom att inte tillåta gruppering efter listor.
 
 **Fråga**
 
@@ -168,7 +168,7 @@ valueformat=HTML
 
 **Fråga**
 
-Jag skulle vilja ha en rapport/kontrollpanel som innehåller hur mitt team fungerar. Särskilt följande scenarier: - Projekt som jag äger/projekt som har skapats för mig/Uppgifter som jag har tilldelat andra/Uppgifter som har tilldelats mig
+Jag skulle vilja ha en rapport/kontrollpanel som innehåller hur mitt team fungerar. Särskilt följande scenarier: - Projekt jag äger / Projekt skapade för mig / Uppgifter tilldelade till andra / Uppgifter tilldelade mig
 
 **Svar**
 
@@ -202,7 +202,7 @@ valueexpression=CONCAT("Assigned To: ",{assignedTo}.{name},"; Requested By: ",{a
 valueformat=HTML
 ```
 
-Uppgifter tilldelade mig
+Uppgifter som tilldelats mig
 
 Det finns en inbyggd rapport med namnet&quot;Mina uppgifter&quot; som visar alla ofullständiga uppgifter i Aktuella projekt där du är aktivitetsägare. Jag föreslår att du ändrar filtret så att du kan se alla uppgifter där du är en av de många användare som har tilldelats, inte bara aktivitetsägaren. Det gör du genom att ta bort filterregeln
 
@@ -230,7 +230,7 @@ Hur kodar du rapportfälten på Chuck&#39;s Team Assignements? Gammal bakom, rö
 
 **Svar**
 
-Om du vill ändra de färger som används i rapporten för statusalternativen redigerar du rapporten och klickar på fliken Diagram. Leta efter listrutan Egna färger >. Den visas intill rutan &quot;Vänster (Y) axel&quot; eller rutan &quot;Gruppera data efter&quot;, beroende på om du väljer att gruppera staplar eller stolpar eller inte. I den listrutan kan du välja färger. Om du klickar på siffrorna i det nedre högra hörnet av färgalternativen kan du välja färg från en större palett.
+Om du vill ändra de färger som används i rapporten för alternativen för statusstatus redigerar du rapporten och klickar på fliken Diagram. Leta efter listrutan Egna färger >. Den visas intill rutan &quot;Vänster (Y) axel&quot; eller rutan &quot;Gruppera data efter&quot;, beroende på om du väljer att gruppera staplar eller stolpar eller inte. I den listrutan kan du välja färger. Om du klickar på siffrorna i det nedre högra hörnet av färgalternativen kan du välja färg från en större palett.
 
 Tyvärr kan du inte ändra ordningen på dessa.
 

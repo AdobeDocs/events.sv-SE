@@ -4,8 +4,8 @@ description: Få en genomgång av de olika integrationsfunktionerna med djupdykn
 uuid: 0c7aa66b-3909-4eeb-85d6-87e7faa4db39
 discoiquuid: f9e11075-59f1-46cb-82c7-ba85864f5e33
 targetaudience: target-audience advanced
-exl-id: f9fd62b7-89e4-46d3-a3e2-40f5d856580f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: e95f9c55-f36f-47c3-b86a-9bb045e7822c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Integrering av IBM WebSphere Commerce för AEM{#ibm-websphere-commerce-integration-for-aem}
 
-Commerce Integration Framework (CIF) är ett AEM som snabbar upp alla e-handelsintegrationsprojekt genom att tillhandahålla dokumenterade integreringsmönster, referenskod och komponenter. Integrationspaketet IBM WebSphere är en specialiserad CIF-referensimplementering för IBM eCommerce-plattformen WebSphere. Under den här sessionen leder Martin Buergi och Markus Haack dig igenom de olika integreringsfunktionerna med djupdykning i koden. Du får lära dig att anpassa, utöka och testa integreringen.
+Commerce integrationa frameworken (CIF) är ett AEM som snabbar upp alla eCommerce-integreringsprojekt genom att tillhandahålla dokumenterade integreringsmönster, referenskod och komponenter. Integrationspaketet IBM WebSphere är en specialiserad CIF referensimplementering för IBM WebSphere eCommerce-plattform. Under den här sessionen leder Martin Buergi och Markus Haack dig igenom de olika integreringsfunktionerna med djupdykning i koden. Du får lära dig att anpassa, utöka och testa integreringen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19375/?quality=9)
 

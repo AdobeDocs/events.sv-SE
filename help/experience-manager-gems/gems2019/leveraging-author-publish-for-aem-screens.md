@@ -4,8 +4,8 @@ description: Få en komplett produktionskonfiguration för AEM Screens och lär 
 uuid: 45a68d1d-824e-4922-b440-dd53131d2bdc
 discoiquuid: ea92d8e0-1dc3-4933-9fd2-f8d240ec65ba
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-exl-id: 090088b9-dd8c-458c-bb6c-124b4d397daf
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 27bf6d01-d720-41a1-87b2-7d1d6d29a10c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Utnyttja möjligheten att publicera för AEM Screens{#leveraging-author-publish-for-aem-screens}
 
-Under Gems-sessionen kommer vi att göra en fullständig produktionskonfiguration för AEM Screens och förklara alla nödvändiga steg för publicering av innehåll på skärmar/spelare för digital signering. Lär dig utnyttja redigerings- och publiceringstopologin för AEM Screens. Förhandsgranska stegen en författare måste göra för att publicera innehållsuppdateringar och distribuera dem till enheterna. Dessutom kommer vi att ha en närmare titt på arkitekturen bakom detta flöde. Dessutom får du reda på vilken konfiguration som krävs för publiceringskluster, replikering och enheter.
+Under Gems-sessionen kommer vi att göra en fullständig produktionskonfiguration för AEM Screens och förklara alla nödvändiga steg för publicering av innehåll på skärmar/spelare för digital signering. Lär dig utnyttja redigerings- och publiceringstopologin för AEM Screens. Förhandsgranska stegen en författare måste göra för att publicera innehållsuppdateringar och distribuera dem till enheterna. Dessutom kommer vi att ha en närmare titt på arkitekturen bakom detta flöde. Dessutom får du reda på vilken konfiguration som krävs för publiceringsklustret, replikeringen och enheterna.
 
 **Presenteras av:**
 

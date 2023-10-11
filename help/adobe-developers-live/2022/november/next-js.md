@@ -1,6 +1,6 @@
 ---
 title: Adobe Developers Live - NOV 22 - Lägg in kontext och Headless-redigering i din Next.JS-app
-description: Använd kontext och Headless-redigering i Your Next.JS AppNext.js för att skapa React-appar som är klara för produktion, särskilt med hybridstatisk återgivning och serveråtergivning. Det är ett perfekt leveranssätt för webbplatser som drivs av Adobe Experience Manager.I den här sessionen ska vi visa dig hur du snabbt kan starta en ny Next.js-app som arbetar med Adobe Experience Manager-innehållAnvänd React Editable SDK för att aktivera kontextredigeringHämta innehåll från Adobe Experience Manager headless CMS och rendera i appen Next.js
+description: Använd kontext och Headless Authoring i Your Next.JS AppNext.js ger en enastående utvecklarupplevelse när du skapar React-appar som är klara för produktion, särskilt med hybridstatisk återgivning och serveråtergivning. Det är ett perfekt leveranssätt för webbplatser som drivs av Adobe Experience Manager.I den här sessionen ska vi visa dig hur du snabbt kan starta en ny Next.js-app som arbetar med Adobe Experience Manager-innehållAnvänd React Editable SDK för att aktivera kontextredigeringHämta innehåll från Adobe Experience Manager headless CMS och rendera i appen Next.js
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -11,8 +11,8 @@ level: Intermediate
 last-substantial-update: 2022-11-15T00:00:00Z
 kt: 11482
 thumbnail: 3411303.jpeg
-exl-id: d62ea5f5-9239-44f5-9e5d-4d543e94f1c0
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 0d4ceb27-5df8-49cc-86c6-ea078a1ff216
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%

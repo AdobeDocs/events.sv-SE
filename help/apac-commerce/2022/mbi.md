@@ -8,8 +8,8 @@ level: Beginner
 last-substantial-update: 2022-10-31T00:00:00Z
 kt: 11371
 thumbnail: 3410646.jpeg
-exl-id: 857c5b59-fc03-42ed-aed0-506c761cda37
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: e9c1249c-8584-43f9-a6d2-b98c6ad218f9
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Daniel Rios (Senior Manager, Product Management) har skrivit om följande:
 * Bygga en stark grund för data
 * Kombinera MBI och [!DNL Analytics] data
 
-Du kommer också att se en live-demo av plattformen för att ge liv åt dessa koncept.
+Du kommer också att se en live-demo av plattformen för att förverkliga dessa koncept.
 
 MBI förenklar rapporteringen med kontrollpaneler som visar allt från genomsnittligt ordervärde till kundens livstidsvärde och lojalitetsgrad. Med dessa kraftfulla insikter kan ni vidta åtgärder och öka värdet för ert onlineföretag.
 

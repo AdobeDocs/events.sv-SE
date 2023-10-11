@@ -1,11 +1,11 @@
 ---
 title: Teknisk djupdykning in i AEM 6
-description: Fördjupa dig i den nya databasarkitekturen och lär dig viktiga skillnader och förbättringar för utvecklare och verksamhetsteam.
+description: Fördjupa dig i den nya databasarkitekturen och lär dig de viktigaste skillnaderna och förbättringarna för utvecklare och verksamhetsteam.
 uuid: 8038fb68-e841-4d35-affd-c32d53e4cc8f
 discoiquuid: 1374a0f7-4456-47ba-b061-1b6d67d12d55
 targetaudience: target-audience advanced
-exl-id: d76a0437-2fdd-490d-a575-f64bbe449d7f
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 75bfdd70-c79d-4206-99fd-5f8e62b368d9
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 1%

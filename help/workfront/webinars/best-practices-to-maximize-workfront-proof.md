@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
-exl-id: c7333635-834d-4d78-9dea-f64e3205c78a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 7d3e437d-4a6e-44b8-9eff-eabb8284c391
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '5566'
 ht-degree: 2%
@@ -67,7 +67,7 @@ Hur skapar man en korrekturmall?
 
 **Svar**
 
-Som administratör vill du följa den här sökvägen: PHQ Login > Workflows > New > New Template.
+Som administratör vill du följa den här sökvägen: PHQ-inloggning > Arbetsflöden > Ny > Ny mall.
 
 **Fråga**
 
@@ -75,7 +75,7 @@ Kan malldelning användas för delning med grupper och team eller bara enskilda 
 
 **Svar**
 
-För närvarande kan du inte dela arbetsflödesmallar med Workfront Groups, Teams, Job Roles eller Companies. Du kan dock dela dem med enskilda personer och dela dem med korrekturgrupper. Följ den här sökvägen om du vill skapa en korrekturgrupp: PHQ Login > Groups > New Group.
+För närvarande kan du inte dela arbetsflödesmallar med Workfront Groups, Teams, Job Roles eller Companies. Du kan dock dela dem med enskilda personer och dela dem med korrekturgrupper. Om du vill skapa en korrekturgrupp följer du den här sökvägen: PHQ-inloggning > Grupper > Ny grupp.
 
 **Fråga**
 
@@ -109,7 +109,7 @@ Om granskarna är inställda på&quot;inaktiverad&quot;, hur vet de om det finns
 
 **Svar**
 
-E-postaviseringar är oberoende av e-postmeddelandet för nytt korrektur, ny version, e-post för risk, sen e-post och @Mentions-e-post. Om du väljer&quot;Inaktiverad&quot; som e-postavisering kommer du bara att inaktivera meddelanden om aktiviteter som kommentarer, svar och beslut på korrekturet (med undantag för @Mention-e-postmeddelanden från kommentarer).
+E-postaviseringar är oberoende av e-postmeddelandet för nytt korrektur, ny version, e-post för risk, sen e-post och @Mentions-e-post. Om du väljer&quot;Inaktiverad&quot; som e-postavisering kommer du bara att inaktivera meddelanden om aktiviteter som kommentarer, svar och beslut på korrekturet (med undantag för @Mention e-post från kommentarer).
 
 **Fråga**
 
@@ -225,11 +225,11 @@ Om du är gäst eller Workfront-användare och har en korrekturläsningslicens f
 
 **Fråga**
 
-Största utgåva här: e-postadress %2B (dubbla e-postadresser). Varför och hur händer det och hur kan det repareras?
+Det största problemet här: e-postadress %2B (dubblettadresser). Varför och hur händer det och hur kan det repareras?
 
 **Svar**
 
-Det här kan hända om någon lägger till någon i ett korrektur manuellt med fel e-postadress. Om du stöter på detta kan en administratör ta bort den felaktiga e-postadressen från korrekturkontot genom att följa den här sökvägen: PHQ-inloggning > Kontakter > Välj fel e-postadress/gästinstans > Ta bort. Om du stöter på problem med att användare läggs till med dubbla e-postadresser ber vi dig kontakta vårt supportteam för hjälp.
+Det här kan hända om någon lägger till någon i ett korrektur manuellt med fel e-postadress. Om du stöter på detta kan en administratör ta bort den felaktiga e-postadressen från Korrekturkontot genom att följa den här sökvägen: PHQ-inloggning > Kontakter > Välj fel e-postadress/gästinstans > Ta bort. Om du stöter på problem med att användare läggs till med dubbla e-postadresser ber vi dig kontakta vårt supportteam för hjälp.
 
 **Fråga**
 
@@ -237,7 +237,7 @@ När man väl har fattat ett beslut måste man ändra tillbaka beviset till prod
 
 **Svar**
 
-Om ett korrektur är låst måste du låsa upp korrekturet för att någon ska kunna göra kommentarer eller svara på kommentarer. Personer med följande behörigheter kan låsa upp korrekturet: The Proof Owner, Workfront Users with a Proofing License Level of Administrator or Supervisor.
+Om ett korrektur är låst måste du låsa upp korrekturet för att någon ska kunna göra kommentarer eller svara på kommentarer. Personer med följande behörigheter kan låsa upp korrekturläsaren: Korrekturägaren, Workfront-användare med en korrekturlicensnivå som administratör eller ansvarig.
 
 **Fråga**
 
@@ -273,11 +273,11 @@ Godkännandefältet är för dokumentgodkännanden, vilket är bra att använda 
 
 **Fråga**
 
-Hur lägger du till personer som nya roller för alla korrektur som redan har skapats?
+Hur lägger du till personer som nya roller i ett redan skapat bevis?
 
 **Svar**
 
-Om du vill lägga till korrekturmottagare och välja deras korrekturroll för ett befintligt korrektur, ska du följa den här sökvägen: Välj korrekturet på dokumentfliken > och klicka sedan i Korrekturinformation. När fönstret med korrekturinformation öppnas klickar du på knappen för att visa information i det övre högra hörnet på scenen och väljer sedan &quot;Dela&quot;. Du kan sedan lägga till mottagarna och välja deras korrekturroll och e-postavisering.
+Om du vill lägga till korrekturmottagare och välja deras korrekturroll på ett befintligt korrektur, ska du följa den här sökvägen: Välj korrekturet på dokumentfliken > och klicka sedan på Korrekturinformation. När fönstret med korrekturinformation öppnas klickar du på knappen för att visa information i det övre högra hörnet på scenen och väljer sedan &quot;Dela&quot;. Du kan sedan lägga till mottagarna och välja deras korrekturroll och e-postavisering.
 
 **Fråga**
 
@@ -285,7 +285,7 @@ Om vi ger korrekturläsare/-skapare åtkomst till korrekturfrågor, kan vi då b
 
 **Svar**
 
-Ja, detta avgörs av behörigheten för användarbevis. Användare med behörigheten Korrektur för chef eller ansvarig har inte åtkomst till kontoinställningar och arbetsflödesmallar. Användare med behörigheten Korrekturadministratör får tillgång till kontoinställningar och arbetsflödesmallar. Alla användare med åtkomst kan komma åt gruppområdet.
+Ja, detta avgörs av behörigheten för användarkorrektur. Användare med behörigheten Korrektur för chef eller ansvarig har inte åtkomst till kontoinställningar och arbetsflödesmallar. Användare med behörigheten Korrekturadministratör får tillgång till kontoinställningar och arbetsflödesmallar. Alla användare med åtkomst kan komma åt gruppområdet.
 
 **Fråga**
 
@@ -305,7 +305,7 @@ Du kan göra många olika saker för att se hur du använder uppgifter tillsamma
 
 **Fråga**
 
-När ett korrektur tas bort, finns det en kopia av beviset kvar på dina servrar?
+När ett korrektur tas bort, finns det en kopia av det beviset kvar på dina servrar?
 
 **Svar**
 
@@ -313,7 +313,7 @@ Ja. Om du tar bort ett korrektur som det finns i papperskorgen för det associer
 
 **Fråga**
 
-Finns det något sätt att få ett nytt beslut att utlösas om en annan användare avvisar eller godkänner ändringarna. t. ex. Korrekturpanelen ser något, projektledaren måste fatta ett nytt beslut... även om de redan hade tittat på den och godkänt den. (försöker du inte få proj-hanteraren att inte behöva vänta på korrekturläsningssidan för att kunna utföra granskningen)?
+Finns det något sätt att få ett nytt beslut att utlösas om en annan användare avvisar eller godkänner ändringarna. t. ex. Korrekturpanelen ser något, projektledaren måste fatta ett nytt beslut även om de redan har granskat det och godkänt det. (försöker du inte få proj-hanteraren att inte behöva vänta på korrekturläsningssidan för att kunna utföra granskningen)?
 
 **Svar**
 
@@ -325,7 +325,7 @@ Varför när jag markerar&quot;Fråga efter godkännande&quot; när jag skickar 
 
 **Svar**
 
-När du använder funktionen&quot;Fråga efter godkännande&quot; arbetar du med funktionen Dokumentgodkännande som är oberoende av korrektur och SOCD-förloppsindikatorn. Om du behöver uppdatera korrekturrollen för en korrekturmottagare ska du följa den här sökvägen: På fliken Dokument väljer du korrektur > och klickar sedan på Korrekturinformation. När fönstret med korrekturinformation öppnas ser du en lista över mottagare och du kan justera alternativet för korrekturroll (och e-postavisering) efter behov. På så sätt kan du (till exempel) ändra korrekturrollen från Granskare till Granskare och godkännare.
+När du använder funktionen&quot;Fråga efter godkännande&quot; arbetar du med funktionen Dokumentgodkännande som är oberoende av korrektur och SOCD-förloppsindikatorn. Om du behöver uppdatera korrekturrollen för en korrekturmottagare ska du följa den här sökvägen: Välj korrektur på fliken Dokument och klicka sedan på Korrekturinformation. När fönstret med korrekturinformation öppnas ser du en lista över mottagare och du kan justera alternativet för korrekturroll (och e-postavisering) efter behov. På så sätt kan du (till exempel) ändra korrekturrollen från Granskare till Granskare och godkännare.
 
 **Fråga**
 
@@ -333,7 +333,7 @@ När du använder funktionen&quot;Fråga efter godkännande&quot; arbetar du med
 
 **Svar**
 
-I kontoinställningarna i ett korrektur kan du styra åtkomsten till dina korrektur för delning/synlighet. Om du vill uppdatera den här inställningen så att korrekturmottagare bara ser de versioner av korrektur som du anger (i stället för att se alla versioner av korrekturet) vill du följa den här sökvägen: PHQ-inloggning > Kontoinställningar > Inställningar > Delning > Mottagare kan visa alla versioner = Inaktiverat.
+I kontoinställningarna i ett korrektur kan du styra åtkomsten till dina korrektur för delning/synlighet. Om du vill uppdatera den här inställningen så att korrekturmottagare bara ser de versioner av korrektur som du anger (i stället för att se alla versioner av korrekturet) vill du följa den här sökvägen: PHQ-inloggning > Kontoinställningar > Inställningar > Delning > Mottagare kan visa alla versioner = inaktiverade.
 
 **Fråga**
 
@@ -353,7 +353,7 @@ Det här är korrekt. Även om du kan skicka in ett supportärende till Workfron
 
 **Fråga**
 
-Hej, en fråga om beprövad ägandeflexibilitet: Om det krävs en ny överföring av korrekturversion utan den ursprungliga ägaren, är det då bäst att de lägger till en kollega i arbetsflödet som författare och sedan bestämmer sig för Inte relevant? (Att delegera ägarskap verkar bara fungera för en enda version).
+Hej, en fråga om korrekturägarskapsflexibilitet: Om en ny version av korrektur krävs utan den ursprungliga ägaren, är det bäst att de lägger till en kollega i arbetsflödet som författare och sedan bestämmer de&quot;Inte relevant&quot;? (Att delegera ägarskap verkar bara fungera för en enda version).
 
 **Svar**
 
@@ -365,7 +365,7 @@ Som jag förstår det kan du inte lägga till samma användare i efterföljande 
 
 **Svar**
 
-Du kan inte lägga till en korrekturmottagare i mer än ett steg i en granskning av ett korrektur, men när granskningsfasen är aktiverad visas korrekturet i de återstående stegen för den versionen. Detta gör att de kan fortsätta att kommentera och svara på kommentarer även om andra steg har startats. Nyckeln till att säkerställa att det här fungerar är att se till att du inte har faser låsta när nya faser startar.
+Du kan inte lägga till en korrekturmottagare i mer än ett steg i en granskning av ett korrektur, men när granskningsfasen är aktiverad visas korrekturet i de återstående stegen för den versionen. Detta gör att de kan fortsätta att kommentera och svara på kommentarer även om andra steg har startats. Nyckeln till att kontrollera att det här fungerar är att se till att du inte har faser låsta när nya faser startar.
 
 **Fråga**
 
@@ -389,7 +389,7 @@ Kan en användare säga på steg 3 i korrekturflödet att en annan person läggs
 
 **Svar**
 
-Om användaren har redigeringsbehörighet för det bevis som han/hon kan. Personer med redigeringsbehörighet: Korrekturägaren, korrekturmottagarna har lagts till i beviset med rollen som korrekturläsare eller moderator, som proof-licensanvändare med behörigheten Korrekturansvarig eller administratör.
+Om användaren har redigeringsbehörighet för det bevis som han/hon kan. Personer med redigeringsbehörighet: Korrekturägare, Korrekturmottagare läggs till i beviset med rollen Korrekturansvarig eller moderator, Bevislicensanvändare med behörigheten Korrekturansvarig eller Administratör.
 
 **Fråga**
 
@@ -437,7 +437,7 @@ Under delen Roll finns det två bockar längst ned som anger att någon ska läg
 
 **Svar**
 
-Det finns för närvarande inget sätt att göra detta till en standardinställning för korrekturmottagare. Du kan dock spara dessa som standardinställningar för mottagare i Automatiska arbetsflödesmallar.
+Det finns för närvarande inget sätt att göra detta till en standardinställning för korrekturmottagare. Du kan dock spara dessa som standardinställningar för mottagare i Automatiserade arbetsflödesmallar.
 
 **Fråga**
 
@@ -445,15 +445,15 @@ Hur byter du korrekturägare?
 
 **Svar**
 
-Om du vill byta ägare till ett korrektur följer du den här sökvägen: Markera korrekturet på fliken Dokument och klicka på Korrekturinformation. Fliken med korrekturinformation öppnas. Om den person som du vill göra ägare av korrekturet ännu inte finns med på korrekturet, vill du lägga till dem som mottagare genom att klicka på knappen Redigera och välja Dela. När personen har lagts till i korrekturet (eller om de redan finns på korrekturet) väljer du motsvarande Elipses-knapp och väljer&quot;Make Owner&quot;. De blir nu ägare till beviset.
+Om du vill växla ägare till ett korrektur följer du den här sökvägen: Markera korrekturet på fliken Dokument och klicka på Korrekturinformation. Fliken med korrekturinformation öppnas. Om den person som du vill göra ägare av korrekturet ännu inte finns med på korrekturet, vill du lägga till dem som mottagare genom att klicka på knappen Redigera och välja Dela. När personen har lagts till i korrekturet (eller om de redan finns på korrekturet) väljer du motsvarande Elipses-knapp och väljer&quot;Make Owner&quot;. De blir nu ägare till beviset.
 
 **Fråga**
 
-När det gäller nya versioner av korrektur.. Det enda sättet att göra detta är att dra och släppa filen ovanpå den befintliga filen. Är detta det rätta sättet att göra det på?
+När det gäller nya versioner av korrektur.. är det enda sättet att göra detta att dra och släppa filen ovanpå den befintliga filen. Är detta det rätta sättet att göra det på?
 
 **Svar**
 
-Jag rekommenderar att du skapar nya versioner på det här sättet: Markera korrekturet på fliken Dokument och klicka sedan på knappen Mer, välj Ny version > Korrektur. Du kommer då till sidan Ny version, där du kan fortsätta med arbetsflödet och göra de justeringar du behöver innan du dirigerar den nya versionen.
+Jag rekommenderar att du skapar nya versioner på det här sättet: markera korrekturet på fliken Dokument, klicka på knappen Mer och välj Ny version > Korrektur. Du kommer då till sidan Ny version, där du kan fortsätta med arbetsflödet och göra de justeringar du behöver innan du dirigerar den nya versionen.
 
 **Fråga**
 
@@ -497,7 +497,7 @@ När du drar och släpper ett dokument som en ny version är du säker på att a
 
 **Fråga**
 
-Scenario - Vidarebefordra korrektur: En extern kund som granskar ett korrektur kanske vill cirkulera internt på sin organisation innan han eller hon godkänner vårt bevis. De andra granskarna behöver inte vara med i systemet, så de verkar inte vara @ i kommentarerna. Hur ska de dela på bästa sätt - skicka e-postmeddelandet och markera för mottagaren att eventuella kommentarer inte visas som namn?
+Scenario - Vidarebefordra korrektur: En extern kund som granskar ett korrektur kan vilja cirkulera internt på sin organisation innan han eller hon godkänner vårt bevis. De andra granskarna behöver inte vara med i systemet, så de verkar inte vara @ i kommentarerna. Hur ska de dela på bästa sätt - skicka e-postmeddelandet och markera för mottagaren att kommentarer inte ska visas som namn?
 
 **Svar**
 
@@ -509,7 +509,7 @@ Vad är bästa sättet att använda mappar i dokument?
 
 **Svar**
 
-Detta beror på projektets karaktär, men något du kan tänka dig är en aktiv korrekturmapp som innehåller alla korrektur/versioner som aktivt cirkuleras och en Godkänd korrekturmapp som innehåller alla korrektur som färdigställs och godkänns. När ett korrektur är helt godkänt flyttar du det från mappen Aktiva korrektur till mappen Godkänt korrektur.
+Detta beror på projektets karaktär, men något du kan tänka dig är en aktiv korrekturmapp som innehåller alla korrektur/versioner som aktivt dirigeras runt och en Godkänd korrekturmapp som innehåller alla korrektur som är slutförda och godkända. När ett korrektur är helt godkänt flyttar du det från mappen Aktiva korrektur till mappen Godkänt korrektur.
 
 **Fråga**
 
@@ -525,7 +525,7 @@ Vi vill skicka ett korrektur till en extern kund (icke-Workfront-användare) som
 
 **Svar**
 
-Jag rekommenderar att du använder automatiserade arbetsflödes-/automatiserade arbetsflödesmallar för detta eftersom det gör att du kan använda funktionen &quot;Privat scen&quot;. När du använder funktionen för den privata scenen kan du ha kommentarer/beslut och mottagarna av vissa granskningsfaser dolda för personer i andra faser. Du kan till exempel ha en intern scen som en privat scen och en klientscen. Klienterna kan inte se något med den interna scenen att göra medan du kan se aktiviteten i klientscenen.
+Jag rekommenderar att du använder automatiserade arbetsflödes-/automatiserade arbetsflödesmallar för detta eftersom det gör att du kan använda funktionen &quot;Privat scen&quot;. När du använder funktionen för den privata scenen kan du ha kommentarer/beslut och mottagarna av vissa granskningsfaser dolda för personer i andra faser. Du kan till exempel ha en intern fas som en privat fas och en klientfas. Klienterna kan inte se något med den interna scenen att göra medan du kan se aktiviteten i klientscenen.
 
 **Fråga**
 
@@ -541,7 +541,7 @@ Var kan vi se en lista över alla som har granskat och/eller godkänt ett bevis,
 
 **Svar**
 
-Om du vill se en lista över aktiviteter, t.ex. när kommentarer och beslut gjordes, vill du klicka i Aktivitetshistorik i Korrekturinformation. Följ den här sökvägen för att få åtkomst till detta: Välj Korrektur på fliken Dokument > Klicka på Korrekturinformation > Expandera avsnittet Aktivitet. Om du vill se den här informationen på versionsnivå följer du den här sökvägen: Välj Korrektur på fliken Dokument > Klicka på fliken Detaljer > Mot skärmens nederkant så visas ett versionsavsnitt. Härifrån kan du visa korrekturinformationen på versionsnivå.
+Om du vill se en lista över aktiviteter, t.ex. när kommentarer och beslut gjordes, vill du klicka i Aktivitetshistorik i Korrekturinformation. Följ den här sökvägen: Välj Korrektur på fliken Dokument > Klicka på Korrekturinformation > Expandera aktiviteten. Om du vill visa den här informationen på versionsnivå följer du den här sökvägen: Välj Korrektur på fliken Dokument > Klicka på fliken Information > Mot längst ned på skärmen så visas ett versionsavsnitt. Härifrån kan du visa korrekturinformationen på versionsnivå.
 
 **Fråga**
 

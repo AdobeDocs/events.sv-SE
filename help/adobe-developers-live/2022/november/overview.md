@@ -2,8 +2,8 @@
 title: Adobe Developers Live november 2022
 description: En samling videor och självstudiekurser för Adobe Experience Manager Sites som levereras som en del av Adobe Developers Live event.
 sub-product: sites, content-services
-exl-id: 726dae1b-dc6c-4187-90ec-389520d32da2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: ccb76ddd-f751-4e15-af09-b7b031e12134
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 <img alt="Adobe Developers Live" src="./../../assets/adl.png" />
 
-Adobe Developers Live: Headless sammanför gränssnittsutvecklare med olika bakgrunder och ett unikt syfte - för att skapa fantastiska helhetsupplevelser i Adobe Experience Manager med headless-funktioner.
+Adobe Developers Live: Headless sammanför gränssnittsutvecklare med olika bakgrunder och ett enda syfte - att skapa fantastiska helhetsupplevelser i Adobe Experience Manager med headless-funktioner.
 
-Det här var en virtuell konferens som hölls i november 2022 med live-sessioner med viktiga uppdateringar för Adobe Experience Manager-utvecklare, som Headless och GraphQL, Adobe Experience Manager as a Cloud Service, tekniska sessioner och möjligheter till communitynätverk.
+Det här var en virtuell konferens som hölls i november 2022 med live-sessioner som innehåller viktiga uppdateringar för Adobe Experience Manager-utvecklare, som Headless och GraphQL, Adobe Experience Manager as a Cloud Service, tekniska sessioner och nätverksmöjligheter.
 
-Håll kontakten med högtalare och sessioner efter eventet i [kontexttrådar för community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-aem-headless-2022-complete-session-list/td-p/553511).
+Håll kontakten med högtalare och sessioner efter eventet i [kontexttrådar för communityn](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-aem-headless-2022-complete-session-list/td-p/553511).
 
 <!-- 
 ## Highlights

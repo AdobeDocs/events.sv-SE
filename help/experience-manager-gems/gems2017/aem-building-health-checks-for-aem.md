@@ -4,8 +4,8 @@ description: Att avgöra om en AEM är felfri är inte en enkel uppgift. Den hä
 uuid: 33d6c0e2-9bf8-443d-babe-2ceda52a1837
 discoiquuid: 8b674cc3-c88a-48a4-b113-abf3efd5069f
 targetaudience: target-audience advanced
-exl-id: 03298b03-360c-43af-9ece-ad95b49f581b
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 7ca119fa-1dae-4b4c-a772-71af29f5813f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Bygger hälsokontroller för AEM{#building-health-checks-for-aem}
 
-Att avgöra om en AEM är felfri är inte en enkel uppgift. Den här sessionen ger information om hälsorapporter på kontrollpanelen för åtgärder: en samling färdiga kontroller som bygger på våra säkerhets- och prestandarekommendationer och som utvecklats med Sling Health Check-ramverket. Du kommer att få reda på hur du kan åtgärda några av de vanligaste felande hälsokontrollerna, hur du kan kontrollera resultaten med externa verktyg och hur du kan skriva egna, programspecifika kontroller.
+Att avgöra om en AEM är felfri är inte en enkel uppgift. Den här sessionen ger insikt i avsnittet Hälsorapporter på kontrollpanelen för åtgärder: en samling körklara kontroller som baseras på våra säkerhets- och prestandarekommendationer och som har utvecklats med ramverket för hälsokontroll av SSL. Du kommer att få reda på hur du kan åtgärda några av de vanligaste felande hälsokontrollerna, hur du kan kontrollera resultaten med externa verktyg och hur du kan skriva egna, programspecifika kontroller.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19026/?quality=9)
 

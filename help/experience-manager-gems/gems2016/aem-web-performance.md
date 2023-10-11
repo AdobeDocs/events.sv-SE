@@ -1,20 +1,20 @@
 ---
-title: AEM
+title: AEM webbprestanda
 description: Att leverera komplexa webbupplevelser snabbt är en utmaning. I det här samtalet kommer Joel att tända några av de vanligaste fallgroparna. Det kommer att omfatta teori, exempel, bästa praxis samt demonstration av verktyg.
 uuid: f6338645-e05f-4b57-b576-65645d9220ed
 discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
 targetaudience: target-audience advanced
-exl-id: 8a66cda4-c856-415f-a1fd-cafc6909b7ee
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: dfb6708b-0b2e-4ee1-8983-014d1f3bc708
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 1%
 
 ---
 
-# AEM{#aem-web-performance}
+# AEM webbprestanda{#aem-web-performance}
 
-Att leverera komplexa webbupplevelser snabbt är en utmaning. I det här samtalet kommer Joel att tända några av de vanligaste fallgroparna. Det kommer att innehålla teori, exempel, bästa praxis samt demonstrationer av verktyg inom följande områden - Nätverk och latens: optimeringar för HTTP/1.1 och HTTP/2 - långsamma AEM serverförfrågningar: identifiera problem - JavaScript: minimera overhead
+Att leverera komplexa webbupplevelser snabbt är en utmaning. I det här samtalet kommer Joel att tända några av de vanligaste fallgroparna. Det kommer att innehålla teori, exempel, bästa praxis samt demonstration av verktyg runt följande områden - Nätverk och fördröjning: optimeringar för HTTP/1.1 och HTTP/2 - Långsam AEM serverbegäran: identifiera problem - JavaScript: minimera overhead
 
 >[!VIDEO](https://video.tv.adobe.com/v/19296/?quality=9)
 

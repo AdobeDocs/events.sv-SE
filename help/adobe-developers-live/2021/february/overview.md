@@ -2,8 +2,8 @@
 title: Adobe Developers Live, februari 2021
 description: En samling videor och självstudiekurser för Adobe Experience Manager Sites som levereras som en del av Adobe Developers Live Content Event.
 sub-product: sites, content-services
-exl-id: fe98b6e8-b45c-4780-bf57-7541c240ed97
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 6c430d4c-12c1-4d3a-860f-fc3c6bf5803c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '353'
 ht-degree: 4%
@@ -14,7 +14,7 @@ ht-degree: 4%
 
 <img alt="Adobe Developers Live" src="/help/adobe-developers-live/assets/adl.png" />
 
-8-9 februari 2021, Adobe Developers Live: Innehåll för samman utvecklare och upplevelseskapare med olika bakgrunder och ett enda syfte - för att skapa fantastiska helhetsupplevelser.
+Den 8-9 februari 2021 sammanförde Adobe Developers Live: Innehållet utvecklare och upplevelseskapare med olika bakgrunder och ett unikt syfte - för att skapa fantastiska helhetsupplevelser.
 
 Denna tvådagarskonferens innehåller viktiga uppdateringar för Adobe Experience Manager-utvecklare, som Headless och GraphQL, Adobe Experience Manager as a Cloud Service, tekniska sessioner och communitynätverk.
 

@@ -1,5 +1,5 @@
 ---
-title: Importera och bearbeta material till Experience Manager Assets as a Cloud Service
+title: Så här importerar och bearbetar du material till Experience Manager Assets as a Cloud Service
 description: Vi har flera sätt för kunder att få in resurser i Adobe Experience Manager och bearbeta dem en gång i Adobe Experience Manager Assets. Hur väljer kunderna rätt metod för sitt användningsfall? Hur kan de utnyttja plattformens import- och bearbetningsfunktioner för att maximera värdet av sina investeringar och minska sin tid till värde? Läs om de nya funktionerna i Adobe Experience Manager Assets Cloud Service.
 solution: Experience Manager,Experience Manager Assets
 feature: Asset Ingestion
@@ -8,15 +8,15 @@ level: Beginner
 version: Cloud Service
 kt: 9180
 type: Event
-exl-id: 35829d9d-f4bf-4c5c-9313-7e4f5f293828
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 7bf484d6-29fc-44b5-99c1-cc3e6055c72d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 4%
 
 ---
 
-# Importera och bearbeta material till Experience Manager Assets as a Cloud Service
+# Så här importerar och bearbetar du material till Experience Manager Assets as a Cloud Service
 
 Vi har flera sätt för kunder att få in resurser i Adobe Experience Manager och bearbeta dem en gång i Adobe Experience Manager Assets. Hur väljer kunderna rätt metod för sitt användningsfall? Hur kan de utnyttja plattformens import- och bearbetningsfunktioner för att maximera värdet av sina investeringar och minska sin tid till värde? Läs om de nya funktionerna i Adobe Experience Manager Assets Cloud Service.
 

@@ -10,7 +10,8 @@ role: User
 level: Intermediate
 kt: 11630
 event-start-time: 2023-1-18 08:30-8
-source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
+exl-id: 9e952d3a-aec8-41f7-a9bc-19e187276af0
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -23,7 +24,7 @@ ht-degree: 0%
 
 ## Beskrivning
 
-Best Practices Analyzer är ett verktyg som tillhandahåller analys- och rapporteringsfunktioner för AEM på plats och AMS-instanser. Den genererar en utvärdering av din nuvarande AEM genom att ange områden som inte följer rekommenderad bästa praxis, samtidigt som den ger vägledning om hur ni ska vidta åtgärder för att åtgärda potentiella problem. Motiveringen är enkel. Att identifiera och åtgärda endast ett missbruk i er AEM kan förbättra användarupplevelsen, minska den tekniska skulden och i sin tur sänka den totala ägandekostnaden. Så varför inte ta sig tid att se om det finns möjligheter till förbättringar.
+Best Practices Analyzer är ett verktyg som tillhandahåller analys- och rapporteringsfunktioner för AEM på plats och AMS-instanser. Den genererar en utvärdering av din nuvarande AEM genom att ange områden som inte följer rekommenderad bästa praxis, samtidigt som den ger vägledning om hur ni ska vidta åtgärder för att åtgärda potentiella problem. Motiveringen är enkel. Genom att identifiera och åtgärda endast ett missbruk i AEM kan man förbättra användarupplevelsen, minska den tekniska skulden och i sin tur sänka den totala ägandekostnaden. Så varför inte ta sig tid att se om det finns möjligheter till förbättringar.
 Observera att AEM Best Practices Analyzer inte kan användas för AEM as a Cloud Service miljöer.
 
 ### Presentatörer
@@ -42,4 +43,3 @@ Observera att AEM Best Practices Analyzer inte kan användas för AEM as a Cloud
 >
 >* Besök följande om du vill se sessionsspecifika communityinteraktioner på Experience League: [Sammanhangsberoende koppling](https://bit.ly/3Z6AyM1)
 >* Om du vill få automatiska meddelanden om webbinarier registrerar du dig på [AdobeAEM User Group](https://aem-augs.adobe.com/).
-

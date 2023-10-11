@@ -6,8 +6,8 @@ role: User
 level: Intermediate, Experienced
 kt: 10314
 thumbnail: 342524.jpeg
-exl-id: 2f2b97ef-a664-486b-9617-ad5f5a029389
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 704dbe58-dc9a-4920-b211-9afb77798079
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -22,6 +22,6 @@ Du kommer att höra:
 
 * Workfront insights Lumen används för att effektivisera kreativa processer i hela organisationen
 * Hur T-Mobile skapade en verklig mätstrategi
-* Steg Synchrony tog i sin fleråriga resa för att helt samordna kampanjutförande
+* Steps Synchrony tog i sin fleråriga resa med sig att helt samordna kampanjutförandet
 
 >[!VIDEO](https://video.tv.adobe.com/v/342524/?quality=12&learn=on)

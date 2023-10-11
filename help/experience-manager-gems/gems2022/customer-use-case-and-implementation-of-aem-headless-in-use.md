@@ -8,8 +8,8 @@ feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
-exl-id: 5f75ebf2-1a15-4d1d-b233-6de1cfecd11f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 6e35763d-d18a-468c-9b34-df14da7c7e2f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -24,9 +24,9 @@ Denna exceptionella AEM GEM-session har två högtalare som fungerar AEM som kun
 
 ## Del 1: AEM som headless CMS Where/When/Why?
 
-Presenter: VengLÄDER Shanmugavelu - Technical Architect, Qatar Airways
+Presenter: VengLÄSH Shanmugavelu - Technical Architect, Qatar Airways
 
-**Sessionsbeskrivning:**
+**Session description:**
 Det finns många sätt att implementera headless CMS via AEM.
 Under detta möte kommer vi att ta upp följande:
 
@@ -36,12 +36,12 @@ Under detta möte kommer vi att ta upp följande:
 * Några exempel på användning i realtid av innehållsfragment och deras metoder
 * Inlärning i SPA (viss lösning för när man ska välja) (demo)
 
-## Del 2: Leverera headless-material via GraphQL API och Content Fragments
+## Del 2: Leverera headless-innehåll via GraphQL API och innehållsfragment
 
 Presenter: Debal Das - Senior System Analyst, IBM
 
-**Sessionsbeskrivning:**
-Under den här sessionen kommer vi att ta upp GraphQL konsumtion av innehållsfragment (utöver de redan befintliga JSON API:erna).
+**Session description:**
+Under den här sessionen kommer vi att ta upp GraphQL konsumtion av innehållsfragment (utöver de redan befintliga JSON-API:erna).
 
 GraphQL liknar en SQL-databasfråga, med undantag för att ett API används för frågan i stället för en databas.
 
@@ -55,4 +55,3 @@ Detta eliminerar kravet på att API:t ska tillhandahålla många slutpunkter som
 >
 >* Besök följande om du vill se sessionsspecifika communityinteraktioner på Experience League: [Sammanhangsberoende koppling](https://adobe.ly/3r6P4nr)
 >* Om du vill få automatiska meddelanden om webbinarier registrerar du dig på [AdobeAEM User Group](https://aem-augs.adobe.com/).
-

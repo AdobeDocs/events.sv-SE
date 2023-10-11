@@ -5,8 +5,8 @@ uuid: 97e4ee67-f218-4ff9-9d9a-452963ba6deb
 topic-tags: analytics
 discoiquuid: 84a24cd3-1420-48e0-ae7a-dfa4a68ce657
 targetaudience: target-audience advanced
-exl-id: 7fa784ab-07f3-4ea8-b748-5c612a90a95f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 638aab84-a8eb-411d-89de-856558492831
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -25,7 +25,7 @@ AEM textsökningsfunktioner [!DNL Oak Lucene] index som standard. AEM kan dock �
 
 Tommaso Teofili, datavetare, Adobe
 
-Datum: 07/18/2018
+Datum: 2018-07-18
 
 [Hämta fil](assets/aem-gems-solr-oakaem-071818.pdf)
 
@@ -37,7 +37,6 @@ Datum: 07/18/2018
 >
 >* [Adobe I/O Events - Analytics Triggers](aem-analytics-triggers.md)
 >* [Låsa upp mer kraftfull tillgångsanalys med AEM 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
-
 
 <!-- wrong link, needs to be replaced. removed for now:
 >* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html) 

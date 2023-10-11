@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9914
-exl-id: 50dbcdf4-2e5d-420b-975e-1e3e683356fd
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 76a8e418-71c7-414a-9938-e64e4e73c184
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '1211'
 ht-degree: 1%
@@ -37,7 +37,7 @@ Får jag visa den primära fetstilen i iteration på jobbroller?
 
 **Svar**
 
-Under arbetets gång kan vi identifiera den primära rollen. Detta måste göras i ett värdeuttryck, men HTML-koder känns inte igen i ett värdeuttryck. Därför måste vi hitta ett annat sätt att identifiera rollen som den primära. Jag skrev &quot;**&quot; före och efter det primära rollnamnet i den här koden. Prova själv:
+Under arbetets gång kan vi identifiera den primära rollen. Detta måste göras i ett värdeuttryck, men HTML-koder känns inte igen i ett värdeuttryck. Därför måste vi komma fram till ett annat sätt att identifiera rollen som den primära. Jag skrev &quot;**&quot; före och efter det primära rollnamnet i den här koden. Prova själv:
 
 ```
 displayname=All Job Roles 
@@ -114,7 +114,7 @@ Du kan också filtrera på begärandeköer. Du kanske vill skapa begärandeköer
 
 **Fråga**
 
-De första rapporterna baserades på projekt-/projektnamn. Detta kan även göras för uppgifter och i så fall vad som är det bästa sättet att gruppera dem, eftersom eventuellt aktivitetsnamnet skulle vara ett annat namn än inte...Tack!
+De första rapporterna baserades på projekt-/projektnamn. Detta kan även utföras på uppgifter och i så fall vad som är det bästa sättet att gruppera dem, eftersom det är möjligt att aktivitetsnamnet är ett annat namn än inte ... tack!
 
 **Svar**
 
@@ -146,7 +146,7 @@ valuefield=documentVersion:document:project:name
 valueformat=HTML
 ```
 
-När det gäller routningsdatumet, förfallodatumet och moderatorn kan dessa fält för närvarande inte hämtas till någon av Workfront rapporter, så du måste klicka i korrekturfilen direkt för att visa informationen.
+När det gäller routningsdatumet, förfallodatumet och moderatorn kan dessa fält för närvarande inte hämtas till någon av Workfront-rapporterna, så du måste klicka i korrekturfilen direkt för att kunna visa den informationen.
 
 **Fråga**
 
@@ -178,7 +178,7 @@ valuefield=user:name
 valueformat=HTML
 ```
 
-## Textlägeskod för AAR-engagemangsrapporten
+## Text Mode-kod för AAR-engagemangsrapporten
 
 ```
 column.0.displayname=Task Details

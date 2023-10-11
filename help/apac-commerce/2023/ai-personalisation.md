@@ -11,13 +11,13 @@ last-substantial-update: 2023-05-03T00:00:00Z
 jira: KT-13194
 thumbnail: 3419107.jpeg
 event-start-time: 2023-5-2 08:30-8
-source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
+exl-id: f8493ac6-e218-4e86-b0a1-fe37ba548cdc
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
 
 ---
-
 
 # AI-driven personalisering
 

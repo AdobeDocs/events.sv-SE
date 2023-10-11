@@ -1,6 +1,6 @@
 ---
-title: Integrera AEM- och CIF-ramverket för att skapa en omfattande och engagerande e-handelsupplevelse
-description: Förstå hur Adobe CIF-ramverket kan användas för att skapa en enhetlig och innehållsrik och engagerande handelsupplevelse.
+title: Integrera AEM och CIF för att skapa en engagerande e-handelsupplevelse
+description: Förstå hur Adobe CIF Framework kan användas för att skapa en enhetlig och innehållsrik och engagerande handelsupplevelse.
 solution: Experience Manager
 feature-set: Experience Manager
 version: Cloud Service
@@ -9,17 +9,17 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 10220
-exl-id: 970e633b-251a-438a-aaf1-159571fa36d2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 3f893f4f-8d4e-4877-9520-8d2012eb724a
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
-# Integrera AEM- och CIF-ramverket för att skapa en omfattande och engagerande e-handelsupplevelse
+# Integrera AEM och CIF för att skapa en engagerande e-handelsupplevelse
 
-Det här AEM GEM-webbinariet innehåller en presentation och demo som hjälper dig att förstå hur Adobe CIF-ramverket kan användas för att skapa en enhetlig och engagerande e-handelsupplevelse. Experience Manager och Adobe Commerce integreras smidigt med Commerce Integration Framework (CIF). CIF gör det möjligt för AEM att komma åt och kommunicera direkt med handelsinstansen med hjälp av Adobe Commerce GraphQL API:er (se den övergripande dagordningen nedan).
+Det här AEM GEM-webbinariet innehåller en presentation och demo som hjälper dig att förstå hur Adobe CIF kan användas för att skapa en enhetlig och engagerande e-handelsupplevelse. Experience Manager och Adobe Commerce är helintegrerade med Commerce integrationa frameworken (CIF). Med CIF kan AEM få direkt åtkomst till och kommunicera med handelsinstansen med Adobe Commerce GraphQL API:er (se den övergripande dagordningen nedan).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
 
@@ -31,16 +31,15 @@ Det här webbinariet ägde rum den 27 april 2022 och presenterades av Kunal Gaba
 >* [Motsvarande sammanhangsberoende tråd](https://adobe.ly/3jorz5r)
 >* Registrera dig på [AdobeAEM User Group](https://aem-augs.adobe.com/) för att få meddelanden om kommande webbinarier.
 
+**Högnivåagenda:**
 
-**Dagordning på hög nivå:**
+* Vad är CIF och varför använda CIF?
 
-* Vad är CIF och varför använder CIF?
+* CIF integrationstyper och hur du använder CIF med AEM
 
-* Integrationstyper för CIF och hur CIF används med AEM
+* CIF komponentbibliotek
 
-* CIF-komponentbibliotek
-
-   * AEM CIF Core-komponenter
+   * AEM CIF kärnkomponenter
 
    * Reaktionskomponenter i studiobiblioteket PWA
 

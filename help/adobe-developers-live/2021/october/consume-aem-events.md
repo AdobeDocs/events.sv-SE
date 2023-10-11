@@ -9,8 +9,8 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9122
 type: Event
-exl-id: 3d05c830-6471-4306-9b2a-5c9513153fc3
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 5eea7354-481b-4162-96aa-964b04da576c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 10%
@@ -19,7 +19,7 @@ ht-degree: 10%
 
 # Bygg en app som använder Adobe Experience Manager Events
 
-Lär dig varför det är en bra idé att skapa händelsestyrda program och hur vi enkelt kan bygga dem med App Builder. Denna session handlar om: Allt du behöver veta för att börja bygga händelsestyrda applikationer som svarar på händelser från Adobe Products. Live demo av hur man skapar ett App Builder-program som svarar på Adobe Experience Manager Events. Introduktion till komponenter i App Builder - Adobe I/O Events och I/O Runtime. Låt oss bli utrustade för att leverera en engagerande kundupplevelse!
+Lär dig varför det är en bra idé att skapa händelsestyrda program och hur vi enkelt kan bygga dem med App Builder. Den här sessionen handlar om: allt du behöver veta för att börja skapa händelsestyrda program som svarar på händelser från Adobe Products. Live demo av hur man skapar ett App Builder-program som svarar på Adobe Experience Manager Events. Introduktion till komponenter i App Builder - Adobe I/O Events och I/O Runtime. Låt oss bli utrustade för att leverera en engagerande kundupplevelse!
 
 Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/3ipjs8p)**.
 

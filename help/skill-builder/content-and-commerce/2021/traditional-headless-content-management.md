@@ -12,8 +12,8 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 8938
-exl-id: 0fd3f0a3-d9cb-4258-a826-ff8111bc4692
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 93ca4320-8364-4f35-b52d-0bb3bd929d13
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -35,5 +35,5 @@ Lär dig hur du skapar engagerande kundupplevelser i Adobe Experience Manager i 
 * [Skapa vackra webbupplevelser snabbt](authoring-fundamentals.md)
 * [Slösa aldrig tid på att hitta innehåll igen](media-library-administration.md)
 * [Hantera material som förändras hela tiden enkelt](collaboration-tools.md)
-* [Innehåll för ANYWHERE: Göra flerkanalsupplevelser till verklighet](omnichannel-experiences.md)
+* [Innehåll oavsett var du befinner dig: Göra flerkanalsupplevelser till verklighet](omnichannel-experiences.md)
 * [Bli global med Adobe Experience Manager](multi-site-management-web-translation.md)

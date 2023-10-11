@@ -1,20 +1,20 @@
 ---
-title: Välkomstadress och AEM
+title: Välkomstadress och AEM - översikt
 description: Se välkomstadressen och få en AEM översikt, som visar hur snabbt innehållet kan frigöras.
 solution: Experience Manager,Experience Manager as a Cloud Service
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate, Experienced
 kt: 10784
 thumbnail: 345183.png
-exl-id: 62d5d3b3-d13c-4b8b-8a38-f1031cdb58c2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 046e3a51-bdd5-4357-96d2-f738e0b40934
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-# Välkomstadress och AEM
+# Välkomstadress och AEM - översikt
 
 Välkommen till Adobe Content Management Forum-eventserien. I den här videon kan du se välkomstadressen och få en AEM översikt från Elliot Sedegah. Det handlar också om att frigöra styrkan i innehållets hastighet, som levereras av Haresh Kumar och Kurt Benkert.
 

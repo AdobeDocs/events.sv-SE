@@ -4,8 +4,8 @@ description: Se hur enkelt det är att utveckla OSGi-paket och -tjänster för A
 uuid: 175dd285-ee5c-45b1-8dd5-2fc4f5964dc5
 discoiquuid: 1814b885-2832-4fda-bb36-467f77b88c7a
 targetaudience: target-audience advanced
-exl-id: 4baf91ab-3282-4432-8db4-003918deac10
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 821b72b1-de34-45aa-9722-3041aabc774b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Developing OSGi Bundles and Services for AEM{#developing-osgi-bundles-and-services-for-aem}
 
-Läs om hur enkelt det är att utveckla OSGi-paket och -tjänster för AEM. Den här sessionen börjar med en kort introduktion till de grundläggande begreppen i OSGi: paket och tjänster. Därefter demonstrerar det den enkla och enkla användningen av väletablerade kommentarer för att utveckla paket och tjänster. Dessutom ingår tips och tricks samt god praxis som underlättar utvecklingen av AEM och undviker nackdelar och fallgropar.
+Läs om hur enkelt det är att utveckla OSGi-paket och -tjänster för AEM. Den här sessionen börjar med en kort introduktion till de grundläggande begreppen i OSGi: paket och tjänster. Därefter demonstrerar det den enkla och enkla användningen av väletablerade anteckningar för att utveckla paket och tjänster. Dessutom ingår tips och tricks samt god praxis som underlättar utvecklingen av AEM och undviker nackdelar och fallgropar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19654/?quality=9)
 

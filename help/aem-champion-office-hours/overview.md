@@ -1,7 +1,8 @@
 ---
 title: Kontor för AEM
 description: Denna Adobe Experience Manager User Group (AEMUG) underlättas av AEM Champion Class 2022-2023. Champions kommer att använda denna AEMUG som plattform för sina månatliga kontorstider
-source-git-commit: 231676141badaab1abfff99fad3c2f820e3047cb
+exl-id: 59afdad3-fffc-4ec4-9bdf-cdae32422737
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%

@@ -4,15 +4,15 @@ description: Har du någonsin undrat vad som finns i Tjärs tjärfiler? Vad är 
 uuid: 67aed294-c1f2-422e-a568-7a2e19eb60d1
 discoiquuid: 3c650f0e-e16b-4a18-9462-90cdde8a2f10
 targetaudience: target-audience advanced
-exl-id: 42ec8561-d39c-4798-88ff-7d3f5275ee13
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: bcf64ff5-f8c1-4355-803e-df22cc784cc2
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-# Till tjärdepån: en tarMK-djupdykning{#into-the-tar-pit-a-tarmk-deep-dive}
+# Into i tjärdepån: en TARMK-djupdykning{#into-the-tar-pit-a-tarmk-deep-dive}
 
 Har du någonsin undrat vad som finns i Tjärs tjärfiler? Vad är ett segment och vad är en post? Hur segmentlagerskräpinsamlingen fungerar och varför (eller varför inte)? Denna session kommer att besvara dessa frågor och många andra frågor. Det kommer att belysa den inre funktionen hos TjärMK, dess systemkrav och prestandaegenskaper. Det kommer att hjälpa deltagarna att bättre förstå och diagnostisera orsaken till vanliga problem och presentera verktyg och tekniker för diagnostisering och felsökning. Slutligen kommer det att finnas en förhandsgranskning av vilka nya funktioner och förbättringar vi arbetar med just nu.
 

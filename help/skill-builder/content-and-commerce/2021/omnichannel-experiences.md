@@ -12,8 +12,8 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 8935
-exl-id: a9a70885-9a3e-4699-8987-c11893f2bc92
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 0901bbc1-38bf-4c57-9680-77c7d82d24d4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Lär dig hur du skapar engagerande kundupplevelser i Adobe Experience Manager i den här 5-delsserien av webbinarier. Vi börjar med byggstenarna för framtagning av innehåll och presenterar dig för de grundläggande begreppen och funktionerna. Detta inkluderar webbplatsadministrationsfunktioner och grunderna för hantering av digitalt material i AEM. I den senare delen av serien kan du upptäcka funktioner som kan hjälpa dig att spara tid och bli mer effektiv genom att återanvända innehållet och leverera det i alla kanaler.
 
-## Innehåll överallt - Gör upplevelser i flera kanaler till verklighet
+## Innehåll överallt - Omnichannel experiences a reality
 
 >[!VIDEO](https://video.tv.adobe.com/v/336982/?quality=12&learn=on&hidetitle=true)
 

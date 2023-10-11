@@ -1,5 +1,5 @@
 ---
-title: Handel och kaffe - ekologisk tillväxt
+title: Handel och kaffe - organisk tillväxt
 description: Under den här sessionen går vi igenom några av Adobe toppstrategier för att hjälpa till att utveckla en e-handelsplats organiskt. När du skapar organisk tillväxt är det av största vikt att du tittar på företagets digitala ekosystem som helhet. Vi identifierar sju sätt att utveckla ett e-handelsföretag organiskt från SEO och sociala medier till länkbyggande och optimering på plats. Corey kör en live-demonstration av Adobe Commerce funktioner som URL-omskrivningar, generering av platskartor, kanoniska metataggar, metadata med mera. Som alltid avslutar vi sessionen med en livefråga.
 solution: Commerce
 topic: Commerce
@@ -10,7 +10,8 @@ last-substantial-update: 2023-03-03T00:00:00Z
 jira: KT-11945
 thumbnail: 3416128.jpeg
 event-start-time: 2023-2-23 08:30-8
-source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
+exl-id: 01debc18-7558-4fa9-978a-0d6a336bcba7
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%

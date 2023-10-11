@@ -1,8 +1,8 @@
 ---
 title: Voices om kunddatahantering
 description: Ert mål som ansvarig för hantering av kunddata, teknik och marknadsföring samt specialist.  Den här sidan är den enda kontaktytan där du kan höra vad andra tycker, få inspiration och lära dig mer om utvecklingen inom martech.
-exl-id: 44e1b706-d216-4ffe-8cbf-b352fc34de54
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 09f13bff-9f62-4146-a400-cc1d6f952eee
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%

@@ -1,8 +1,8 @@
 ---
 title: Kunskapsbyggaren - Innehåll och handel
 description: Inspelade webbinarier för att bygga upp din kunskapsbas och maximera er investering i Adobe Content and Commerce Solutions
-exl-id: 9345d894-5059-485f-93ba-ea47d251e8c7
-source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
+exl-id: 1ed57ee1-89d4-4697-a999-72e0fe215f87
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 2%

@@ -1,8 +1,8 @@
 ---
 title: APAC Commerce Webinar Series
 description: APAC Commerce Webinar Series är en månatlig mötesplats för Adobe Commerce-kunder som täcker ett brett urval av ämnen, från metodtips till produktplaner och branschtrender.
-exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
-source-git-commit: 147a7e327b387d0b02e4110e1405c1f8b6f3c883
+exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%

@@ -1,8 +1,8 @@
 ---
 title: Adobe Content Management Forum
 description: En samling sessionsinspelningar från Adobe Content Management Forum
-exl-id: 8c882248-0790-4a50-bf8f-55dce1f68b6b
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: 935600fa-4fbc-4569-a3cd-f8b25c205df4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '311'
 ht-degree: 0%
@@ -30,10 +30,10 @@ Delta i sessionerna nedan och lär dig mer:
   <tr>
    <td>
       <a href="2022/welcome.md">
-      <img alt="Välkomstadress och AEM" src="assets/welcome.png" >
+      <img alt="Välkomstadress och AEM - översikt" src="assets/welcome.png" >
       </a>
       <div>
-         <a href="2022/welcome.md"><strong>Välkomstadress och AEM</strong></a>         
+         <a href="2022/welcome.md"><strong>Välkomstadress och AEM - översikt</strong></a>         
          <br/><em>med Elliot Sedegah, Haresh Kumar och Kurt Benkert</em>
       </div>
       <p>

@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9917
-exl-id: 19d73416-80b3-41b3-98ac-6065975ed6bb
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 2b2f6522-2fd9-4d5e-9bc3-903c1d5e4e3b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '1638'
 ht-degree: 2%
@@ -59,7 +59,7 @@ Kan du ändra ägaren till det bevis som meddelas när beslut fattas? Vi försö
 
 **Svar**
 
-Om du vill ändra provtryckets ägare följer du den här sökvägen: Dokument > Välj Korrektur > Klicka på Korrekturinformation > I fönstret med korrekturinformation letar du reda på mottagaren som du vill ska vara ägare av korrekturet > Klicka på knappen för att visa information för mottagaren och välj &quot;Gör ägare&quot;.
+Om du vill ändra ägare för korrekturläsaren följer du den här sökvägen: Dokument > Välj Korrektur > Klicka på &quot;Korrekturinformation&quot; > I fönstret med korrekturinformation, letar du reda på mottagaren som du vill göra ägare av korrekturläsaren > Klicka på knappen för Elips för den mottagaren och väljer &quot;Gör ägare&quot;.
 
 **Fråga**
 
@@ -147,7 +147,7 @@ Kan flera personer ladda upp en ny version? till exempel skickar en copywriter v
 
 **Svar**
 
-Du kan låta korrekturmottagare skapa nya versioner av korrektur om de uppfyller följande villkor: 1) De är ägare av beviset - eller 2) de har rollen författare eller moderator som korrekturläsare på beviset - eller 3) de har konfigurerats med behörigheten Korrekturansvarig eller administratör.
+Du kan låta korrekturmottagare skapa nya versioner av korrektur om de uppfyller följande villkor: 1) De är ägare av beviset - eller 2) De är inställda med korrekturrollen Författare eller Moderator på beviset - eller 3) De är konfigurerade med behörighetsnivån Korrektur för övervakare eller administratör.
 
 **Fråga**
 
@@ -155,7 +155,7 @@ Hur hanterar man flera korrektur (t.ex. A, B och C) med det automatiserade arbet
 
 **Svar**
 
-Du kan använda en automatisk arbetsflödesmall för flera korrektur när du skapar den första versionen av korrekturet. Gör så här: Dokument > Lägg till ny > Korrektur. På sidan Nytt korrektur väljer du flera filer att överföra, använder mallen för automatiskt arbetsflöde och skapar korrektur.
+Du kan använda en automatisk arbetsflödesmall för flera korrektur när du skapar den första versionen av korrekturet. Gör så här: Dokument > Lägg till ny > Korrektur. På sidan Nytt korrektur väljer du flera filer som ska överföras, använder mallen för automatiskt arbetsflöde och skapar korrektur.
 
 **Fråga**
 
@@ -171,7 +171,7 @@ Var kan jag se korrekturinställningarna?
 
 **Svar**
 
-Om du vill visa korrekturinställningarna för ett befintligt korrektur följer du den här vägen: Fliken Dokument > Välj Korrektur > Klicka på Korrekturinformation > Från i fönstret Korrekturinformation som öppnas så att du kan expandera området Inställningar.
+Om du vill visa korrekturinställningarna för ett befintligt korrektur följer du den här sökvägen: Fliken Dokument > Välj Korrektur > Klicka på Korrekturinformation > Från i fönstret Korrekturinformation som öppnas, du vill expandera området Inställningar.
 
 **Fråga**
 

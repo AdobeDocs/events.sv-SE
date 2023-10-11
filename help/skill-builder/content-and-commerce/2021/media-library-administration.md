@@ -12,8 +12,8 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 8937
-exl-id: bed98c10-bc95-4981-863c-3756f06996c2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: f92344ca-9c74-4205-968c-b12a58bae241
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -34,6 +34,6 @@ Bli en skicklig författare med djupdykning i AEM Sites och Media Library Admini
 
 * [Skapa vackra webbupplevelser snabbt](authoring-fundamentals.md)
 * [Hantera material som förändras hela tiden enkelt](collaboration-tools.md)
-* [Innehåll för ANYWHERE: Göra flerkanalsupplevelser till verklighet](omnichannel-experiences.md)
+* [Innehåll oavsett var du befinner dig: Göra flerkanalsupplevelser till verklighet](omnichannel-experiences.md)
 * [Bli global med Adobe Experience Manager](multi-site-management-web-translation.md)
 * [Webben och mer därtill - kraften i traditionell och headless Content Management](traditional-headless-content-management.md)

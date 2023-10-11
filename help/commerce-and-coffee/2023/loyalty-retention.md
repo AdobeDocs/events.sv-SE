@@ -10,13 +10,13 @@ last-substantial-update: 2023-05-25T00:00:00Z
 jira: KT-13314
 thumbnail: 3419686.jpeg
 event-start-time: 2023-5-24 08:30-8
-source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
+exl-id: f792d456-1bf1-4b0f-b62a-0a676c14f293
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
-
 
 # 7 sätt att bygga kundlojalitet och kundlojalitet
 

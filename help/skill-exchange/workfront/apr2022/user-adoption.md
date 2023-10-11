@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 10311
 thumbnail: 342522.jpeg
-exl-id: b7231e62-e252-41d6-a5f6-41e1edd83eb2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 6f77698c-9955-4555-a293-3dcd43de285f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Att implementera en arbetshanteringslösning som Workfront har många aspekter, men en av de mest grundläggande är att förstå vem i organisationen som kommer att använda den och hur de ska förstå vad den innehåller för dem.
 
-Under det här seminariet ska vi titta närmare på exakt vilka vi fokuserar på (dvs. &quot;vem som&quot;) och identifiera och överväga vanliga hinder som organisationer står inför när det gäller&quot;varför&quot; användningen.
+Under den här sessionen ska vi titta närmare på exakt vilka vi fokuserar på våra satsningar på anpassning (dvs.&quot;vem&quot;) och identifiera och överväga gemensamma hinder som organisationer står inför när det gäller&quot;varför&quot;.
 
 Vi tar upp:
 

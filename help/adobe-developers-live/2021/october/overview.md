@@ -2,8 +2,8 @@
 title: Adobe Developers Live oktober 2021
 description: En samling videor och självstudiekurser för Adobe Experience Manager Sites som levereras som en del av Adobe Developers Live event.
 sub-product: sites, content-services
-exl-id: 0ad75a56-d7d1-401c-9a3f-c45fc2c78036
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: e6ebda58-dd9f-4d27-9f94-0233fc98d3c0
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 8%
@@ -32,7 +32,7 @@ Håll kontakt med kollegor och delta i sessionskonversationerna i Experience Lea
       </a>
       <div>
          <a href="headless.md"><strong>Headless Sites</strong></a>         
-         <br/><em>med Mathias Siegel, Principal Product Manager, AEM Sites</em>
+         <br/><em>med Mathias Siegel, produktchef på AEM Sites</em>
       </div>
       <p>
         <br/>
@@ -96,5 +96,5 @@ Håll kontakt med kollegor och delta i sessionskonversationerna i Experience Lea
 ### App Builder
 
 * [App Builder - översikt](https://adobe.ly/aem-appbuilder)
-* [Utvecklarhandbok för App Builder](https://adobe.ly/appbuilder)
+* [App Builder Developer Guide](https://adobe.ly/appbuilder)
 * [App Builder Trial Program Sign Up](https://adobe.ly/appbuilder-trial)

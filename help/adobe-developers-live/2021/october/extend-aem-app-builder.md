@@ -1,6 +1,6 @@
 ---
 title: Utöka AEM innehåll och handel med Adobe Developer App Builder
-description: Adobe Experience Manager Content & Commerce med Commerce Integration Framework (CIF) ger en flexibel arkitektur för att ansluta Adobe Experience Manager till Adobe Commerce eller någon annan handelslösning - både företagslösningar och hemmabruk. App Builder och GraphQL spelar en viktig roll för Adobe Experience Manager Content & Commerce och CIF. I det här avsnittet diskuteras integrerings- och utökningsmönster för Adobe Experience Manager Commerce med App Builder. Det visar de olika integreringsmönstren där App Builder kan fungera som mellanvara och koppla samman din e-handelslösning med Adobe Experience Manager. Vi visar hur App Builder kan användas för att tillhandahålla handelsdata och transaktioner för Adobe Experience Manager Commerce.
+description: Adobe Experience Manager Content & Commerce som använder Commerce integrationa frameworken (CIF) är en flexibel arkitektur som kopplar Adobe Experience Manager till Adobe Commerce eller andra e-handelslösningar - både kommersiella och heminbyggda. App Builder och GraphQL spelar en viktig roll för Adobe Experience Manager Content & Commerce och CIF. I det här avsnittet diskuteras integrerings- och utökningsmönster för Adobe Experience Manager Commerce med App Builder. Det visar de olika integreringsmönstren där App Builder kan fungera som mellanvara och koppla samman din e-handelslösning med Adobe Experience Manager. Vi visar hur App Builder kan användas för att tillhandahålla handelsdata och transaktioner för Adobe Experience Manager Commerce.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -9,8 +9,8 @@ level: Intermediate, Experienced
 version: Cloud Service
 kt: 9143
 type: Event
-exl-id: 8f19f9a3-9f00-4e7d-a747-2c37222e8639
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: ed18588f-208b-46a8-a46d-07f15f2504d9
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 3%
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 # Utöka AEM innehåll och handel med Adobe Developer App Builder
 
-Adobe Experience Manager Content &amp; Commerce med Commerce Integration Framework (CIF) ger en flexibel arkitektur för att ansluta Adobe Experience Manager till Adobe Commerce eller någon annan handelslösning - både företagslösningar och hemmabruk. App Builder och GraphQL spelar en viktig roll för Adobe Experience Manager Content &amp; Commerce och CIF. I det här avsnittet diskuteras integrerings- och utökningsmönster för Adobe Experience Manager Commerce med App Builder. Det visar de olika integreringsmönstren där App Builder kan fungera som mellanvara och koppla samman din e-handelslösning med Adobe Experience Manager. Vi visar hur App Builder kan användas för att tillhandahålla handelsdata och transaktioner för Adobe Experience Manager Commerce.
+Adobe Experience Manager Content &amp; Commerce som använder Commerce integrationa frameworken (CIF) är en flexibel arkitektur som kopplar Adobe Experience Manager till Adobe Commerce eller andra e-handelslösningar - både kommersiella och heminbyggda. App Builder och GraphQL spelar en viktig roll för Adobe Experience Manager Content &amp; Commerce och CIF. I det här avsnittet diskuteras integrerings- och utökningsmönster för Adobe Experience Manager Commerce med App Builder. Det visar de olika integreringsmönstren där App Builder kan fungera som mellanvara och koppla samman din e-handelslösning med Adobe Experience Manager. Vi visar hur App Builder kan användas för att tillhandahålla handelsdata och transaktioner för Adobe Experience Manager Commerce.
 
 Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/3om4942)**.
 

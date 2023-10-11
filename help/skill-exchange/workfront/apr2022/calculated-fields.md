@@ -6,15 +6,15 @@ role: User
 level: Intermediate, Experienced
 kt: 10316
 thumbnail: 342526.jpeg
-exl-id: 32199b8b-1797-4b29-9755-e5165a04c0fe
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 8e7d31e2-78f5-4f02-a85d-f438880a5664
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-# Tips och tricks: Beräknade fält som alla ska känna till - och hur de ska rapportera om dem!
+# Tips och tricks: Beräknade fält som alla ska känna till - och hur man rapporterar om dem!
 
 Har du någonsin bläddrat igenom flera sidor i en projektuppdateringsström för att hitta datumet då projektet flyttades till Aktuell? Detta är ett bra exempel på information som kan hämtas i ett beräkningsfält som är enkelt att komma åt OCH som kan användas vid rapportering.
 
