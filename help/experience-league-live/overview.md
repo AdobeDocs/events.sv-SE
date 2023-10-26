@@ -7,9 +7,9 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: 9dcc4e29440db713e82718beca9d5cf08f9c1c94
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '172'
 ht-degree: 1%
 
 ---
@@ -24,15 +24,15 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-26-23.md">
-      <img alt="Experience League LIVE 21 april" src="assets/Oct26_exl_live_WebBanner.png">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-11-14-23.md">
+      <img alt="Experience League LIVE 21 april" src="assets/Nov14_2023_exl_live_WebBanner.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-10-26-23.md">
-        <strong>Workfront Release Deep Dive - nya Workfront Home</strong>
+      <a href="episodes/exl-live-episode-11-14-23.md">
+        <strong>Få ut det mesta av dina beteendehändelsedata i Real-Time CDP och Journey Optimizer</strong>
       </a>
-      <br/><em>med Betsey West, Ben Robbins och Jamie Smith</em>
-      <br/><em>26 oktober 2023</em>
+      <br/><em>med Daniel Wright, Lory Mishra och Återit Gupta</em>
+      <br/><em>14 november 2023</em>
     </div>
   </td>
 </tr>
