@@ -3,9 +3,9 @@ user-guide-title: Kunskapsutbyte
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Samling av inspelningar från Experience Makers Kunskapsutbyte
 event-series: The Skill Exchange
-source-git-commit: b16db3497f0e9801b71294bcaa66ae3cd9a2eb5c
+source-git-commit: f0a805efa9e6599df4aefa87f6de048bca9a5661
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '416'
 ht-degree: 7%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 7%
       + [Analyserar data](analytics/sept2022/analyzing-the-data.md)
       + [Sammanställ allt](analytics/sept2022/putting-it-all-together.md)
       + [Gör Adobe Analytics till din egen](analytics/sept2022/making-analytics-your-own.md)
-      + [Analytics: Utöka upplevelsemakare i strålkastarljuset](analytics/sept2022/grow-spotlight.md)
+      + [Analyser ger möjlighet att utveckla upplevelser](analytics/sept2022/grow-spotlight.md)
       + [Analytics Learn Experience Makers Spotlight](analytics/sept2022/learn-spotlight.md)
       + [Mastering Your Adobe Analytics Tool belt](analytics/sept2022/toolbelt.md)
       + [Tiden är på din sida](analytics/sept2022/time-is-on-your-side.md)
@@ -67,6 +67,15 @@ ht-degree: 7%
       + [Marknadsföringskanaler, använd ansvarsfullt](analytics/jun2021/marketing-channels.md)
       + [Sammanfoga allt](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+   + Augusti 2023 {#aug2023}
+      + Developer Track {#developer-track}
+         + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
+         + [Bygga ett effektivt och skalbart stilsystem](aem/aug2023/scalable-style-system.md)
+         + [Migrera till AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
+      + Web Track {#webtrack}
+         + [Komma igång med AEM Assets](aem/aug2023/getting-started-aem-assets.md)
+         + [Utnyttja ett samarbetsbaserat resurshanteringssystem](aem/aug2023/collaborative-dam.md)
+         + [Skala för AI-beredskap](aem/aug2023/metadata.md)
    + Augusti 2022 {#aug2022}
       + Developer Track {#developer-track}
          + [Experience Makers Spotlight](aem/aug2022/spotlight.md)
@@ -101,6 +110,8 @@ ht-degree: 7%
       + [Rapportera inom [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Ultimata tips och tricks för din Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+   + Augusti 2023 {#aug2023}
+      + [Resurshanteringsgrunden](workfront/aug2023/resource-management.md)
    + April 2022 {#apr2022}
       + [Tips för att imponera på din Workfront](workfront/apr2022/ten-tips.md)
       + [Beräknade fält som alla ska känna till](workfront/apr2022/calculated-fields.md)
