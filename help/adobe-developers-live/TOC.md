@@ -3,10 +3,10 @@ user-guide-title: Adobe Developers Live Events
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Samling med inspelningar från Adobe Developer Live Content event
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: e7e3172bb80aab23550aab7720e7554beedfd269
+source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
 workflow-type: tm+mt
-source-wordcount: '663'
-ht-degree: 2%
+source-wordcount: '700'
+ht-degree: 3%
 
 ---
 
@@ -15,6 +15,22 @@ ht-degree: 2%
 
 + [Översikt](overview.md)
 + 2023 {#2023}
+   + November {#nov2023}
+      + [Öppnar inledningsanförandet](2023/november/keynote.md)
+      + Edge-leveranstjänster
+         + [Bygg en webbplats](2023/november/edge-breakout-1.md)
+         + [Webbplatsprestanda](2023/november/edge-breakout-2.md)
+         + [En kunddistribution](2023/november/edge-breakout-3.md)
+         + [Dokumentbaserad redigering](2023/november/deep-dive.md)
+      + Headless
+         + [Headless-API:er](2023/november/headless-breakout-1.md)
+         + [Universal Editor](2023/november/headless-breakout-2.md)
+         + [Externa datakällor](2023/november/headless-breakout-3.md)
+      + Commerce
+         + [Katalogtjänster](2023/novemnber/commerce-breakout-1.md)
+         + [Integrera med Amazon Sales Channel](2023/novemnber/commerce-breakout-2.md)
+         + [Händelsedriven utbyggbarhet](2023/novemnber/commerce-breakout-3.md)
+         + [API-nät](2023/novemnber/commerce-breakout-4.md)
    + Maj {#may2023}
       + [Öppnar inledningsanförandet](2023/may/keynote.md)
       + [API-demo](2023/may/new-apis.md)
@@ -57,9 +73,9 @@ ht-degree: 2%
       + [Adobe-klientdatalager](2021/february/adobe-client-data-layer.md)
       + [Adobe Experience Platform SDKs](2021/february/experience-platform-sdk-launch.md)
       + [API-autentisering med Experience Manager Cloud Service](2021/february/api-authentication.md)
-      + [Massförbrukning av resurser](2021/february/asset-bulk-ingestion.md)
+      + [Massinmatning av tillgångar](2021/february/asset-bulk-ingestion.md)
       + [Utbyggbarhet för tjänsten asset compute](2021/february/asset-compute-service-extensibility.md)
-      + [CIF-utbyggbarhet via GraphQL](2021/february/cif-extensibility-graphql.md)
+      + [CIF utbyggbarhet via GraphQL](2021/february/cif-extensibility-graphql.md)
       + [Innehåll och handel med Experience Manager](2021/february/content-commerce.md)
       + [Innehållsleverans med Experience Manager Cloud Service](2021/february/content-delivery.md)
       + [Egna funktionstester](2021/february/custom-functional-tests-cicd.md)
@@ -140,7 +156,7 @@ ht-degree: 2%
       + [PDF Embed API](2021/october/pdf-embed-api.md)
       + [PDF Extract API](2021/october/pdf-extract-api.md)
       + [Introduktion till Adobe PDF Services API](2021/october/pdf-services-api.md)
-      + [PWA Studio bästa praxis för nybörjare](2021/october/pwa-studio-best-practices.md)
+      + [PWA Studio Best Practices for Beginners](2021/october/pwa-studio-best-practices.md)
       + [Skapa snabbt webbplatser](2021/october/quick-site-creation.md)
       + [Relevant sökning och e-handel](2021/october/relevant-search-ecommerce.md)
       + [Cloud Servicen Skärmar](2021/october/aem-screens-cs.md)

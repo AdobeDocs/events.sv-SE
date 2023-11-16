@@ -2,7 +2,7 @@
 user-guide-title: Commerce Intelligence Events
 breadcrumb-title: Commerce Intelligence Events
 user-guide-description: Commerce Intelligence Events är ett videobibliotek där experter och kollegor har delat med sig av sina tankar och idéer om Adobe Commerce Intelligence.
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 4%
@@ -14,9 +14,9 @@ ht-degree: 4%
 
 + [Översikt](overview.md)
 + 2023 {#2023}
+   + [Komma igång med Commerce Intelligence](2023/getting-started.md)
    + [Hantera datauppsättningar i Commerce Intelligence](2023/manage-data-sets.md)
 + 2021 {#2021}
-   + [Komma igång med Commerce Intelligence](2021-22/getting-started.md)
    + [Optimera er Commerce Intelligence-Data Warehouse](2021-22/optimize-data-warehouse.md)
    + [Deep Dive för kontrollpaneler för Commerce Intelligence](2021-22/dashboards-deep-dive.md)
    + [Readiness with Commerce Intelligence](2021-22/holiday-readiness.md)
