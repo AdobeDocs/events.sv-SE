@@ -2,18 +2,16 @@
 title: Öppnar inledningsanförandet
 description: Under den här inledningssessionen, som spelades in på Adobe Developers Live Content and Commerce den 6 november 2023, presenterar branschexperterna Nishant Kapoor och Cedric Huesler de senaste framstegen i Adobe Commerce och Experience Manager. Utforska utvecklingen och framtiden för dessa kraftfulla plattformar, med fokus på verkliga applikationer, verktyg för utveckling av lågkod och strategier för underhåll av högpresterande webbplatser. Ron Nagy är värd för denna insiktsfulla session och erbjuder en djupdykning i de verktyg som möjliggör engagerande, personaliserade digitala upplevelser.
 solution: Commerce, Experience Manager as a Cloud Service
-version: ???
-feature: ??? - select one or more from: https://adobe.ly/3JfnRW9
 topic: Development
 role: Developer
 level: Beginner
 doc-type: Event
-last-substantial-update: 2023-11-15
+last-substantial-update: 2023-11-15T00:00:00Z
 jira: KT-14419
 thumbnail: 3425637.jpeg
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: ee784fa4421919f0af180a36eca30644d27de7a1
 workflow-type: tm+mt
-source-wordcount: 163
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
