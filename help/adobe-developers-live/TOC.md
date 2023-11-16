@@ -3,7 +3,7 @@ user-guide-title: Adobe Developers Live Events
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Samling med inspelningar från Adobe Developer Live Content event
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: 543ecb57f8864ef5fa052f61a01029496f45495e
 workflow-type: tm+mt
 source-wordcount: '700'
 ht-degree: 3%
@@ -17,20 +17,20 @@ ht-degree: 3%
 + 2023 {#2023}
    + November {#nov2023}
       + [Öppnar inledningsanförandet](2023/november/keynote.md)
-      + Edge-leveranstjänster
+      + Edge-leveranstjänster {#nov-edgedeliveryservices}
          + [Bygg en webbplats](2023/november/edge-breakout-1.md)
          + [Webbplatsprestanda](2023/november/edge-breakout-2.md)
          + [En kunddistribution](2023/november/edge-breakout-3.md)
          + [Dokumentbaserad redigering](2023/november/deep-dive.md)
-      + Headless
+      + Headless {#nov-headless}
          + [Headless-API:er](2023/november/headless-breakout-1.md)
          + [Universal Editor](2023/november/headless-breakout-2.md)
          + [Externa datakällor](2023/november/headless-breakout-3.md)
-      + Commerce
-         + [Katalogtjänster](2023/novemnber/commerce-breakout-1.md)
-         + [Integrera med Amazon Sales Channel](2023/novemnber/commerce-breakout-2.md)
-         + [Händelsedriven utbyggbarhet](2023/novemnber/commerce-breakout-3.md)
-         + [API-nät](2023/novemnber/commerce-breakout-4.md)
+      + Commerce {#nov-commerce}
+         + [Katalogtjänster](2023/november/commerce-breakout-1.md)
+         + [Integrera med Amazon Sales Channel](2023/november/commerce-breakout-2.md)
+         + [Händelsedriven utbyggbarhet](2023/november/commerce-breakout-3.md)
+         + [API-nät](2023/november/commerce-breakout-4.md)
    + Maj {#may2023}
       + [Öppnar inledningsanförandet](2023/may/keynote.md)
       + [API-demo](2023/may/new-apis.md)
