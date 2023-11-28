@@ -10,15 +10,15 @@ doc-type: Event
 last-substantial-update: 2023-10-27T00:00:00Z
 jira: KT-14152
 thumbnail: 3424863.jpeg
-source-git-commit: 92d4404a950f68a4cdc675b52c8623cfdd54c9e6
+exl-id: ce446884-62e9-4f4a-9af6-6ee38726420c
+source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
-
-# Kunskapsutbyteshändelse aug 2023 - Workfront Learn Track - Resource Management Foundation
+# Resurshanteringsgrunden
 
 Om du har funderat på att använda Adobe Workfront resurshanteringsverktyg men inte vet var du ska börja är det här den perfekta sessionen för dig!
 

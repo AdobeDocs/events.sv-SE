@@ -3,10 +3,10 @@ user-guide-title: Kunskapsutbyte
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Samling av inspelningar från Experience Makers Kunskapsutbyte
 event-series: The Skill Exchange
-source-git-commit: f0a805efa9e6599df4aefa87f6de048bca9a5661
+source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 7%
+source-wordcount: '446'
+ht-degree: 6%
 
 ---
 
@@ -111,7 +111,15 @@ ht-degree: 7%
       + [Ultimata tips och tricks för din Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + Augusti 2023 {#aug2023}
+      + [En introduktion till styrelser](workfront/aug2023/introduction-to-boards.md)
+      + [Experience Makers Spotlight](workfront/aug2023/spotlight.md)
+      + [Tillväxt och kontinuerlig effektivitet](workfront/aug2023/growth-continued-efficiencies.md)
+      + [Matcha Workfront i hela företaget](workfront/aug2023/workfront-across-enterprise.md)
+      + [Inbyggd integrering med Creative Cloud](workfront/aug2023/native-integtrations.md)
+      + [Ändamålsstyrda automatiseringar](workfront/aug2023/automations.md)
+      + [Resurshanteringsläckare](workfront/aug2023/resource-management-burnout.md)
       + [Resurshanteringsgrunden](workfront/aug2023/resource-management.md)
+      + [Startsats för resurshantering](workfront/aug2023/resource-management-starter-kit.md)
    + April 2022 {#apr2022}
       + [Tips för att imponera på din Workfront](workfront/apr2022/ten-tips.md)
       + [Beräknade fält som alla ska känna till](workfront/apr2022/calculated-fields.md)
