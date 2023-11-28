@@ -2,10 +2,9 @@
 user-guide-title: Adobe Developers Live Events
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Samling med inspelningar från Adobe Developer Live Content event
-feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: 543ecb57f8864ef5fa052f61a01029496f45495e
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
-source-wordcount: '700'
+source-wordcount: '718'
 ht-degree: 3%
 
 ---
@@ -27,10 +26,13 @@ ht-degree: 3%
          + [Universal Editor](2023/november/headless-breakout-2.md)
          + [Externa datakällor](2023/november/headless-breakout-3.md)
       + Commerce {#nov-commerce}
-         + [Katalogtjänster](2023/november/commerce-breakout-1.md)
-         + [Integrera med Amazon Sales Channel](2023/november/commerce-breakout-2.md)
-         + [Händelsedriven utbyggbarhet](2023/november/commerce-breakout-3.md)
+         + [Adobe App Builder, Adobe IO, Webhooks och Admin UI SDK](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
          + [API-nät](2023/november/commerce-breakout-4.md)
+         + [Katalogtjänster](2023/november/commerce-breakout-1.md)
+         + [Händelsedriven utbyggbarhet](2023/november/commerce-breakout-3.md)
+         + [Integrera med Amazon Sales Channel](2023/november/commerce-breakout-2.md)
+         + [Introduktion till Adobe Commerce](2023/november/intro-to-adobe-commerce.md)
+         + [Sök- och katalogtjänst](2023/november/commerce-search-and-catalog-service.md)
    + Maj {#may2023}
       + [Öppnar inledningsanförandet](2023/may/keynote.md)
       + [API-demo](2023/may/new-apis.md)

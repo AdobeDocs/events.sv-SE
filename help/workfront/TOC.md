@@ -2,8 +2,7 @@
 user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
-feature-set: Workfront
-source-git-commit: 07e92e59ba5c6b0b9ac7d66fb929d0be4d8b1f06
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -17,7 +16,7 @@ ht-degree: 0%
 + Administrering {#administration}
    + [Granskningsspår och efterlevnad](user-groups/audit-trails-and-compliance.md)
    + [Automatisera arbetsflöden med Workfront Fusion](user-groups/automating-workflows-with-workfront-fusion.md)
-   + [Reklambyråer: Arbetsflöde och process](user-groups/creative-agencies-workflows-and-process.md)
+   + [Kreativa myndigheter: Arbetsflöde och process](user-groups/creative-agencies-workflows-and-process.md)
    + [Dra nytta av anpassade Forms](user-groups/leveraging-custom-forms.md)
    + [Systemadministratörens bästa praxis](user-groups/system-admin-best-practices.md)
    + [Workfront System Maintenance](user-groups/workfront-system-maintenance.md)
@@ -25,7 +24,7 @@ ht-degree: 0%
    + [Agile in Marketing](user-groups/agile-in-marketing.md)
 + Rapportering och kontrollpaneler {#reporting-and-dashboards}
    + [Avancerad rapportering](user-groups/advanced-reporting.md)
-   + [Reklambyråer: Rapportering och kontrollpaneler](user-groups/creative-agencies-reporting-and-dashboards.md)
+   + [Kreativa myndigheter: Rapporter och kontrollpaneler](user-groups/creative-agencies-reporting-and-dashboards.md)
    + [Mätningskvalitet och engagemang](webinars/gauging-quality-and-engagement.md)
    + [Introduktion till textlägesrapportering](webinars/introduction-to-text-mode-reporting.md)
    + [Rapportering och instrumentpaneler](user-groups/reporting-and-dashboards.md)
