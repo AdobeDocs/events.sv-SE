@@ -3,9 +3,9 @@ user-guide-title: Kunskapsutbyte
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Samling av inspelningar från Experience Makers Kunskapsutbyte
 event-series: The Skill Exchange
-source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
+source-git-commit: b5bbc2cade0b5bccb8dc1d06811fa526e612b4f2
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '443'
 ht-degree: 6%
 
 ---
@@ -118,8 +118,7 @@ ht-degree: 6%
       + [Inbyggd integrering med Creative Cloud](workfront/aug2023/native-integtrations.md)
       + [Ändamålsstyrda automatiseringar](workfront/aug2023/automations.md)
       + [Resurshanteringsläckare](workfront/aug2023/resource-management-burnout.md)
-      + [Resurshanteringsgrunden](workfront/aug2023/resource-management.md)
-      + [Startsats för resurshantering](workfront/aug2023/resource-management-starter-kit.md)
+         + [Startsats för resurshantering](workfront/aug2023/resource-management-starter-kit.md)
    + April 2022 {#apr2022}
       + [Tips för att imponera på din Workfront](workfront/apr2022/ten-tips.md)
       + [Beräknade fält som alla ska känna till](workfront/apr2022/calculated-fields.md)
