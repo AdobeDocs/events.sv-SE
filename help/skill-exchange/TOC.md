@@ -3,9 +3,9 @@ user-guide-title: Kunskapsutbyte
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Samling av inspelningar från Experience Makers Kunskapsutbyte
 event-series: The Skill Exchange
-source-git-commit: ec6cc182a6c28d629c0ce2905997f369eb214fb2
+source-git-commit: 0fee35240f4f19707da7a222680858ccf89d0377
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '446'
 ht-degree: 6%
 
 ---
@@ -76,6 +76,7 @@ ht-degree: 6%
          + [Komma igång med AEM Assets](aem/aug2023/getting-started-aem-assets.md)
          + [Utnyttja ett samarbetsbaserat resurshanteringssystem](aem/aug2023/collaborative-dam.md)
          + [Skala för AI-beredskap](aem/aug2023/metadata.md)
+         + [Strålkastare](aem/aug2023/spotlight.md)
    + Augusti 2022 {#aug2022}
       + Developer Track {#developer-track}
          + [Experience Makers Spotlight](aem/aug2022/spotlight.md)
@@ -116,6 +117,7 @@ ht-degree: 6%
       + [Tillväxt och kontinuerlig effektivitet](workfront/aug2023/growth-continued-efficiencies.md)
       + [Matcha Workfront i hela företaget](workfront/aug2023/workfront-across-enterprise.md)
       + [Inbyggd integrering med Creative Cloud](workfront/aug2023/native-integtrations.md)
+      + [Öppnar inledningsanförandet](workfront/aug2023/opening-keynote.md)
       + [Ändamålsstyrda automatiseringar](workfront/aug2023/automations.md)
       + [Resurshanteringsläckare](workfront/aug2023/resource-management-burnout.md)
       + [Startsats för resurshantering](workfront/aug2023/resource-management-starter-kit.md)
