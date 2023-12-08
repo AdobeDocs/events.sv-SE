@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Insamling av inspelningar från [!DNL Experience Makers Learn from your peers]"
-source-git-commit: e1b2587ab6b761998127b5486201bde9ee50fcd6
+source-git-commit: 787fd78cb2ceb61f296bfe63c5b4e6cf71712abf
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 15%
+source-wordcount: '128'
+ht-degree: 0%
 
 ---
 
@@ -13,9 +13,11 @@ ht-degree: 15%
 # [!DNL Experience Makers - Learn from your peers] {#learn-from-your-peers-recordings}
 
 + [Upplevelsemakare](overview.md)
-+ Analytics {#analytics}
++ Analyser {#analytics}
    + 2023 {#2023}
-      + Augusti {#aug2023}
+      + November {#nov2023}
+         + [Effektiv datavisualiseringar](analytics/nov2023/impactful-data-visualizations.md)
+      + augusti {#aug2023}
          + [Frigöra kraften i Bearbetningsregler i Adobe Analytics](analytics/aug2023/processing-rules.md)
       + Februari {#feb2023}
          + [Bygga en datadriven kultur](analytics/feb2023/data-driven-culture.md)
@@ -24,7 +26,7 @@ ht-degree: 15%
       + November {#nov2022}
          + [Tips och tricks](analytics/nov2022/tips-and-tricks.md)
          + [Champion Tips and Tricks - uppföljningsfrågor och svar](analytics/nov2022/tips-and-tricks-q-and-a.md)
-      + Augusti {#aug2022}
+      + augusti {#aug2022}
          + [Datakvalitet och acceptans](analytics/aug2022/data-quality.md)
       + Juni {#jun2022}
          + [Dokumentationsuppdrag möjligt](analytics/june2022/mission-possible.md)
