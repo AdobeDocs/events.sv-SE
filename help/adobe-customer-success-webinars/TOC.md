@@ -2,10 +2,10 @@
 user-guide-title: Adobe - nöjda webbseminarier
 breadcrumb-title: Adobe - nöjda webbseminarier
 user-guide-description: Adobe kundnöjda webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe-lösningar.
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 1%
+source-wordcount: '106'
+ht-degree: 0%
 
 ---
 
@@ -19,6 +19,7 @@ ht-degree: 1%
    + [Innehåll och upplevelser - personalisering](2023/content-experiences-personalization.md)
    + [Migreringsberedskap för Customer Journey Analytics](2023/cja-migration-readiness.md)
    + [Customer Journey Analytics Integration Essentials](2023/cja-integration-essentials.md)
+   + [Utveckla en strategi för datainsamling och aktivering i realtid](2023/data-collection-activation-strategy.md)
    + [Effektiv mätningsstrategi](2023/measurement-strategy.md)
    + [Foundationsstrategi för kampanjsamordning](2023/foundational-strategy-campaign.md)
    + [Prioritera intelligens och mätning](2023/intelligence-and-measurement.md)

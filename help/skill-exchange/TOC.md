@@ -3,10 +3,10 @@ user-guide-title: Kunskapsutbyte
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Samling av inspelningar från Experience Makers Kunskapsutbyte
 event-series: The Skill Exchange
-source-git-commit: 0fee35240f4f19707da7a222680858ccf89d0377
+source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 6%
+source-wordcount: '496'
+ht-degree: 7%
 
 ---
 
@@ -14,7 +14,17 @@ ht-degree: 6%
 # Kunskapsutbyte {#the-skill-exchange-recordings}
 
 + [Översikt](overview.md)
-+ Analytics {#analytics}
++ Analyser {#analytics}
+   + Aug 2023 {#aug2023}
+      + [Alla Om segment](analytics/aug2023/spotlight-segments.md)
+      + [Analysera data](analytics/aug2023/analyze-the-data.md)
+      + [Utbilda den tillfälliga arbetsytans användare](analytics/aug2023/spotlight.md)
+      + [Korrigera navigeringen](analytics/aug2023/fix-navigation.md)
+      + [Fyra underanvända funktioner](analytics/aug2023/data-analysis.md)
+      + [Komma igång](analytics/aug2023/getting-started.md)
+      + [Förbättra kundupplevelsen](analytics/aug2023/anti-conversion.md)
+      + [Anteckning](analytics/aug2023/keynote.md)
+      + [Sammanställ allt](analytics/aug2023/putting-together.md)
    + Maj 2023 {#may2023}
       + [Adobe Analytics Tips &amp; Tricks](analytics/may2023/tips-and-tricks.md)
       + [Migrera till EDDL/WebSDK](analytics/may2023/migrate.md)
@@ -72,6 +82,7 @@ ht-degree: 6%
          + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
          + [Bygga ett effektivt och skalbart stilsystem](aem/aug2023/scalable-style-system.md)
          + [Migrera till AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
+         + [Personaliserade e-postmeddelanden](aem/aug2023/personalized-marketing-emails.md)
       + Web Track {#webtrack}
          + [Komma igång med AEM Assets](aem/aug2023/getting-started-aem-assets.md)
          + [Utnyttja ett samarbetsbaserat resurshanteringssystem](aem/aug2023/collaborative-dam.md)
