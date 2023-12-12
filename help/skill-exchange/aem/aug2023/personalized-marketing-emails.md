@@ -1,8 +1,8 @@
 ---
 title: Skapa högskräddarsydda e-postmeddelanden med AEM
 description: E-postkommunikation är ett av de viktigaste sätten att nå ut till befintliga och potentiella nya kunder. Att kunna skapa extremt personaliserade e-postmeddelanden effektivt kan öka kundengagemanget avsevärt. När någon tänker på AEM (Adobe Experience Manager) tänker de ofta på webbplatser och webbinnehåll. Men visste du att AEM också kan användas för att skapa e-postmeddelanden?
-feaeture-set: Experience Manager Sites
-feature: Core components, Developing
+feature-set: Experience Manager Sites
+feature: Core Components, Developing
 topic: Personalization
 role: Developer
 level: Intermediate, Experienced
@@ -11,7 +11,7 @@ duration: 2198
 last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14650
 thumbnail: 3425982.jpeg
-source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
+source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
