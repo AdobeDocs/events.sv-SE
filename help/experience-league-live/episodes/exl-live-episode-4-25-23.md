@@ -6,12 +6,12 @@ kt: 13041
 thumbnail: https://video.tv.adobe.com/v/3417927?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=jGjIKIWFNsM
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230425.html
-event-start-time: 2023-4-25 09:00-8
+event-start-time: 2023-04-25 09:00-8
 event-guests: Rudi Shumpert,Travis Jordan,Doug Moore
 exl-id: 1c5c5c90-9772-440e-a7eb-5138d4adadb9
-source-git-commit: 1f9b259f31faf9c58a8ea161d17dcffdba47a53d
+source-git-commit: af23ea73c76387f9e7be277227fd786d7ce9b02c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
