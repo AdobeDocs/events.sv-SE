@@ -2,10 +2,10 @@
 user-guide-title: Adobe Developers Live Events
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Samling med inspelningar från Adobe Developer Live Content event
-source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
+source-git-commit: c50f4241e22bc858473156a3e7cd32052177a5e1
 workflow-type: tm+mt
-source-wordcount: '718'
-ht-degree: 3%
+source-wordcount: '777'
+ht-degree: 1%
 
 ---
 
@@ -16,23 +16,34 @@ ht-degree: 3%
 + 2023 {#2023}
    + November {#nov2023}
       + [Öppnar inledningsanförandet](2023/november/keynote.md)
-      + Edge-leveranstjänster {#nov-edgedeliveryservices}
+      + [Inledande keynote (APAC)](2023/november/keynote-apac.md)
+      + [Automatisera arbetsflöden för innehåll med App Builder](2023/november/content-workflows.md)
+      + [Komponentutveckling och driftsättning på framsidan](2023/november/component-development.md)
+      + [Leverans av flerkanalsinnehåll](2023/november/omnichannel.md)
+      + Edge Delivery Services {#nov-edgedeliveryservices}
          + [Bygg en webbplats](2023/november/edge-breakout-1.md)
          + [Webbplatsprestanda](2023/november/edge-breakout-2.md)
          + [En kunddistribution](2023/november/edge-breakout-3.md)
          + [Dokumentbaserad redigering](2023/november/deep-dive.md)
+         + [Edge Delivery Services Tech Overview](2023/november/edge-delivery-services-tech-overview.md)
       + Headless {#nov-headless}
          + [Headless-API:er](2023/november/headless-breakout-1.md)
+         + [Introduktion till Universal Editor](2023/november/intro-universal-editor.md)
+         + [Intro till Headless Forms](2023/november/headless-forms.md)
          + [Universal Editor](2023/november/headless-breakout-2.md)
          + [Externa datakällor](2023/november/headless-breakout-3.md)
-      + Commerce {#nov-commerce}
+      + Handel {#nov-commerce}
          + [Adobe App Builder, Adobe IO, Webhooks och Admin UI SDK](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
          + [API-nät](2023/november/commerce-breakout-4.md)
          + [Katalogtjänster](2023/november/commerce-breakout-1.md)
+         + [Leverera handelsprestanda via plattform](2023/november/commerce-performance.md)
          + [Händelsedriven utbyggbarhet](2023/november/commerce-breakout-3.md)
+         + [Handelens framtid](2023/november/future-of-commerce.md)
          + [Integrera med Amazon Sales Channel](2023/november/commerce-breakout-2.md)
          + [Introduktion till Adobe Commerce](2023/november/intro-to-adobe-commerce.md)
          + [Sök- och katalogtjänst](2023/november/commerce-search-and-catalog-service.md)
+         + [Strategier för att optimera er Commerce-webbplats](2023/november/commerce-site-performance.md)
+         + [Spåra ändringar i Adobe Commerce Cloud](2023/november/commerce-cloud-track-changes.md)
    + Maj {#may2023}
       + [Öppnar inledningsanförandet](2023/may/keynote.md)
       + [API-demo](2023/may/new-apis.md)
@@ -101,7 +112,7 @@ ht-degree: 3%
       + [Snabb utveckling av frontend](2021/february/rapid-frontend-devlopment.md)
       + [SPA Editor 2.0](2021/february/spa-editor-2-0.md)
       + [Omvandla en webbplats till en progressiv webbapp](2021/february/any-site-into-pwa.md)
-   + Oktober {#oct2021}
+   + oktober {#oct2021}
       + [Översikt](2021/october/overview.md)
       + [Öppnar inledningsanförandet](2021/october/keynote.md)
       + [Accelerating Transition to Experience Manager CS](2021/october/accelerate-transistion.md)
