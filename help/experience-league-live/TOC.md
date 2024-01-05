@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 14a1df2b02b0eab4c86073c82627507106011a86
+source-git-commit: ba2c392cef2c5bd49eeaeb9241396c9b13389fdb
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 0%
 
 + [Översikt](overview.md)
 + Avsnitten {#episodes}
+   + [Ep. 31: Lägg in data och analyser från Adobe Analytics i Customer Journey Analytics](episodes/exl-live-episode-01-17-24.md)
    + [Ep. 30: Räkna ned till 2024 med de fem viktigaste nya funktionerna i Adobe Real-Time CDP](episodes/exl-live-episode-12-14-23.md)
    + [Ep. 29: Få ut mesta möjliga av dina beteendehändelsedata i Real-Time CDP och AJO](episodes/exl-live-episode-11-14-23.md)
    + [Ep. 28: Workfront Release Deep Dive - new Workfront Home](episodes/exl-live-episode-10-26-23.md)
