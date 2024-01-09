@@ -2,10 +2,10 @@
 title: Commerce Intelligence Webinars
 description: Utforska Commerce Intelligence-inspelade webbinarier som täcker ett brett urval av ämnen och bästa praxis för att använda Commerce Intelligence i sin fulla potential.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: 5be00538f31610434e2853d4c94fb0611726e709
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 2%
+source-wordcount: '265'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 2%
 >
 >Adobe Commerce Intelligence kallades tidigare [!DNL Magento Business Intelligence (MBI)]. Inspelningar för tidigare händelser återspeglar det tidigare namnet.
 
-Webbinariet Commerce Intelligence är en periodisk händelse för MBI-kunder. Webbinarierna täcker ett brett urval av ämnen och bästa metoder för att använda Commerce Intelligence i sin fulla potential.
+Webbseminariet Commerce Intelligence är en periodisk händelse för Commerce Intelligence-kunder. Webbinarierna täcker ett brett urval av ämnen och bästa metoder för att använda Commerce Intelligence i sin fulla potential.
 
 Deltagare från alla platser kan delta i evenemangen live för att bättre förstå produkten och få sina frågor om funktionen för Commerce Intelligence besvarade direkt.
 
@@ -26,12 +26,12 @@ Frågorna upprepas då och då för att ge plats åt eventuella nya frågor som 
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
-      <img alt="Komma igång med MBI" src="./assets/getting-started-mbi.png" />
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
+      <img alt="Komma igång med Commerce Intelligence" src="./assets/getting-started.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
-        <strong>Komma igång med MBI</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
+        <strong>Komma igång med Commerce Intelligence</strong>
       </a>
     </div>
     <p>
@@ -39,11 +39,11 @@ Frågorna upprepas då och då för att ge plats åt eventuella nya frågor som 
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/manage-data-sets.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
       <img alt="Hantera datauppsättningar i MBI" src="./assets/managing-data-sets-mbi.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/manage-data-sets.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
         <strong>Hantera datauppsättningar i MBI</strong>
       </a>
     </div>
@@ -52,11 +52,11 @@ Frågorna upprepas då och då för att ge plats åt eventuella nya frågor som 
     <p>
   </td>
    <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/optimize-data-warehouse.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
       <img alt="Optimera din MBI-Data Warehouse" src="./assets/optimize-data-warehouse.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/optimize-data-warehouse.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
         <strong>Optimera din MBI-Data Warehouse</strong>
       </a>
     </div>
