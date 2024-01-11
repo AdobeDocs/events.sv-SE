@@ -2,16 +2,16 @@
 title: Upplevelsemakare i kunskapsutbyte
 description: Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som fokuserar på att fördjupa sig i Adobe Experience Cloud lösningar.
 exl-id: 6d0f26c7-d5d2-4993-b2a1-58d5880f8f96
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: ba3b7d08ae9e9b703bc48df1c5963b8576f51733
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
 # Upplevelsemakare i kunskapsutbyte {#overview}
 
-<img alt="Upplevelsemakare i kunskapsutbyte" src="./assets/skill-exchange.png" />
+<img alt="Upplevelsemakare i kunskapsutbyte" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
 
 Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som fokuserar på att fördjupa sig i Adobe Experience Cloud lösningar. Programmet ger möjlighet att lära sig av produktexperter och expertkollegor på Adobe genom att dela med sig av bästa praxis och tips och tricks.
 
