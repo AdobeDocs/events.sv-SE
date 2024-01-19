@@ -7,9 +7,9 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
-source-git-commit: e4d280f98bf46b0f2c663e85bedd1fed4f85cafe
+source-git-commit: 830d7210220293c9c9b6e7923213e9e7f5936d2c
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '176'
 ht-degree: 1%
 
 ---
@@ -24,8 +24,16 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 <table>
 <tr>
-  <td style="vertical-align: top;">
-    Kom tillbaka till den här sidan snart för att få information om vår show som kommer den 8 februari 2024!
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-08-24.md">
+      <img alt="Experience League LIVE feb 08" src="episodes/assets/WebBanner-Feb08-2024.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-02-08-24.md">
+        <strong>Använd fallspelsböcker, självbetjäningsmallar för att driftsätta användningsexempel med bara några klick för Real-Time CDP och Journey Optimizer</strong>
+      </a>
+      <br/><em>med Daniel Wright, Michael Monette-Healey och Rohit Basuri</em>
+      <br/><em>8 feb 2024</em>
+    </div>
   </td>
 </tr>
 </table>
