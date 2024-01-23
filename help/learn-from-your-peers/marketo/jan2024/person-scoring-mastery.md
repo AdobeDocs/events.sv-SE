@@ -9,9 +9,9 @@ duration: 2373
 last-substantial-update: 2024-01-22T00:00:00Z
 jira: KT-14816
 thumbnail: 3426914.jpeg
-source-git-commit: 76114d714811f932ee6a30a4f0da77fedc9e136c
+source-git-commit: c2801af2ad596fca76eb920a4fce06811124f359
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -34,8 +34,8 @@ På det här webbinariet får du lära dig:
 ## Resurser som delas i webbinariet
 
 * Marketing Nation Community Webinar Thread - [Diskussion](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
-* Person/ansvarig för bedömning med lokala influensaövningar: [Kalkylblad](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
-* The Big List of Lead Scoring Rules - [Kalkylblad](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
+* Person/lead-poäng med lokala influensaövningar - [Ladda ned kalkylblad](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
+* The Big List of Lead Scoring Rules - [Visa kalkylblad](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
 * Marketo Engage Program Import Library - [Dokumentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
 * Betygsätt allt för att känna till processen före, under och efter - [On-demandwebbinarium](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
 * Champion får högsta betyg - [Blogg](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
