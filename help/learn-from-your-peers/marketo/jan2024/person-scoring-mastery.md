@@ -9,9 +9,9 @@ duration: 2373
 last-substantial-update: 2024-01-22T00:00:00Z
 jira: KT-14816
 thumbnail: 3426914.jpeg
-source-git-commit: 06f787d8dd891e1afe3b8eda58c4790542a3a082
+source-git-commit: febc091c03cf8f11590de7dec9545e67b68e5eff
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,9 @@ På det här webbinariet får du lära dig:
 
 ## Resurser som delas i webbinariet
 
-* Marketing Nation Community Webinar Thread - [Diskussion](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864)
-&lt;— [Kalkylblad] Person/ansvarig för bedömning med lokala influensaövningar: [LÄNK SOM SKA LÄGGAS TILL] —>
-* The Big List of Lead Scoring Rules - [Kalkylblad](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf)
-* Marketo Engage Program Import Library - [Dokumentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html)
-* Betygsätt allt för att känna till processen före, under och efter - [On-demandwebbinarium](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html)
-* Champion får högsta betyg - [Blogg](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849)
+* Marketing Nation Community Webinar Thread - [Diskussion](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
+* Person/ansvarig för bedömning med lokala influensaövningar: [Kalkylblad](../../assets/marketo/[Worksheet]%20Build%20Scoring%20Model%20and%20Local%20Flexibility%20Scoring.docx){target="_blank"}
+* The Big List of Lead Scoring Rules - [Kalkylblad](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
+* Marketo Engage Program Import Library - [Dokumentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
+* Betygsätt allt för att känna till processen före, under och efter - [On-demandwebbinarium](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
+* Champion får högsta betyg - [Blogg](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
