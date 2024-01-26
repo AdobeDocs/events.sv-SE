@@ -7,7 +7,8 @@ topic: Administration
 role: User
 level: Intermediate
 hidefromtoc: true
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+duration: 11
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%
@@ -22,4 +23,3 @@ ht-degree: 0%
 >
 >* Information om kommande sessioner kommer att följa efter i början av november 2022.
 >* Registrera dig på [AdobeAEM User Group](https://aem-augs.adobe.com/) för att få meddelanden om kommande webbinarier automatiskt.
-

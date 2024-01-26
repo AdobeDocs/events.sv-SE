@@ -1,15 +1,15 @@
 ---
 title: Fråga experten om bästa praxis för att maximera Workfront-korrektur
 description: Lär dig hur du konfigurerar inställningar, aktiverar bra rapporter och undviker vanliga fel i korrektur. Det här webbinariet spelades in den 26 februari 2020.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
 exl-id: 7d3e437d-4a6e-44b8-9eff-eabb8284c391
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 5182
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '5566'
-ht-degree: 2%
+source-wordcount: '5572'
+ht-degree: 0%
 
 ---
 

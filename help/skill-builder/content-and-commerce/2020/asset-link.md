@@ -13,16 +13,17 @@ version: Cloud Service
 type: Event
 kt: 7342
 exl-id: 8b9bd020-f584-41a5-9cef-6aefdec4907b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3674
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '168'
 ht-degree: 1%
 
 ---
 
 # Asset Link - Adobe Experience Manager Asset Series
 
-Använd den här webbinarierna med fem delar för att bygga upp din kunskapsbas och maximera er investering i Adobe Experience Manager Assets. Om du är en läkare som inte har använt Adobe Experience Manager Assets tidigare eller har använt Adobe Experience Manager Assets ett tag och vill tränga in i dina färdigheter är detta det idealiska sättet att få djupdykning i fem av de viktigaste områdena i lösningen. Adobe experter granskar grunderna och ger även avancerade insikter som ger er de åtgärder ni kan vidta direkt.
+Använd den här webbinarierna med fem delar för att bygga upp din kunskapsbas och maximera er investering i Adobe Experience Manager Assets. Om du är en läkare som är nybörjare i Adobe Experience Manager Assets eller har använt Adobe Experience Manager Assets ett tag och vill pensla in dina befintliga kunskaper är detta det idealiska sättet att få en djupdykning i fem av de viktigaste områdena i lösningen. Adobe experter granskar grunderna och ger även avancerade insikter som ger er de åtgärder ni kan vidta direkt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332127/?quality=12&learn=on&hidetitle=true)
 

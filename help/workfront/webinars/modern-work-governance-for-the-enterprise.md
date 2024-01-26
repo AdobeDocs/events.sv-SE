@@ -1,11 +1,11 @@
 ---
 title: Fråga experten - modern arbetsstyrning för företaget
 description: Lär dig hur du utvecklar ramverket för ert centrum för högskolor för att säkerställa framgång. Det här webbinariet spelades in den 5 augusti 2020.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9915
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+duration: 3698
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%

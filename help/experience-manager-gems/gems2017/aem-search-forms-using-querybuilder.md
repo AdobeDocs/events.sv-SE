@@ -1,13 +1,13 @@
 ---
 title: Sökformulär på ett enkelt sätt med AEM querybuilder
 description: Den här sessionen förklarar principerna bakom frågeverktyget jämfört med andra frågespråk i JCR-stacken. Här visas hur du enkelt kan använda det för att skapa skrivbara sökformulär, hur du skapar effektiva sökningar, hur du felsöker frågor och hur du kan utöka det.
-uuid: 867545ac-e175-4bd8-9d17-b5423f29031f
 discoiquuid: c7e8b80f-1eb3-4fa7-9d36-c76b493bd351
 targetaudience: target-audience advanced
 exl-id: 38cea360-b900-44e3-b565-b7c493fa6822
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3652
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---

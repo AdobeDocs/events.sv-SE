@@ -8,10 +8,11 @@ level: Experienced
 kt: 9199
 type: Event
 exl-id: 516ea10a-8783-4ddf-bed1-2415b38177cb
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1989
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 15%
+source-wordcount: '131'
+ht-degree: 5%
 
 ---
 
@@ -25,6 +26,6 @@ Följ oss för exempel och demonstrationer och se hur enkelt det är att komma i
 
 ## Ytterligare resurser
 
-- [Dokumentation om Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Översikt över Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=sv)

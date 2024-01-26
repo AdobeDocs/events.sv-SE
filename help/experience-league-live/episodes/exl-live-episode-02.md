@@ -4,13 +4,13 @@ description: Framgången för alla goda marknadsföringskampanjer beror på att 
 solution: Experience Platform
 kt: 8581
 thumbnail: https://video.tv.adobe.com/v/336422?format=jpeg
-event-cta-url: null
 event-start-time: 2021-08-26 09:00-7
 event-guests: Aaron Shields,Yaya Wang,Andres Monroy
 exl-id: b44e406b-eb82-4026-bf88-377c626e1056
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+duration: 3504
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---

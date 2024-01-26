@@ -1,13 +1,13 @@
 ---
 title: AEM [!DNL Forms] Introduktion till funktionspaket 1 och tekniska exempel
 description: AEM [!DNL Forms] Feature Pack 1 är uppgraderingsalternativet för driftsättning av LiveCyclen och ger dessa implementeringar större räckvidd så att de omfattar alla funktioner i AEM [!DNL Forms] plus mer. En introduktion till kunddrivna exempel som gjorts offentliga.
-uuid: da167766-78b9-44ef-80d9-88f7d7897611
 discoiquuid: db0f097d-9796-466d-b923-35be1e6483e1
 targetaudience: target-audience advanced
 exl-id: f651ed2b-a329-49d3-9595-64768cab9205
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2730
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---

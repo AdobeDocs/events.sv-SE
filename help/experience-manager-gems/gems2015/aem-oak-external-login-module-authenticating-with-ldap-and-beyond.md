@@ -1,11 +1,11 @@
 ---
 title: Oak's external login module - Authenticate with LDAP and beyond
 description: Se den nya externa inloggningsmodulen för Apache Jackrabbit Oak. Lär dig mer om inloggningsmodulen, synkroniseringshanteraren och identitetsleverantören. Hämta en demonstration av den konfiguration som krävs så att LDAP-användare automatiskt kan importeras till AEM för autentisering. Lär dig tips och tricks om hur du felsöker systemet om det inte fungerar på en gång.
-uuid: 97f60619-50fd-4f6d-ad77-3afb5951846c
 discoiquuid: dbc3dbdf-3bae-4ad8-a4dd-0bd28abebc58
 targetaudience: target-audience advanced
 exl-id: 31d8076c-b61e-4d3d-bc92-0cee1852d026
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3236
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%

@@ -4,14 +4,14 @@ description: Läs mer om Web SDK. Vi ska visa dig grunderna i Web SDK, inklusive
 solution: Data Collection,Experience Platform
 kt: 10412
 thumbnail: https://video.tv.adobe.com/v/343335?format=jpeg
-event-cta-url: null
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+duration: 3863
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 1%
+source-wordcount: '208'
+ht-degree: 0%
 
 ---
 
@@ -34,6 +34,6 @@ I det första av de tre sessionerna om insamling av data för Adobe Experience C
 * [Automatiskt insamlad information i Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
 * [Kostnadsfri etablering av Web SDK](https://adobe.ly/websdkaccess){target="_blank"}
 * [Information om enhets-ID:n för första part i Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
-* [Adobe Experience Platform Debugger - översikt och hämtning](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
+* [Översikt och nedladdning för Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
 * [Mobile SDK Docs](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
 * [Information om insamling av hybridappar](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}

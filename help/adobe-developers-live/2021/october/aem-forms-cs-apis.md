@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager Forms as a Cloud Service - Snabbspåra utvecklingen med API:er
-description: Lär dig hur du använder Adobe Experience Manager Forms as a Cloud Service API:er för att få tillgång till tjänster som Headless Delivery of Forms och Communications i stor skala. Detta seminarium handlar om hur du bygger klientapplikationer för Synkron och Batch Doc Gen med Adobe Experience Manager Forms CS API. Deltagarna får också en förhandsgranskning av kommande Headless-API:er för Forms som gör att utvecklare enkelt kan skapa mobilappar eller React-appar som innehåller formulär.
+description: Lär dig hur du använder Adobe Experience Manager Forms as a Cloud Service API:er för att få tillgång till tjänster som Headless Delivery of Forms och Communications i stor skala. Detta seminarium handlar om hur du bygger klientapplikationer för Synkron och Batch Doc Gen med Adobe Experience Manager Forms CS API. Deltagarna får också en förhandsgranskning av kommande Headless-API:er för Forms som gör att utvecklare enkelt kan skapa mobilappar eller React-appar som innehåller formulär.
 solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
@@ -8,10 +8,11 @@ version: Cloud Service
 kt: 9189
 type: Event
 exl-id: a54293b2-a8d9-475a-b315-18c4088a2d85
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1516
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 4%
+source-wordcount: '205'
+ht-degree: 0%
 
 ---
 
@@ -29,6 +30,6 @@ Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/3z
 
 ## Ytterligare resurser
 
-- [Dokumentation om Adobe Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 - [Adobe Experience Manager Cloud Service - översikt](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
-- [Självstudiekurser för Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
+- [Adobe Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

@@ -9,10 +9,11 @@ level: Experienced
 kt: 9136
 type: Event
 exl-id: 7f78af56-2d66-4e0d-a6cf-0b9c1b971804
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1287
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 17%
+source-wordcount: '113'
+ht-degree: 6%
 
 ---
 
@@ -24,6 +25,6 @@ Besök oss för en översikt över vårt API-erbjudande för appmotor i Creative
 
 ## Ytterligare resurser
 
-- [Dokumentation om Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Översikt över Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=sv)

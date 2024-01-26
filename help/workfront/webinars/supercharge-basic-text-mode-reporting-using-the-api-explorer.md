@@ -1,15 +1,15 @@
 ---
 title: Fråga experten - Utnyttja grundläggande textlägesrapportering med API Explorer
 description: Lär dig mer om API-utforskaren, hur du använder den och hur du förbättrar dina rapporter med hjälp av det grundläggande textläget. Det här webbinariet spelades in den 22 januari 2020.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9918
 exl-id: f859c4eb-8b3c-4d91-9765-9957dc4678f5
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4068
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '1660'
-ht-degree: 2%
+source-wordcount: '1656'
+ht-degree: 0%
 
 ---
 

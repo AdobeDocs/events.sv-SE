@@ -1,13 +1,13 @@
 ---
 title: Maskinöversättning i AEM
 description: Läs om hur AEM och Microsoft Translator levererar maskinöversättning så att ni kan utöka ert innehålls räckvidd, få kortare time-to-market, optimera kostnaderna och öka användarnas upptäckbarhet genom sökmotoroptimering, vilket ger bättre resursanvändning och ökad avkastning.
-uuid: c25c9806-560c-46ef-b9c0-ffe0af296ed9
 discoiquuid: c976c008-4f51-4146-8c34-265e9707be6a
 targetaudience: target-audience advanced
 exl-id: e4f4d4ec-f702-4958-913e-fb3d34421855
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3062
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---

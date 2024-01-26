@@ -13,16 +13,17 @@ version: Cloud Service
 type: Event
 kt: 7341
 exl-id: 01149450-8d92-4ea8-a048-86559dd323b7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3081
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '164'
 ht-degree: 1%
 
 ---
 
 # Dynamic Media - Adobe Experience Manager Asset Series
 
-Använd den här webbinarierna med fem delar för att bygga upp din kunskapsbas och maximera er investering i Adobe Experience Manager Assets. Om du är en läkare som inte har använt Adobe Experience Manager Assets tidigare eller har använt Adobe Experience Manager Assets ett tag och vill tränga in i dina färdigheter är detta det idealiska sättet att få djupdykning i fem av de viktigaste områdena i lösningen. Adobe experter granskar grunderna och ger även avancerade insikter som ger er de åtgärder ni kan vidta direkt.
+Använd den här webbinarierna med fem delar för att bygga upp din kunskapsbas och maximera er investering i Adobe Experience Manager Assets. Om du är en läkare som är nybörjare i Adobe Experience Manager Assets eller har använt Adobe Experience Manager Assets ett tag och vill pensla in dina befintliga kunskaper är detta det idealiska sättet att få en djupdykning i fem av de viktigaste områdena i lösningen. Adobe experter granskar grunderna och ger även avancerade insikter som ger er de åtgärder ni kan vidta direkt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332132/?quality=12&learn=on&hidetitle=true)
 

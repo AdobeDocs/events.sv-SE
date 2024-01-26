@@ -2,10 +2,11 @@
 title: Kunskapsbyggaren - översikt
 description: Inspelade webbinarier för att bygga upp din kunskapsbas och maximera er investering i Adobe Experience Cloud.
 exl-id: 48b7a0ea-2fcf-4387-8f9e-0405d59acd7f
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 48
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 3%
+source-wordcount: '141'
+ht-degree: 2%
 
 ---
 
@@ -20,7 +21,7 @@ SKill Builder är en webbinärserie som utformats för att bygga upp din kunskap
   <td>
     <img alt="Content and Commerce" src="assets/commerce.png" />
     <div>
-      <strong>Content and Commerce</strong>
+      <strong>Innehåll och handel</strong>
     </div>
     <p>
     <em>Skapa och hantera en rad engagerande webbplatser, mobilappar och formulär. Lär dig också att bygga flerkanalsupplevelser på en enda plattform med vår flexibla AI-baserade handelslösning.</em>

@@ -1,13 +1,13 @@
 ---
 title: Introduktion till AEM Screens
 description: AEM Screens är den nya digitala signeringslösningen som är integrerad i Adobe Experience Manager. I den här AEM Gems-sessionen presenterar vi huvudfunktionerna i AEM Screens och hur du skapar ett enkelt projekt med ett bildspel och en interaktiv upplevelse. Därefter får du en översikt över hur du utvecklar AEM Screens optimerade komponenter och hur du konfigurerar kanaler för offlineanvändning. Slutligen ska vi titta närmare på AEM Screens REST API och förklara hur vi integrerar anpassade Cordova-plugin-program.
-uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
 exl-id: 212a9f72-e5ed-4010-992b-b3a7a9c0d7b7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3127
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---

@@ -1,14 +1,14 @@
 ---
 title: Distribuera Adobe Analytics på en lokal AEM med molntjänsten Dynamic Tag Management
 description: AEM 6 har en molntjänst för Dynamic Tag Management (DTM), det sätt som Adobe rekommenderar att man driftsätter Adobe Analytics (och andra lösningar från Marketing Cloud) på en webbplats. Lär dig hur du ansluter en lokal AEM till DTM-tjänsten och skickar önskade användningsdata till Adobe Analytics.
-uuid: 0af8b03b-18dc-4701-93c6-65acdc85b6a2
 topic-tags: Dynamictagmanagement
 discoiquuid: a91aeec3-337f-4cfd-850d-6ece0041e550
 targetaudience: target-audience advanced
 exl-id: 94f6fe0f-b6cd-4484-bd1d-92fa31be4e17
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2846
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---

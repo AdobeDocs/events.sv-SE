@@ -9,10 +9,11 @@ level: Experienced
 kt: 9209
 type: Event
 exl-id: 6b0c3a6a-500b-4f7f-8872-0b6d9035a485
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1791
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 10%
+source-wordcount: '187'
+ht-degree: 3%
 
 ---
 
@@ -24,6 +25,6 @@ Med Adobe PDF Services API kan utvecklare skapa, kombinera, exportera, OCR och e
 
 ## Ytterligare resurser
 
-- [Dokumentation om Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Översikt över Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=sv)

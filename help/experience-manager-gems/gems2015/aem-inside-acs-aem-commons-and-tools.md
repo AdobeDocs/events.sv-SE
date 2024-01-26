@@ -1,11 +1,11 @@
 ---
 title: Inuti ACS AEM Commands and Tools
 description: Under den här sessionen kommer Justin Edelson, Global Evangelist för AEM och medprojektledare för ACS AEM Commons och ACS AEM Tools att ge lite bakgrundsinformation om målet och processerna som används i dessa öppen källkodsprojekt för AEM och demonstrera några av de viktigaste funktionerna.
-uuid: aef962ac-5e21-4582-9da2-cdfa6f5f18ff
 discoiquuid: 3210944a-4a03-495a-b652-3c9e54ecbc22
 targetaudience: target-audience advanced
 exl-id: 44aa2e08-f792-4b46-b7ff-c3a54c5a6bf0
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3249
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%

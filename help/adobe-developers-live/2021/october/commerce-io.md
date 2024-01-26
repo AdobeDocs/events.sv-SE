@@ -8,10 +8,11 @@ level: Experienced
 kt: 9200
 type: Event
 exl-id: 66157be8-eb97-452a-a8a5-97b1d61cd79b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1952
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 22%
+source-wordcount: '81'
+ht-degree: 8%
 
 ---
 
@@ -23,6 +24,6 @@ Läs om hur Adobe Commerce gör det möjligt för utvecklare och handlare att be
 
 ## Ytterligare resurser
 
-- [Dokumentation om Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Översikt över Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=sv)

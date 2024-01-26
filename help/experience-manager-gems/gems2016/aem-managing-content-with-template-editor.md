@@ -1,13 +1,13 @@
 ---
 title: Hantera ditt innehåll med malleditorn i Adobe Experience Manager
 description: Med Adobe Experience Manager 6.2 har en ny mallredigerare introducerats som ger nya, kraftfulla sätt att skapa, strukturera och konfigurera digitala egenskaper. Utforska funktionen ur ett superredigerandeperspektiv och se hur den kan användas för att skapa olika sidmallar och styra exakt vad skribenterna får göra på motsvarande sidor. Till sist, dyka i innermekaniken för att förstå hur den fungerar under huven.
-uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
 exl-id: 0f447b26-e145-48ea-8b75-a9c03b047da9
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2962
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
