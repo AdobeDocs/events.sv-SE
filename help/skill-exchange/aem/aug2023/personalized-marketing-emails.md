@@ -12,14 +12,14 @@ last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14650
 thumbnail: 3425982.jpeg
 exl-id: 38ddf2a1-3631-4844-a9a4-e2c8d1b57dd3
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: f23fdf7fc8b04af88ace43e56b7d6ff65cc02cf2
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
-# Kunskapsutbytesevent aug 2023 - Experience Maker Spotlight - Skapa högpersonaliserade e-postmeddelanden med AEM
+# Kunskapsutbytesevenemang augusti 2023 - Experience Maker Spotlight - Skapa högpersonaliserade e-postmeddelanden med AEM
 
 E-postkommunikation är ett av de viktigaste sätten att nå ut till befintliga och potentiella nya kunder. Att kunna skapa extremt personaliserade e-postmeddelanden effektivt kan öka kundengagemanget avsevärt. När någon tänker på AEM (Adobe Experience Manager) tänker de ofta på webbplatser och webbinnehåll. Men visste du att AEM också kan användas för att skapa e-postmeddelanden?
 
