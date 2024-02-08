@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 830d7210220293c9c9b6e7923213e9e7f5936d2c
+source-git-commit: 1e8c3a3c4cd7668a78d47a2f018a3dc27900630d
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 0%
 
 + [Översikt](overview.md)
 + Avsnitten {#episodes}
+   + [Ep. 33: Ligger steget före med det nya användargränssnittet i Adobe Campaign v8](episodes/exl-live-episode-02-29-24.md)
    + [Ep. 32: Använd fallspelningsböcker, självbetjäningsmallar för att driftsätta användningsexempel med bara några klick](episodes/exl-live-episode-02-08-24.md)
    + [Ep. 31: Lägg in data och analyser från Adobe Analytics i Customer Journey Analytics](episodes/exl-live-episode-01-17-24.md)
    + [Ep. 30: Räkna ned till 2024 med de fem viktigaste nya funktionerna i Adobe Real-Time CDP](episodes/exl-live-episode-12-14-23.md)
