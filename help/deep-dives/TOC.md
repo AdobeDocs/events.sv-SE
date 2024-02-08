@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: ec7e7cd800b0e3c78c259de4211190a090009c4d
+source-git-commit: a842ec8d316968db5331e97ec8c66f8c048a9cfd
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 6%
+source-wordcount: '38'
+ht-degree: 5%
 
 ---
 
@@ -27,3 +27,4 @@ ht-degree: 6%
    + [Ärva en instans](inheriting-an-instance.md)
    + [Leadlivscykler](lead-lifecycles.md)
    + [Maximera instansen med ett litet team](small-team-instance.md)
+   + [Notera komplexa processer i aktivitetsloggen](activity-log.md)
