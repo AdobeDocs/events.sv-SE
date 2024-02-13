@@ -3,7 +3,7 @@ title: Starta bästa praxis
 description: Under den här sessionen får du lära dig mer om konfigurationer, inställningar och fallgropar, underutnyttjade funktioner och vanliga felsökningsarbetsflöden.
 solution: Analytics
 feature-set: Analytics
-feature: Launch Implementation
+feature: Tags
 role: Admin, User
 level: Beginner
 doc-type: Event
@@ -12,7 +12,7 @@ jira: KT-13820
 thumbnail: 3422528.jpeg
 exl-id: 5b235517-efe6-4826-b51f-166a88d5bf64
 duration: 2578
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: b0c63c7d6592bace5296c5786d48df6fdc90a7dd
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
