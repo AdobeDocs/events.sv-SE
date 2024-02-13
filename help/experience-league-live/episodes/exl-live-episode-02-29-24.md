@@ -1,20 +1,20 @@
 ---
-title: Ligger steget före med nya användargränssnittet i Adobe Campaign v8
-description: Besök oss den 29 februari och lär dig att planera, lansera och mäta flerkanalsstrategier med hjälp av det nya användargränssnittet i Adobe Campaign v8, inklusive generativa AI-funktioner i beta.
+title: Ligger steget före med nya Adobe Campaign webbgränssnitt
+description: Besök oss den 29 februari och lär dig planera, lansera och mäta flerkanalsstrategier med nya Adobe Campaign webbgränssnitt, inklusive generativa AI-funktioner i beta.
 kt: KT-14433
 thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: a671a2ecef92dbccc5318f5563d0da4943a3510c
+source-git-commit: d63e2bf6b09c8db5c0833ac449f10d47103cc6a7
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
-# Ligger steget före med nya användargränssnittet i Adobe Campaign v8
+# Ligger steget före med nya Adobe Campaign webbgränssnitt
 
 Adobe Campaign v8 kommer att ha ett helt nytt utseende. Den omdesignade användarupplevelsen förenklar kampanjdesignprocessen och överensstämmer med andra Adobe Experience Cloud-lösningar.
 
