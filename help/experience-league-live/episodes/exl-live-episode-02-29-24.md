@@ -7,9 +7,9 @@ event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: d63e2bf6b09c8db5c0833ac449f10d47103cc6a7
+source-git-commit: 46cb6d3ed306f7f03116124912bcbdb0a5f24529
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ Adobe Campaign v8 kommer att ha ett helt nytt utseende. Den omdesignade använda
 
 Delta i denna Experience League Live-session, där Adobe Campaign produktexperter visar hur man planerar, lanserar och mäter flerkanalskampanjer i den nya användarupplevelsen.
 
-[![ExL LIVE 2024-03-29](../assets/Feb29_2024_WebBanner.png)](https://www.youtube.com/watch?v=ESgehCRcSgQ)
+[![ExL LIVE 2024-03-29](../assets/exl-live-episode-02-29-24-web-banner.png)](https://engage.adobe.com/ExpLeagueLive-240229.html)
 
-**Klicka på bilden ovan för att ställa in en YouTube Live-påminnelse.**
+**Klicka på bilden ovan för att registrera dig för händelsen.**
