@@ -2,9 +2,9 @@
 user-guide-title: Adobe - nöjda webbseminarier
 breadcrumb-title: Adobe - nöjda webbseminarier
 user-guide-description: Adobe kundnöjda webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe-lösningar.
-source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
+source-git-commit: 01689cc3c8f1d21e1ea223b8ee0fa3f22019fbcf
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,9 @@ ht-degree: 0%
 # Adobe - nöjda webbseminarier {#adobe-customer-success-webinar-recordings}
 
 + [Adobe - nöjda webbseminarier](overview.md)
++ 2024 {#2024}
+   + [Prioritering för dataström](2024/data-stream-prioritization.md)
+   + [Strategisk ledning](2024/strategic-leadership.md)
 + 2023 {#2023}
    + [Building the Foundation for Personalization at Scale](2023/personalization-at-scale.md)
    + [Ändra hantering](2023/change-management.md)
