@@ -3,9 +3,9 @@ title: Commerce Intelligence Webinars
 description: Utforska Commerce Intelligence-inspelade webbinarier som täcker ett brett urval av ämnen och bästa praxis för att använda Commerce Intelligence i sin fulla potential.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
 duration: 77
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 17a9052c99275eff0599c64be3d6872e60c52fe1
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '251'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ Frågorna upprepas då och då för att ge plats åt eventuella nya frågor som 
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
-      <img alt="Komma igång med Commerce Intelligence" src="./assets/getting-started.png" />
+      <img alt="Komma igång med Commerce Intelligence" src="https://video.tv.adobe.com/v/3425736?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
@@ -40,21 +40,21 @@ Frågorna upprepas då och då för att ge plats åt eventuella nya frågor som 
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
-      <img alt="Hantera datauppsättningar i MBI" src="./assets/managing-data-sets-mbi.png" />
+    <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+      <img alt="Hantera datauppsättningar i Adobe Commerce Intelligence" src="https://video.tv.adobe.com/v/3427547?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
-        <strong>Hantera datauppsättningar i MBI</strong>
+      <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+        <strong>Hantera datauppsättningar i Adobe Commerce Intelligence</strong>
       </a>
     </div>
     <p>
-    <em>Läs om några av de kraftfulla funktionerna i MBI Data Warehouse Manager, direkt från Adobe Commerce produktteam. Gå steget längre än att skapa grundläggande rapporter och lär dig hur du kan göra mer med dina data.</em>
+    <em>Upptäck de robusta funktionerna hos Commerce Intelligence Data Warehouse Manager direkt från produktteamet.</em>
     <p>
   </td>
    <td>
     <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
-      <img alt="Optimera din MBI-Data Warehouse" src="./assets/optimize-data-warehouse.png" />
+      <img alt="Optimera din MBI-Data Warehouse" src="https://video.tv.adobe.com/v/342562?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
