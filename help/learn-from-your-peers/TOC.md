@@ -2,9 +2,9 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Insamling av inspelningar från [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 06f787d8dd891e1afe3b8eda58c4790542a3a082
+source-git-commit: 8f572e77a739bdf15824c890acda22fe4029661f
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,9 @@ ht-degree: 0%
          + [Dokumentationsuppdrag möjligt](analytics/june2022/mission-possible.md)
       + Mars {#mar2022}
          + [Telling Impact Stories with Data](analytics/mar2022/stories-with-data.md)
++ Handel {#commerce}
+   + Februari {#feb2024}
+      + [Kommunikation, krav och testning i Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + November {#nov2023}
       + [Developer Excellence med AEM kärnkomponenter](experience-manager/nov2023/core-components.md)
