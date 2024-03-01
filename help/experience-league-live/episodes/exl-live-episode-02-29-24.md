@@ -7,9 +7,9 @@ event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: 3266abc5c077d75424eeae5cb87d66cf0ee52357
+source-git-commit: e8ecba0a2c066e881e53be13f07352e636058de2
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '160'
 ht-degree: 1%
 
 ---
@@ -27,7 +27,7 @@ Delta i denna Experience League Live-session, där Adobe Campaign produktexperte
 ## Ytterligare resurser
 
 * **[Kampanjwebbanvändargränssnitt - nyckelfunktioner](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html){target="_blank"}**
-  *Detaljerad dokumentation om vad som finns i Adobe Campaign webbgränssnitt finns på [Kampanjwebbanvändargränssnitt - nyckelfunktioner](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html){target="_blank"}.*
+  *Detaljerad dokumentation om vad som finns i Adobe Campaign webbgränssnitt.*
 
 * **[Adobe Campaign webbgränssnitt - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
   *Videofilmer och självstudiekurser om funktioner i Adobe Campaign webbanvändargränssnitt.*
