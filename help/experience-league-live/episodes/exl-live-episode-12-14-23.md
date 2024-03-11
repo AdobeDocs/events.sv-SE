@@ -1,7 +1,7 @@
 ---
 title: Räkna till 2024 med de fem viktigaste nya funktionerna i Adobe Real-Time CDP
 description: Läs om hur nya funktioner kan hjälpa er att aktivera målgrupper effektivare och mer effektivt för slagkraftig personalisering.
-kt: KT-14069
+jira: KT-14415
 thumbnail: https://video.tv.adobe.com/v/3425754?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=s4WhnJifWLk
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231214.html
@@ -9,7 +9,7 @@ event-start-time: 2023-12-14 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 exl-id: c2c2c560-adc1-45f4-b235-0307923cc9a8
 duration: 3701
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -41,6 +41,3 @@ Kommer ut från den här sessionen kan du förvänta dig att:
 * Läs om varför de här funktionerna har stor effekt och ger dig effektivitet och värde som yrkesutövare
 * Nu kan du börja utnyttja de nya funktionerna
 * Börja förbättra era kundpersonaliseringssatsningar idag!
-
-
-
