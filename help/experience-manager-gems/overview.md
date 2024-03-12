@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM Sessions
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -45,14 +45,15 @@ ht-degree: 0%
 </table>
 
 -->
-Vårt senaste AEM GEM-webbinarium på **Släpp loss potentialen i New Relic APM för AEM as a Cloud Service. Maximera prestanda och få en snabbare problemlösning** har utförts den *20 september 2023*.
-The **inspelning** finns här: [New Relic APM för Adobe Experience Manager as a Cloud Service](/help/experience-manager-gems/gems2023/newrelic-apm-for-aem-cloud-service.md)
+Vårt senaste AEM GEM-webbinarium på **Bygga&quot;Storefront on Edge Delivery Services&quot; med Adobe Commerce** har utförts den *6 mars 2024*.
+The **inspelning** finns här:
+[Bygga&quot;Storefront on Edge Delivery Services&quot; med Adobe Commerce](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 
 >[!NOTE]
 >
 > Registrera dig för att få meddelanden om kommande AEM GEM-webbinarier på [AdobeAEM User Group](https://aem-augs.adobe.com/).
 
-## 2022 Lansering av GEM-AEM
+## AEM GEM-program - tekniska webbinarier runt AEM - för utvecklare som levereras av utvecklare
 
 Välkommen till **AEM GEM** - våra webbinarier med tekniska djupdykningar om Adobe Experience Manager som levereras av Adobe experter. Serien är ett komplement till produktdokumentationen och alla andra tekniska kanaler som gäller Adobe Experience Manager, så att utvecklarna kan komma i kontakt med varandra och gå djupare in på ett visst ämne.
 
@@ -61,9 +62,7 @@ Webbseminarierna kommer att genomföras regelbundet, bland annat följande:
 * Maximala 60 minuter
 * Frågor och svar i slutet och chattexperterna som finns i webbinariet
 * Inspelning tillgänglig efter varje webbinarium
-* Webbseminariet är kostnadsfritt
-
-Alla våra AEM GEM-webbinarier är kostnadsfria och genomförs i stort sett.
+* Alla AEM GEM:s webbinarier är kostnadsfria och genomförs i stort sett, endast registrering krävs.
 
 Registrera dig på [AdobeAEM User Group](https://aem-augs.adobe.com/) för att få information om våra kommande webbinarier.
 
