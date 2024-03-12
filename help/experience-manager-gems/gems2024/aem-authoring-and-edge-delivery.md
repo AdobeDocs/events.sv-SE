@@ -1,7 +1,7 @@
 ---
 title: Kom igång med AEM och Edge Delivery Services
 description: Det här AEM GEM-webbinariet innehåller en presentation och demo som visar hur AEM fungerar tillsammans med Edge Delivery Services. Vi kommer att hjälpa dig att skapa ett projekt för nya Edge Delivery Services som kan användas för AEM med AEM Cloud Service som innehållskälla, och vi kommer att visa dig hur du kan dra nytta av den smidiga och flexibla utvecklingsupplevelsen som medföljer Edge Delivery Services, men ändå bevara en WYSIWYG-upplevelse för den som arbetar med programmet.
-version: Experience Manager:Cloud Service
+version: Cloud Service
 feature: Edge Delivery Services
 topic: Development
 role: Developer
@@ -11,7 +11,7 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: 661e34e66c089caab712585fba6e3066426e55f1
+source-git-commit: 32ae273fcd9f4271e1a61684d925a8fcb74252b8
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
