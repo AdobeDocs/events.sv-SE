@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM Sessions
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 4fbbc6c8f1abfaaa7b26b8e9ef6e0d0685217d7b
+source-git-commit: 44db30f1def4682ed40a703c3e38b787d556621b
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -45,13 +45,13 @@ ht-degree: 0%
 </table>
 
 -->
-Vårt senaste AEM GEM-webbinarium på **Bygga&quot;Storefront on Edge Delivery Services&quot; med Adobe Commerce** har utförts den *6 mars 2024*.
+Vårt senaste AEM GEM-webbinarium på **Kom igång med AEM och Edge Delivery Services** har utförts den *13 mars 2024*.
 The **inspelning** finns här:
-[Bygga&quot;Storefront on Edge Delivery Services&quot; med Adobe Commerce](./gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+[Kom igång med AEM och Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
 
 >[!NOTE]
 >
-> Registrera dig för att få meddelanden om kommande AEM GEM-webbinarier på [AdobeAEM User Group](https://aem-augs.adobe.com/).
+> Registrera dig för att få meddelanden om kommande AEM GEM-webbinarier - [AdobeAEM User Group](https://aem-augs.adobe.com/).
 
 ## AEM GEM-program - tekniska webbinarier runt AEM - för utvecklare som levereras av utvecklare
 
