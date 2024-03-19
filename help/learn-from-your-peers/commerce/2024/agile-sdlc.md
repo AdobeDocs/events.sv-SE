@@ -2,7 +2,7 @@
 title: En fokuserad strategi för kommunikation, krav och testning i Agile SDLC
 description: Börja effektivisera e-handeln med hjälp av Agile Software Development Life Cycle (SDLC).  Lär dig behovsanalys och planering, strategier för att hantera fel och eftersläpningar i fråga om funktioner, projektplanering för storskaliga initiativ, tips för testning av procedurer som kan tillämpas i olika faser, för att säkerställa utvecklingen av stabila och tillförlitliga webbplatser för e-handel, tips för att främja effektiv kommunikation. Betonar transparens och ansvar som viktiga drivrutiner för ett framgångsrikt genomförande av ett projekt. Du kan komma åt bilderna här.
 solution: Commerce
-feature-set: "Commerce"
+feature-set: Commerce
 feature: Best Practices
 topic: Performance
 role: Admin, Developer, Leader
@@ -12,13 +12,13 @@ duration: 3491
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15011
 thumbnail: 3427501.jpeg
-source-git-commit: 8f572e77a739bdf15824c890acda22fe4029661f
+exl-id: 2bb76c43-fda5-4ebb-832e-4ab54166076a
+source-git-commit: a0a222e6636182df97d49c5fce629bf25381394c
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
 
 ---
-
 
 # Effektiv e-handel: En fokuserad strategi för kommunikation, krav och testning i Agile SDLC
 
