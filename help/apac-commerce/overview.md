@@ -3,9 +3,9 @@ title: APAC Commerce Webinar Series
 description: APAC Commerce Webinar Series är en månatlig mötesplats för Adobe Commerce-kunder som täcker ett brett urval av ämnen, från metodtips till produktplaner och branschtrender.
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 6a1868d01c63f6c56157663c41c834b312ddc5a7
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,19 @@ APAC Commerce Webinar Series är en månatlig mötesplats för Adobe Commerce-ku
 
 <table>
 <tr>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
+      <img alt="Adobe Commerce Innovation Spotlight Webinar" src="https://video.tv.adobe.com/v/3427965?format=jpeg" />
+    </a>
+     <div>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
+        <strong>Adobe Commerce Innovation Spotlight Webinar</strong>
+      </a>
+    </div>
+    <p>
+    <em>Följ oss för inspiration om hur du använder de senaste funktionerna och arkitekturen för att leverera den bästa upplevelsen till dina kunder och utöka din verksamhet!På det här webbinariet.</em>
+    <p>
+  </td> 
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
       <img alt="Adobe Commerce Site Wide Analysis Tool" src="https://video.tv.adobe.com/v/3419132?format=jpeg" />
@@ -44,19 +57,6 @@ APAC Commerce Webinar Series är en månatlig mötesplats för Adobe Commerce-ku
     <em>Utnyttja kraften i AI för en enastående kundupplevelse med Adobe investering i AI och dess integrering i Commerce.</em>
     <p>
   </td>
-  <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-      <img alt="Sammanslagna handelsstrategier för skalbar och flexibel e-handel" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
-    </a>
-     <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-        <strong>Sammanslagna handelsstrategier för skalbar och flexibel e-handel</strong>
-      </a>
-    </div>
-    <p>
-    <em>Delta i vårt webbinarium som kommer att bli en del av den kompositbara arkitekturen och som kommer att revolutionera e-handelslandskapet.</em>
-    <p>
-  </td>  
 </tr>
 </table>
 
