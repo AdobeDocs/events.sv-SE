@@ -2,7 +2,7 @@
 user-guide-title: Adobe Experience Manager GEMS-event
 user-guide-description: Läs om AEM Gems, en serie tekniska djupdykningar från Adobe Experience Manager experter.
 breadcrumb-title: AEM GEM-event
-source-git-commit: 3e548378b0a3c35d435e2d67d4857200cf45bd37
+source-git-commit: 66e266cbfe3d980da6c46bc2c6c88951e67108c8
 workflow-type: tm+mt
 source-wordcount: '705'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 + [Översikt](overview.md)
 + 2024 {#gems2024}
-   + [Komma igång med Edge Delivery Services för AEM Forms](/gems2024/edge-delivery-for-aem-forms.md)
+   + [Komma igång med Edge Delivery Services för AEM Forms](gems2024/edge-delivery-for-aem-forms.md)
    + [Kom igång med AEM och Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
    + [Bygger Storefront på Edge Delivery Services på Adobe Commerce](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
