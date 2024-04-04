@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM Sessions
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 44db30f1def4682ed40a703c3e38b787d556621b
+source-git-commit: 3e548378b0a3c35d435e2d67d4857200cf45bd37
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,10 @@ ht-degree: 0%
 
 <img alt="Digitala upplevelser" src="./assets/ADX_Gems.png"/>
 
-## Föregående AEM GEMs event!
+## Kommande AEM GEM-event
+
+17 april 2024 - **Komma igång med Edge Delivery Services för AEM Forms**
+RSVP / Register [här](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-getting-started-with-edge-delivery-services-for-aem-forms/)
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -45,6 +48,9 @@ ht-degree: 0%
 </table>
 
 -->
+
+## Föregående AEM GEM-händelse
+
 Vårt senaste AEM GEM-webbinarium på **Kom igång med AEM och Edge Delivery Services** har utförts den *13 mars 2024*.
 The **inspelning** finns här:
 [Kom igång med AEM och Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
