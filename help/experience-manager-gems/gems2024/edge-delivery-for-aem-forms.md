@@ -9,9 +9,10 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 3e548378b0a3c35d435e2d67d4857200cf45bd37
+exl-id: 0361b404-1c6c-4343-876c-ac6a200ba3b9
+source-git-commit: cf730e65edcd42ce99b7064c7e7a1c98abbdebf2
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -30,10 +31,10 @@ Lär dig skapa och publicera AEM Forms med Edge Delivery Services och leverera d
 * Arun Taneja, Product Management Director, Adobe
 * Vijay Kumar Jalagari, teknikchef, Adobe
 
-## Inspelning av webbinarium
+## Webbinarium Community Interaction
 
 >[!NOTE]
 > 
->* För sessionsspecifika communityinteraktioner på Experience League är en kontextuell tråd tillgänglig snabbt.
+>* Besök respektive community-forum om Experience League [Sammanhangsberoende koppling](https://adobe.ly/4aCz0OE).
 >
 >* Om du vill få meddelanden om våra kommande webbinarier kan du registrera dig på [AdobeAEM User Group](https://aem-augs.adobe.com/).
