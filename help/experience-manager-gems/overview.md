@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM Sessions
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 3fe49df071fd893fb7007545abec74ee3e331702
+source-git-commit: c8635305f4754d6001108357799a80f50d58b4ac
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,11 @@ Registreringen kommer snart att vara öppen.
 
 Vårt senaste AEM GEM-webbinarium på **Komma igång med Edge Delivery Services för AEM Forms** har utförts den *17 april 2024*.
 The **inspelning** finns här:
-[Komma igång med Edge Delivery Services för AEM Forms](/gems2024/edge-delivery-for-aem-forms.md)
+[Komma igång med Edge Delivery Services för AEM Forms](gems2024/edge-delivery-for-aem-forms.md)
 
 >[!NOTE]
 >
-> Registrera dig för att få meddelanden om kommande AEM GEM-webbinarier - [AdobeAEM User Group](https://aem-augs.adobe.com/).
+> Registrera dig för att få meddelanden om kommande AEM GEM-webbinarier och andra AEM relaterade händelser - [AdobeAEM User Group](https://aem-augs.adobe.com/).
 
 ## AEM GEM-program - tekniska webbinarier runt AEM - för utvecklare som levereras av utvecklare
 
@@ -69,8 +69,6 @@ Webbseminarierna kommer att genomföras regelbundet, bland annat följande:
 * Frågor och svar i slutet och chattexperterna som finns i webbinariet
 * Inspelning tillgänglig efter varje webbinarium
 * Alla AEM GEM:s webbinarier är kostnadsfria och genomförs i stort sett, endast registrering krävs.
-
-Registrera dig på [AdobeAEM User Group](https://aem-augs.adobe.com/) för att få information om våra kommande webbinarier.
 
 ## Experience League Community
 
