@@ -10,17 +10,16 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 0361b404-1c6c-4343-876c-ac6a200ba3b9
-source-git-commit: cf730e65edcd42ce99b7064c7e7a1c98abbdebf2
+source-git-commit: 3fe49df071fd893fb7007545abec74ee3e331702
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
 
 # Webbinarium: 17 april 2024
 
-Det här webbinariet kommer att genomföras den 17 april 2024 - kl. 17.00 CEST/kl. 8.00 PDT/kl. 20.30 IST.
-Please [rsvp / registrera här](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-getting-started-with-edge-delivery-services-for-aem-forms/).
+Det här webbinariet har slutförts - se inspelningen nedan.
 
 ## Komma igång med Edge Delivery Services för AEM Forms
 
@@ -30,6 +29,10 @@ Lär dig skapa och publicera AEM Forms med Edge Delivery Services och leverera d
 
 * Arun Taneja, Product Management Director, Adobe
 * Vijay Kumar Jalagari, teknikchef, Adobe
+
+## Inspelning av webbinarium
+
+>[!VIDEO](https://video.tv.adobe.com/v/3428434/)
 
 ## Webbinarium Community Interaction
 
