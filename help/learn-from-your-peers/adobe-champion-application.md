@@ -7,7 +7,7 @@ doc-type: Event
 duration: 3495
 last-substantial-update: 2024-04-18T00:00:00Z
 jira: KT-15343
-source-git-commit: a8ae18af0407dd9a1f28a80b2f665ec6d4a446de
+source-git-commit: b05a720e257fad9a601abc4f0e423d7efe0ddbee
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -20,3 +20,4 @@ ht-degree: 0%
 Gå med i teamet för lobbying i Adobe och välj Adobe Champions för att få reda på hur du skickar in en fristående app för Adobe Champion. Vi kommer att granska om du har rätt att delta i programmet och de många olika&quot;Acts of Attacy&quot;, så att du kan använda programmet så bra som möjligt! Vi vägleder dig genom programprocessen, tidslinjen i programfönstret och programmets fördelar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428431/?learn=on)
+
