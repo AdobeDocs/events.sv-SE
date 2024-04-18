@@ -7,9 +7,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=UI-P0ezCHqA
 event-start-time: 2024-04-18 09:00-7
 event-guests: Ian Michels,Kate Colbert,James Leedom
 duration: 25
-source-git-commit: d222484d9678454f3e74b5ab09e877685ad898f2
+exl-id: 4f3dcc03-307e-48fe-9bf2-e0a15e40bf6a
+source-git-commit: 44b97fea8d73859bbdbccadfb66543a531f25401
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +19,14 @@ ht-degree: 0%
 
 Marketo Measure har gjort om Discover Dashboards helt. Det här är inte bara små förbättringar och tillägg, det är en fullständig makeover. Styrelserna har omdesignats och, viktigast av allt, förenklats. Dessa nya anslagstavlor är mycket mer intuitiva och användarvänliga och ger dig de data du behöver - snabbt och enkelt!
 
-[![ExL LIVE 17 jan 2024](assets/WebBanner-April18-2024.jpg)](https://engage.adobe.com/ExpLeagueLive-240418.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3428093/?quality=12&learn=on)
 
-**[Anmäl dig nu](https://engage.adobe.com/ExpLeagueLive-240418.html) för eventet!**
+Ämnen som diskuteras:
 
+* Attribution Philosophy in a B2B Marketing world
+* Förvandla er rapporthantering till intäkter
+* Upptäck proffstips för strategisk segmentering och dataförbättring
+* Lär dig hur du löser vanliga misstag
+* Vilka nya färdiga kontrollpaneler som finns tillgängliga och hur du får ut det mesta av dem
+* Nyligen tillgängliga mätvärden och hur ni använder dem för att få bättre affärsinsikter
+* Skapa och spara anpassade rapporter
