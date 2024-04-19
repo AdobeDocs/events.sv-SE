@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Insamling av inspelningar från [!DNL Experience Makers Learn from your peers]"
-source-git-commit: a8ae18af0407dd9a1f28a80b2f665ec6d4a446de
+source-git-commit: 28c2d6f249968bfe402dad24bf42fe7e3bfbdf4a
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 0%
+source-wordcount: '167'
+ht-degree: 4%
 
 ---
 
@@ -45,16 +45,18 @@ ht-degree: 0%
    + Maj {#may2023}
       + [Mastering av innehålls- och upplevelsefragment](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
-   + Januari {#jan2024}
+   + April {#april2024}
+      + [Praktiska tillämpningar av Marketo Engage REST API](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
+   + Januari 2024 {#jan2024}
       + [Person Scoring Mastery med Marketo Engage](marketo/jan2024/person-scoring-mastery.md)
-   + November {#nov2023}
+   + November 2023 {#nov2023}
       + [Marketo Engage och Dynamic Chat](marketo/nov2023/dynamic-chat.md)
-   + September {#sept2023}
+   + September 2023 {#sept2023}
       + [Öka e-postleveransen med Marketo Engage](marketo/sept2023/email-deliverability.md)
-   + Juni {#june2023}
+   + Juni 2023 {#june2023}
       + [Spåra, analysera och optimera era era marknadsföringskampanjer](marketo/june2023/marketing-campaigns.md)
-   + Maj {#may2023}
+   + Maj 2023 {#may2023}
       + [Krackning av personalisering vid skalkod med [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
-   + Mars {#mar2023}
+   + Mars 2023 {#mar2023}
       + [Så här gör du [!DNL Adobe Marketo Engage] Innehållsskalbar](marketo/mar2023/templates-tokens-teamwork.md)
 + [Lär dig hur du skickar in en tävlingsansökan om Adobe-rabatt](./adobe-champion-application.md)
