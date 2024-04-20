@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Insamling av inspelningar från [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 28c2d6f249968bfe402dad24bf42fe7e3bfbdf4a
+source-git-commit: aa7d6f3d8f132e14c318f7df9bec97aa3805a57d
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 4%
+source-wordcount: '168'
+ht-degree: 5%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 4%
    + Maj {#may2023}
       + [Mastering av innehålls- och upplevelsefragment](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
-   + April {#april2024}
+   + April 2024 {#april2024}
       + [Praktiska tillämpningar av Marketo Engage REST API](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
    + Januari 2024 {#jan2024}
       + [Person Scoring Mastery med Marketo Engage](marketo/jan2024/person-scoring-mastery.md)
