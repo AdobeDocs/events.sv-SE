@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 4b83bd595f69eafd7dd8074917eee9c9645f2e22
+source-git-commit: 08b9921b35dcd8c6525edae5dcd1688aed1743f0
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '171'
 ht-degree: 1%
 
 ---
@@ -26,16 +26,8 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-24-24.md">
-      <img alt="Experience League LIVE 21 april" src="episodes/assets/WebBanner-Apr24-2024.jpg">
-    </a>
-    <div>
-      <a href="/help/experience-league-live/episodes/exl-live-episode-04-18-24.md">
-        <strong>Ny kodbaserad upplevelsekanal i Journey Optimizer</strong>
-      </a>
-      <br/><em>med Sandra Hausmann, Robert Calangiu och Brent Kostak</em>
-      <br/><em>24 april 2024</em>
-    </div>
+<td style="vertical-align: top;">
+    <strong>Gå tillbaka till den här sidan senare för att få information om vår 16 maj-show. Spoiler alert - vi ska prata om att migrera Analytics från AppMeasurement till Web SDK!</strong>
   </td>
 </tr>
 </table>
