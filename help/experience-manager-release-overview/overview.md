@@ -4,7 +4,7 @@ description: Få en snabb översikt över de senaste funktionerna i Adobe Experi
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: f36ba52ac04db5b00b41bb3ddf4ba2f2a42cd553
+source-git-commit: 8fdbc89be6e17116ef4f3fe1c3a0465783fa63f4
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 9%
@@ -16,6 +16,28 @@ ht-degree: 9%
 Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager as a Cloud Service. Det här är korta, ungefär 10 minuter långa videor från AEM produktgrupp som delar med sig av de senaste releasernas högdagrar.
 
 ## Senaste uppdatering
+
+<table style="max-width: 50%;">
+  <tr>
+    <td>
+      <a href="2024/2024-3-0.md">
+        <img alt="2024.3.0-utgåvan" src="2024/assets/2024-3-0-thumb.png" />
+      </a>
+      <div>
+        <a href="2024/2024-3-0.md">
+          <strong>Frigör | 2024.3.0</strong>
+          <br/>
+        </a>
+          <em>Releasedatum april 2024 </em>
+      </div>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Versionsinformation</a>
+      <p>
+    </td>
+  </tr>  
+</table>
+
+## Senaste uppdateringar
 
 <table style="max-width: 50%;">
   <tr>
@@ -34,13 +56,6 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Versionsinformation</a>
       <p>
     </td>
-  </tr>  
-</table>
-
-## Senaste uppdateringar
-
-<table style="max-width: 50%;">
-  <tr>
     <td>
       <a href="2023/2023-11-0.md">
         <img alt="2023.11.0-utgåvan" src="2023/assets/2023-11-0-thumb.png" />
@@ -71,7 +86,9 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Versionsinformation</a>
       <p>
     </td>
-      <td>
+  </tr>
+  <tr>
+    <td>
       <a href="2023/2023-9-0.md">
         <img alt="2023.9.0-utgåvan" src="2023/assets/2023-9-0-thumb.png" />
       </a>
@@ -85,9 +102,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Versionsinformation</a>
       <p>
-    </td>
-  </tr>
-  <tr>  
+    </td> 
     <td>
       <a href="2023/2023-8-0.md">
         <img alt="2023.8.0-utgåvan" src="2023/assets/2023-8-0-thumb.png" />
@@ -118,6 +133,8 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Versionsinformation</a>
       <p>
     </td>
+  </tr>
+  <tr> 
     <td>
       <a href="2023/2023-6-0.md">
         <img alt="2023.6.0-utgåvan" src="2023/assets/2023-6-0-thumb.png" />
@@ -132,9 +149,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Versionsinformation</a>
       <p>
-    </td>
-  </tr>
-  <tr>     
+    </td>    
     <td>
       <a href="2023/2023-4-0.md">
         <img alt="2023.4.0-utgåvan" src="2023/assets/2023-4-0-thumb.png" />
@@ -165,20 +180,5 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Versionsinformation</a>
       <p>
     </td>
-    <td>
-      <a href="2023/2023-1-0.md">
-        <img alt="2023.1.0-utgåvan" src="2023/assets/2023-1-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2023/2023-1-0.md">
-          <strong>Frigör | 2023.1.0</strong>
-          <br/>
-        </a>
-          <em>Releasedatum feb 2023 </em>
-      </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Versionsinformation</a>
-      <p>
-    </td>
-   </tr>
+  </tr>
 </table>
