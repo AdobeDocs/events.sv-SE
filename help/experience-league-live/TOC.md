@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 858f7011039c59a4bb34860d05904f03131d2dc4
+source-git-commit: 4590f2cfc142bc5520b2c9cd12f7af1b6906b33b
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,9 @@ ht-degree: 0%
 
 + [Översikt](overview.md)
 + Avsnitten {#episodes}
+   + [Ep. 36: Så här migrerar du Analytics till Web SDK](episodes/exl-live-episode-05-16-24.md)
    + [Ep. 35: Ny kodbaserad upplevelsekanal i Journey Optimizer](episodes/exl-live-episode-04-24-24.md)
-   + [Ep. 34: Marketo Measure nya Discover Dashboards](episodes/exl-live-episode-04-18-24.md)
+   + [Ep. 34: Marketo Measure nya instrumentpaneler för upptäckt](episodes/exl-live-episode-04-18-24.md)
    + [Ep. 33: Ligger steget före med det nya användargränssnittet i Adobe Campaign v8](episodes/exl-live-episode-02-29-24.md)
    + [Ep. 32: Använd fallspelningsböcker, självbetjäningsmallar för att driftsätta användningsexempel med bara några klick](episodes/exl-live-episode-02-08-24.md)
    + [Ep. 31: Lägg in data och analyser från Adobe Analytics i Customer Journey Analytics](episodes/exl-live-episode-01-17-24.md)
