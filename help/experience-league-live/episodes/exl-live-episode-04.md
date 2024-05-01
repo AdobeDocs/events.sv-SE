@@ -4,13 +4,13 @@ description: Att förstå kundens resa är allt. Och att rapportera om användar
 landing-page-description: Lär dig hur du använder klassificeringar med Activity Map för att bättre förstå användarbeteenden och för att diagram över vilka klick som leder till värdefulla webbplatsaktiviteter.
 short-description: Lär dig hur du använder klassificeringar med Activity Map för att bättre förstå användarbeteenden och för att diagram över vilka klick som leder till värdefulla webbplatsaktiviteter.
 solution: Analytics
+feature: Activity Map, Classifications
 kt: 9255
-thumbnail: https://video.tv.adobe.com/v/338108?format=jpeg
 event-start-time: 2021-10-21 09:00-7
 event-guests: Jenn Kunz,Adam Klintworth
 exl-id: b601414e-7892-452e-8dd3-e9d917bd9b3e
 duration: 3697
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 0%
@@ -26,3 +26,4 @@ Och att rapportera om användarinteraktion med webb- eller mobilsajter är det s
 Vi kommer också att ta upp tips för att förstå och utnyttja attribueringsrapporter.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338108/?quality=12&learn=on)
+

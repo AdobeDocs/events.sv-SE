@@ -1,14 +1,14 @@
 ---
 title: Hur hanterar jag alla dessa målgrupper?
 description: Häng med hos Doug Moore och gästerna Nick Cammuso och Jackie Chevallier när de tittar på hur de kan använda både Audience Manager (AAM) och Real-time Customer Data Platform ... (Beskrivningarna ska vara mellan 60 och 160 tecken)
-solution: Audience Manager, Real-Time Customer Data Platform
+solution: Audience Manager, Real-Time Customer Data Platform, Experience Platform
+feature: Audiences
 kt: 10358
-thumbnail: https://video.tv.adobe.com/v/342611?format=jpeg
 event-start-time: 2022-04-28 09:00-7
 event-guests: Nick Cammuso,Jackie Chevallier
 exl-id: a1262eef-da2b-4e79-92d8-73819bc47744
 duration: 3812
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -22,3 +22,4 @@ Gå med Doug Moore och gästerna Nick Cammuso och Jackie Chevallier när de titt
 >[!VIDEO](https://video.tv.adobe.com/v/342611/?quality=12&learn=on)
 
 Om du vill fortsätta konversationen om sessionen går du till [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/experience-league-live-post-session-discussion-how-do-i-handle/m-p/450340#M419), där vi också kommer att svara på frågor som vi inte hade tid att svara på live under sessionen.
+

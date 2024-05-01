@@ -1,14 +1,14 @@
 ---
 title: Be experterna - användbara tillägg i Taggar (Launch) för att få hjälp att ladda upp Web SDK
 description: Funderar du på att migrera implementeringen till nya Adobe Web SDK?  Vi kommer att gå igenom några av våra favorittillägg i Adobe Tags Library som hjälper dig att ta datainsamlingen till nästa nivå.
-solution: Data Collection,Experience Platform
+solution: Data Collection, Experience Platform
+feature: Tags
 kt: 10528
-thumbnail: https://video.tv.adobe.com/v/346610?format=jpeg
 event-start-time: 2022-08-23 09:00-7
 event-guests: Rudi Shumpert,Jeff Chasin,Eric Matisoff
 exl-id: 5ef987f4-37f5-473f-b9f2-1598b7e655ba
 duration: 3833
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '675'
 ht-degree: 0%
@@ -104,3 +104,4 @@ Fortsätt diskutera det här ämnet i [Diskussion om Experience League Community
 * [Fråga experterna - Grunderna i Web SDK](exl-live-episode-05-26-22.md)
 * [Fråga experterna - RTCDP-anslutningar](exl-live-episode-06-23-22.md)
 * [Fråga experterna - Datastreams och Data Prep](exl-live-episode-07-21-22.md)
+

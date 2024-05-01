@@ -2,14 +2,15 @@
 title: Lägg in data och analyser från Adobe Analytics i Customer Journey Analytics
 description: Se hur nya automatiserade processer kan hjälpa er att flytta analyser och data från Adobe Analytics till Adobe Customer Journey Analytics.
 jira: KT-14746
-thumbnail: https://video.tv.adobe.com/v/3426778?format=jpeg
+solution: Analytics,Customer Journey Analytics
+feature: Experience Cloud Integration
 event-cta-url-live: https://www.youtube.com/watch?v=BkAjaMPgpgE
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-240117.html
 event-start-time: 2024-01-17 10:00-7
 event-guests: Doug Moore,Eric Matisoff,Bryan Skelton
 exl-id: 2c2136a9-0b40-4a0a-907d-5af181568073
 duration: 3655
-source-git-commit: 604f85ddc402ed248678782412efe4f2e5988ab4
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -42,3 +43,4 @@ Fortsätt diskussionen om [Experience League användarforum](https://experiencel
 * Vi rekommenderar att du skapar en&quot;catch-all&quot; för element som inte finns i CGA och sedan redigerar dem i målprojektet.
 * Tidigare trodde man att beräknade värden och segment måste återskapas när man migrerar till CGA, men nu finns det ett alternativ för att migrera dem.
 * För att säkerställa att beräknade värden och segment inkluderas i migreringen måste de tillämpas på en tabell eller visualisering i Adobe Analytics.
+
