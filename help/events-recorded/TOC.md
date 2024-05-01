@@ -2,10 +2,10 @@
 user-guide-title: Adobe Experience League Event Recording
 user-guide-breadcrumb: Event Recordings
 user-guide-description: En samling händelseregistreringar som framtvingas vid användning av Adobe Enterprise-produkter
-source-git-commit: 2f61c1360c57a6c93a36cfb944351c67b98a54ed
+source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 3%
+source-wordcount: '347'
+ht-degree: 2%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 3%
 
 + [Översikt](overview.md)
 + Efter serie {#series}
+   + [Acrobat Sign Webinars](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
    + [Adobe Campaign Insider Series](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
    + [Adobe Content Management Forum](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
    + [Adobe Commerce produktuppdateringar](https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html)
@@ -21,7 +22,7 @@ ht-degree: 3%
    + [Kontor för AEM](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
    + [APAC Commerce Events](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
    + [Adobe - nöjda webbseminarier](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html)
-   + [Handel och kaffe](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
+   + [Commerce och kaffe](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
    + [Voices om kunddatahantering](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
    + [Djupdykning](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
    + [EXPERIENCE LEAGUE LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
@@ -35,7 +36,9 @@ ht-degree: 3%
    + [Kompetensutbyte](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
 + Per lösning {#solution}
-   + Adobe Acrobat-tjänster {#aas}
+   + Acrobat Sign {#as}
+      + [Acrobat Sign Webinars](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
+   + Adobe Acrobat Services {#aas}
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
    + Adobe Audience Manager {#aam}
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
@@ -55,7 +58,7 @@ ht-degree: 3%
       + [Adobe Commerce produktuppdateringar](https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html)
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [APAC Commerce Events](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
-      + [Handel och kaffe](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
+      + [Commerce och kaffe](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
       + [MBI Webinars](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
       + [Kontorstimmar](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
       + [Kunskapsbyggaren](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
