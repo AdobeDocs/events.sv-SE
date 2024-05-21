@@ -1,9 +1,9 @@
 ---
 title: Commerce Intelligence Webinars
-description: Utforska Commerce Intelligence-inspelade webbinarier som täcker ett brett urval av ämnen och bästa praxis för att använda Commerce Intelligence i sin fulla potential.
+description: Utforska Commerce Intelligence-inspelade webbinarier som täcker ett brett urval av ämnen och bästa praxis för att använda Commerce Intelligence fullt ut.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
 duration: 77
-source-git-commit: 17a9052c99275eff0599c64be3d6872e60c52fe1
+source-git-commit: 78cb08c0aabfa98db97e1b7c1cee466e7c3578df
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 1%
@@ -16,9 +16,9 @@ ht-degree: 1%
 >
 >Adobe Commerce Intelligence kallades tidigare [!DNL Magento Business Intelligence (MBI)]. Inspelningar för tidigare händelser återspeglar det tidigare namnet.
 
-Webbseminariet Commerce Intelligence är en periodisk händelse för Commerce Intelligence-kunder. Webbinarierna täcker ett brett urval av ämnen och bästa metoder för att använda Commerce Intelligence i sin fulla potential.
+Webbseminariet Commerce Intelligence är en periodisk händelse för Commerce Intelligence-kunder. Webbseminarierna innehåller ett brett urval av ämnen och metodtips för att använda Commerce Intelligence i sin fulla potential.
 
-Deltagare från alla platser kan delta i evenemangen live för att bättre förstå produkten och få sina frågor om funktionen för Commerce Intelligence besvarade direkt.
+Deltagare från alla platser kan delta i eventen live för att bättre förstå produkten och få sina frågor om Commerce Intelligence-funktionen besvarade direkt.
 
 Frågorna upprepas då och då för att ge plats åt eventuella nya frågor som kunderna ställer.
 
@@ -40,16 +40,16 @@ Frågorna upprepas då och då för att ge plats åt eventuella nya frågor som 
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
       <img alt="Hantera datauppsättningar i Adobe Commerce Intelligence" src="https://video.tv.adobe.com/v/3427547?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
         <strong>Hantera datauppsättningar i Adobe Commerce Intelligence</strong>
       </a>
     </div>
     <p>
-    <em>Upptäck de robusta funktionerna hos Commerce Intelligence Data Warehouse Manager direkt från produktteamet.</em>
+    <em>Upptäck de robusta funktionerna i Commerce Intelligence Data Warehouse Manager direkt från produktteamet.</em>
     <p>
   </td>
    <td>
@@ -74,5 +74,5 @@ Frågorna upprepas då och då för att ge plats åt eventuella nya frågor som 
 
 ## Användbara resurser
 
-- [Commerce Intelligence-videor och självstudiekurser](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
-- [Användarhandbok för Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=sv)
+- [Commerce Intelligence - videor och självstudiekurser](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
+- [Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=sv)
