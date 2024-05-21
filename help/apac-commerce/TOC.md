@@ -2,10 +2,10 @@
 user-guide-title: APAC Commerce Events
 breadcrumb-title: APAC Commerce Events
 user-guide-description: Adobe Commerce Events är ett videobibliotek där experter och kollegor har delat med sig av sina tankar och idéer om hur man använder Adobe Commerce.
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+source-git-commit: 4b65bfcf2f3025b1b5deddef7f8347000e0af2ce
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 1%
+source-wordcount: '136'
+ht-degree: 0%
 
 ---
 
@@ -14,6 +14,18 @@ ht-degree: 1%
 
 + [Översikt](overview.md)
 + 2024 {#2024}
+   + [Accelerator Day](2024/accelerator-day/overview.md)
+   + Accelerator Day{#accelerator-day}
+      + [Dold: Navigera imorgon](./2024/accelerator-day/navigating-tomorrow.md)
+      + [Dold: Panel bakom kanter](./2024/accelerator-day/panel-beyond-borders.md)
+      + [Dold: Experience Evolution](./2024/accelerator-day/experience-evolution.md)
+      + [Dold: Panelen fästs in i morgon](./2024/accelerator-day/panel-tapping-into-tomorrow.md)
+      + [Dold: Next-gen Commerce](./2024/accelerator-day/next-gen-commerce.md)
+      + [Dold: Under ytan](./2024/accelerator-day/beneath-the-surface.md)
+      + [Dold: Blixthastighet](./2024/accelerator-day/lightning-speed.md)
+      + [Dold: Kompatibilitet](./2024/accelerator-day/composability.md)
+      + [Dold: Symphony för flera kanaler](./2024/accelerator-day/cross-channel-symphony.md)
+      + [Dold: The Art of Commerce](./2024/accelerator-day/the-art-of-commerce.md)
    + [Innovation Spotlight Webinar](2024/innovation-spotlight.md)
    + [How Visionary Thinking is Transforming Commerce](2024/visionary-thinking.md)
    + [7 sätt att utöka en e-handelsverksamhet organiskt](2024/grow-ecommerce-business.md)

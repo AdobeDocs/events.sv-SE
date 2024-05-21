@@ -3,9 +3,9 @@ title: APAC Commerce Webinar Series
 description: APAC Commerce Webinar Series är en månatlig mötesplats för Adobe Commerce-kunder som täcker ett brett urval av ämnen, från metodtips till produktplaner och branschtrender.
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+source-git-commit: d8f496970aeca03fa8e03986dea903409fc71284
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,19 @@ APAC Commerce Webinar Series är en månatlig mötesplats för Adobe Commerce-ku
 
 <table>
 <tr>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html">
+      <img alt="Accelerator Day" src="https://video.tv.adobe.com/v/3429276?format=jpeg" />
+    </a>
+     <div>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html">
+        <strong>Adobe Commerce Accelerator Day</strong>
+      </a>
+    </div>
+    <p>
+    <em>Adobe och Commonwealth Bank of Australia (CBA) visar på innovationer inom handel, moln och betallösningar.</em>
+    <p>
+  </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
       <img alt="Adobe Commerce Innovation Spotlight Webinar" src="https://video.tv.adobe.com/v/3427965?format=jpeg" />
@@ -42,19 +55,6 @@ APAC Commerce Webinar Series är en månatlig mötesplats för Adobe Commerce-ku
     </div>
     <p>
     <em>Utforska integreringen av kreativitet och handel.</em>
-    <p>
-  </td>
-  <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/grow-ecommerce-business.html">
-      <img alt="Fördelar med att uppgradera till Adobe Commerce 2.4.4" src="https://video.tv.adobe.com/v/3428817?format=jpeg" />
-    </a>
-     <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/grow-ecommerce-business.html">
-        <strong>7 sätt att utöka en e-handelsverksamhet organiskt</strong>
-      </a>
-    </div>
-    <p>
-    <em>Få värdefulla insikter och praktiska tips om hur du kan utveckla ett e-handelsföretag organiskt genom SEO-strategier</em>
     <p>
   </td>
 </tr>
