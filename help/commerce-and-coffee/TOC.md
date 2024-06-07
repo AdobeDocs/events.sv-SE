@@ -1,19 +1,20 @@
 ---
-user-guide-title: Handel och kaffeevenemang
-breadcrumb-title: Handel och kaffeevenemang
+user-guide-title: Commerce- och Coffee Events
+breadcrumb-title: Commerce- och Coffee Events
 user-guide-description: Adobe Commerce och Coffee är ett videobibliotek där experter och kollegor har delat med sig av sina tankar och idéer om hur man använder Adobe Commerce.
-source-git-commit: 01689cc3c8f1d21e1ea223b8ee0fa3f22019fbcf
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '81'
 ht-degree: 2%
 
 ---
 
 
-# Handel och kaffe {#commerce-and-coffee-recordings}
+# Commerce och kaffe {#commerce-and-coffee-recordings}
 
 + [Översikt](overview.md)
 + 2024 {#2024}
+   + [Essentials för e-handel](2024/ecommerce-essentials.md)
    + [Anpassa e-handelsupplevelser med AI](2024/personalize-ecommerce.md)
 + 2023 {#2023}
    + [Fråga mig vad som helst](2023/ask-me-anything.md)
@@ -23,7 +24,7 @@ ht-degree: 2%
    + [B2B-samarbete lyckades](2023/b2b.md)
 + 2022 {#2022}
    + [AI och automatisering](2022/ai-and-automation.md)
-   + [E-handelstrender](2022/ecommerce-trends.md)
+   + [E-Commerce Trends](2022/ecommerce-trends.md)
    + [Helgtidsperspektiv](2022/holiday.md)
    + [Förberedelse av högsäsong](2022/peak-season-prep.md)
    + [Högsäsong Fråga mig något](2022/peak-season-ask-anything.md)

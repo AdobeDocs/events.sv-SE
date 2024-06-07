@@ -2,10 +2,10 @@
 user-guide-title: Adobe kontorstider
 user-guide-breadcrumb: Adobe Office Hours
 user-guide-description: Kontorstid är en proaktiv metod för att hantera fallavböjningar genom att erbjuda kunderna lösningsspecifika webbinarier.
-source-git-commit: 7378dc0e3e7caf4942e90e95668806bca03c1067
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 15%
+source-wordcount: '95'
+ht-degree: 3%
 
 ---
 
@@ -13,6 +13,9 @@ ht-degree: 15%
 # Adobe kontorstider {#office-hours}
 
 + [Adobe kontorstider](overview.md)
++ 2024 {#2024}
+   + Adobe Marketo {#adobe-marketo-office-hours-2024}
+      + [Mästarkontor - maj](2024/champion-office-hours.md)
 + 2023 {#2023}
    + Adobe Analytics {#adobe-analytics}
       + [Starta bästa praxis](2023/launch-best-practices.md)
