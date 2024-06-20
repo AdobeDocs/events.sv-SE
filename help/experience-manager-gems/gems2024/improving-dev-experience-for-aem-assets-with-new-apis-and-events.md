@@ -9,7 +9,8 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: d9fcab5e7cde89e24cb746bc4f24ab2edc41848c
+exl-id: c33fab30-649e-43b3-b1df-cf57e42d3612
+source-git-commit: e364366d7df321ebbcb598ac15e237e5626a4087
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -18,8 +19,7 @@ ht-degree: 0%
 
 # Webbinarium: 19 juni 2024
 
-Det här webbinariet kommer att sändas onsdagen den 19 juni - 17:00 CEST / 8:00 PDT / 20:00 IST.
-Registrera dig via vår [händelsesida](https://adobe.ly/3wLRpdI).
+Det här webbinariet har genomförts onsdagen den 19 juni - 17:00 CEST / 8:00 PDT / 20:00 IST. Se inspelningen nedan.
 
 ## Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser
 
@@ -34,10 +34,12 @@ AEM utvecklare får möjlighet att utforska de nya Assets Open API:erna och moln
 * Ian Reasor, Senior Computer Scientist, Adobe
 * Ievgen Nedoviesov, chef, Software Engineering, Adobe
 
-## Webbinarium Community Interaction
+## Inspelning av webbinarium
+
+>[!VIDEO](https://video.tv.adobe.com/v/3430198)
 
 >[!NOTE]
 > 
->* Besök respektive community-forum om Experience League [Sammanhangsberoende koppling](https://adobe.ly/3UQXwFO).
+>* Besök respektive webbsida om du vill veta mer om webbseminariet om Experience League [Sammanhangsberoende koppling](https://adobe.ly/3UQXwFO).
 >
 >* Om du vill få meddelanden om våra kommande webbinarier kan du registrera dig på [AdobeAEM User Group](https://aem-augs.adobe.com/).

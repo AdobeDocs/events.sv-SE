@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM Sessions
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 2f4720df0080c4121892fbdfab1a0cbcf1be850e
+source-git-commit: 338f58a58dc88d72fc641eb51d87ca4bf410be02
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,7 @@ ht-degree: 0%
 
 ## Kommande AEM GEM-event
 
-29 maj 2024 - **Edge Delivery Services och AEM Assets**
-Registreringen kommer snart att vara öppen..
+Kommande webbinarier presenteras i juli 2024.
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -51,9 +50,9 @@ Registreringen kommer snart att vara öppen..
 
 ## Föregående AEM GEM-händelse
 
-Vårt senaste AEM GEM-webbinarium på **Komma igång med Edge Delivery Services för AEM Forms** har utförts den *17 april 2024*.
+Vårt senaste AEM GEM-webbinarium på **Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser** har utförts den *19 juni 2024*.
 The **inspelning** finns här:
-[Komma igång med Edge Delivery Services för AEM Forms](gems2024/edge-delivery-for-aem-forms.md)
+[Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
 
 >[!NOTE]
 >
