@@ -1,0 +1,42 @@
+---
+title: Hur de senaste releaserna från Adobe Real-Time CDP kan flytta nålen för ditt företag
+description: Lär dig mer om de senaste funktionerna i Adobe Real-Time CDP som har lanserats de senaste månaderna och se hur de kan göra skillnad för ditt företag.
+kt: KT-15598
+solution: Real-Time Customer Data Platform, Experience Platform
+feature: Playbooks, Destinations, Sources
+event-cta-url-live: https://www.youtube.com/live/Cw5004YGMbc
+event-start-time: 2024-06-26 09:00-7
+event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
+duration: 25
+source-git-commit: 903592d895ca62e738794e9b8d91e1180acb2478
+workflow-type: tm+mt
+source-wordcount: '268'
+ht-degree: 1%
+
+---
+
+# Hur de senaste releaserna från Adobe Real-Time CDP kan flytta nålen för ditt företag
+
+Lär dig mer om de senaste funktionerna i Adobe Real-Time CDP som har lanserats de senaste månaderna och se hur de kan göra skillnad för ditt företag.
+
+[![ExL LIVE 17 jan 2024](assets/WebBanner-June26-2024.jpg)](https://engage.adobe.com/ExpLeagueLive-240626.html)
+
+[REGISTRERA DIG NU!](https://engage.adobe.com/ExpLeagueLive-240626.html)
+
+**Information**: Är du en av Real-Time CDP nuvarande specialister och letar efter insikter om vad som är nytt i produkten, varför det är viktigt och hur Adobe kan hjälpa dig att förbättra era strategier för hantering av kunddata? Titta inte längre - du har kommit till rätt ställe! I den här serien kommer vi att fördjupa oss i det som nyligen lanserats i Real-Time CDP så att ni kan dra nytta av det som är nytt på en gång och påverka er organisation.\
+Under det här seminariet ska vi diskutera och visa fem nya funktioner som har lanserats under de senaste månaderna:
+
+1. Spelböcker med användningsexempel
+1. B2B-uppdateringar: kontobaserat engagemang + nya instrumentpaneler
+1. CDP-anslutningar i produktvägledning
+1. Nya integreringar (identitetspartner, källor, mål)
+1. Verktyg i sandlådan
+
+Kommer ut från den här sessionen kan du förvänta dig att:
+
+* Lär dig hur dessa funktioner fungerar i praktiken, via en live-demo
+* Läs om varför de här funktionerna har stor effekt och ger dig effektivitet och värde som yrkesutövare
+* Nu kan du börja utnyttja de nya funktionerna
+
+Som alltid kan du i den här live-sessionen ställa frågor i chatten och få svar från experterna.
+
