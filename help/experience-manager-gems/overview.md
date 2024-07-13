@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM Sessions
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 338f58a58dc88d72fc641eb51d87ca4bf410be02
+source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 <img alt="Digitala upplevelser" src="./assets/ADX_Gems.png"/>
 
-## Kommande AEM GEM-event
+## Kommande AEM GEM:s webbinarium - Integrera privata GitHub-databaser i AEM Cloud Manager
 
-Kommande webbinarier presenteras i juli 2024.
+Det här webbinariet kommer att genomföras onsdagen den 31 juli - 17:00 CEST / 8:00 PDT / 20:00 IST. Observera att endast registrering krävs för det här webbinariet - registrera [här](https://adobe.ly/3LmXfGk).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -50,17 +50,17 @@ Kommande webbinarier presenteras i juli 2024.
 
 ## Föregående AEM GEM-händelse
 
-Vårt senaste AEM GEM-webbinarium på **Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser** har utförts den *19 juni 2024*.
-The **inspelning** finns här:
-[Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
+Vårt senaste AEM GEM:er-webbinarium om **Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser** har utförts den *19 juni 2024*.
+**inspelningen** finns här:
+[ Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser ](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
 
 >[!NOTE]
 >
-> Registrera dig för att få meddelanden om kommande AEM GEM-webbinarier och andra AEM relaterade händelser - [AdobeAEM User Group](https://aem-augs.adobe.com/).
+> Registrera dig för att få meddelanden om kommande AEM GEM-webbinarier och andra AEM relaterade händelser - [Adobe AEM användargrupp](https://aem-augs.adobe.com/).
 
 ## AEM GEM-program - tekniska webbinarier runt AEM - för utvecklare som levereras av utvecklare
 
-Välkommen till **AEM GEM** - våra webbinarier med tekniska djupdykningar om Adobe Experience Manager som levereras av Adobe experter. Serien är ett komplement till produktdokumentationen och alla andra tekniska kanaler som gäller Adobe Experience Manager, så att utvecklarna kan komma i kontakt med varandra och gå djupare in på ett visst ämne.
+Välkommen till **AEM GEM:er** - våra webbinarier med tekniska djupdykningar om Adobe Experience Manager, som levereras av Adobe experter. Serien är ett komplement till produktdokumentationen och alla andra tekniska kanaler som gäller Adobe Experience Manager, så att utvecklarna kan komma i kontakt med varandra och gå djupare in på ett visst ämne.
 
 Webbseminarierna kommer att genomföras regelbundet, bland annat följande:
 
@@ -71,7 +71,7 @@ Webbseminarierna kommer att genomföras regelbundet, bland annat följande:
 
 ## Experience League Community
 
-Våra [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) spelar en viktig roll när det gäller att stödja produktimplementering och kundframgångar.
+Vår [Experience Manager-community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) spelar en viktig roll när det gäller att stödja produktimplementering och kundframgångar.
 
 * Anslutning: Nätverk med kollegor och Adobe för vägledning och bästa praxis från implementering till utökad produktanvändning
 * Snabba svar: Omfattande antal fallsvar från verkligheten som stöder ett framgångsrikt och aktivt utnyttjande av Adobe-lösningar
