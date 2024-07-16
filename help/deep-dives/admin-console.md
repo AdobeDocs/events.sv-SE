@@ -1,6 +1,6 @@
 ---
-title: Adobe Admin Console Migration
-description: En exklusiv MUG-ledarutbildning i den kommande Adobe Admin Console-migrationen. Mötet kommer att ha formatet "Train the Trainer" så att du kan ta det du lär dig och utbilda dina kapitel om den här kommande ändringen.
+title: Förbereda för Marketo Engage på Adobe-identitet
+description: En exklusiv utbildning i kommande Adobe Admin Console Migration. Mötet kommer att ha formatet "Train the Trainer" så att du kan ta det du lär dig och utbilda dina kapitel om den här kommande ändringen.
 solution: Marketo
 feature: Administration
 role: Admin, Developer, Leader, User
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
-source-git-commit: 7582ea084cdfe20cfc5bd4c62a5a1234b5c3bcac
+source-git-commit: 06283989c8d9da03fca8af3d8ceec65097732be4
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
 
-# MUG Leader Training: Adobe Admin Console Migration
+# Förbereda för Marketo Engage på Adobe-identitet
 
-En exklusiv MUG-ledarutbildning i den kommande Adobe Admin Console-migrationen. Mötet kommer att ha formatet &quot;Train the Trainer&quot; så att du kan ta det du lär dig och utbilda dina kapitel om den här kommande ändringen.
+En exklusiv utbildning i kommande Adobe Admin Console Migration. Mötet kommer att ha formatet &quot;Train the Trainer&quot; så att du kan ta det du lär dig och utbilda dina kapitel om den här kommande ändringen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
