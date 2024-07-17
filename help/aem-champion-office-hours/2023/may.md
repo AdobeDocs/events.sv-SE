@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager Champion Office Hours - Cloud Manager
-description: Delta i maj-utgåvan av Adobe Champion Office Hours när en panel på Adobe Experience Manager Champions diskuterar bästa praxis, delar tips och deltar i live-frågor runt AEM Cloud Manager. Om du är ny på AEM kan du få en fråga om hur Cloud Manager kan effektivisera dina arbetsflöden eller vill förstå hur Cloud Managers out of the box build pipeline och stabil driftsättning gör det möjligt för organisationer att bygga, testa och driftsätta AEM program till i molnet automatiskt får AEM Champions svar!
+description: Delta i maj-utgåvan av Adobe Champion Office Hours när en panel på Adobe Experience Manager Champions diskuterar bästa praxis, delar tips och deltar i live-frågor som omger Cloud Manager. Vare sig du är nybörjare på att AEM, fråga om hur Cloud Manager kan effektivisera arbetsflödena eller om du vill förstå hur Cloud Manager ur kartongen kan bygga upp en stabil driftsättning och gör det möjligt för organisationer att bygga, testa och driftsätta AEM program i molnet automatiskt, vår AEM pioner har svaren!
 solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
@@ -23,8 +23,8 @@ ht-degree: 0%
 
 # Adobe Experience Manager Champion Office Hours - Cloud Manager
 
-Delta i maj-utgåvan av Adobe AEM Champion Office Hours när en panel på Adobe Experience Manager Champions diskuterar bästa praxis, utbyter tips och deltar i live Q&amp;A som omger AEM Cloud Manager.
+Delta i maj-utgåvan av Adobe AEM Champion Office Hours när en panel på Adobe Experience Manager Champions diskuterar bästa praxis, utbyter tips och deltar i en live Q&amp;A-omgivande AEM Cloud Manager.
 
-Vare sig du är nybörjare på AEM, har en fråga om hur Cloud Manager kan effektivisera arbetsflödena eller vill förstå hur Cloud Managers lösning med stabil driftsättning gör att organisationer kan bygga, testa och distribuera AEM program till molnet automatiskt har våra AEM Champions svaren!
+Vare sig du är nybörjare på AEM, har en fråga om hur Cloud Manager kan effektivisera arbetsflödena eller vill förstå hur Cloud Manager från kartongbygget och en stabil driftsättning gör det möjligt för organisationer att automatiskt bygga, testa och driftsätta AEM program i molnet har våra AEM Champions svaren!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420726/?learn=on)

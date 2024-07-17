@@ -29,6 +29,6 @@ Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/3E
 
 ## Ytterligare resurser
 
-- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience Manager-dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 - [Adobe Experience Manager Cloud Service - översikt](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

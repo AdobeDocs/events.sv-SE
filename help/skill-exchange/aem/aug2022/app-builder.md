@@ -1,6 +1,6 @@
 ---
 title: Utöka Adobe Experience Manager Headless med Adobe App Builder
-description: Med allt från händelsestyrda integreringar, skalbar serverfri bearbetning till single page-applikationer (SPA), har App Builder kraftfulla funktioner för att integrera Adobe Experience Manager med tredjepartssystem på ett headless-sätt. Få en inblick i några verkliga användningsfall och gemensamma mönster där App Builder har använts för att utöka Adobe Experience Manager.
+description: App Builder har kraftfulla funktioner för att integrera Adobe Experience Manager med tredjepartssystem på ett headless-sätt, från händelsestyrda integreringar, skalbar serverfri bearbetning till single page-applikationer (SPA). Ta en titt på några av de verkliga användningsområdena och gemensamma mönster där App Builder har använts för att utöka Adobe Experience Manager.
 solution: Experience Manager
 topic: Headless
 role: User
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Utöka Adobe Experience Manager Headless med Adobe App Builder
 
-Med allt från händelsestyrda integreringar, skalbar serverfri bearbetning till single page-applikationer (SPA), har App Builder kraftfulla funktioner för att integrera Adobe Experience Manager med tredjepartssystem på ett headless-sätt. Få en inblick i några verkliga användningsfall och gemensamma mönster där App Builder har använts för att utöka Adobe Experience Manager.
+App Builder har kraftfulla funktioner för att integrera Adobe Experience Manager med tredjepartssystem på ett headless-sätt, från händelsestyrda integreringar, skalbar serverfri bearbetning till single page-applikationer (SPA). Ta en titt på några av de verkliga användningsområdena och gemensamma mönster där App Builder har använts för att utöka Adobe Experience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346385/?quality=12&learn=on)

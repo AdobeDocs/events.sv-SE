@@ -20,7 +20,7 @@ Den 4-5 oktober 2021 sammanförde Adobe Developers Live utvecklare från Adobe o
 Adobe produktteam i Adobe Experience Cloud, Document Cloud och Creative Cloud har presenterat de senaste teknikframstegen och utvecklarverktygen för design, arbetsflöden för innehållsskapande, dokumenttjänster och hantering av kundupplevelser i olika branscher.
 
 Håll kontakt med kollegor och delta i sessionskonversationerna i Experience League Communities.
-* [Adobe Developer App Builder - komplett sessionslista](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
+* [Lista över Adobe Developer App Builder fullständiga sessioner](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
 * [AEM fullständig sessionslista](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
 
 ## Högdagrar
@@ -32,8 +32,8 @@ Håll kontakt med kollegor och delta i sessionskonversationerna i Experience Lea
       <img alt="Headless Sites" src="/help/adobe-developers-live/assets/mathias.png"/>
       </a>
       <div>
-         <a href="headless.md"><strong>Headless Sites</strong></a>         
-         <br/><em>med Mathias Siegel, produktchef på AEM Sites</em>
+         <a href="headless.md"><strong>Webbplatser utan rubriker</strong></a>         
+         <br/><em>med Mathias Siegel, Principal Product Manager, AEM Sites</em>
       </div>
       <p>
         <br/>
@@ -46,7 +46,7 @@ Håll kontakt med kollegor och delta i sessionskonversationerna i Experience Lea
       </a>
       <div>
          <a href="aep-integration.md"><strong>Översikt över Adobe Experience Platform-integrering</strong></a>
-         <br/><em>med Eric Knee, chef Enterprise Solution Architect</em>
+         <br/><em> med Eric Knee, Principal Enterprise Solution Architect </em>
       </div>
       <p>
         <br/>
@@ -59,8 +59,8 @@ Håll kontakt med kollegor och delta i sessionskonversationerna i Experience Lea
       <img alt="Generera dokument och samla in e-signaturer i appar med Adobe Sign API" src="/help/adobe-developers-live/assets/ben.png"/>
       </a>
       <div>
-         <a href="pdf-services-api.md"><strong>Generera dokument och samla in e-signaturer i appar med Adobe Sign API</strong></a>
-         <br/><em>med Ben Vanderberg, Principal Developer Evangelist</em>
+         <a href="pdf-services-api.md"><strong>Generera dokument och samla in e-signaturer i dina appar med Adobe Sign API</strong></a>
+         <br/><em> med Ben Vanderberg, Principal Developer Evangelist </em>
       </div>
       <p>
         <br/>
@@ -79,10 +79,10 @@ Håll kontakt med kollegor och delta i sessionskonversationerna i Experience Lea
 ### AEM
 
 * [Experience League - Utforska AEM](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
-* [AEM Sites Authoring Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
+* [AEM Sites redigeringsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
 * [AEM Sites Developing Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
 * [AEM Sites Administering Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
-* [AEM Sites driftsättningsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
+* [AEM Sites distributionsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
 * [AEM as a Cloud Service Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html)
 * [AEM Assets Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
 * [AEM Forms Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
@@ -90,7 +90,7 @@ Håll kontakt med kollegor och delta i sessionskonversationerna i Experience Lea
 
 ### Adobe Experience Platform
 
-* [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
+* [Adobe Experience Platform-dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html)
 * [Adobe Experience Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 * [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=sv)
 

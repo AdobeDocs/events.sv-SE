@@ -14,17 +14,17 @@ ht-degree: 0%
 
 # Skapa onlinecommunityn med AEM 6.1{#creating-online-communities-with-aem}
 
-Föreställ dig att du kan ställa upp en communitysajt på några timmar istället för veckor med lite eller ingen hjälp från era CQ-tekniker. AEM Communities 6.1 kommer att fokusera på att erbjuda denna möjlighet via en guidedriven mallbaserad metod som täcker en mängd olika inledande användningsfall. Med AEM Communities 6.1 kan du anpassa de nya communitywebbplatserna ytterligare via AEM WCM [!DNL Sites] funktioner. Följ med oss för att lära dig utnyttja AEM kraftfulla redigeringsgränssnitt för att skapa en levande kundcommunity och lär dig verktygen som håller din fanbas engagerad långt efter lanseringen.
+Föreställ dig att du kan ställa upp en communitysajt på några timmar istället för veckor med lite eller ingen hjälp från era CQ-tekniker. AEM Communities 6.1 kommer att fokusera på att erbjuda denna möjlighet via en guidedriven mallbaserad metod som täcker en mängd olika inledande användningsfall. Med AEM Communities 6.1 kan du även anpassa de nya communitywebbplatserna ytterligare genom att AEM WCM [!DNL Sites]-funktionen. Följ med oss för att lära dig utnyttja AEM kraftfulla redigeringsgränssnitt för att skapa en levande kundcommunity och lär dig verktygen som håller din fanbas engagerad långt efter lanseringen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19381/?quality=9)
 
-*Levererat 22 juli 2015*
+*Levererad 22 juli 2015*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Bertrand de Coatpont, Group Product Manager, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-6-1-communities-gems.pdf)
 <!--

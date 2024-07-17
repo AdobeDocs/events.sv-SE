@@ -1,6 +1,6 @@
 ---
 title: Övervaka App Builder-program med loggvidarebefordran
-description: Få tillgång till alla programloggar i App Builder i en logghanteringslösning som stöds. Under den här sessionen ger vi en exklusiv förhandsvisning av de kommande funktionerna för vidarebefordran av loggar och hur du kan testa dem tidigt.
+description: Få tillgång till alla dina App Builder-programloggar i en logghanteringslösning som stöds. Under den här sessionen ger vi en exklusiv förhandsvisning av de kommande funktionerna för vidarebefordran av loggar och hur du kan testa dem tidigt.
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -18,7 +18,7 @@ ht-degree: 6%
 
 # Övervaka App Builder-program med loggvidarebefordran
 
-Få tillgång till alla programloggar i App Builder i en logghanteringslösning som stöds. Under den här sessionen ger vi en exklusiv förhandsvisning av de kommande funktionerna för vidarebefordran av loggar och hur du kan testa dem tidigt.
+Få tillgång till alla dina App Builder-programloggar i en logghanteringslösning som stöds. Under den här sessionen ger vi en exklusiv förhandsvisning av de kommande funktionerna för vidarebefordran av loggar och hur du kan testa dem tidigt.
 
 Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/3zXM3rp)**.
 
@@ -26,6 +26,6 @@ Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/3z
 
 ## Ytterligare resurser
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform-dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Adobe Experience Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=sv)

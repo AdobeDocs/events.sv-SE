@@ -18,13 +18,14 @@ ht-degree: 0%
 
 ---
 
-# En titt under huven - Cloud Manager 2022
+# Att titta under huven - Cloud Manager 2022
 
-*Det här webbinariet ägde rum den 15-30 juni UTC. Se inspelningen nedan.*
+*Det här webbinariet har utförts den 15-30 juni UTC. Visa inspelningen nedan.*
 
-Sessionsbeskrivning: Utforska de nya funktionerna som lanserades under det senaste året, en uppdatering av utvecklingen bakom kulisserna och en översikt in i resten av 2022. Information om hur Cloud Manager fungerar under huven och hur en kund kan utnyttja det på bästa sätt.
+Session description:
+Utforska de nya funktionerna som lanserades under det senaste året, en uppdatering om utvecklingen bakom kulisserna och en inblick i resten av 2022. Information om hur Cloud Manager fungerar under huven och hur en kund kan utnyttja det på bästa sätt.
 
-Innehållet gäller både Adobe Experience Manager as a Cloud Service och Experience Manager Managed Services, med fokus på Cloud Service. Det passar både tekniska och icke-tekniska deltagare. Tidigare exponering för Cloud Manager kan vara till hjälp för kontext, men det är inte nödvändigt.
+Innehållet gäller både Adobe Experience Manager as a Cloud Service och Experience Manager Managed Services, med fokus på Cloud Service. Det passar både tekniska och icke-tekniska deltagare. Tidigare exponering för Cloud Manager kan vara till hjälp för sammanhanget, men det är inte nödvändigt.
 
 **Inspelning av webbinarium**
 
@@ -32,5 +33,5 @@ Innehållet gäller både Adobe Experience Manager as a Cloud Service och Experi
 
 >[!NOTE]
 >
->* Besök följande om du vill se sessionsspecifika communityinteraktioner på Experience League: [Sammanhangsberoende koppling](https://adobe.ly/3O0rdzd)
->* Om du vill få automatiska meddelanden om webbinarier registrerar du dig på [AdobeAEM User Group](https://aem-augs.adobe.com/).
+>* Besök den här [kontextuella tråden](https://adobe.ly/3O0rdzd) för sessionsspecifika communityinteraktioner på Experience League
+>* Om du vill få automatiska meddelanden om webbinarier registrerar du dig på [Adobe AEM User Group](https://aem-augs.adobe.com/).

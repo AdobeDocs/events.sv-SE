@@ -1,6 +1,6 @@
 ---
-title: Översikt över Adobe Exchange, marknadsplatsen för tredjepartsutvecklare
-description: Lär dig hur du skapar en tjänst-till-tjänst-integrering på Developer Console, hanterar den på Admin Console och publicerar en offentlig programlista på Adobe Exchange. När vi har skapat en anslutning till ett Adobe-API går vi igenom stegen för att registrera oss som en Adobe Exchange-partner, skapa en offentlig lista, skicka in för godkännande och publicera den.
+title: En översikt över Adobe Exchange, marknadsföringsplatsen för tredjepartsutvecklare
+description: Lär dig hur du skapar en tjänst-till-tjänst-integrering på Developer Console, hanterar den på Admin Console och publicerar en offentlig programlista på Adobe Exchange. När vi har skapat en anslutning till ett Adobe-API går vi igenom stegen för att registrera oss som partner i Adobe Exchange, skapa en offentlig lista, skicka in för godkännande och publicera den.
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -16,9 +16,9 @@ ht-degree: 4%
 
 ---
 
-# Översikt över Adobe Exchange, marknadsplatsen för tredjepartsutvecklare
+# En översikt över Adobe Exchange, marknadsföringsplatsen för tredjepartsutvecklare
 
-Lär dig hur du skapar en tjänst-till-tjänst-integrering på Developer Console, hanterar den på Admin Console och publicerar en offentlig programlista på Adobe Exchange. När vi har skapat en anslutning till ett Adobe-API går vi igenom stegen för att registrera oss som en Adobe Exchange-partner, skapa en offentlig lista, skicka in för godkännande och publicera den.
+Lär dig hur du skapar en tjänst-till-tjänst-integrering på Developer Console, hanterar den på Admin Console och publicerar en offentlig programlista på Adobe Exchange. När vi har skapat en anslutning till ett Adobe-API går vi igenom stegen för att registrera oss som partner i Adobe Exchange, skapa en offentlig lista, skicka in för godkännande och publicera den.
 
 Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/3ooiltm)**.
 
@@ -26,6 +26,6 @@ Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/3o
 
 ## Ytterligare resurser
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform-dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Adobe Experience Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=sv)

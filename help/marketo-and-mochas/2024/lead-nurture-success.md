@@ -28,13 +28,13 @@ Carly kommer också att leda en live-demonstration som vägleder dig genom att s
 ## De tre viktigaste uppgifterna om leadindustrin
 
 
-**Betydelse av lead-textur**
+**Viktigt av lead-utbildning**
 
 * Främjande av leads är avgörande för att skapa effektiva relationer med potentiella kunder.
 * Det handlar om att dela resurser, tillhandahålla användbar information, utbilda sig i produkter och tjänster samt att personalisera interaktioner.
 * Hjälper en potentiell kund att öka sin benägenhet att köpa, bygger upp förtroende, förbättrar varumärkes- och tankeledarskap och förkortar säljcykeln.
 
-**Strategier för effektiv undervisning av leads**
+**Strategier för effektiv leadutbildning**
 
 * Definiera tydliga mål, anpassa marknadsföring och försäljning, identifiera målgrupper och segmentera data effektivt.
 * Välj rätt typer av vårdkampanjer, återanvänd befintligt innehåll, skapa nytt innehåll och använd verktyg som Marketo.

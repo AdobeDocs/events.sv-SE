@@ -1,5 +1,5 @@
 ---
-title: Datasamarbete i förstahandskontexten
+title: Data-Collaboration i förstahandskontexten
 description: Det här webbinariet kommer att hjälpa till att frigöra möjligheter till datasamarbete i framtiden utan cookies från tredje part.
 solution: Real-Time Customer Data Platform
 feature: Data Management
@@ -13,11 +13,11 @@ duration: 2560
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
-# Datasamarbete i förstahandskontexten
+# Data-Collaboration i förstahandskontexten
 
 Leverera på löftet om upplevelsen, med tillgång till färre data. Vare sig du är annonsör, utgivare eller byrå kan det här webbinariet hjälpa till att frigöra möjligheter till datasamarbete i framtiden utan cookies från tredje part.
 
@@ -33,6 +33,6 @@ Leverera på löftet om upplevelsen, med tillgång till färre data. Vare sig du
 
 [Översikt över segmentmatchning](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)
 
-[Audience Marketplace för dataköpare](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
+[Audience Marketplace för datainköpare](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
 
 [Personbaserade mål](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=en)

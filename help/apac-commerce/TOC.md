@@ -15,7 +15,7 @@ ht-degree: 0%
 + [Översikt](overview.md)
 + 2024 {#2024}
    + [Accelerator Day](2024/accelerator-day/overview.md)
-   + Accelerator Day{#accelerator-day}
+   + Acceleratordagen {#accelerator-day}
       + [Dold: Navigera imorgon](./2024/accelerator-day/navigating-tomorrow.md)
       + [Dold: Panel bakom kanter](./2024/accelerator-day/panel-beyond-borders.md)
       + [Dold: Experience Evolution](./2024/accelerator-day/experience-evolution.md)

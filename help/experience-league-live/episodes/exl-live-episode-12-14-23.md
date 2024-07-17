@@ -23,9 +23,9 @@ Läs om hur nya funktioner som lanserades 2023 kan hjälpa er att aktivera målg
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425754/?quality=12&learn=on)
 
->[!BEGINSHADEBOX Har du frågor?&quot;]
+>[!BEGINSHADEBOX &quot;Har du frågor?&quot;]
 
-Fortsätta diskussionen om Adobe Experience League [Community-post](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14){target="_blank"}.
+Fortsätt diskutera det här ämnet i Adobe Experience League [Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14){target="_blank"}.
 
 >[!ENDSHADEBOX]
 

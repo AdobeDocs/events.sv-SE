@@ -18,14 +18,14 @@ Läs mer om frågemotorn i Oak och jämför med Jackrabbit 2.x. Sessionen inneh�
 
 >[!VIDEO](https://video.tv.adobe.com/v/19402/?quality=9)
 
-*Levererat 19 november 2014*
+*Levererad 19 november 2014*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Thomas Mueller, programvaruingenjör
 * Marcel Reutegger, Senior Software Enginer
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-6-oak-mongomk-and-queries.pdf)
 
@@ -35,7 +35,7 @@ Läs mer om frågemotorn i Oak och jämför med Jackrabbit 2.x. Sessionen inneh�
 
 ## Relaterade länkar {#related-links}
 
-[Oak Documentation](https://jackrabbit.apache.org/oak/docs/)
+[Oak-dokumentation](https://jackrabbit.apache.org/oak/docs/)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

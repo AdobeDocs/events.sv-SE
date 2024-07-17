@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Marketo Engage] Rockstar-segment
-description: Fyra"Rockstar"-kunder kommer var och en att presentera sina bästa [!DNL Marketo Engage] tips eller trick. Vem ska imponera på dig?
+description: Fyra"Rockstar"-kunder kommer att presentera sitt bästa [!DNL Marketo Engage] tips eller trick. Vem ska imponera på dig?
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Adobe [!DNL Marketo Engage] Rockstar-segment
 
-Fyra&quot;Rockstar&quot;-kunder kommer var och en att presentera sina bästa [!DNL Marketo Engage] tips eller trick. Vem ska imponera på dig?
+Fyra&quot;Rockstar&quot;-kunder kommer att presentera sitt bästa [!DNL Marketo Engage]-tips eller -trick. Vem ska imponera på dig?
 
 >[!VIDEO](https://video.tv.adobe.com/v/340311/?quality=12&learn=on)

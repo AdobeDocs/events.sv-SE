@@ -1,5 +1,5 @@
 ---
-title: Readiness with Commerce Intelligence
+title: Helgdagskänslighet med Commerce Intelligence
 description: Titta på det här webbinariet och lär dig hur du kan använda dina e-handelsdata för att lyckas under semestersäsongen.
 landing-page-description: Titta på det här inspelade webbinariet och lär dig hur du kan använda dina e-handelsdata för att lyckas under semestersäsongen.
 short-description: Titta på det här inspelade webbinariet och lär dig hur du kan använda dina e-handelsdata för att lyckas under semestersäsongen.
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# Readiness with Commerce Intelligence
+# Helgdagskänslighet med Commerce Intelligence
 
 >[!NOTE]
 >
@@ -40,5 +40,5 @@ Använd era e-handelsdata för att lyckas under helgen. Det här webbinariet bel
 
 ## Användbara resurser
 
-[Användarhandbok för Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=sv)
-[Stöd för Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Commerce Intelligence Användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=sv)
+[Commerce Intelligence Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

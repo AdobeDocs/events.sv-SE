@@ -23,4 +23,4 @@ Som de plattformar som underlättar hanteringen av kunddata måste även målgru
 
 >[!VIDEO](https://video.tv.adobe.com/v/336938/?quality=12&learn=on)
 
-Om du vill komplettera den här videon kan du även [ladda ned en rapport](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf)
+Om du vill komplettera videon kan du även [hämta ett whitepaper](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf)

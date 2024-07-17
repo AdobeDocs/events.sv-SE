@@ -18,13 +18,13 @@ I den här sessionen beskrivs uppgraderingsfunktionerna i CQ/AEM, som gör det m
 
 >[!VIDEO](https://video.tv.adobe.com/v/19576/?quality=9)
 
-*Levererat 22 maj 2013*
+*Levererad 22 maj 2013*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Bertrand Delacretaz, Senior Developer, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/cqgems-bdelacretaz-cq-upgrades-2013-05-22.pdf)
 

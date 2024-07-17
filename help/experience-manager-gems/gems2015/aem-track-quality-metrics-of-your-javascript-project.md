@@ -24,11 +24,11 @@ Metoder som integrerar sonarqube-analys i Javascript-projekt och därmed får ti
 
 *Levererad 9 december 2015*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * David Catalan, Lead QE Developer, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-gems-js-quality-metrics-12-9-15.pdf)
 

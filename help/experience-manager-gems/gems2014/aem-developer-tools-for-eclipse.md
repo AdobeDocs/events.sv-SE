@@ -18,21 +18,21 @@ AEM Developer Tools for Eclipse är en uppsättning Eclipse-pluginer som gör AE
 
 >[!VIDEO](https://video.tv.adobe.com/v/19465/?quality=9)
 
-*Levererat 20 augusti 2014*
+*Levererad 20 augusti 2014*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Stefan Egli, Developer, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-dev-tools-cq-gems.pdf)
 
 ## Relaterade länkar {#related-links}
 
-* [AEM Developer Tools for Eclipse - dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/eclipse.html)
+* [AEM Utvecklarverktyg för Eclipse - dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/eclipse.html)
 * [Sling IDE Tooling](https://sling.apache.org/documentation/development/ide-tooling.html)
 * [Forum för diskussioner och frågor](https://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)
 * [Rapportering och spårning av problem](https://github.com/Adobe-Marketing-Cloud/aem-eclipse-developer-tools/issues)
 * [Hobbes.js: UI Testing Framework](https://docs.adobe.com/docs/en/aem/6-0/develop/components/hobbes.html)
-* [Återgå till Översikt](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Återgå till översikten](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

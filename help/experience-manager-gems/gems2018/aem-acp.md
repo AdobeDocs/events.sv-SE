@@ -19,7 +19,7 @@ Allt börjar med Adobe Experience Platform. Upptäck hur plattformen spelar en r
 Läs om hur du gör det här:
 
 * Komponenterna som utgör Adobe Experience Platform - datatjänster
-* Data Science Workspace förbättrar designen och leveransen av avancerade kundupplevelser avsevärt
+* Data Science Workspace förbättrar designen och leveransen av avancerade kundupplevelser dramatiskt
 * Första steget i att integrera med Adobe Experience Platform och använda Experience Data Model
 * Aktuella och framtida integreringsalternativ för tredjepartsutvecklare
 
@@ -27,7 +27,7 @@ Läs om hur du gör det här:
 
 *Levererat 2018-08-08*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Klaasjan Tukker, Director Product Management, Adobe
 

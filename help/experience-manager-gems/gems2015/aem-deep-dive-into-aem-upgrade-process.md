@@ -18,9 +18,9 @@ Läs mer om det allmänna uppgraderingsscenariot, poäng för uppgraderingstill�
 
 >[!VIDEO](https://video.tv.adobe.com/v/19376/?quality=9)
 
-*Levererat 14 oktober 2015*
+*Levererad 14 oktober 2015*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Bertrand Delacretaz, forskningschef, Adobe
 * Tomek Rekawek Software Developer, Adobe

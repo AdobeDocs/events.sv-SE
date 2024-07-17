@@ -18,13 +18,13 @@ Få en översikt över de viktigaste plattformsändringarna, vad AEM har att erb
 
 >[!VIDEO](https://video.tv.adobe.com/v/26368/?quality=9)
 
-*Levererat 2019-03-06*
+*Levererat 03/06/19*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Cedric Huesler, Director Product Management, Adobe
 * Gabriel Walt, Product Manager, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem65-whatsnewgem-march6.pdf)

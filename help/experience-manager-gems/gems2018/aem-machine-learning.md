@@ -17,13 +17,13 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/22255/?quality=9)
 
-*Levererat 18 april 2018*
+*Levererad 18 april 2018*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Jonas Dahl, Product Manager, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem+gems+ml+and+ai+in+aem+4+17+18.pdf)
 
@@ -37,4 +37,4 @@ Jonas Dahl, Product Manager, Adobe
 
 >[!MORELIKETHIS]
 >
->* [Maskininlärning i AEM: Förbättrade smarta taggar, smart layout med mera](aem-machine-learning.md)
+>* [Maskinininlärning i AEM: Förbättrade smarta taggar, smart layout med mera](aem-machine-learning.md)

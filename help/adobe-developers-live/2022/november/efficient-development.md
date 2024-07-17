@@ -23,7 +23,7 @@ ht-degree: 0%
 
 # Effektiv utveckling för Adobe Experience Manager as a Cloud Service
 
-Cloud Manager innehåller olika typer av pipelines för att förbättra utvecklarupplevelsen och effektivisera arbetsflödet, inklusive en pipeline för koddistribution.
+Cloud Manager har olika typer av pipelines för att förbättra utvecklingsmiljön och effektivisera arbetsflödet, inklusive en produktionsprocess för koddistribution.
 
 Under den här sessionen får du lära dig hur du konfigurerar en befintlig webbplats för snabb koddistribution.
 

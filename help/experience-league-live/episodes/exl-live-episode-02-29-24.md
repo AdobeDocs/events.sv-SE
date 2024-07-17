@@ -24,9 +24,9 @@ Delta i denna Experience League Live-session, där Adobe Campaign produktexperte
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427258/?quality=12&learn=on)
 
->[!BEGINSHADEBOX Har du frågor?&quot;]
+>[!BEGINSHADEBOX &quot;Har du frågor?&quot;]
 
-Fortsätta diskussionen om Adobe Experience League [Community-post](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
+Fortsätt diskutera det här ämnet i Adobe Experience League [Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
 
 >[!ENDSHADEBOX]
 
@@ -46,9 +46,9 @@ Det nya webbgränssnittet i Campaign är viktigt eftersom det ger en enhetlig oc
 
 ## Ytterligare resurser
 
-* **[Kampanjwebbanvändargränssnitt - nyckelfunktioner](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html){target="_blank"}**
-  *Detaljerad dokumentation om vad som finns i Adobe Campaign webbgränssnitt.*
+* **[Webbanvändargränssnitt för kampanj - nyckelfunktioner](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html){target="_blank"}**
+  *Detaljerad dokumentation om vad som är tillgängligt i Adobe Campaign webbgränssnitt.*
 
-* **[Adobe Campaign webbgränssnitt - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
-  *Videofilmer och självstudiekurser om funktioner i Adobe Campaign webbanvändargränssnitt.*
+* **[Adobe Campaign webbanvändargränssnitt - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
+  *Så här gör du för att se videofilmer och självstudiekurser om Adobe Campaign webbanvändargränssnitt.*
 

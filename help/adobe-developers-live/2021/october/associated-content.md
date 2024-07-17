@@ -1,5 +1,5 @@
 ---
-title: Berika handelsupplevelser med associerat innehåll
+title: Berika Commerce-upplevelser med tillhörande innehåll
 description: CIF Add-on introducerade nyligen Product Experience Management som utökar redigeringsfunktionerna i Assets, Content Fragments och Experience Fragments för att associera Adobe Experience Manager-innehåll med produktdata. Genom att utnyttja kraften i det tillhörande innehållet kan ni berika er helt dynamiska produktkatalog som byggts med CIF Core Components för att visa data från både Adobe Commerce och Adobe Experience Manager. Under den här sessionen lär ni er att berika ert butiksprojekt med olika nivåer av marknadsföringsdrivna upplevelser. Vi presenterar även avancerade användningsexempel där vi visar hur anpassade komponenter kan utnyttja relaterat innehåll.
 solution: Commerce,Experience Manager
 feature: Developer Tools
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 ---
 
-# Berika handelsupplevelser med associerat innehåll
+# Berika Commerce-upplevelser med tillhörande innehåll
 
 CIF Add-on introducerade nyligen Product Experience Management som utökar redigeringsfunktionerna i Assets, Content Fragments och Experience Fragments för att associera Adobe Experience Manager-innehåll med produktdata. Genom att utnyttja kraften i det tillhörande innehållet kan ni berika er helt dynamiska produktkatalog som byggts med CIF Core Components för att visa data från både Adobe Commerce och Adobe Experience Manager. Under den här sessionen lär ni er att berika ert butiksprojekt med olika nivåer av marknadsföringsdrivna upplevelser. Vi presenterar även avancerade användningsexempel där vi visar hur anpassade komponenter kan utnyttja relaterat innehåll.
 
@@ -25,6 +25,6 @@ CIF Add-on introducerade nyligen Product Experience Management som utökar redig
 
 ## Ytterligare resurser
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform-dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Adobe Experience Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=sv)

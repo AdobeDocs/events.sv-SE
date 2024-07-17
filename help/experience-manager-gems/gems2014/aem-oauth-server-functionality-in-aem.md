@@ -14,17 +14,17 @@ ht-degree: 0%
 
 # OAuth-serverfunktionalitet i AEM - Utveckla federationen och frigör dina REST API:er!{#oauth-server-functionality-in-aem-embrace-federation-and-unleash-your-rest-apis}
 
-Adobe Experience Manager (AEM) implementeras för att köras i en OSGi-miljö och baseras på REST-principer. REST har inte fördefinierade säkerhetsmetoder (som det är till exempel med SOAP Web Services), vilket innebär att utvecklare definierar sina egna. Ett sätt att åtgärda säkerhetsproblem är att utnyttja OAuth 2. Tack vare OAuth-protokollet (Web Authorization) kan en användare ge en tredjepartswebbplats eller -tillämpning åtkomst till användarens skyddade resurser, utan att nödvändigtvis behöva visa sina långvariga inloggningsuppgifter eller ens sin identitet. OAuth 2 används ofta från större internetspelare (som Google, Facebook, Twitter) för att säkra deras (även REST) API:er. I det här dokumentet introduceras OAuth 2-ramverket och den nya Granite OAuth-serverfunktionen.
+Adobe Experience Manager (AEM) implementeras för att köras i en OSGi-miljö och baseras på REST-principer. REST har inte fördefinierade säkerhetsmetoder (som det är till exempel för SOAP Web Services), vilket innebär att utvecklare definierar sina egna. Ett sätt att åtgärda säkerhetsproblem är att utnyttja OAuth 2. Tack vare OAuth-protokollet (Web Authorization) kan en användare ge en tredjepartswebbplats eller -tillämpning åtkomst till användarens skyddade resurser, utan att nödvändigtvis behöva visa sina långvariga inloggningsuppgifter eller ens sin identitet. OAuth 2 används ofta från större internetspelare (som Google, Facebook, Twitter) för att säkra deras (även REST) API:er. I det här dokumentet introduceras OAuth 2-ramverket och den nya Granite OAuth-serverfunktionen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19466/?quality=9)
 
-*Levererat 23 juli 2014*
+*Levererad 23 juli 2014*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Antonio Sanso, Software Engineer, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/oauth-server-functionality-in-aem-7-23-14.pdf)
 <!--

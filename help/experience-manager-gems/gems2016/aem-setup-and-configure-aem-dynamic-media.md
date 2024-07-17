@@ -8,7 +8,7 @@ duration: 3537
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,20 +18,20 @@ AEM Dynamic Media gör det möjligt för kunder att på ett skalbart och kostnad
 
 >[!VIDEO](https://video.tv.adobe.com/v/19297/?quality=9)
 
-*Levererat 17 augusti 2016*
+*Levererad 17 augusti 2016*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Cynthia Tillo, produktchef, Adobe
 * Bob van Manen, Engineering Manager, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aemgems-081716-dynamic-media-configuration.pdf)
 
 ## Relaterade länkar {#related-links}
 
-[Konfigurera Dynamic Media](https://docs.adobe.com/docs/en/aem/6-2/administer/content/dynamic-media/config-dynamic.html)
+[Konfigurerar Dynamic Media](https://docs.adobe.com/docs/en/aem/6-2/administer/content/dynamic-media/config-dynamic.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

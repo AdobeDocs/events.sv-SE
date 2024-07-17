@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Markeringar av datainsamling och färdplan
 
-**Vad vi har släppt och vad som kommer fram med datainsamling från Adobe**
+**Vad vi har släppt och vad som kommer fram vid datainsamling från Adobe**
 
 Datainsamling är helt viktig på Adobe! Ni måste kunna lita på de data ni arbetar med. Vi har haft en händelse förra året med releaser och stora saker på gång.
 
@@ -27,5 +27,5 @@ Datainsamling är helt viktig på Adobe! Ni måste kunna lita på de data ni arb
 
 Titta på videon ovan för att se den här liveströmningshändelsen, där datainsamlingsexperterna i Adobe gav en sammanfattning av viktiga uppdateringar nyligen samt en glimt in i kommande objekt på färdplanen.
 
-Har du frågor om det? Fortsätta diskussionen om Adobe Experience League [Community-post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316).
+Har du frågor om det? Fortsätt diskutera det här ämnet i Adobe Experience League [Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316).
 

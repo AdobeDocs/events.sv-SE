@@ -1,6 +1,6 @@
 ---
-title: Handledning som skapar en webbplats med de nya JavaScript-blocken
-description: Hand-on creating a site with the new JavaScript blocksLär dig mer om nästa generations möjligheter till sammanställning, den senaste innovationen inom AEM Sites. Den innehåller en helt ny redigerings- och utvecklarupplevelse för att skapa de snabbaste webbplatserna. Under den här sessionen får du lära dig hur du utvecklar nya webbplatser med nästa generations komposabilitet från grunden, hur ett typiskt projekt konfigureras och struktureras, hur utvecklingsarbetsflödet fungerar, hur du formaterar innehåll, implementerar anpassade block och hur du får dina produktionsändringar med fokus på webbprestanda.
+title: Hand on creating a site with the new JavaScript blocks
+description: Hand-on creating a site with the new JavaScript blocksLäs om nästa generations möjligheter till komposition, den senaste innovationen i AEM Sites. Den innehåller en helt ny redigerings- och utvecklarupplevelse för att skapa de snabbaste webbplatserna. Under den här sessionen får du lära dig hur du utvecklar nya webbplatser med nästa generations komposabilitet från grunden, hur ett typiskt projekt konfigureras och struktureras, hur utvecklingsarbetsflödet fungerar, hur du formaterar innehåll, implementerar anpassade block och hur du får dina produktionsändringar med fokus på webbprestanda.
 product: experience manager
 sub-product: sites
 topic: Development
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 ---
 
-# Handledning som skapar en webbplats med de nya JavaScript-blocken
+# Hand on creating a site with the new JavaScript blocks
 
-Handledning som skapar en webbplats med de nya JavaScript-blocken
+Hand on creating a site with the new JavaScript blocks
 
 Läs om nästa generations komposabilitet, den senaste innovationen i AEM Sites. Den innehåller en helt ny redigerings- och utvecklarupplevelse för att skapa de snabbaste webbplatserna. Under den här sessionen får du lära dig hur du utvecklar nya webbplatser med nästa generations komposabilitet från grunden, hur ett typiskt projekt konfigureras och struktureras, hur utvecklingsarbetsflödet fungerar, hur du formaterar innehåll, implementerar anpassade block och hur du får dina produktionsändringar med fokus på webbprestanda.
 

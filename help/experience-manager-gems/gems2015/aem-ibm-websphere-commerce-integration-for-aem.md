@@ -18,14 +18,14 @@ Commerce integrationa frameworken (CIF) är ett AEM som snabbar upp alla eCommer
 
 >[!VIDEO](https://video.tv.adobe.com/v/19375/?quality=9)
 
-*9 september 2015*
+*Levererad 9 september 2015*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Martin Buergi, Product Manager, Adobe
 * Markus Haack, Senior Developer, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/150909-aem-gems-ibm-websphere-commerce-integration.pdf)
 <!--

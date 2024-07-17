@@ -1,6 +1,6 @@
 ---
-title: Analys av fel vid AEM as a Cloud Service distribution
-description: AEM as a Cloud Service installationer och felsökning.
+title: Analys av AEM as a Cloud Service-distributionsfel
+description: AEM as a Cloud Service interna installationsprogram och felsökning.
 feature-set: Experience Manager Cloud Manager
 feature: Code Deployment
 role: Admin, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Analys av fel vid AEM as a Cloud Service distribution
+# Analys av AEM as a Cloud Service-distributionsfel
 
-Under den här sessionen får du lära dig mer om AEM as a Cloud Service distributionsrutiner och felsökning.
+Under den här sessionen får du lära dig mer om AEM as a Cloud Service interna installationer och felsökning.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422532/?learn=on)

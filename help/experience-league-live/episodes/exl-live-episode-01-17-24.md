@@ -23,9 +23,9 @@ Delta i Bryan, Eric och Doug när de diskuterar hur ni snabbt ska komma igång m
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426778/?quality=12&learn=on)
 
->[!BEGINSHADEBOX Har du frågor?&quot;]
+>[!BEGINSHADEBOX &quot;Har du frågor?&quot;]
 
-Fortsätt diskussionen om [Experience League användarforum](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
+Fortsätt med diskussionen om [Experience League användarforum](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
 
 >[!ENDSHADEBOX]
 

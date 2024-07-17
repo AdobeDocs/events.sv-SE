@@ -1,6 +1,6 @@
 ---
-title: Anpassad Adobe Experience Manager Assets Compute Worker med API:er i App Builder och Photoshop
-description: Adobe Experience Manager som Cloud Services Asset compute-mikrotjänster stöder utveckling och driftsättning av specialarbetare som genererar anpassade resursrenderingar. Förutom att utnyttja den körklara automatiseringen av material för produktion av resurser i stor skala kan utvecklare även skapa egna asset compute med hjälp av Photoshop API:er för mer anpassade användningsfall. Under den här sessionen går vi igenom alla steg som krävs för att utveckla en asset compute-arbetare med hjälp av App Builder SDK:er och Photoshop API:er för att automatisera anpassade resursåtergivningar.
+title: Anpassad Adobe Experience Manager Assets Compute Worker med API:er från App Builder och Photoshop
+description: Adobe Experience Manager som Cloud Services Asset compute-mikrotjänster stöder utveckling och driftsättning av specialarbetare som genererar anpassade resursrenderingar. Förutom att utnyttja den körklara automatiseringen av material för produktion av resurser i stor skala kan utvecklare även skapa egna asset compute med hjälp av Photoshop API:er för mer anpassade användningsfall. Under det här seminariet går vi igenom alla steg för att utveckla en asset compute-arbetare med App Builder SDK och Photoshop API:er för att automatisera anpassade resursåtergivningar.
 solution: Experience Manager
 feature: Asset Compute Microservices
 topic: Development
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# Anpassad Adobe Experience Manager Assets Compute Worker med API:er i App Builder och Photoshop
+# Anpassad Adobe Experience Manager Assets Compute Worker med API:er från App Builder och Photoshop
 
-Adobe Experience Manager som Cloud Services Asset compute-mikrotjänster stöder utveckling och driftsättning av specialarbetare som genererar anpassade resursrenderingar. Förutom att utnyttja den körklara automatiseringen av material för produktion av resurser i stor skala kan utvecklare även skapa egna asset compute med hjälp av Photoshop API:er för mer anpassade användningsfall. Under den här sessionen går vi igenom alla steg som krävs för att utveckla en asset compute-arbetare med hjälp av App Builder SDK:er och Photoshop API:er för att automatisera anpassade resursåtergivningar.
+Adobe Experience Manager som Cloud Services Asset compute-mikrotjänster stöder utveckling och driftsättning av specialarbetare som genererar anpassade resursrenderingar. Förutom att utnyttja den körklara automatiseringen av material för produktion av resurser i stor skala kan utvecklare även skapa egna asset compute med hjälp av Photoshop API:er för mer anpassade användningsfall. Under det här seminariet går vi igenom alla steg för att utveckla en asset compute-arbetare med App Builder SDK och Photoshop API:er för att automatisera anpassade resursåtergivningar.
 
 Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/3F6f5sG)**.
 
@@ -28,6 +28,6 @@ Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/3F
 
 ## Ytterligare resurser
 
-- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience Manager-dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 - [Adobe Experience Manager Cloud Service - översikt](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

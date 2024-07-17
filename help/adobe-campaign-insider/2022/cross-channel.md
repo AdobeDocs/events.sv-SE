@@ -1,6 +1,6 @@
 ---
 title: Utjämna er flerkanalsmarknadsföring med Adobe [!DNL Campaign Classic]
-description: Deep-dive webbinarium med fokus på arbetsflöden, automatisering, personalisering och mätning för Adobe [!DNL Campaign Classic] kunder.
+description: Omfattande webbinarium som fokuserar på arbetsflöden, automatisering, personalisering och mätning för kunder som använder Adobe [!DNL Campaign Classic] .
 version: Classic v7
 solution: Campaign
 kt: 10506
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Utjämna er flerkanalsmarknadsföring med Adobe [!DNL Campaign Classic]
 
-Deep-dive webbinarium med fokus på arbetsflöden, automatisering, personalisering och mätning för Adobe [!DNL Campaign Classic] kunder.
+Ett omfattande webbinarium som fokuserar på arbetsflöden, automatisering, personalisering och mätning för kunder med [!DNL Campaign Classic] i Adobe.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343524/?quality=12&learn=on)

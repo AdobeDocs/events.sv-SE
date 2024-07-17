@@ -24,5 +24,5 @@ Besök oss för en livediskussion med tre Adobe-experter som har massor av kolle
 
 >[!VIDEO](https://video.tv.adobe.com/v/337219/?quality=12&learn=on)
 
-Om du vill diskutera denna session går du till [diskussion i Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/questions-and-discussion-for-experience-league-live-ep-3-expert/td-p/425205){target="_blank"}.
+Om du vill diskutera den här sessionen går du till [diskussionen i Experience League-communityn](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/questions-and-discussion-for-experience-league-live-ep-3-expert/td-p/425205){target="_blank"}.
 

@@ -26,17 +26,17 @@ Vi kan fördjupa oss i utvecklingen av Single-Page-Applications som kan redigera
 
 >[!VIDEO](https://video.tv.adobe.com/v/25194/?quality=9)
 
-*Levererat 2018-10-31*
+*Levererad 10/31/18*
 
 Presenteras av: Patrick Fauchere, Engineering Manager, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-gems-spa-editordeepdive-react-10312018.pdf)
 
 ## Relaterade länkar {#related-links}
 
-[Självstudiekurs om helger](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
+[Veckoslut, självstudiekurs](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 
 [Dokumentation](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
 

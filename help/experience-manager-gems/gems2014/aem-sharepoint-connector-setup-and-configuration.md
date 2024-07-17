@@ -25,11 +25,11 @@ Adobe SharePoint Connector exponerar innehåll via JCR-standardgränssnittet, vi
 
 *Levererad 29 januari 2014*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Tarun Aggarwal, Lead Software Engineer, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/cq-gems-sharepoint-connector.pdf)
 <!--

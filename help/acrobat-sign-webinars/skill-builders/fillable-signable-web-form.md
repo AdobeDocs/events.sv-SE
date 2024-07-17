@@ -1,5 +1,5 @@
 ---
-title: Lägg upp ett ifyllbart, signerbart webbformulär
+title: 'Post: ett ifyllbart, signerbart webbformulär'
 description: Lär dig hur du skapar ett webbformulär där alla kan fylla i och signera - utan att du behöver initiera transaktionen eller ens känna till signerarens e-postadress.
 feature: Sign, Form
 role: User
@@ -8,15 +8,15 @@ doc-type: Event
 duration: 1570
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15296
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: de00b727-129b-4ae7-bfec-97795b616fb6
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
-
-# Lägg upp ett ifyllbart, signerbart webbformulär
+# Post: ett ifyllbart, signerbart webbformulär
 
 Lär dig hur du skapar ett webbformulär där alla kan fylla i och signera - utan att du behöver initiera transaktionen eller ens känna till signerarens e-postadress. Du får också lära dig hur du förbereder en dokumentmall som kan användas för enskilda signaturtransaktioner, samt publicerar på en unik URL för bred delning.
 

@@ -20,8 +20,8 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427704/?learn=on)
 
-**Kontrollerad av** Chris Willis
-**Högtalare** Courtny Edwards-Jones och Jane Musatova
+**Modererat av** Chris Willis
+**Talare** Courtny Edwards-Jones och Jane Musatova
 
 ## Översikt
 

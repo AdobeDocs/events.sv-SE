@@ -1,6 +1,6 @@
 ---
 title: Koppla samman punkter - Foundational Strategy for Campaign Orchestration
-description: Foundations of Campaign Orchestration The Role of Campaign Orchestration within Personalization @ Scale Foundational Pillars & Guiding Principles Orchestration Measurement Best Practices Common Challengenges & Solutions
+description: Foundations of Campaign Orchestration The role of Campaign Orchestration within Personalization @ Scale Foundational Pillars & Guiding Principles Orchestration Measurement Best Practices Vanliga utmaningar och lösningar
 solution: Campaign
 feature-set: Campaign
 feature: Personalization

@@ -25,5 +25,5 @@ Lär dig hur du får ut mesta möjliga av CDP genom att investera i personal och
 ## Ytterligare information
 
 * [Effektivisera din första hanteringslösning](first-mile.md)
-* [Öka markörens roll som en dataförvaltare](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
-* [10 saker att tänka på när det gäller ansvarstagande kunddatahantering](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+* [Utökar marknadsförarens roll som en dataförvaltare](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
+* [10 saker att tänka på vid hantering av kunddata](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)

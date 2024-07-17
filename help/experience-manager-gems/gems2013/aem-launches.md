@@ -20,11 +20,11 @@ Adobe Experience Manager har funktioner för att enkelt skapa och publicera digi
 
 *Levererad 12 juni 2013*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Gilles Knobloch, Lead Developer, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/2013-06-12-launches-cqgems.pdf)
 

@@ -1,6 +1,6 @@
 ---
-title: AI-driven personalisering
-description: Artificiell intelligens finns överallt och börjar genomdriva många av våra dagliga interaktioner. När AI utnyttjas på rätt sätt kan det hjälpa er att skapa en hyper-relevant och minnesvärd upplevelse för era kunder. Adobe har investerat mycket i AI i många år och på senare tid har vi sett AI-kapaciteten komma till rätta i Commerce. På det här webbinariet kommer Jason Ford, chef - Commerce Solutions Consulting APAC, att göra oss hörda för att lära oss mer om hur vi kan utnyttja Adobe-verktygen för att överträffa er personaliseringsstrategi.
+title: AI Powered Personalization
+description: Artificiell intelligens finns överallt och börjar genomdriva många av våra dagliga interaktioner. När AI utnyttjas på rätt sätt kan det hjälpa er att skapa en hyper-relevant och minnesvärd upplevelse för era kunder. Adobe har investerat mycket i AI i många år och på senare tid har vi sett AI-funktioner som ligger i framkant i Commerce. På det här webbinariet kommer Jason Ford, Manager - Commerce Solutions Consulting APAC, som tillsammans hjälper oss att lära oss mer om hur vi kan utnyttja Adobe-verktygslådan för att överträffa er personaliseringsstrategi.
 feature-set: Commerce
 feature: Upgrade
 solution: Commerce
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# AI-driven personalisering
+# AI Powered Personalization
 
-Artificiell intelligens finns överallt och börjar genomdriva många av våra dagliga interaktioner. När AI utnyttjas på rätt sätt kan det hjälpa er att skapa en hyper-relevant och minnesvärd upplevelse för era kunder. Adobe har investerat mycket i AI i många år och på senare tid har vi sett AI-kapaciteten komma till rätta i Commerce. På det här webbinariet kommer Jason Ford, chef - Commerce Solutions Consulting APAC, att göra oss hörda för att lära oss mer om hur vi kan utnyttja Adobe-verktygen för att överträffa er personaliseringsstrategi.
+Artificiell intelligens finns överallt och börjar genomdriva många av våra dagliga interaktioner. När AI utnyttjas på rätt sätt kan det hjälpa er att skapa en hyper-relevant och minnesvärd upplevelse för era kunder. Adobe har investerat mycket i AI i många år och på senare tid har vi sett AI-funktioner som ligger i framkant i Commerce. På det här webbinariet kommer Jason Ford, Manager - Commerce Solutions Consulting APAC, som tillsammans hjälper oss att lära oss mer om hur vi kan utnyttja Adobe-verktygslådan för att överträffa er personaliseringsstrategi.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419107/?learn=on)

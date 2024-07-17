@@ -1,5 +1,5 @@
 ---
-title: Översikt över JavaScript-bibliotek, felsökningstips och tricks
+title: JavaScript Library Overview, Debugging Tips & Tricks
 description: Senaste releaser och funktioner, felsökning på.js, felsökning av live-demo, självsupport och hur ni kan kontakta support.
 role: Admin, User
 level: Beginner
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Översikt över JavaScript-bibliotek, felsökningstips och tricks
+# JavaScript Library Overview, Debugging Tips &amp; Tricks
 
 Lär dig mer om: de senaste releaserna och funktionerna, hur du felsöker at.js, felsöker live-demo, självsupportresurser och hur du kan kontakta support.
 

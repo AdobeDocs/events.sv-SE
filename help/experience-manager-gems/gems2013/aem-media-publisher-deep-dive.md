@@ -14,17 +14,17 @@ ht-degree: 0%
 
 # AEM 5.6 Media Publisher - djupdykning {#aem-media-publisher-deep-dive}
 
-CQ 5.6 är en del av Adobe Experience Manager och innehåller ett nytt Commerce Framework för att bygga Experience Driven Commerce-webbplatser ovanpå en tredjepartsplattform. Denna session ger en översikt över ramverket ur ett arkitektoniskt perspektiv och presenterar några detaljer om referensimplementeringen, baserat på JCR-databasen.
+CQ 5.6 är en del av Adobe Experience Manager och innehåller ett nytt Commerce Framework för att skapa Experience-drivna Commerce-webbplatser ovanpå en tredjepartsplattform. Denna session ger en översikt över ramverket ur ett arkitektoniskt perspektiv och presenterar några detaljer om referensimplementeringen, baserat på JCR-databasen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19574/?quality=9)
 
-*Levererat 17 april 2013*
+*Levererad 17 april 2013*
 
-**Presenteras av:**
+**Presenterad av:**
 
 John Fait
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/cq-gems-aem-media-publisher-04-17-2013-final.pdf)
 

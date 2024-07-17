@@ -1,6 +1,6 @@
 ---
-title: Cloud Servicen Skärmar
-description: Lär dig mer om skillnaderna mellan att leverera innehåll för den digitala signeringskanalen och att leverera en webbplats och hur Screens as a Cloud Service erbjuder en kanalspecifik leveransmekanism för att tillgodose de unika kraven för digitala signaturer.
+title: Screens Cloud Service
+description: Läs om skillnaderna mellan att leverera innehåll för den digitala signeringskanalen och att leverera en webbplats, och hur Screens as a Cloud Service erbjuder en kanalspecifik leveransmekanism för att tillgodose de unika kraven som digitala signaturer ställer.
 solution: Experience Manager,Experience Manager Screens
 feature: Developer Tools
 topic: Development
@@ -18,9 +18,9 @@ ht-degree: 1%
 
 ---
 
-# Cloud Servicen Skärmar
+# Screens Cloud Service
 
-Lär dig mer om skillnaderna mellan att leverera innehåll för den digitala signeringskanalen och att leverera en webbplats och hur Screens as a Cloud Service erbjuder en kanalspecifik leveransmekanism för att tillgodose de unika kraven för digitala signaturer.
+Läs om skillnaderna mellan att leverera innehåll för den digitala signeringskanalen och att leverera en webbplats, och hur Screens as a Cloud Service erbjuder en kanalspecifik leveransmekanism för att tillgodose de unika kraven som digitala signaturer ställer.
 
 Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/3umX8Be)**.
 
@@ -28,6 +28,6 @@ Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/3u
 
 ## Ytterligare resurser
 
-- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience Manager-dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 - [Adobe Experience Manager Cloud Service - översikt](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

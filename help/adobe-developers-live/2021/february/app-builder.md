@@ -1,6 +1,6 @@
 ---
 title: Adobe Developer App Builder Deep Dive
-description: Vill du höra mer om Adobe Developer App Builder? Följ oss och se Adobe Developer App Builder in action - kod, säkerhet, headfull och headless-appar, CI/CD med mera. Den här sessionen skapades som en del av Adobe Developers Live Content Event.
+description: Vill du höra mer om Adobe Developer App Builder utvecklare? Följ oss och se Adobe Developer App Builder in action - kod, säkerhet, headfull och headless-appar, CI/CD med mera. Den här sessionen skapades som en del av Adobe Developers Live Content Event.
 feature: Developer Tools
 topic: Development
 role: Developer
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Adobe Developer App Builder Deep Dive
 
-Vill du höra mer om Adobe Developer App Builder? Följ oss och se hur App Builder fungerar: kod, säkerhet, headfull och headless-appar, CI/CD med mera.
+Vill du höra mer om Adobe Developer App Builder utvecklare? Följ oss och se App Builder in action: code, security, headfull and headless apps, CI/CD med mera.
 
 Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 

@@ -13,7 +13,7 @@ ht-degree: 4%
 
 # Adobe Commerce produktuppdateringar
 
-Gå med i Adobe Commerce produktuppdateringswebbinarium och lär dig hur vi omvandlar plattformen med många nya och spännande funktioner! Vi kommer att visa upp de senaste innovationerna inom e-handeln och hur de hjälper er att öka försäljningen, effektivisera utvecklingen och förbättra resultatet.
+Gå med i Adobe Commerce produktuppdateringswebbinarium och lär dig hur vi omvandlar plattformen med många nya och spännande funktioner! Vi kommer att visa upp de senaste innovationerna från Commerce och hur de hjälper er att öka försäljningen, effektivisera utvecklingen och öka prestandan.
 
 ## Senaste uppdatering
 
@@ -25,7 +25,7 @@ Gå med i Adobe Commerce produktuppdateringswebbinarium och lär dig hur vi omva
       </a>
       <div>
         <a href="2023/nov2023.md">
-          <strong>November 2023</strong>
+          <strong> November 2023 </strong>
           <br/>
         </a>
           <!-- <em>Release date June 2023 </em> -->
@@ -47,7 +47,7 @@ Gå med i Adobe Commerce produktuppdateringswebbinarium och lär dig hur vi omva
       </a>
       <div>
         <a href="2023/july2023.md">
-          <strong>Juli 2023</strong>
+          <strong> Juli 2023 </strong>
           <br/>
         </a>
           <!-- <em>Release date June 2023 </em> -->

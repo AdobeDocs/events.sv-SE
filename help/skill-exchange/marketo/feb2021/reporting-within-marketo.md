@@ -1,6 +1,6 @@
 ---
-title: Rapportera inom [!DNL Marketo Engage]
-description: Få en förståelse för hög rapporteringsförmåga inom [!DNL Marketo Engage]och en djupdykning i rapporter och smarta listor.
+title: Rapporterar inom  [!DNL Marketo Engage]
+description: Få en förståelse för rapportfunktioner på hög nivå inom  [!DNL Marketo Engage] och en djupdykning i Rapporter och Smarta listor.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,9 +15,9 @@ ht-degree: 2%
 
 ---
 
-# Rapportera inom [!DNL Marketo Engage]
+# Rapporterar inom [!DNL Marketo Engage]
 
-Den här sessionen kommer att granska alla rapporteringsverktyg som finns i [!DNL Marketo Engage] inklusive:
+Den här sessionen kommer att granska alla rapporteringsverktyg som är tillgängliga i [!DNL Marketo Engage], inklusive:
 
 * Rapporter
 * Smarta listor
@@ -30,6 +30,6 @@ Den här sessionen kommer att granska alla rapporteringsverktyg som finns i [!DN
 * När standardrapporter och smarta listor ska användas
 * Prenumerationer
 
-Du lämnar den här sessionen med förståelse för rapportfunktioner på hög nivå inom [!DNL Marketo Engage]och en djupdykning i rapporter och smarta listor.
+Du lämnar den här sessionen med en förståelse för rapportfunktioner på hög nivå i [!DNL Marketo Engage] och en djupdykning i Rapporter och Smarta listor.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340309/?quality=12&learn=on)

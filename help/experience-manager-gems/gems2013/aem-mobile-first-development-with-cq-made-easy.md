@@ -18,9 +18,9 @@ Lär dig mönstren för responsiv design i CQ och hur du får en multimedial mob
 
 >[!VIDEO](https://video.tv.adobe.com/v/19572/?quality=9)
 
-*Levererat 18 september 2013*
+*Levererad 18 september 2013*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Bruce Lefebvre, Computer Scientist, Adobe
 

@@ -249,7 +249,7 @@ Ja, så här:
    Project Users > ID > Equal >$$USER.ID 
 ```
 
-* I annat fall placerar du användarnamnet i stället för [!DNL $$USER.ID]. Detta visar alla projekt där den här personen har tilldelats en uppgift eller är ägare eller sponsor. Om du bara vill se projekt där de har tilldelats uppgifter ska du lägga till följande två filterregler:
+* Om inte, placerar du användarnamnet i stället för [!DNL $$USER.ID]. Detta visar alla projekt där den här personen har tilldelats en uppgift eller är ägare eller sponsor. Om du bara vill se projekt där de har tilldelats uppgifter ska du lägga till följande två filterregler:
 
 ```
    Project > Owner ID > Not Equal > $$USERID

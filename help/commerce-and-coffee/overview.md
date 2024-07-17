@@ -1,6 +1,6 @@
 ---
-title: Handel och kaffe
-description: Adobe Commerce- och Coffee-serien fokuserar på handelsstrategier och -taktik, som stöds av statistik som avspeglar händelsetemat.
+title: Commerce och kaffe
+description: Adobe Commerce- och Coffee-serien fokuserar på Commerce strategier och taktik, med stöd av statistik som avspeglar evenemanget.
 exl-id: fba820f3-55cf-4cf5-bb0f-6b19870264db
 duration: 81
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -10,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Handel och kaffe
+# Commerce och kaffe
 
-Commerce &amp; Coffee-serien riktar sig till befintliga Adobe Commerce-kunder med alla kunskapsnivåer och funktioner som Sr. Commerce Strategy Consultant, Corey Gelato. Serien fokuserar på handelsstrategier och -taktik, med stöd av statistik som avspeglar händelseämnet. Efter presentationen finns det en livedemonstration som visar hur man genomför de strategier som diskuterats inom en Commerce-plattform. Varje evenemang avslutas med att deltagarna får möjlighet att ställa frågor live och att kontakta Adobe-experterna direkt. Du lämnar varje evenemang med en förnyad förståelse för varför och hur ni kan vara konkurrenskraftiga och uppnå framgång, samtidigt som ni maximerar vad er Adobe Commerce-plattform har att erbjuda.
+Commerce &amp; Coffee-serien riktar sig till befintliga Adobe Commerce-kunder med alla kunskapsnivåer och funktioner som Sr. Commerce Strategy Consultant, Corey Gelato. Serien fokuserar på Commerce strategier och taktik, med stöd av statistik som avspeglar evenemanget. Efter presentationen finns det en live demonstration som visar hur man implementerar de strategier som diskuterats inom en Commerce-plattform. Varje evenemang avslutas med att deltagarna får möjlighet att ställa frågor live och att kontakta Adobe-experterna direkt. Du lämnar varje evenemang med en förnyad förståelse för varför och hur ni kan vara konkurrenskraftiga och uppnå framgång, samtidigt som ni maximerar vad er Adobe Commerce-plattform har att erbjuda.
 
 <!--
 ## What's New

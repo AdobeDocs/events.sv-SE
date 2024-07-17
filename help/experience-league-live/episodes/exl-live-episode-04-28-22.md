@@ -21,5 +21,5 @@ Gå med Doug Moore och gästerna Nick Cammuso och Jackie Chevallier när de titt
 
 >[!VIDEO](https://video.tv.adobe.com/v/342611/?quality=12&learn=on)
 
-Om du vill fortsätta konversationen om sessionen går du till [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/experience-league-live-post-session-discussion-how-do-i-handle/m-p/450340#M419), där vi också kommer att svara på frågor som vi inte hade tid att svara på live under sessionen.
+Om du vill fortsätta konversationen om den här sessionen går du till [Experience League-communityposten](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/experience-league-live-post-session-discussion-how-do-i-handle/m-p/450340#M419), där vi också besvarar frågor som vi inte har tid att svara på live i sessionen.
 

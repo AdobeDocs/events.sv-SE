@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Den här sessionen innehåller aktuella AEM översättningsfunktioner och metodtips för hantering av flerspråkiga webbplatser. Lär dig hur du strukturerar globala webbplatser och använder språkkopior, live-kopior och MSM. Sessionen handlar också om hur du med avancerade funktioner kan få en enklare, snabbare och mer hanterbar innehållsöversättning.
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Ankur Sial, Computer Scientist, Adobe
 * Harpreet Neelu, Program Manager, Adobe
@@ -25,7 +25,7 @@ Den här sessionen innehåller aktuella AEM översättningsfunktioner och metodt
 
 *Levererat 2020-01-22*
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/gems-2020-translations.pdf)
 

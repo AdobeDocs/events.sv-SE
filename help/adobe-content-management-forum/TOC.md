@@ -6,7 +6,7 @@ solution: Experience Manager
 source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -21,5 +21,5 @@ ht-degree: 1%
    + [Leverera innehållspersonalisering](2022/personalization.md)
    + [Bygg en innehållsförsörjningskedja som kan skalas](2022/supply-chain.md)
    + [[!DNL Experience Manager as a Cloud Service] innovationer](2022/innovations.md)
-   + [Resurser för alla](2022/assets-for-all.md)
+   + [Assets för alla](2022/assets-for-all.md)
    + [AEM Forms - Förenklad, integrerad och headless](2022/forms-headless.md)

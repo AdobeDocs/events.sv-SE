@@ -23,5 +23,5 @@ De nya funktionerna Audience Portal och Composition har tagit segmentering och m
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421425/?quality=12&learn=on)
 
-Har du frågor om det här programmet? Fortsätta diskussionen om Adobe Experience League [Community-post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073#M366).
+Har du frågor om det här programmet? Fortsätt diskutera det här ämnet i Adobe Experience League [Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073#M366).
 

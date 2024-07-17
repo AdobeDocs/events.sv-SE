@@ -1,5 +1,5 @@
 ---
-title: Optimera er Commerce Intelligence-Data Warehouse
+title: Optimera din Commerce Intelligence-Data Warehouse
 description: Titta på det här webbinariet om du vill veta mer om Data Warehouse Manager.
 landing-page-description: Se det inspelade webbinariet
 short-description: Se det inspelade webbinariet
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# Optimera er Commerce Intelligence-Data Warehouse
+# Optimera din Commerce Intelligence-Data Warehouse
 
 >[!NOTE]
 >
@@ -43,5 +43,5 @@ I det här webbinariet:
 
 ## Användbara resurser
 
-[Optimera databasen för analys](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
-[Rekommenderade Dimensioner för segmentering och filtrering](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[Optimerar databasen för analys](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
+[Rekommenderade Dimensioner för segmentering och filtrering ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

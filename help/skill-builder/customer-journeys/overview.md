@@ -24,7 +24,7 @@ Utveckla kundprofiler i realtid genom att hämta data från alla källor för at
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-        <strong>Bättre tillsammans - Adobe [!DNL Marketo Engage] och Real-Time CDP</strong>
+        <strong> Bättre tillsammans - Adobe [!DNL Marketo Engage] och Real-Time CDP </strong>
       </a>
     </div>
     <p>
@@ -37,7 +37,7 @@ Utveckla kundprofiler i realtid genom att hämta data från alla källor för at
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-        <strong>Utveckla och anpassa datamodeller i Adobe [!DNL Campaign Classic]</strong>
+        <strong> Utveckla och anpassa datamodeller i Adobe [!DNL Campaign Classic]</strong>
       </a>
     </div>
     <p>
@@ -50,11 +50,11 @@ Utveckla kundprofiler i realtid genom att hämta data från alla källor för at
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html">
-        <strong>Tips och tricks för Adobe Campaign Standard</strong>
+        <strong> Tips och tricks för Adobe Campaign Standard </strong>
       </a>
     </div>
     <p>
-    <em>Plug in i er Adobe Campaign Standard-instans och upptäck de bästa metoderna för målinriktning, personalisering och utmattning av marknadsföring för att få en bättre användning av ACS.</em>
+    <em>Koppla in i din Adobe Campaign Standard-instans och upptäck de effektivaste strategierna för målinriktning, personalisering och reklamtrötthet för att få en bättre användning av ACS.</em>
     <p>
   </td>
 </tr>

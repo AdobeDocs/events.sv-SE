@@ -18,14 +18,14 @@ AEM Screens är den nya digitala signeringslösningen som är integrerad i Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/19301/?quality=9)
 
-*Levererat 16 november 2016*
+*Levererad 16 november 2016*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Julien Ramboz, UI Developer, Adobe
 * Tobias Reiss, Computer Scientist, Software Development, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/2016-11-16-aem-screens.pdf)
 
@@ -38,6 +38,6 @@ Exempelprojekt
 
 >[!WARNING]
 >
->AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar uppgradering till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns här [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar att du uppgraderar till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns på [sidan](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
 >
->Se vad som gäller denna session *Distribuera skärmar* och *Skärmkoncept* i AEM 6.2-dokumentationen.
+>Se *Distribuera Screens* och *Screens Concept* i dokumentationen till AEM 6.2, eftersom det gäller den här sessionen.

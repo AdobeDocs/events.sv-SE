@@ -23,7 +23,7 @@ Ett bibliotek med inspelade Workfront-event där experter och kollegor berättar
       <img alt="Workfront System Maintenance" src="assets/workfront-system-maintenance.png"/>
       </a>
       <div>
-         <a href="user-groups/workfront-system-maintenance.md"><strong>Workfront System Maintenance</strong></a>
+         <a href="user-groups/workfront-system-maintenance.md"><strong>Workfront systemunderhåll</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>

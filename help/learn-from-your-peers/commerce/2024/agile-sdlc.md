@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Effektiv e-handel: En fokuserad strategi för kommunikation, krav och testning i Agile SDLC
+# Streamlining E-Commerce: A Focused approach on Communication, Requirements and Testing in Agile SDLC
 
 Träffa Adobe Commerce expert och förespråka Tyler Granlund som effektiviserar e-handeln genom Agile Software Development Life Cycle (SDLC).
 

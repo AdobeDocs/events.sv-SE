@@ -1,6 +1,6 @@
 ---
 title: 7 sätt att bygga upp kundlojalitet och kundlojalitet
-description: Det här webbinariet undersöker hur ert företag kan säkerställa kundnöjdhet, lojalitet och lojalitet i en tid då konsumenterna lätt kan byta varumärken eller prova olika alternativ. Corey Gelato, Sr. Commerce Strategy Consultant, går igenom"7 Ways to Build Customer Loyalty & Retention". Från kundtjänst och personalisering till transparens och autenticitet - han håller måttet på de bästa metoderna för att få kunderna att komma tillbaka för mer. Corey demonstrerar Adobe Commerce funktioner som Product Recommendations, och lägger upp prislistor, kundvagn och kataloger, kampanjer, recensioner med mera.
+description: Det här webbinariet undersöker hur ert företag kan säkerställa kundnöjdhet, lojalitet och lojalitet i en tid då konsumenterna lätt kan byta varumärken eller prova olika alternativ. Sr. Commerce Strategy Consultant, Corey Gelato granskar"7 Ways to Build Customer Loyalty & Retention". Från kundtjänst och personalisering till transparens och autenticitet - han håller måttet på de bästa metoderna för att få kunderna att komma tillbaka för mer. Corey demonstrerar Adobe Commerce funktioner som Product Recommendations, och lägger upp prislistor, kundvagn och kataloger, kampanjer, recensioner med mera.
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 # 7 sätt att bygga kundlojalitet och kundlojalitet
 
-Det här webbinariet undersöker hur ert företag kan säkerställa kundnöjdhet, lojalitet och lojalitet i en tid då konsumenterna lätt kan byta varumärken eller prova olika alternativ. Corey Gelato, Sr. Commerce Strategy Consultant, går igenom&quot;7 Ways to Build Customer Loyalty &amp; Retention&quot;. Från kundtjänst och personalisering till transparens och autenticitet - han håller måttet på de bästa metoderna för att få kunderna att komma tillbaka för mer. Corey demonstrerar Adobe Commerce funktioner som Product Recommendations, och lägger upp prislistor, kundvagn och kataloger, kampanjer, recensioner med mera.
+Det här webbinariet undersöker hur ert företag kan säkerställa kundnöjdhet, lojalitet och lojalitet i en tid då konsumenterna lätt kan byta varumärken eller prova olika alternativ. Sr. Commerce Strategy Consultant, Corey Gelato granskar&quot;7 Ways to Build Customer Loyalty &amp; Retention&quot;. Från kundtjänst och personalisering till transparens och autenticitet - han håller måttet på de bästa metoderna för att få kunderna att komma tillbaka för mer. Corey demonstrerar Adobe Commerce funktioner som Product Recommendations, och lägger upp prislistor, kundvagn och kataloger, kampanjer, recensioner med mera.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419686/?learn=on)

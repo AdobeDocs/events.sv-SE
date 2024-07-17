@@ -3,8 +3,8 @@ user-guide-title: Kunskapsbyggaren
 user-guide-description: Detta är en beskrivning av användarhandboken som ska visas på landningssidan.
 source-git-commit: 14496a09a0e2dccb88b1ef90a6a070f8f5c3990c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '163'
+ht-degree: 6%
 
 ---
 
@@ -12,19 +12,19 @@ ht-degree: 0%
 # Kunskapsbyggaren {#skill-builder-recordings}
 
 + [Översikt](overview.md)
-+ Content and Commerce {#content-and-commerce}
++ Innehåll och Commerce {#content-and-commerce}
    + [Översikt](content-and-commerce/overview.md)
    + 2022 {#2022}
-      + [Innovationer inom innehållspersonalisering](content-and-commerce/2022/content-perosonalization.md)
+      + [Innovationer i Personalization](content-and-commerce/2022/content-perosonalization.md)
       + [Leverera Headless-upplevelser med Experience Manager](content-and-commerce/2022/headless.md)
       + [Adobe Commerce 2.4.4 uppgradering](content-and-commerce/2022/commerce-upgrade.md)
       + [Enterprise Workflow Management](content-and-commerce/2022/workflow.md)
       + [Få Metadata att fungera i ditt företag](content-and-commerce/2022/metadata.md)
       + [Headless for Commerce and PWA Studio](content-and-commerce/2022/headless-pwa.md)
    + 2021 {#2021}
-      + [Grundläggande om redigering](content-and-commerce/2021/authoring-fundamentals.md)
+      + [Grundläggande om utveckling](content-and-commerce/2021/authoring-fundamentals.md)
       + [Media Library Administration](content-and-commerce/2021/media-library-administration.md)
-      + [Samarbetsverktyg](content-and-commerce/2021/collaboration-tools.md)
+      + [Collaboration Tools](content-and-commerce/2021/collaboration-tools.md)
       + [Flerkanalsupplevelser](content-and-commerce/2021/omnichannel-experiences.md)
       + [MSM och översättning](content-and-commerce/2021/multi-site-management-web-translation.md)
       + [Innehållshantering](content-and-commerce/2021/traditional-headless-content-management.md)
@@ -35,7 +35,7 @@ ht-degree: 0%
       + [Mappstruktur och sökning](content-and-commerce/2020/folder-structure-search.md)
       + [Metadata](content-and-commerce/2020/metadata.md)
    + 2019 {#2019}
-      + [Testa bästa praxis med Cloud Manager](content-and-commerce/2019/cloud-manager-testing.md)
+      + [Testa metodtips med Cloud Manager](content-and-commerce/2019/cloud-manager-testing.md)
 + Kundresor {#customer-journeys}
    + [Översikt](customer-journeys/overview.md)
    + 2022 {#2022}

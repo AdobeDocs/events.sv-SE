@@ -1,6 +1,6 @@
 ---
 title: B2B-upplevelser med [!DNL Marketo Engage] och Adobe Experience Cloud
-description: Stärk B2B-upplevelserna genom att ansluta [!DNL Marketo Engage] med Adobe-applikationer för att förenkla processerna, effektivisera målgruppshanteringen och maximera personaliseringen.
+description: Stärk B2B-upplevelserna genom att koppla ihop [!DNL Marketo Engage] med Adobe-program för att förenkla processerna, effektivisera målgruppshanteringen och maximera personaliseringen.
 solution: Marketo, Experience Cloud
 role: Admin, User
 level: Beginner, Intermediate, Experienced
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 # B2B-upplevelser med [!DNL Marketo Engage] och Adobe Experience Cloud
 
-Stärk B2B-upplevelserna genom att ansluta [!DNL Marketo Engage] med Adobe-applikationer för att förenkla processerna, effektivisera målgruppshanteringen och maximera personaliseringen. Den här sessionen kommer att gå igenom integreringen mellan [!DNL Marketo Engage] och Adobe Experience Cloud och vilka smärtor som kommer att lösas.
+Stärk B2B-upplevelserna genom att ansluta [!DNL Marketo Engage] till Adobe-program för att förenkla processerna, effektivisera målgruppshanteringen och maximera personaliseringen. Den här sessionen går igenom integreringarna mellan [!DNL Marketo Engage] och Adobe Experience Cloud-programmet och vilka problem som kommer att lösas.
 
-*Mihai Prisacariu* Solutions Consultant, CJM / Adobe
+*Mihai Prisacariu* Lösningskonsult, CJM/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343826/?quality=12&learn=on)

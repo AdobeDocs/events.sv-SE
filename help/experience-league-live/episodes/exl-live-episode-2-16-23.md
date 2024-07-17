@@ -27,5 +27,5 @@ Platsinläsningstider och övergripande prestanda har en direkt inverkan på kun
 
 Titta på videon ovan för att se den här liveströmningshändelsen, där experter på upplevelseleverans på Adobe diskuterade vad man ska tänka på och vilka åtgärder du kan vidta för att öka prestandan.
 
-**Har du frågor om det?** Fortsätta diskussionen om Adobe Experience League [Community-post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836).
+**Har du frågor om det?** Fortsätt diskutera det här ämnet i Adobe Experience League [Community-inlägg](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836).
 

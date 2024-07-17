@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Lär dig konsten med Experience Manager-certifiering: Gör dig redo, kom igång, bli certifierad!
 
-Det här webbinariet har genomförts på **28 juni**, 2023. Se inspelningen nedan.
+Det här webbinariet har genomförts den **28 juni**, 2023. Se inspelningen nedan.
 
 ## Sessionsbeskrivning
 
@@ -45,6 +45,6 @@ Gör anspråk på din plats idag och ta en resa till nya höjder med Experience 
 
 >[!NOTE]
 >
->* Besök följande om du vill se sessionsspecifika communityinteraktioner på Experience League: [Sammanhangsberoende koppling](https://adobe.ly/3p2CmbA)
+>* Besök den här [kontextuella tråden](https://adobe.ly/3p2CmbA) för sessionsspecifika communityinteraktioner på Experience League
 >
->* Om du vill få meddelanden om våra kommande webbinarier registrerar du dig på [AdobeAEM User Group](https://aem-augs.adobe.com/).
+>* Om du vill få meddelanden om våra kommande webbinarier registrerar du dig på [Adobe AEM User Group](https://aem-augs.adobe.com/).

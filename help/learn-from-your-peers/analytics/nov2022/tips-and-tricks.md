@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Adobe Analytics] Champion Tips and Tricks'
-description: Gå med fem [!DNL Adobe Analytics] Kameror från hela världen visar samma tips och trick som hjälpte dem att bemästra [!DNL Adobe Analytics].
+title: '''[!DNL Adobe Analytics]'', tips och tricks för tävlingen'''
+description: Följ fem [!DNL Adobe Analytics] Champions från hela världen när de delar med sig av tips och tricks som hjälpte dem att bemästra [!DNL Adobe Analytics].
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # [!DNL Adobe Analytics] Champion Tips and Tricks
 
-Gå med fem [!DNL Adobe Analytics] Kameror från hela världen visar samma tips och trick som hjälpte dem att bemästra [!DNL Adobe Analytics].
+Delta i fem [!DNL Adobe Analytics] Champions från hela världen när de delar med sig av tips och tricks som hjälpte dem att bemästra [!DNL Adobe Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414191/?quality=12&learn=on)

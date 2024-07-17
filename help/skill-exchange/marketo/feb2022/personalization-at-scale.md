@@ -1,6 +1,6 @@
 ---
-title: Anpassning i stor skala
-description: Utnyttja Adobe kraft [!DNL Marketo Engage], personalisera bortom tokens.
+title: Personalization i skala
+description: Utnyttja kraften i Adobe [!DNL Marketo Engage], anpassa bortom tokens.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ---
 
-# Personalisering i stor skala - Utnyttja Adobe kraft [!DNL Marketo Engage] Data för att öka engagemanget
+# Personalization i skala - Utnyttjar kraften hos Adobe [!DNL Marketo Engage]-data för att öka engagemanget
 
-Att komma igång med att personalisera utåtriktad marknadsföring är tillräckligt enkelt med variabler och liknande, men när vill du gå längre med personaliseringen än vad tokens tillåter? Adobe [!DNL Marketo Engage] gör att ni kan samla in så mycket information om era potentiella kunder, och att utnyttja denna information kan vara ett av de mest kraftfulla sätten att personalisera utåtriktad verksamhet, sticka ut i röriga inkorgar och hjälpa dem att utveckla presumtiva kunder. Under detta möte kommer vi att ta upp följande:
+Att komma igång med att personalisera utåtriktad marknadsföring är tillräckligt enkelt med variabler och liknande, men när vill du gå längre med personaliseringen än vad tokens tillåter? Med Adobe [!DNL Marketo Engage] kan du samla in så mycket information om dina potentiella kunder, och att utnyttja den här informationen kan vara ett av de mest kraftfulla sätten att personalisera utåtriktad information, sticka ut i röriga inkorgar och hjälpa till att utveckla potentiella kunder. Under detta möte kommer vi att ta upp följande:
 
 * Ideas för personalisering utöver variabler
 * Olika användningsfall för personalisering

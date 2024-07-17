@@ -28,7 +28,7 @@ Driv personalisering i realtid i alla kanaler med hjälp av insikter om online- 
       </a>
     </div>
     <p>
-    <em>Delta i detta seminarium och lär dig grunderna för automatisering och optimering av Adobe Target-funktioner med Automatiskt mål och Automatisk personalisering.</em>
+    <em>Gå med i den här sessionen och lär dig grunderna för automatisering och optimering av Adobe Target-funktioner med Automatiskt mål och Automatisk anpassning.</em>
     <p>
   </td>
   <td>
@@ -37,11 +37,11 @@ Driv personalisering i realtid i alla kanaler med hjälp av insikter om online- 
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html">
-        <strong>2022 Innovationer och trender</strong>
+        <strong> 2022 Innovationer och trender </strong>
       </a>
     </div>
     <p>
-    <em>Under den här inledningssessionen kommer du att lära dig mer om de viktigaste trenderna inom digital och integrerad utveckling. Delta i oss och utforska hur ni kan utnyttja era data på ett relevant sätt genom att maximera era era investeringar i Experience Cloud och ta en titt på nya innovationer.</em>
+    <em>I den här huvudanförandet får du lära dig mer om de viktigaste trenderna inom D&amp;I. Följ oss och utforska hur ni kan utnyttja era data på ett relevant sätt genom att maximera era era investeringar i Experience Cloud och ta en titt på nya innovationer.</em>
     <p>
   </td>  
   <td>
@@ -50,11 +50,11 @@ Driv personalisering i realtid i alla kanaler med hjälp av insikter om online- 
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/mobile-and-apps.html">
-        <strong>Analys- och målapplikationer för mobiler och appar</strong>
+        <strong> Analys- och målprogram för mobiler och appar </strong>
       </a>
     </div>
     <p>
-    <em>Under den här sessionen får du lära dig mer om de effektivaste strategierna för att använda kontrollpaneler i Analytics på mobila enheter och hur du kan personalisera appar via Target.</em>
+    <em>Under den här sessionen får du lära dig mer om de effektivaste strategierna med Analytics-instrumentpaneler på mobila enheter och hur du kan anpassa appar via Target.</em>
     <p>
   </td>
 </tr>

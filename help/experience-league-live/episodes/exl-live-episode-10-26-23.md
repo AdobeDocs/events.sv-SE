@@ -27,5 +27,5 @@ Den helt omgjorda startsidan för Workfront har blivit ett produktivitetshöjand
 
 I den här Experience League Live-sessionen visar produktexperten Ben Robbins den nya hemupplevelsen, inklusive nya reglage för administratörslayout och spännande förbättringar som kommer under 2024. Och Workfront kund Jamie Smith berättar om hur den nya hemupplevelsen ökar produktiviteten på AT&amp;T.
 
-**Om du vill fortsätta diskussionen går du till [Experience League Community Post!](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
+**Gå till [Experience League Community Post!](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}** om du vill fortsätta diskussionen
 

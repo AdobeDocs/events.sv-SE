@@ -1,5 +1,5 @@
 ---
-title: Creative Agency - Workfront Proof (11 augusti 2020)
+title: ECDC - Workfront Proof (11 augusti 2020)
 description: Lyssna på Cindy Reichert tala om hur Brown-Forman utnyttjar Workfront Proof.
 role: User
 level: Beginner, Intermediate

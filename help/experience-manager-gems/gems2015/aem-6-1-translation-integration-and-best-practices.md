@@ -18,14 +18,14 @@ Cristine och Mathias kommer att presentera förbättrade funktioner för övers�
 
 >[!VIDEO](https://video.tv.adobe.com/v/19371/?quality=9)
 
-*Levererat den 30 september 2015*
+*Levererad 30 september 2015*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Christine Duran, Sr Manager Translation Technologies, Adobe
 * Mathias Siegel, Sr Product Manager, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/09302015-aem-gems-translation-integration-and-best-practices.pdf)
 

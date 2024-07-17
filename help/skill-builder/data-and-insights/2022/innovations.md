@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Under den här inledningssessionen kommer du att lära dig mer om de viktigaste trenderna inom digital och integrerad utveckling. Delta i oss och utforska hur ni kan utnyttja era data på ett relevant sätt genom att maximera era era investeringar i Experience Cloud och ta en titt på nya innovationer.
 
-*Axel Schaefer* Chef för produktmarknadsföring, Analytics EMEA/Adobe
+*Axel Schaefer* Head of Product Marketing, Analytics EMEA / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343818/?quality=12&learn=on)

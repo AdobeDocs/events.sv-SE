@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Kom igång - De ultimata tips och tricks för din Forms
 
-Forms är en viktig del av en organisations kundtjänstresa, men det finns ofta frågor att svara på för att se till att de är optimerade. I den här sessionen [!DNL Marketo Engage] Champions, Amanda och Julz, visar hur man bäst kan använda blanketter för att få exaktare data insamlade och öka konverteringsgraden.
+Forms är en viktig del av en organisations kundtjänstresa, men det finns ofta frågor att svara på för att se till att de är optimerade. Under den här sessionen kommer [!DNL Marketo Engage] Champions, Amanda och Julz att gå igenom bästa praxis och tips för att tillämpa på formulär för att öka exaktheten i insamlade data och öka konverteringsgraden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340312/?quality=12&learn=on)

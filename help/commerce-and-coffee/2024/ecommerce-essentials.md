@@ -27,7 +27,7 @@ Corey kommer också att dela med sig av en live demonstration av marknadsföring
 
 De tre viktigaste aktiviteterna från webbinariet&quot;Mastering eCommerce Essentials&quot; med Cory Gelato:
 
-**Merchandising and Personalization**
+**Merchandising och Personalization**
 
 * Att använda algoritmer för maskininlärning för varuexponering kan få betydande effekter på försäljning och kundnöjdhet.
 * Personaliserade produktrekommendationer baserade på individuella kundupplevelser ökar engagemanget och konverteringsgraden.

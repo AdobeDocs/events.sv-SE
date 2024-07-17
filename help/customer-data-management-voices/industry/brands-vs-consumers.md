@@ -24,6 +24,6 @@ Idag begravs marknadsförarna i den virrvarr av information som fokuserar på id
 
 >[!VIDEO](https://video.tv.adobe.com/v/332060/?quality=12&learn=on)
 
-Om du vill komplettera den här videon kan du även [ladda ned en rapport](./../assets/whitepaper-a-tale-of-two-perceptions.pdf)
+Om du vill komplettera videon kan du även [hämta ett whitepaper](./../assets/whitepaper-a-tale-of-two-perceptions.pdf)
 
 *Ett år senare: Uppdaterade insikter om*<a href="https://business.adobe.com/blog/perspectives/a-tale-of-two-perceptions-readiness-for-a-cookieless-future"> business.adobe.com </a>*.*

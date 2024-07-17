@@ -19,19 +19,19 @@ På Adobe har vi observerat en explosion av digitala resurser på fyra viktiga o
 * Filstorleken på digitala resurser som skapas
 * Antalet digitala resurser som produceras
 * Våra användares och kunders förväntningar på digitala resurser
-* Förfrågningarna om större och större [!DNL AEM Assets] distributioner
+* Begäranden om större och större [!DNL AEM Assets]-distributioner
 
-Under den här sessionen kommer vi att lära oss mer om Digital Asset Explosion, förstå hur AEM resurser exploderar och följa ett kundexempel under deras livscykel [!DNL AEM Assets] projekt.
+Under den här sessionen kommer vi att lära oss om Digital Asset Explosion, förstå hur AEM resurser exploderar och följa ett kundexempel under livscykeln för deras [!DNL AEM Assets]-projekt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21474/?quality=9)
 
-*Levererat den 31 januari 2018*
+*Levererad 31 januari 2018*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Clint Goudie-Nice, Sr. Software Engineer, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/1+30+18+the+digital+asset+explosion+gems.pdf)
 <!--

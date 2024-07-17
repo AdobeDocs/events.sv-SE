@@ -1,6 +1,6 @@
 ---
-title: Handel och kaffe - förberedelse av högsäsong
-description: Under den här sessionen samlas strategier, tips och bästa praxis för er Commerce-webbplats under högsäsong. Vi diskuterar 2022 års förväntningar på helger, mobilhandel, kampanjer och utcheckning samt vikten av marknadsföring för att få en framgångsrik högsäsong. Presentationen och demon åtföljs av live-frågor och svar tillsammans med Corey Gelato.
+title: Commerce och kaffe - förberedelser inför högsäsong
+description: Detta seminarium innehåller strategier, tips och metodtips för din Commerce-webbplats under högsäsong. Vi diskuterar 2022 års förväntningar på helger, mobilhandel, kampanjer och utcheckning samt vikten av marknadsföring för att få en framgångsrik högsäsong. Presentationen och demon åtföljs av live-frågor och svar tillsammans med Corey Gelato.
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Handel och kaffe: Förberedelser inför högsäsong
+# Commerce och kaffe: Förberedelser inför högsäsong
 
-Under den här sessionen samlas strategier, tips och bästa praxis för er Commerce-webbplats under högsäsong. Vi diskuterar 2022 års förväntningar på helger, mobilhandel, kampanjer och utcheckning samt vikten av marknadsföring för att få en framgångsrik högsäsong. Presentationen och demon åtföljs av live-frågor och svar tillsammans med Corey Gelato.
+Detta seminarium innehåller strategier, tips och metodtips för din Commerce-webbplats under högsäsong. Vi diskuterar 2022 års förväntningar på helger, mobilhandel, kampanjer och utcheckning samt vikten av marknadsföring för att få en framgångsrik högsäsong. Presentationen och demon åtföljs av live-frågor och svar tillsammans med Corey Gelato.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412587/?quality=12&learn=on)

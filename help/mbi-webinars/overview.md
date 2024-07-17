@@ -1,6 +1,6 @@
 ---
 title: Commerce Intelligence Webinars
-description: Utforska Commerce Intelligence-inspelade webbinarier som täcker ett brett urval av ämnen och bästa praxis för att använda Commerce Intelligence fullt ut.
+description: Utforska Commerce Intelligence inspelade webbinarier, som täcker ett brett urval av ämnen och metodtips för att använda Commerce Intelligence fullt ut.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
 duration: 77
 source-git-commit: 78cb08c0aabfa98db97e1b7c1cee466e7c3578df
@@ -16,9 +16,9 @@ ht-degree: 1%
 >
 >Adobe Commerce Intelligence kallades tidigare [!DNL Magento Business Intelligence (MBI)]. Inspelningar för tidigare händelser återspeglar det tidigare namnet.
 
-Webbseminariet Commerce Intelligence är en periodisk händelse för Commerce Intelligence-kunder. Webbseminarierna innehåller ett brett urval av ämnen och metodtips för att använda Commerce Intelligence i sin fulla potential.
+Commerce Intelligence webbseminarier är ett återkommande evenemang för Commerce Intelligence-kunder. Webbseminarierna innehåller ett brett urval av ämnen och metodtips för att använda Commerce Intelligence i sin fulla potential.
 
-Deltagare från alla platser kan delta i eventen live för att bättre förstå produkten och få sina frågor om Commerce Intelligence-funktionen besvarade direkt.
+Deltagare från alla länder kan delta i evenemangen live för att bättre förstå produkten och få svar direkt på deras frågor om Commerce Intelligence funktioner.
 
 Frågorna upprepas då och då för att ge plats åt eventuella nya frågor som kunderna ställer.
 
@@ -58,11 +58,11 @@ Frågorna upprepas då och då för att ge plats åt eventuella nya frågor som 
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
-        <strong>Optimera din MBI-Data Warehouse</strong>
+        <strong> Optimera din MBI-Data Warehouse </strong>
       </a>
     </div>
     <p>
-    <em>Med hjälp av Data Warehouse Manager kan du hantera tabell- och kolumnsynkroniseringsinställningar, gå nedåt i en tabells schema och skapa beräknade kolumner som kan användas i rapporter.</em>
+    <em>Med hjälp av Data Warehouse Manager kan du hantera tabell- och kolumnsynkroniseringsinställningar, gå ned i en tabells schema och skapa beräknade kolumner som kan användas i rapporter.</em>
     <p>
   </td>
 </tr>
@@ -74,5 +74,5 @@ Frågorna upprepas då och då för att ge plats åt eventuella nya frågor som 
 
 ## Användbara resurser
 
-- [Commerce Intelligence - videor och självstudiekurser](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
-- [Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=sv)
+- [Commerce Intelligence videor och självstudiekurser](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
+- [Commerce Intelligence Användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=sv)

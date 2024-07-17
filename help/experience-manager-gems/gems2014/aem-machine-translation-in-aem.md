@@ -20,7 +20,7 @@ Med Adobe Experience Manager kan ni lokalisera användargenererat och redigerat 
 
 *Levererad 3 december 2014*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Akshay Madan, Principal Product Manager Multilingual Product Management &amp; Solutions, Adobe
 * Chris Wendt, Principal Group Program Manager Microsoft Translator, Microsoft

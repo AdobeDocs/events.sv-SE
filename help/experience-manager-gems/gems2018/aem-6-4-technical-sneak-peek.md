@@ -14,19 +14,19 @@ ht-degree: 0%
 
 # Djupdyka in i Adobe Experience Manager 6.4{#deep-dive-into-adobe-experience-manager}
 
-Experience Manager är en flexibel lösning för att utforma, förutse och leverera upplevelser som snabbt kan anpassas på webben, i mobilen och i alla slutpunkter på kundresan. Delta i den här sessionen för att förhandsgranska viktiga funktioner och integreringar i den kommande utgåvan av Adobe Experience Manager 6.4. Dagordningen kommer att omfatta: Översikt över AEM 6.4 | Kärnkomponenter 2 | Formatsystem | Sökvägsändringar på grund av att innehållet skiljer sig från appar/produkter | Förändringar i ek och Sling - inklusive sammanhangsberoende konfiguration | Gör Single Page-appar redigerbara med fokus på React
+Experience Manager är en flexibel lösning för att utforma, förutse och leverera upplevelser som snabbt kan anpassas på webben, i mobilen och i alla slutpunkter på kundresan. Delta i den här sessionen för att förhandsgranska viktiga funktioner och integreringar i den kommande utgåvan av Adobe Experience Manager 6.4. Dagordningen kommer att omfatta: Översikt över AEM 6.4 | Kärnkomponenter 2 | Formatsystem | Sökvägsändringar på grund av att innehållet skiljer sig från appar/produkter | Förändringar i Oak och Sling - inkl. sammanhangsberoende konfiguration | Gör Single Page-appar redigerbara med fokus på React
 
 >[!VIDEO](https://video.tv.adobe.com/v/21749/?quality=9)
 
 *Levererad 14 mars 2018*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Gabriel Walt, Product Manager, Adobe
 
 Cedric Huesler, Director Product Management, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem64-developerupdate31418.pdf)
 

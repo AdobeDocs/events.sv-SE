@@ -30,7 +30,7 @@ Under det här seminariet kommer vi att markera och förklara de intressantaste 
 
 *Levererat 10/17/18*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Karl Pauls, Computer Scientist, Adobe
 * Carsten Ziegeler, forskningschef, Adobe
@@ -44,7 +44,7 @@ Datum: 10/17/2018
 
 [OSGi Alliance Blog](https://blog.osgi.org/2018/09/osgi-r7-highlights-blog-series.html)
 
-[OSGi Specification License, version 2.0](https://osgi.org/specification/osgi.core/7.0.0/index.html)
+[OSGi-specifikationslicens, version 2.0](https://osgi.org/specification/osgi.core/7.0.0/index.html)
 
 [OSGi Compendium version 7](https://osgi.org/specification/osgi.cmpn/7.0.0/index.html)
 

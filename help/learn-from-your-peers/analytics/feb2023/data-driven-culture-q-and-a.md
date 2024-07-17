@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Adobe Analytics] Bygga upp frågor och svar om uppföljning av datadriven kultur'
-description: Under [!DNL Adobe Analytics] Skapar ett datadrivet Kulturwebbinarium tillfrågades över 35 frågor av [!DNL Adobe Analytics] -användare runt om i världen. Sedan [!DNL Adobe Analytics] Champion kunde inte besvara alla dessa frågor under Frågor och svar, vi tog med dem tillbaka och var värd för en uppföljningssession för att besvara era frågor och delade ännu mer expertkunskap.
+title: '[!DNL Adobe Analytics] Skapar en datadriven kulturuppföljning - frågor och svar'
+description: Under  [!DNL Adobe Analytics] Building a Data Driven Culture Webinar tillfrågades över 35 frågor av  [!DNL Adobe Analytics] användare runt om i världen. Eftersom vår [!DNL Adobe Analytics] Champion inte kunde besvara alla dessa frågor under live-frågeställningarna tog vi dem tillbaka och var värd för en uppföljningssession för att besvara dina frågor och delade ännu mer expertkunskap.
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-16T00:00:00Z
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Adobe Analytics] Bygga upp frågor och svar om uppföljning av datadriven kultur
+# [!DNL Adobe Analytics] Skapar en datadriven kultur uppföljningsfrågor och svar
 
-Under [!DNL Adobe Analytics] Skapar ett datadrivet Kulturwebbinarium tillfrågades över 35 frågor av [!DNL Adobe Analytics] -användare runt om i världen. Sedan [!DNL Adobe Analytics] Champion kunde inte besvara alla dessa frågor under Frågor och svar, vi tog med dem tillbaka och var värd för en uppföljningssession för att besvara era frågor och delade ännu mer expertkunskap.
+Under [!DNL Adobe Analytics]-byggandet av ett datadrivet kulturwebbinarium tillfrågades över 35 frågor av [!DNL Adobe Analytics]-användare runt om i världen. Eftersom vår [!DNL Adobe Analytics] Champion inte kunde besvara alla dessa frågor under de aktiva frågorna och svaren tog vi dem tillbaka och var värd för en uppföljningssession för att besvara dina frågor och dela med oss av ännu mer expertkunskap.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415614/?quality=12&learn=on)

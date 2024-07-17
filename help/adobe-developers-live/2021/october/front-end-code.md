@@ -1,6 +1,6 @@
 ---
 title: Frontkodsledning
-description: Lär dig hur du använder den nya frontkodspipelinen som nyligen introducerades i Cloud Manager
+description: Lär dig hur du använder den nya frontkodskanalen som nyligen introducerades i Cloud Manager
 solution: Experience Manager,Experience Manager Sites
 feature: Developer Tools, Deploying
 topic: Development
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 # Frontkodsledning
 
-Lär dig hur du använder den nya frontkodspipelinen som nyligen introducerades i Cloud Manager
+Lär dig hur du använder den nya frontkodskanalen som nyligen introducerades i Cloud Manager
 
 Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/2XVcBg8)**.
 
@@ -28,6 +28,6 @@ Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/2X
 
 ## Ytterligare resurser
 
-- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience Manager-dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 - [Adobe Experience Manager Cloud Service - översikt](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

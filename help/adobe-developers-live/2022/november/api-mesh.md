@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live - NOV 22- Så här skapar du innehåll och handelsupplevelser med App Builder och API Mesh
-description: Under den här sessionen får du lära dig hela utvecklingsflödet att bygga upp en headless upplevelsedriven e-handelsplats. Börja med AppBuilder API Mesh för att samla olika innehållskällor från Adobe Experience Manager & Commerce Lär dig hur du skapar headless-upplevelser som visar produkter som berikats med Adobe Experience Manager Content Fragments Use Micro Frontends för att integrera en kundvagn i applikationen
+title: Adobe Developers Live - NOV 22- Så här skapar du innehåll och Commerce-upplevelser med App Builder och API Mesh
+description: Under den här sessionen får du lära dig hela utvecklingsflödet att bygga upp en headless upplevelsedriven e-handel, börja med AppBuilder API Mesh för att samla olika innehållskällor från Adobe Experience Manager och Commerce Lär dig hur du skapar headless-upplevelser som visar produkter som berikats med Adobe Experience Manager Content Fragments Use Micro Frontends för att integrera en kundvagn i applikationen
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 ---
 
-# Skapa innehåll och handelsupplevelser med App Builder och API Mesh
+# Så här skapar du innehåll och Commerce-upplevelser med App Builder och API Mesh
 
 Under den här sessionen kommer du att lära dig hela utvecklingsflödet att bygga en headless upplevelsedriven e-handel,
 
-* Börja med AppBuilder API Mesh för att samla olika innehållskällor från Adobe Experience Manager &amp; Commerce
+* Börja med AppBuilder API Mesh för att samla olika innehållskällor från Adobe Experience Manager och Commerce
 * Lär dig skapa headless-upplevelser med produkter som berikats med Adobe Experience Manager Content Fragments
 * Använd Micro Frontens för att integrera en kundvagn i applikationen
 

@@ -1,6 +1,6 @@
 ---
 title: Fråga experten - Mäta hastighet
-description: Lär dig mäta och spåra hastigheten med [!DNL Workfront] rapportering. Denna workshop spelades in den 14 augusti 2019.
+description: Lär dig mäta och spåra hastigheten med hjälp av  [!DNL Workfront] -rapportering. Denna workshop spelades in den 14 augusti 2019.
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Fråga experten - Mäta hastighet
 
-Lär dig mäta och spåra hastigheten med [!DNL Workfront] rapportering. Denna workshop spelades in den 14 augusti 2019.
+Lär dig att mäta och spåra hastigheten med hjälp av [!DNL Workfront]-rapportering. Denna workshop spelades in den 14 augusti 2019.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341057/?quality=12)
 
@@ -27,7 +27,7 @@ Spara tid genom att kopiera och klistra in beräkningarna nedan.
 >[!NOTE]
 >
 >Syntaxen för anpassade fältberäkningar har ändrats sedan presentationen gjordes 2019, men de begrepp och andra instruktioner som ges i presentationen är fortfarande korrekta.
->**Beräkningarna nedan har uppdaterats för att återspegla de senaste syntaxreglerna.**
+>**De beräkningar som ingår nedan har uppdaterats för att återspegla de senaste syntaxreglerna.**
 
 **Första implementeringsdatum**
 
@@ -413,7 +413,7 @@ Ja. Du måste skapa en dokumentrapport. Det låter som om du vill ange ett speci
 
 **Fråga**
 
-Varför är värden tillgängliga som kolumner men inte tillgängliga för markering eller gruppering i rapporter. Exempel: Utgivningskälla.
+Varför är värden tillgängliga som kolumner men inte tillgängliga för markering eller gruppering i rapporter. Exempel: Utgåva Source.
 
 **Svar**
 

@@ -18,13 +18,13 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/22501/?quality=9)
 
-*Levererat 16 maj 2018*
+*Levererad 16 maj 2018*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Francois Le Droff, Senior Computer Scientist, Cloud Integration, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/gem-2018-05-aem-events.pdf)
 

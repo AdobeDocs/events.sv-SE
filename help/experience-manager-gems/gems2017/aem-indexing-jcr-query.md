@@ -21,7 +21,7 @@ ht-degree: 0%
 
 **Thomas Mueller, Senior Software Engineer, Adobe**
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-gems-aem-indexing-and-jcr-query.pdf)
 
@@ -35,13 +35,13 @@ AEM
 
 >[!WARNING]
 >
->AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar uppgradering till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns här [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar att du uppgraderar till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns på [sidan](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
 >
->Se vad som gäller denna session *Fråga och indexering* och *Metodtips för frågor och indexering* i AEM 6.3-dokumentationen.
+>Se *Oak Queries and Indexing* och *Best Practices for Queries and Indexing* i dokumentationen för AEM 6.3.
 
 Oak Documentation
 
-* [Oak Query och Index](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html)
+* [Oak Query and Index](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
@@ -49,9 +49,9 @@ Oak Documentation
 
 >[!MORELIKETHIS]
 >
->* [AEM och JCR-fråga](aem-indexing-jcr-query.md)
+>* [AEM indexering och JCR-fråga](aem-indexing-jcr-query.md)
 >* [Felsökning AEM replikering](aem-troubleshooting-aem-replication.md)
->* [Felsökning av distribution av innehåll vid delning](aem-troubleshooting-sling.md)
+>* [Felsökning av distribution av delningsinnehåll](aem-troubleshooting-sling.md)
 <!-- 
 >* linking to helpx, removed for now [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)
 -->

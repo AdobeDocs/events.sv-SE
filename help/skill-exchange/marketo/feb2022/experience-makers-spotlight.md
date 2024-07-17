@@ -1,6 +1,6 @@
 ---
 title: Marketo Engage Experience Makers Spotlight
-description: Följ oss och lyfter fram två expertkunder och [!DNL Marketo Engage] -användare. Alla delar sina bästa [!DNL Marketo Engage] tips eller trick.
+description: Delta i oss när vi lyfter fram två expertkunder och [!DNL Marketo Engage] användare. Alla delar sitt bästa [!DNL Marketo Engage] tips eller trick.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # [!DNL Marketo Engage] Experience Makers Spotlight
 
-Följ oss och lyfter fram två expertkunder och [!DNL Marketo Engage] -användare. Alla delar sina bästa [!DNL Marketo Engage] tips eller trick.
+Delta i oss när vi lyfter fram två expertkunder och [!DNL Marketo Engage] användare. Alla delar sitt bästa [!DNL Marketo Engage]-tips eller -trick.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340592/?quality=12&learn=on)

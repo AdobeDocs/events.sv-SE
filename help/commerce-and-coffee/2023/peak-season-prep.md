@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Förberedelse av högsäsong
 
-Under detta möte med Commerce &amp; Coffee tar Corey Gelato djupdykning i bästa praxis och strategier för högsäsong för 2023, oavsett om det sker under den traditionella semestersäsongen eller en branschspecifik upptagen period. E-handel fortsätter att vara den perfekta kanalen för alla kunder, oavsett om det är B2C eller B2B. Med hjälp av tekniker som delas under den här sessionen kan ert team effektivt och framgångsrikt marknadsföra era varor och/eller tjänster på er webbplats(er) och vara konkurrenskraftiga under en högsäsong när som helst på året.
+Under det här seminariet om Commerce &amp; Coffee tar Corey Gelato djupdykning i bästa praxis och strategier för högsäsong för 2023, oavsett om det sker under den traditionella semestersäsongen eller en branschspecifik upptagen period. E-handel fortsätter att vara den perfekta kanalen för alla kunder, oavsett om det är B2C eller B2B. Med hjälp av tekniker som delas under den här sessionen kan ert team effektivt och framgångsrikt marknadsföra era varor och/eller tjänster på er webbplats(er) och vara konkurrenskraftiga under en högsäsong när som helst på året.
 
 Efter en demonstration av funktioner som innehållstagning och förhandsgranskning, kampanjer, prisregler för kataloger och varukorgar med mera besvarar Corey frågor under en livesession i Frågor och svar.
 

@@ -24,9 +24,9 @@ Sessionen visar även möjligheten att konfigurera uppgiftsytan, mallar för anp
 
 >[!VIDEO](https://video.tv.adobe.com/v/19523/?quality=9)
 
-*5 mars 2014*
+*Levererad 5 mars 2014*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Varun Nagpal, Computer Scientist, Adobe
 

@@ -16,7 +16,7 @@ ht-degree: 1%
 + [Förbered dina avtal för e-signering](./skill-builders/e-signature-setup.md)
 + [Arbeta med e-signaturer i dina Microsoft-appar](./skill-builders/e-signature-microsoft.md)
 + [Avancerade tips för att skicka dokument för signering](./skill-builders/advanced-sending-documents-signature.md)
-+ [Lägg upp ett ifyllbart, signerbart webbformulär](./skill-builders/fillable-signable-web-form.md)
++ [Post: ett ifyllbart, signerbart webbformulär](./skill-builders/fillable-signable-web-form.md)
 + [Samla in många signaturer med ett klick](./skill-builders/collect-signatures.md)
 + [Redigeringsmiljö](./skill-builders/authoring-environment.md)
 + [Synlighet till avtalsstatus](./skill-builders/agreement-status.md)

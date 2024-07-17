@@ -25,4 +25,4 @@ Besök Chris Knittle, chef för utbildning och leverans på Workfront, och hör:
 * Grunderna för varaktighet och föregående aktiviteter
 * En introduktion till uppgiftsbegränsningar
 
->[!VIDEO](https://video.tv.adobe.com/v/Cannot find MPC Link/?quality=12&amp;learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/Cannot Hitta MPC Link/?quality=12&amp;learn=on)

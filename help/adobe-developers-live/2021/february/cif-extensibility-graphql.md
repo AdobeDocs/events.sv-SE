@@ -1,6 +1,6 @@
 ---
 title: Utbyggbart Commerce integration framework via GraphQL
-description: Lär dig hur du utökar kärnkomponenterna i Commerce med GraphQL. Den här sessionen skapades som en del av Adobe Developers Live Content Event.
+description: Lär dig hur du kan utöka Commerce kärnkomponenter med GraphQL. Den här sessionen skapades som en del av Adobe Developers Live Content Event.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 # Utbyggbart Commerce integration framework via GraphQL
 
-Lär dig hur du utökar kärnkomponenterna i Commerce med GraphQL.
+Lär dig hur du kan utöka Commerce kärnkomponenter med GraphQL.
 
 Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 

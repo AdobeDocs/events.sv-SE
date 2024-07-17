@@ -31,10 +31,10 @@ Automatisera produktionen av mediefiler för alla kanaler och skärmar med Dynam
 
 ## Resurser
 
-*[Dynamic Media Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html#dynamic-media)
+*[Dynamic Media-videor](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html#dynamic-media)
 *[Rich Media Strategy Kickstart Guide](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
-*[Guide till bildförinställning för multimediestrategi](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[Bilden är Allting Blog Series](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)
+*[Guide till grafikförinställningar för multimediestrategi](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
+*[Bilden är allt i bloggserien](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)
 
 ## Serieinspelningar
 

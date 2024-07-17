@@ -8,13 +8,13 @@ doc-type: Event
 duration: 1796
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15293
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 599f4121-b27b-41af-8220-2f0b1716e3d5
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
 
 ---
-
 
 # Förbered dina avtal för e-signering
 
@@ -30,12 +30,12 @@ Genom att lägga till specialformaterade texttaggar i specifika avsnitt av dokum
 
 Den här metoden ger flera fördelar:
 
-* **Smidig integrering** Eftersom många dokument börjar i Microsoft Word kan du använda texttaggar för att arbeta med originaldokumentet utan att behöva använda ytterligare programvara eller konverteringar. Du kan underhålla och redigera dokumentet i Word samtidigt som du kan samla in e-signaturer.
+* **Sömlös integrering** Eftersom många dokument börjar i Microsoft Word kan du med texttaggar arbeta med originaldokumentet utan att behöva använda ytterligare programvara eller konverteringar. Du kan underhålla och redigera dokumentet i Word samtidigt som du kan samla in e-signaturer.
 
-* **Full kontroll över formulärfält** Texttaggar ger dig fullständig kontroll över placeringen och egenskaperna för formulärfält. Du kan ange fälttyp (t.ex. signatur, textinmatning, kryssruta), tilldela den till en viss deltagare, ange den som obligatorisk eller valfri samt definiera andra egenskaper som utseende, standardvärden och verktygstips.
+* **Full kontroll över formulärfält** Med texttaggar får du fullständig kontroll över placeringen och egenskaperna för formulärfält. Du kan ange fälttyp (t.ex. signatur, textinmatning, kryssruta), tilldela det till en viss deltagare, ange det som obligatoriskt eller valfritt samt definiera andra egenskaper som utseende, standardvärden och verktygstips.
 
-* **Återanvändbarhet** När du har använt texttaggar i Word-dokumentet kan det fungera som en återanvändbar mall för att samla in e-signaturer. Du kan spara och dela mallen, vilket gör det enkelt att använda samma dokument för flera avtal eller arbetsflöden.
+* **Återanvändbarhet** När du har använt texttaggar i ett Word-dokument kan det fungera som en återanvändbar mall för att samla in e-signaturer. Du kan spara och dela mallen, vilket gör det enkelt att använda samma dokument för flera avtal eller arbetsflöden.
 
-* **Flexibilitet och anpassning** Med texttaggar kan du definiera olika typer av formulärfält, bland annat kryssrutor, alternativknappar och listrutor. Med den här flexibiliteten kan du skapa anpassade formulär som är anpassade efter dina behov och samla in olika typer av information från deltagarna.
+* **Flexibilitet och anpassning** Med texttaggar kan du definiera olika typer av formulärfält, inklusive kryssrutor, alternativknappar, listrutor med mera. Med den här flexibiliteten kan du skapa anpassade formulär som är anpassade efter dina behov och samla in olika typer av information från deltagarna.
 
 * **Enkel referens och vägledning** Adobe tillhandahåller en texttaggguide som demonstrerar syntaxen och strukturen för texttaggar. Den här guiden kan fungera som referens när du använder texttaggar i dina egna dokument, vilket säkerställer att du formaterar dem korrekt och utnyttjar alla tillgängliga alternativ.

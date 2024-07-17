@@ -1,5 +1,5 @@
 ---
-title: Snabbare AEM as a Cloud Service utveckling med snabba utvecklingsmiljöer
+title: Snabbare AEM as a Cloud Service-utveckling med miljöer för snabb utveckling
 description: För att kunna driftsätta ändringar kräver de aktuella utvecklingsmiljöerna i molnet en process som använder omfattande regler för kodssäkerhet och -kvalitet som kallas CI/CD-pipeline. I situationer där snabba och iterativa förändringar behövs har Adobe infört snabba utvecklingsmiljöer (RDE för kort).Med RDE kan utvecklare snabbt driftsätta och granska ändringar och minimera tiden för att testa funktioner som är bevisade att fungera i en lokal utvecklingsmiljö.
 feature-set: Experience Manager
 solution: Experience Manager
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ---
 
-# Snabbare AEM as a Cloud Service utveckling med snabba utvecklingsmiljöer
+# Snabbare AEM as a Cloud Service-utveckling med miljöer för snabb utveckling
 
 Detta webbinarium ägde rum den 22 februari 2023. Se inspelningen nedan.
 
@@ -44,6 +44,6 @@ Tack vare de lokala redigeringssystemen kan utvecklare snabbt driftsätta och gr
 
 >[!NOTE]
 >
->* Besök följande om du vill se sessionsspecifika communityinteraktioner på Experience League: [Sammanhangsberoende koppling](http://bit.ly/3x1Cl8x)
+>* Besök den här [kontextuella tråden](http://bit.ly/3x1Cl8x) för sessionsspecifika communityinteraktioner på Experience League
 >
->* Om du vill få meddelanden om våra kommande webbinarier registrerar du dig på [AdobeAEM User Group](https://aem-augs.adobe.com/).
+>* Om du vill få meddelanden om våra kommande webbinarier registrerar du dig på [Adobe AEM User Group](https://aem-augs.adobe.com/).

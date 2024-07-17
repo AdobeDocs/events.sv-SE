@@ -22,7 +22,7 @@ I det andra av de tre sessionerna med boskapsaktiviteter som rör datainsamling 
 
 >[!VIDEO](https://video.tv.adobe.com/v/344251/?quality=12&learn=on)
 
-**Fortsätt diskussionen** i [Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-real-time-cdp/m-p/458195#M285){target="_blank"}!
+**Fortsätt diskussionen** i [Experience League-communityn](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-real-time-cdp/m-p/458195#M285){target="_blank"}!
 
 ## Ytterligare Experience League LIVE-sessioner från den här datainsamlingsserien
 

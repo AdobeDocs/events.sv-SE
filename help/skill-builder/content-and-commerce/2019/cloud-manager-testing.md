@@ -1,5 +1,5 @@
 ---
-title: Testa bästa praxis med Cloud Manager - september 2019
+title: Testing Best Practices with Cloud Manager - September 2019
 description: Beskriv här
 sub-product: cloud-manager
 feature-set: Experience Manager
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 ---
 
-# Testa bästa praxis med Cloud Manager - september 2019
+# Testing Best Practices with Cloud Manager - September 2019
 
 >[!VIDEO](https://video.tv.adobe.com/v/329028/?quality=9&learn=on)
 

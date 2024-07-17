@@ -1,5 +1,5 @@
 ---
-title: Fråga experten om bästa praxis för att maximera Workfront-korrektur
+title: Fråga experten om bästa praxis för att maximera Workfront Proof
 description: Lär dig hur du konfigurerar inställningar, aktiverar bra rapporter och undviker vanliga fel i korrektur. Det här webbinariet spelades in den 26 februari 2020.
 doc-type: feature video
 team: Technical Marketing
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Fråga experten om bästa praxis för att maximera Workfront-korrektur
+# Fråga experten om bästa praxis för att maximera Workfront Proof
 
 Lär dig hur du konfigurerar inställningar för att lyckas, får åtkomst till vyer (och andra knep) för att skapa bra rapporter och hur du undviker vanliga fallgropar i korrektur. Det här webbinariet spelades in den 26 februari 2020.
 
@@ -429,7 +429,7 @@ Var kommer jag åt kontrollpanelen och rapporter när jag korrekturerar?
 
 **Svar**
 
-Om du har en kryssruteikon till höger om sökfältet i Workfront innebär det att du har ett integrerat Workfront- och korrekturkonto. Genom att klicka på den kryssrutan kommer du till Workfront Korrektur och startskärmen blir kontrollpanelen. Du kan skapa rapporter med alternativet Vyer på den vänstra panelen.
+Om du har en kryssruteikon till höger om sökfältet i Workfront innebär det att du har ett integrerat Workfront- och korrekturkonto. Genom att klicka på den kryssrutan kommer du till Workfront Proof och startskärmen blir kontrollpanelen. Du kan skapa rapporter med alternativet Vyer på den vänstra panelen.
 
 **Fråga**
 
@@ -465,11 +465,11 @@ Jag rekommenderar att du använder Automated Workflow Templates så att du kan a
 
 **Fråga**
 
-Lägger Workfront korrektur bara till när automatiserade arbetsflöden används och någon som inte har lagts till i arbetsflödet öppnar korrekturet?
+Lägger Workfront Proof-scenen bara till när automatiserade arbetsflöden används och någon som inte har lagts till i arbetsflödet öppnar korrekturet?
 
 **Svar**
 
-Scenen&quot;Workfront-korrektur&quot; läggs till i korrektur om en icke-mottagare klickar på korrekturet. Det används också om någon konverterar ett grundläggande arbetsflödeskorrektur till ett automatiskt Workfront-korrektur.
+Scenen&quot;Workfront Proof&quot; läggs till i korrektur om en icke-mottagare klickar på korrekturet. Den används också om någon konverterar ett grundläggande arbetsflödeskorrektur till en automatiserad Workfront Proof.
 
 **Fråga**
 

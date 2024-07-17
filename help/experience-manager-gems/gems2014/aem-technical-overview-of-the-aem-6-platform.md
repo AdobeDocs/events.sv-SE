@@ -20,16 +20,16 @@ Under den här sessionen kommer Peter Klassen - Product Manager att titta på f�
 
 *Levererad 11 juni 2014*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Peter Klassen, Product Manager, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem6-platform-whatsnew.pdf)
 
 ## Relaterade länkar {#related-links}
 
-* [Versionsinformation för AEM 6.0](https://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
+* [AEM 6.0 Versionsinformation](https://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
 * [Hantera AEM 6.0](https://docs.adobe.com/docs/en/aem/6-0/manage.html)
-* [Planera uppgraderingen till AEM 6.0](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)
+* [Planerar uppgraderingen till AEM 6.0](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)

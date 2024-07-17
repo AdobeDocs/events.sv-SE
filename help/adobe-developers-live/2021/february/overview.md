@@ -19,7 +19,7 @@ Den 8-9 februari 2021 sammanförde Adobe Developers Live: Innehållet utvecklare
 
 Denna tvådagarskonferens innehåller viktiga uppdateringar för Adobe Experience Manager-utvecklare, som Headless och GraphQL, Adobe Experience Manager as a Cloud Service, tekniska sessioner och communitynätverk.
 
-Kommunicera med kollegor och delta i sessionskonversationerna i **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
+Anslut till andra dev-medlemmar och anslut till sessionskonversationerna i **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 ## Högdagrar
 
@@ -30,8 +30,8 @@ Kommunicera med kollegor och delta i sessionskonversationerna i **[Experience Le
       <img alt="Headless - GraphQL with Content Fragments" src="/help/adobe-developers-live/assets/jabran.png"/>
       </a>
       <div>
-         <a href="headless-graphql-content-fragments.md"><strong>Headless - GraphQL with Content Fragments</strong></a>         
-         <br/><em>med Jabran Asghar, Sr. Software Engineer</em>
+         <a href="headless-graphql-content-fragments.md"><strong>Headless - GraphQL med Content Fragments</strong></a>         
+         <br/><em> med Jabran Asghar, Sr. Software Engineer </em>
       </div>
       <p>
         <br/>
@@ -43,8 +43,8 @@ Kommunicera med kollegor och delta i sessionskonversationerna i **[Experience Le
       <img alt="Frontend Dev - Ditt framtida arbetsflöde för att snabbt bygga och driftsätta webbplatsens frontlinje." src="/help/adobe-developers-live/assets/gabriel.png"/>
       </a>
       <div>
-         <a href="rapid-frontend-devlopment.md"><strong>Frontend Dev - Ditt framtida arbetsflöde för att snabbt bygga och driftsätta webbplatsens frontlinje.</strong></a>
-         <br/><em>med Gabriel Walt, Sr. Product Manager</em>
+         <a href="rapid-frontend-devlopment.md"><strong>Frontend Dev - Ditt framtida arbetsflöde för att snabbt skapa och distribuera webbplatsens frontlinje.</strong></a>
+         <br/><em> med Gabriel Walt, Sr. Product Manager </em>
       </div>
       <p>
         <br/>
@@ -58,7 +58,7 @@ Kommunicera med kollegor och delta i sessionskonversationerna i **[Experience Le
       </a>
       <div>
          <a href="get-ready-aem-cloud.md"><strong>Gör dig redo för Cloud Servicen - Bästa praxis för migrering</strong></a>
-         <br/><em>med Andreea Moise, Sr. Software Engineer</em>
+         <br/><em> med Andreea Moise, Sr. Software Engineer </em>
       </div>
       <p>
         <br/>
@@ -75,10 +75,10 @@ Kommunicera med kollegor och delta i sessionskonversationerna i **[Experience Le
 ## Ytterligare resurser
 
 * [Experience League - Utforska AEM](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
-* [AEM Sites Authoring Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
+* [AEM Sites redigeringsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
 * [AEM Sites Developing Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
 * [AEM Sites Administering Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
-* [AEM Sites driftsättningsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
+* [AEM Sites distributionsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
 * [AEM as a Cloud Service Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html)
 * [AEM Assets Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
 * [AEM Forms Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)

@@ -12,7 +12,8 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: c3256d974364fa0b1615b470aa703d6b9a8e1956
+exl-id: ef0cf02c-1670-4286-bf2e-1563a5307820
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -37,6 +38,6 @@ Det här AEM GEM-webbinariet innehåller en presentation och demo som visar hur 
 
 >[!NOTE]
 > 
->* Besök vårt webbforum om du vill veta mer om webbcommunityn i Experience League [kontextuell tråd](https://adobe.ly/3uIj6D7).
+>* Besök vår [kontextuella tråd](https://adobe.ly/3uIj6D7) för sessionsspecifika communityinteraktioner på Experience League.
 >
->* Om du vill få meddelanden om våra kommande webbinarier kan du registrera dig på [AdobeAEM User Group](https://aem-augs.adobe.com/).
+>* Om du vill få meddelanden om våra kommande webbinarier registrerar du dig på [Adobe AEM User Group](https://aem-augs.adobe.com/).

@@ -9,7 +9,7 @@ duration: 3093
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -21,11 +21,11 @@ Sling Content Distribution (SCD) kan användas i AEM för vidarebefordrad, omvä
 
 *Levererad 23 augusti 2017*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Timothee Maret, Senior Developer, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-gems-scd.pdf)
 
@@ -33,14 +33,14 @@ Timothee Maret, Senior Developer, Adobe
 
 >[!WARNING]
 >
->AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar uppgradering till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns här [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar att du uppgraderar till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns på [sidan](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
 >
->Se vad som gäller denna session *Användarsynkronisering* i AEM.
+>Se *Användarsynkronisering* i AEM.
 
-* [Distribution av Apache Sling-innehåll](https://sling.apache.org/documentation/bundles/content-distribution.html)
-* [Återgå till Översikt](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Distribution av innehåll för Apache Sling](https://sling.apache.org/documentation/bundles/content-distribution.html)
+* [Återgå till översikten](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 
 >[!MORELIKETHIS]
 >
->* [AEM och JCR-fråga](aem-indexing-jcr-query.md)
->* [Felsökning av distribution av innehåll vid delning](aem-troubleshooting-sling.md)
+>* [AEM indexering och JCR-fråga](aem-indexing-jcr-query.md)
+>* [Felsökning av distribution av delningsinnehåll](aem-troubleshooting-sling.md)

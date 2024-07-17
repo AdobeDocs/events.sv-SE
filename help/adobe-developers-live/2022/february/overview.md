@@ -15,7 +15,7 @@ ht-degree: 0%
 
 <img alt="Adobe Developers Live" src="./../../assets/adl.png" />
 
-Adobe Developers Live: Commerce 2022 för samman utvecklare och upplevelseskapare med olika bakgrunder och ett enda syfte för att skapa fantastiska helhetsupplevelser. Denna virtuella konferens kommer att innehålla viktiga uppdateringar för Commerce och Open Source Developer, tekniska sessioner, möjligheter till nätverkande i communityn med mera.
+Adobe Developers Live: Commerce 2022 samlar utvecklare och upplevelseskapare med olika bakgrunder och ett enda syfte att skapa fantastiska helhetsupplevelser. Den här virtuella endagskonferensen kommer att innehålla viktiga Commerce- och Open Source Developer-uppdateringar, tekniska sessioner, möjligheter till communitynätverk med mera.
 
 <!-- 
 ## Highlights

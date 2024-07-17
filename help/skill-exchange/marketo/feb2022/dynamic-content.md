@@ -1,5 +1,5 @@
 ---
-title: Dynamiskt innehåll och kraften i personalisering
+title: Dynamiskt innehåll och kraften i Personalization
 description: Under den här sessionen får du lära dig hur du använder dynamiskt innehåll för att skicka mer riktat och relevant innehåll till databasen.
 solution: Marketo Engage
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Dynamiskt innehåll och kraften i personalisering
+# Dynamiskt innehåll och kraften i Personalization
 
 Under den här sessionen får du lära dig hur du använder dynamiskt innehåll för att skicka mer riktat och relevant innehåll till databasen.
 
-**Viktiga uppgifter**
+**Viktiga åtgärder**
 
-* Effektivisera [!DNL Marketo Engage] skapar och sparar tid genom att använda dynamiskt innehåll
+* Effektivisera ditt [!DNL Marketo Engage]-program och spara tid genom att använda dynamiskt innehåll
 * Lär dig segmentera din databas för dynamiskt innehåll
 * Rapportera hur ert dynamiska innehåll påverkar framtida marknadsföringsbeslut
 

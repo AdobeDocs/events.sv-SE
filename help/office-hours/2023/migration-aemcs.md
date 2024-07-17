@@ -1,6 +1,6 @@
 ---
 title: Migrering till AEM Cloud Service
-description: Lär dig tekniker och verktyg som underlättar övergången till AEM Cloud Service. Från verktyget Innehållsöverföring till den nya Cloud Acceleration Manager som används tillsammans med Best Practice Analyzer för att utvärdera din miljö.
+description: Lär dig tekniker och verktyg som underlättar övergången till AEM Cloud Service. Från verktyget Innehållsöverföring till nya Cloud Acceleration Manager som används tillsammans med Best Practice Analyzer för att utvärdera din miljö.
 role: Admin, User
 level: Beginner
 feature-set: Experience Manager
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Migrering till AEM Cloud Service
 
-Under den här sessionen kommer du att få se vilka tekniker och verktyg som finns för att underlätta migreringen till AEM Cloud Service. Från verktyget Innehållsöverföring till den nya Cloud Acceleration Manager som används tillsammans med Best Practice Analyzer för att utvärdera din miljö, missa inte den här aktiveringssessionen för att vara säker på att du är redo för en lyckad publicering på Cloud Servicen.
+Under den här sessionen kommer du att få se vilka tekniker och verktyg som finns för att underlätta migreringen till AEM Cloud Service. Från innehållsöverföringsverktyget till nya Cloud Acceleration Manager som används tillsammans med Best Practice Analyzer för att utvärdera din miljö, missa inte den här aktiveringssessionen för att vara säker på att du är redo för en lyckad publicering på Cloud Servicen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422533/?learn=on)

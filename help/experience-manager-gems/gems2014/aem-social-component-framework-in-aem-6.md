@@ -18,13 +18,13 @@ Social Component Framework (SCF) är tillgängligt som ett funktionspaket för C
 
 >[!VIDEO](https://video.tv.adobe.com/v/19464/?quality=9)
 
-*Levererat 13 augusti 2014*
+*Levererad 13 augusti 2014*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Siddharth Palaniswami, Sr. Software Engineering Lead, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/scf-gems.pdf)
 

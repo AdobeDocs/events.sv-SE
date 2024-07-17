@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Få igång datainsamling och händelsehantering med bara några klick!
 
-**Nya snabbstartsarbetsflöden i Adobe Experience Platform datainsamling**
+**Vi presenterar nya snabbstartsarbetsflöden i Adobe Experience Platform datainsamling**
 
 Om du inte har använt Adobe moderna datainsamlingsverktyg tidigare och är nervös för att ge dig i kast med en grundläggande installation snabbare än någonsin, inklusive att skicka händelsedata till Meta på serversidan. Med bara några klick kommer snabbstartsarbetsflöden för Adobe datainsamling att konfigurera flera saker i backend-läget så att du sparar tid och ser till att konfigurationen är korrekt.
 
@@ -27,5 +27,5 @@ Om du inte har använt Adobe moderna datainsamlingsverktyg tidigare och är nerv
 
 Starta videon ovan om du vill visa en upprepning av den här liveströmshändelsen.
 
-Har du frågor om det? Fortsätta diskussionen om Adobe Experience League [Community-post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476).
+Har du frågor om det? Fortsätt diskutera det här ämnet i Adobe Experience League [Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476).
 

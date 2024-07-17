@@ -26,11 +26,11 @@ Under den här sessionen kommer Justin Edelson, Global Evangelist för AEM och m
 
 *Levererad 26 augusti 2015*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Justin Edelson, Evangelist for AEM, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/08262015-commons-and-tools.pptx)
 <!--

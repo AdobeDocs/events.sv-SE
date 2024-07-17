@@ -24,14 +24,14 @@ Viktiga åtgärder:
 
 >[!VIDEO](https://video.tv.adobe.com/v/20495/?quality=9)
 
-*Levererat 18 oktober 2017*
+*Levererad 18 oktober 2017*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Haresh Kumar, Director of Strategy and Product Marketing AEM, Adobe
 * Gilles Knobloch, Senior Engineering Manager, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/gems-fluid-experiencesoct1617.pdf)
 <!--

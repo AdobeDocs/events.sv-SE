@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Foundation for Optimizing Index with AEM Cloud Service
 
-Denna live-session introducerar indexering med AEM as a Cloud Service (AEMaaCS). Vi kommer att gå igenom - indexering av ändringar och hur detta skulle påverka olika projekt, utmaningar som kunder ställs inför med index för AEMaaCS och bästa praxis för optimering av dessa index
+Denna live-session presenterar indexering med AEM as a Cloud Service (AEMaaCS). Vi kommer att gå igenom - indexering av ändringar och hur detta skulle påverka olika projekt, utmaningar som kunder ställs inför med index för AEMaaCS och bästa praxis för optimering av dessa index
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422534/?learn=on)

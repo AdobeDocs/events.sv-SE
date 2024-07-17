@@ -32,23 +32,23 @@ Insiktsfulla strategier och praktiska strategier för organisationer som vill ef
 
 Mötet fokuserade på Lean Teams och maximerade effektiviteten med Adobe Workfront. Här följer en sammanfattning av de viktigaste punkterna som diskuterats,
 
-**Lean Teams och Efficiency**
+**Lean Teams and Efficiency**
 
 * Diskuterade utmaningar som Lean-team står inför.
 * Markerade mål och fördelar med Lean-hantering.
 * Viktiga principer i samband med Lean-hantering.
 
-**Effektivitetsstrategier**
+**Strategier för effektivitet**
 
 * Vikten av kontinuerlig förbättring.
 * Effektivare kommunikation.
 * Ta datadrivna beslut.
 
-**Workfront Tools**
+**Workfront-verktyg**
 
 * Användning av Workfront-verktyg som ritningar, resursplanering och integreringar för framgång.
 
-**Viktiga uppgifter**
+**Viktiga åtgärder**
 
 * Effektivitetsstrategier.
 * Kommunikationen effektiviseras.

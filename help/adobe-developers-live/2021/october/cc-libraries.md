@@ -1,6 +1,6 @@
 ---
-title: Introduktion till Creative Cloud Libraries och API:er i Resursläsaren
-description: Lär dig hur du integrerar Creative Cloud Libraries i dina webbprogram via Creative Cloud Libraries-API och SDK för Resursläsare
+title: Introduktion till API:er för Creative Cloud Libraries och Resursläsaren
+description: Lär dig hur du integrerar Creative Cloud Libraries i dina webbprogram via Creative Cloud Libraries API och SDK för tillgångsläsare
 solution: Creative Cloud
 feature: Developer Tools
 topic: Development
@@ -17,14 +17,14 @@ ht-degree: 9%
 
 ---
 
-# Introduktion till Creative Cloud Libraries och API:er i Resursläsaren
+# Introduktion till API:er för Creative Cloud Libraries och Resursläsaren
 
-Lär dig hur du integrerar Creative Cloud Libraries i dina webbprogram via Creative Cloud Libraries-API och SDK för Resursläsare
+Lär dig hur du integrerar Creative Cloud Libraries i dina webbprogram via Creative Cloud Libraries API och SDK för tillgångsläsare
 
 >[!VIDEO](https://video.tv.adobe.com/v/337592/?quality=12&learn=on&hidetitle=true)
 
 ## Ytterligare resurser
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform-dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Adobe Experience Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=sv)

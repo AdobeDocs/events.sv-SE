@@ -20,11 +20,11 @@ HTML är en ny mallmotor och en ny språkimplementering. HTL strävar efter att 
 
 *Levererad 25 juni 2014*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Gabriel Walt, Product Manager, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/sightly-component-development.pdf)
 

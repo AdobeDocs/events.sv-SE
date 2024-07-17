@@ -20,15 +20,15 @@ Läs om hur arkitekturen för AEM Application Platform utvecklas. Sedan den för
 
 *Levererad 8 maj 2013*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Felix Meschberger, forskningschef, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/20130508-aem56-architecture.pdf)
 
-**Mötesfrågor och svar**
+**Sessionsfrågor och svar**
 
 [Hämta fil](assets/questionsanswers-aem56-architecture.pdf)
 

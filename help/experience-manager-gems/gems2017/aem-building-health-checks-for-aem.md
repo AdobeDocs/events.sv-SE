@@ -18,17 +18,17 @@ Att avgöra om en AEM är felfri är inte en enkel uppgift. Den här sessionen g
 
 >[!VIDEO](https://video.tv.adobe.com/v/19026/?quality=9)
 
-*Levererat 12 juli 2017*
+*Levererad 12 juli 2017*
 
 **Ana Vinatoru, Software Engineer, Adobe**
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-gems-health-checks-for-aem.pdf)
 
 >[!WARNING]
 >
->AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar uppgradering till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns här [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar att du uppgraderar till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns på [sidan](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
 
 ## Relaterade länkar {#related-links}
 

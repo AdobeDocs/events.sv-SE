@@ -1,5 +1,5 @@
 ---
-title: Leverera handelsprestanda via plattform
+title: Leverera Commerce prestanda via en plattform
 description: I den här inspirerande presentationen går vi in i vår"Better Together"-berättelse, där Adobe Commerce smidigt kan integreras med vår omfattande tekniklösning. Upptäck hur denna synergi främjar effektivitet, innovation och helhetsupplevelser, så att ni når nya höjder i verksamheten
 solution: Commerce
 feature-set: Commerce
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Leverera handelsprestanda via plattform
+# Leverera Commerce prestanda via en plattform
 
 I den här inspirerande presentationen går vi in i vår&quot;Better Together&quot;-berättelse, där Adobe Commerce smidigt kan integreras med vår omfattande tekniklösning. Upptäck hur denna synergi främjar effektivitet, innovation och helhetsupplevelser, så att ni når nya höjder i verksamheten
 

@@ -22,13 +22,13 @@ Under detta möte kommer David att diskutera
 
 >[!VIDEO](https://video.tv.adobe.com/v/19379/?quality=9)
 
-*Levererat 11 februari 2015*
+*Levererad 11 februari 2015*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * David Catalan, Lead QE Developer, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/cq-gems-on-aem-sonarqube-2015-02.pdf)
 [Återgå till Översikt](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

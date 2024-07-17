@@ -31,13 +31,13 @@ Få svar på några vanliga frågor om Commerce Intelligence som rör självbetj
 * Monetära siffror i rapporter föregås av den angivna valutasymbolen.
 * Valutainställningarna görs i kontoinställningarna genom att en lämplig valuta väljs för konvertering av valutakurser.
 
-**Metoder för dataimport**
+**Dataimportmetoder**
 
 * Dataimport kan göras med API-anslutning, CSP-överföringar och import-API.
 * Oraclets DB stöds inte, men CSP-överföring eller import-API kan användas som alternativ.
 * Begränsningar av API-användning inkluderar en begäran om förbrukning per månad och ungefär 100 poster, vilket motsvarar cirka 100 000 poster per månad.
 
-**Source-integrering med data**
+**Source-dataintegrering**
 
 * Adobe Commerce Intelligence har stöd för flera datakällor som Adobe Commerce, SAS, API:er, databaser m.m.
 * Tillåter konvergens av data från olika Adobe Commerce-instanser till en enda Commerce Intelligence-instans.

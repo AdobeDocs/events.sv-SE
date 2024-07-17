@@ -18,6 +18,6 @@ ht-degree: 0%
 
 Under den här sessionen får du lära dig fördelarna med att använda arbetsflöden för din resurshantering och hur du snabbt skapar dem.
 
-*Chris Sofokleous* Lösningskonsult, AEM/Adobe
+*Chris Sofokleous* Solutions Consultant, AEM / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343817/?quality=12&learn=on)

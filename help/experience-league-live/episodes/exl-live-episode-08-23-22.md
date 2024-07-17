@@ -26,77 +26,77 @@ Funderar du på att migrera implementeringen till nya Adobe Web SDK?  Vi kommer 
 ### Utökning av dataelementassistenten från Erangtics
 
 <br> 
-**Fråga:** Ur datasäkerhetsperspektiv, är Erangtics säkert att använda, eftersom detta är ett tillägg från tredje part?
+**Fråga:** Är Erangtics säkert att använda ur datasäkerhetsperspektiv, eftersom detta är ett tillägg från tredje part?
 
 **Svar:** Ja. Du kan granska tilläggskoden om du vill, men den sparar inte datumet, utan bara en omformning.
 
 <br> 
 
-**Fråga:** Fångar detta även Adobe ECID?
+**Fråga:** Fångar även detta Adobe ECID?
 
-**Svar:** Adobe ECID fångas inte in i det tillägget. Det här tillägget är avsett för att skapa ytterligare, anonyma identifierare (bland annat).
+**Svar:** Adobe ECID hämtas inte i det tillägget. Det här tillägget är avsett för att skapa ytterligare, anonyma identifierare (bland annat).
 
-**Svar:** ECID för Adobe kan dock fångas på andra sätt. Vi kommer att dela ut det via ExL-anteckningarna och Twitterna eftersom vi inte kan dela länkar i chatten här.
+**Svar:** Adobe ECID kan dock hämtas på andra sätt. Vi kommer att dela ut det via ExL-anteckningarna och Twitterna eftersom vi inte kan dela länkar i chatten här.
 
-<br>:
+<br> 
 
-**Fråga:** Hash-funktionen erbjuder den olika hashtekniker som SHA-256 och erbjuder publika och privata nycklar?
+**Fråga:** Hash-funktionen erbjuder den olika hashtekniker som SHA-256 och tillhandahåller offentliga och privata nycklar?
 
 **Svar:** Ja! SHA-256 är standard
 
-<br>:
+<br> 
 
 ### Allmänna frågor och kommentarer:
 
-<br>:
+<br> 
 
-**Fråga:** Vad klickar vi på för att hämta källfilerna för tillägg? Är det i &quot;3-punktsmenyn&quot;?
+**Fråga:** Vad klickar vi på för att hämta källfilerna för tilläggen? Är det i &quot;3-punktsmenyn&quot;?
 
-**Svar:** Ja! De tre punkterna och sedan Hämta källa (från katalogvyn)
+**Svar:** Ja! De tre punkterna och sedan Ladda ned Source (från katalogvyn)
 
-<br>:
+<br> 
 
-**Kommentar:** En av de saker jag gillar med tillägg är den tidsbesparande aspekten av dem. Många av dem gör saker du *kunde* gör med viss anpassad kod, men med ett tillägg behöver du inte skriva den koden.
+**Kommentar:** En av de saker jag gillar med tillägg är den tidsbesparande aspekten av dem. Många av dem gör saker som du *skulle kunna* göra med anpassad kod, men med ett tillägg behöver du inte skriva den koden.
 
-**Svar:** Just nu. Och den är upprepningsbar utan att behöva återskapa hjulet varje gång.
+**Svara:** Direkt. Och den är upprepningsbar utan att behöva återskapa hjulet varje gång.
 
-<br>:
+<br> 
 
 **Fråga:** Hur stöds eller ersätts plugin-program för analys med Web SDK-implementeringar?
 
-**Svar:** Många plugin-program för analys är i själva verket inte nödvändiga nuförtiden tack vare den extra flexibiliteten i Workspace och Adobe Tags. De som inte gör det migreras aktivt för användning av Web SDK.
+**Svar:** Många analysplugin-program är i själva verket inte nödvändiga nuförtiden tack vare den extra flexibiliteten i taggar för Workspace och Adobe. De som inte gör det migreras aktivt för användning av Web SDK.
 
-<br>:
+<br> 
 
-**Fråga:** Har du någon utveckling av aktivitetsschemats spårning med Web SDK?
+**Fråga:** Finns det någon utveckling av aktivitetsschemaspårning med Web SDK?
 
-**Svar:** Jag är glad att kunna meddela att Activity Map också arbetar aktivt för att få stöd i Web SDK
+**Svar:** Jag är glad att kunna meddela att Activity Map aktivt arbetar för stöd i Web SDK också
 
-<br>:
+<br> 
 
-**Fråga:** Skulle vi kunna få tillgång till Adobe Edge nätverk för att hantera händelser innan vi överför dem till slutdestinationerna? Jag förstår att vi också kan göra det i Launch, men skulle det i framtiden också vara möjligt att göra det på servern?
+**Fråga:** Skulle vi kunna ha åtkomst till Adobe Edge-nätverk för att hantera händelser innan vi överför dem till slutdestinationerna? Jag förstår att vi också kan göra det i Launch, men skulle det i framtiden också vara möjligt att göra det på servern?
 
 **Svar:** Ja! Detta är möjligt via vår Event Forwarding-funktion, som kunderna kan köpa via någon av våra Real-Time CDP-produkter (Real-Time CDP Connections, Prime eller Ultimate).
 
-**Svar:** RTCDP-anslutningar (Event Forwarding) ger möjlighet att ha större kontroll innan du skickar den till icke-adobe-mål.
+**Svar:** RTCDP-anslutningar (Event Forwarding) ger dig möjlighet att ha större kontroll innan du skickar den till icke-adobe-mål.
 
-**Svar:** Ta en titt på några andra ExL Live-videor och läs mer om detta (som [den här](exl-live-episode-06-23-22.md)).
+**Svara:** Kolla in några av våra andra ExL Live-videor och läs mer om detta (som [den här](exl-live-episode-06-23-22.md)).
 
-<br>:
+<br> 
 
-**Kommentar:** Snabbanrop för ett av mina favorittillägg: Det finns ett mappningstabelltillägg där du kan läsa en tabell för ett dataelement som &quot;om det här värdet är det ska du ange det som det&quot;.
+**Kommentar:** Snabbanrop för ett av mina favorittillägg: Det finns ett mappningstabelltillägg där du kan läsa en tabell för ett dataelement som &quot;Om det här värdet är det ska du ange det som det&quot;.
 
-**Svar:** Den flexibilitet de ger är mycket imponerande. Observera också att företag kan skapa egna privata tillägg också om de vill.
+**Svar:** Den flexibilitet de ger är ganska imponerande. Observera också att företag kan skapa egna privata tillägg också om de vill.
 
-<br>:
+<br> 
 
-**Fråga:** Du visade data från CRM som stad och väder, så var lagras svaret?
+**Fråga:** Du visade enskilda data från CRM som ort och väder, så var lagrar vi det individuella svaret?
 
-**Svar:** Svar lagras i varje unik händelse som utlöser en regel i en händelsevidarebefordringsegenskap och används endast i den specifika händelsen.
+**Svar:** Svar lagras i varje unik händelse som utlöser en regel inom en händelsevidarebefordringsegenskap och används endast i den specifika händelsen.
 
-<br>:
+<br> 
 
-Fortsätt diskutera det här ämnet i [Diskussion om Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620#M240).
+Fortsätt diskutera det här ämnet i [Experience League Community-diskussionen](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620#M240).
 <br> 
 
 ## Ytterligare Experience League LIVE-sessioner från den här datainsamlingsserien

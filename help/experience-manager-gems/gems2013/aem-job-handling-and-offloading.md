@@ -18,9 +18,9 @@ Jobbhantering är den underliggande infrastrukturen för funktioner som repliker
 
 >[!VIDEO](https://video.tv.adobe.com/v/19580/?quality=9)
 
-*Levererat 24 juli 2013*
+*Levererad 24 juli 2013*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Carsten Ziegeler, Senior Developer, Adobe
 
@@ -37,5 +37,5 @@ Presentatörsbilder - del 2
 ## Relaterade länkar {#related-links}
 
 * [Apache Sling Eventing och Jobhandling](https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
-* [API för identifiering och dess implementeringar](https://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
+* [Identifierings-API och dess implementeringar](https://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
 * [Avlastar jobb](https://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)

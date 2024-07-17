@@ -36,7 +36,7 @@ I videon&quot;Adobe Marketo Engage Champion Deep Dive&quot; diskuterar presentat
 * Använd i e-postmeddelanden, landningssidor och aviseringar för personlig kommunikation.
 * Förbättra spårning, analys och rapportering av programspecifika data.
 
-**Användning av PMC i Marketo**
+**Användning av PMC:er i Marketo**
 
 * Det är avgörande för att kunna samla in och utbyta information inom program.
 * Programbeskrivningar som är idealiska för att lista fält och insamlad information.

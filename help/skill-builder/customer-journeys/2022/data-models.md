@@ -1,6 +1,6 @@
 ---
 title: Utveckla och anpassa datamodeller i Adobe [!DNL Campaign Classic]
-description: Lär dig hur du utvecklar ett dataschema inuti en datamodell i [!DNL Campaign Classic]
+description: Lär dig hur du utvecklar ett dataschema inuti en datamodell inom  [!DNL Campaign Classic]
 solution: Campaign Classic
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Utveckla och anpassa datamodeller i Adobe [!DNL Campaign Classic]
 
-Delta i den här sessionen med vår [!DNL Campaign] Lär dig att utveckla ett dataschema inuti en datamodell i [!DNL Campaign Classic].
+Delta i den här sessionen med vår [!DNL Campaign]-utbildare för att lära dig hur du utvecklar ett dataschema inuti en datamodell i [!DNL Campaign Classic].
 
 *Kamilia Tazi* Utbildningskonsult/Adobe
 

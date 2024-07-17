@@ -25,12 +25,12 @@ Under den här sessionen kommer vi att förklara hur du implementerar anpassade 
 
 *Levererad 7 oktober 2015*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Christantto Leonardo, Senior Developer, Adobe
 * Christian Meyer, Developer, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-gems-customizing-touch-ui-dialog-fields.pdf)
 <!--

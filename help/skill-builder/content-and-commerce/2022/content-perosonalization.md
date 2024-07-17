@@ -1,6 +1,6 @@
 ---
-title: Innovationer i innehållspersonalisering som ger affärsvärde
-description: lära sig om de senaste innovationerna inom Adobe innehållslösningar och hur Adobe driver på utvecklingen inom handelslösningar
+title: Innovationer i Content Personalization som ger affärsvärde
+description: lära sig om de senaste innovationerna i Adobe content solution och hur Adobe driver utvecklingen av Commerce lösningar
 solution: Experience Manager, Commerce
 role: Admin, Leader, User
 level: Beginner
@@ -15,14 +15,14 @@ ht-degree: 0%
 
 ---
 
-# Innovationer i innehållspersonalisering som ger affärsvärde
+# Innovationer i Content Personalization som ger affärsvärde
 
-Innehåll och handel
+Innehåll och Commerce
 
-Följ oss med om de senaste innovationerna i Adobe-innehållslösningen som hjälper er att demokratisera innehållsutvecklingen, göra flerkanalsleverans till en lätt match och skala personaliseringen för att få alla upplevelser att räknas.  Vi kommer också att diskutera hur Adobe driver utvecklingen av nya handelslösningar som hjälper er att engagera era målgrupper, till fullo utnyttja marknadsförings- och CRM-systemen och överväldiga era handelsplattformar för att skapa varje upplevelse som ni minns.
+Följ oss med om de senaste innovationerna i Adobe-innehållslösningen som hjälper er att demokratisera innehållsutvecklingen, göra flerkanalsleverans till en lätt match och skala personaliseringen för att få alla upplevelser att räknas.  Vi kommer också att diskutera hur Adobe utvecklar innovationer i Commerce-lösningar som hjälper er att engagera era målgrupper, till fullo utnyttja marknadsförings- och CRM-systemens satsningar och överlasta era Commerce-plattformar så att ni kan skapa varje upplevelse som ni kommer ihåg.
 
 *Shaun McCran* Produktmarknadsföring för Adobe Commerce/Adobe
 
-*Jamie Brighton* Chef för Product &amp; Industry Marketing EMEA/Adobe
+*Jamie Brighton* Head of Product &amp; Industry Marketing EMEA / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343810/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Så du vill utöka Adobe Experience Cloud
-description: Vill du utöka Adobe lösningar med en modern arkitektur som fungerar för flera olika lösningar? Vi tycker att du borde prova Adobe Developer App Builder. Den här sessionen skapades som en del av Adobe Developers Live Content Event.
+description: Vill du utöka Adobe lösningar med en modern arkitektur som fungerar för flera olika lösningar? Vi tycker att du borde testa Adobe Developer App Builder. Den här sessionen skapades som en del av Adobe Developers Live Content Event.
 solution: Experience Cloud
 topic: Development
 role: Developer
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Så du vill utöka Adobe Experience Cloud?
 
-Vill du utöka Adobe lösningar med en modern arkitektur som fungerar för flera olika lösningar? Vi tycker att du borde prova Adobe Developer App Builder.
+Vill du utöka Adobe lösningar med en modern arkitektur som fungerar för flera olika lösningar? Vi tycker att du borde testa Adobe Developer App Builder.
 
 Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 

@@ -8,13 +8,13 @@ doc-type: Event
 duration: 1273
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15301
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 4b21e52d-5ecb-4d82-b66b-784b51395bc2
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
 
 ---
-
 
 # Skapa och använda arbetsflöden från början till slut
 
@@ -40,4 +40,3 @@ De ämnen som behandlas under sessionen är
 * Gränssnitt för arbetsflödesomfattningskontroll: Gränssnittet för att definiera vilka användare som har tillgång till arbetsflödet har uppdaterats, med ändringar i textetiketter och användning av en enda listruta för att välja enskilda grupper.
 * Uppdaterade textetiketter: Textetiketterna för alternativ som att inkludera alla gruppanvändare i kontot har ändrats för att visa tydlighet.
 * Malldefinierad signaturplacering: Den här funktionen gör det möjligt att skapa ett fullständigt aktiverat formulär med alla möjliga mottagarfält definierade, och mottagarsignerarens index som definierats i arbetsflödesdesignern är starkt tvingande, och ignorerar alla fält som tilldelats ej valfria mottagare när avtalet skickas.
-

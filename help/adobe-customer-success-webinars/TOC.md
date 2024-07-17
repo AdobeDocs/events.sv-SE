@@ -26,7 +26,7 @@ ht-degree: 0%
 + 2023 {#2023}
    + [Building the Foundation for Personalization at Scale](2023/personalization-at-scale.md)
    + [Ändra hantering](2023/change-management.md)
-   + [Innehåll och upplevelser - personalisering](2023/content-experiences-personalization.md)
+   + [Innehåll och upplevelser - Personalization](2023/content-experiences-personalization.md)
    + [Migreringsberedskap för Customer Journey Analytics](2023/cja-migration-readiness.md)
    + [Customer Journey Analytics Integration Essentials](2023/cja-integration-essentials.md)
    + [Utveckla en strategi för datainsamling och aktivering i realtid](2023/data-collection-activation-strategy.md)

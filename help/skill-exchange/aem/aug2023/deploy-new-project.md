@@ -1,6 +1,6 @@
 ---
 title: AEM Developer Starter Kit
-description: Detta kunskapsutbyte fokuserar på hur en ny AEM kan starta och driftsätta ett nytt projekt. Det fokuserar på ämnen som AEM Project Archetype, Cloud Manager-installation och utvecklingsverktyg.
+description: Detta kunskapsutbyte fokuserar på hur en ny AEM kan starta och driftsätta ett nytt projekt. Den fokuserar på ämnen som AEM Project Archetype, Cloud Manager setup och utvecklingsverktyg.
 solution: Experience Manager as a Cloud Service
 feature-set: Experience Manager, Experience Manager Sites
 feature: AEM Project Archetype, Developing
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 # Kunskapsutbyteshändelse aug 2023 - AEM Developer Track - AEM Developer Starter Kit
 
-Denna kunskapsutbyte fokuserar på hur en ny AEM kan starta och driftsätta ett nytt projekt. Det fokuserar på ämnen som AEM Project Archetype, Cloud Manager-installation och utvecklingsverktyg.
+Denna kunskapsutbyte fokuserar på hur en ny AEM kan starta och driftsätta ett nytt projekt. Den fokuserar på ämnen som AEM Project Archetype, Cloud Manager setup och utvecklingsverktyg.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424017/?learn=on)

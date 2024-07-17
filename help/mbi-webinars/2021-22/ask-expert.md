@@ -1,8 +1,8 @@
 ---
 title: Commerce Intelligence - Fråga en expert
-description: Titta på dessa inspelade webbinarier för en djupdykning med Commerce Intelligence-produktteamet, inklusive affärsomvandling via intelligenta data.
-landing-page-description: Titta på dessa inspelade webbinarier för en djupdykning med Commerce Intelligence-produktteamet, inklusive affärsomvandling via intelligenta data.
-short-description: Titta på dessa inspelade webbinarier för en djupdykning med Commerce Intelligence-produktteamet, inklusive affärsomvandling via intelligenta data.
+description: Titta på dessa inspelade webbinarier för en djupdykning med Commerce Intelligence produktteam, inklusive affärsomvandling via intelligenta data.
+landing-page-description: Titta på dessa inspelade webbinarier för en djupdykning med Commerce Intelligence produktteam, inklusive affärsomvandling via intelligenta data.
+short-description: Titta på dessa inspelade webbinarier för en djupdykning med Commerce Intelligence produktteam, inklusive affärsomvandling via intelligenta data.
 kt: 10404
 solution: Commerce, Commerce Intelligence
 role: Leader,User,Data Architect
@@ -51,7 +51,7 @@ _Fråga en expert_ består av två sessioner:
 
 >[!TIP]
 >
->Om du inte har använt Commerce Intelligence tidigare har du [Komma igång med videoserie](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) ger en fullständig översikt för att få bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
+>Om du inte har använt Commerce Intelligence tidigare får du en fullständig översikt i videoserien [Komma igång](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) som ger bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
 
-- [Commerce Intelligence-introduktion](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-- [Stöd för Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+- [Commerce Intelligence Introduktion](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+- [Commerce Intelligence Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

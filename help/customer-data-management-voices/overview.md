@@ -29,7 +29,7 @@ Välkommen till Customer Data Management Voices som är er målgrupp för hanter
       <img alt="Effektivisera din första hanteringslösning" src="./assets/first-mile.png"/>
       </a>
       <div>
-         <a href="./cdm/first-mile.md"><strong>Effektivisera din första hanteringslösning</strong></a>
+         <a href="./cdm/first-mile.md"><strong>Strömlinjeformar din första del av datahanteringen</strong></a>
          <br/>
       </div>
    </td>
@@ -38,7 +38,7 @@ Välkommen till Customer Data Management Voices som är er målgrupp för hanter
       <img alt="Välja en kunddataplattform för lyckat resultat" src="./assets/cdp-success.png"/>
       </a>
       <div>
-         <a href="./cdm/cdp-success.md"><strong>Välja en kunddataplattform för lyckat resultat</strong></a>
+         <a href="./cdm/cdp-success.md"><strong>Välja en kunddataplattform som lyckas</strong></a>
          <br/>
       </div>
     </td>
@@ -47,7 +47,7 @@ Välkommen till Customer Data Management Voices som är er målgrupp för hanter
       <img alt="Personer och processer" src="./assets/people-and-process.png"/>
       </a>
       <div>
-         <a href="./cdm/people-and-process.md"><strong>CDP Best Practices - People and Process</strong></a>
+         <a href="./cdm/people-and-process.md"><strong>Bästa praxis för CDP - Personer och process</strong></a>
          <br/>
       </div>
     </td>
@@ -58,7 +58,7 @@ Välkommen till Customer Data Management Voices som är er målgrupp för hanter
       <img alt="Utvecklar ditt högteknologiska målgruppscenter" src="./assets/evolving-your-audience-center-of-excellence.png"/>
       </a>
       <div>
-         <a href="./cdm/evolving-your-audience-center-of-excellence.md"><strong>Utvecklar ditt högteknologiska målgruppscenter</strong></a>
+         <a href="./cdm/evolving-your-audience-center-of-excellence.md"><strong>Utvecklar ditt Audience Center of Excellence</strong></a>
          <br/>
       </div>
     </td>
@@ -105,7 +105,7 @@ Välkommen till Customer Data Management Voices som är er målgrupp för hanter
       <img alt="10 saker att tänka på när det gäller ansvarstagande kunddatahantering" src="./assets/ten-considerations-for-responsible-customer-data-management.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>10 saker att tänka på när det gäller ansvarstagande kunddatahantering</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>10 saker att tänka på vid hantering av kunddata</strong></a>
          <br/>
       </div>
       <p>
@@ -116,7 +116,7 @@ Välkommen till Customer Data Management Voices som är er målgrupp för hanter
       <img alt="Öka markörens roll som en dataförvaltare" src="./assets/elevating-the-marketers-role-as-a-data-steward.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>Öka markörens roll som en dataförvaltare</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>Utökar marknadsförarens roll som en dataförvaltare</strong></a>
          <br/>
       </div>
       <p>
@@ -135,17 +135,17 @@ Välkommen till Customer Data Management Voices som är er målgrupp för hanter
       <img alt="Bygg fantastiska upplevelser med era egna data" src="./assets/build-superb-experiences-with-your-first-party-data.png"/>
       </a>
       <div>
-         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>Bygg fantastiska upplevelser med era egna data</strong></a>
+         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>Bygg fantastiska upplevelser med dina egna data</strong></a>
       </div>
       <p>
       </p>
     </td>
      <td>
       <a href="./industry/data-collaboration-in-the-first-party-data-context.md">
-      <img alt="Datasamarbete i förstahandskontexten" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
+      <img alt="Data-Collaboration i förstahandskontexten" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
       </a>
       <div>
-         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>Datasamarbete i förstahandskontexten</strong></a>
+         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>Data-Collaboration i kontexten för första part-data</strong></a>
       </div>
       <p>
       </p>
@@ -165,7 +165,7 @@ Välkommen till Customer Data Management Voices som är er målgrupp för hanter
       <img alt="En tabell med två perceptioner - varumärken jämfört med konsumenter" src="./assets/brands-vs-consumers.png"/>
       </a>
       <div>
-         <a href="./industry/brands-vs-consumers.md"><strong>En tabell med två perceptioner - varumärken jämfört med konsumenter</strong></a>
+         <a href="./industry/brands-vs-consumers.md"><strong>En tabell med två perceptioner - Varumärken jämfört med konsumenter</strong></a>
          <br/>
       </div>
     </td>

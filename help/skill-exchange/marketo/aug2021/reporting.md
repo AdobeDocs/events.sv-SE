@@ -1,6 +1,6 @@
 ---
-title: Rapportera inom [!DNL Marketo Engage]
-description: Den här sessionen kommer att granska alla rapporteringsverktyg som finns i [!DNL Marketo Engage] inklusive Reports Smart Lists Analyzers MPI Email Insights
+title: Rapporterar inom  [!DNL Marketo Engage]
+description: Den här sessionen kommer att granska alla rapporteringsverktyg som finns i [!DNL Marketo Engage] inklusive Rapporter Smart Lists Analyzers MPI Email Insights
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,9 +15,9 @@ ht-degree: 1%
 
 ---
 
-# Rapportera inom [!DNL Marketo Engage]
+# Rapporterar inom [!DNL Marketo Engage]
 
-Den här sessionen kommer att granska alla rapporteringsverktyg som finns i [!DNL Marketo Engage] inklusive:
+Den här sessionen kommer att granska alla rapporteringsverktyg som är tillgängliga i [!DNL Marketo Engage], inklusive:
 
 * Rapporter
 * Smarta listor
@@ -30,7 +30,7 @@ Den här sessionen kommer att granska alla rapporteringsverktyg som finns i [!DN
 * När standardrapporter och smarta listor ska användas
    * Prenumerationer
 
-Du lämnar den här sessionen med förståelse för rapportfunktioner på hög nivå inom [!DNL Marketo Engage]och en djupdykning i rapporter och smarta listor.
+Du lämnar den här sessionen med en förståelse för rapportfunktioner på hög nivå i [!DNL Marketo Engage] och en djupdykning i Rapporter och Smarta listor.
 
 Frågor och svar i slutet av sessionen besvarar alla dina frågor.
 

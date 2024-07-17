@@ -22,12 +22,12 @@ Ni måste skapa nästa nivå av flytande upplevelser för att hålla jämna steg
 
 >[!VIDEO](https://video.tv.adobe.com/v/27088/?quality=9)
 
-*Levererat 2019-04-16*
+*Levererat 19-04-16*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Amol Anand, rektor konsult, teknisk arkitekt, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/headless-omnichannelwebinar04162019.pdf)

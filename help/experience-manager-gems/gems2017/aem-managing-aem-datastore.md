@@ -18,13 +18,13 @@ Sessionen ger en översikt över DataStore (DS) och information om konfiguration
 
 >[!VIDEO](https://video.tv.adobe.com/v/20422/?quality=9)
 
-*Levererat 11 oktober 2017*
+*Levererad 11 oktober 2017*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Amit Jain, datavetenskapsman, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/managing-aem-datastoreoct17.pdf)
 <!--

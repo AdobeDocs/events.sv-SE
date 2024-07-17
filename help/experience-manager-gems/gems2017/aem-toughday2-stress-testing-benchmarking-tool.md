@@ -20,12 +20,12 @@ ht-degree: 0%
 
 *Levererad 21 juni 2017*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Catalin Luta, QE Developer, Adobe
 * Andrei Stefan Tuicu, QE Developer, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-gems-toughday2.pdf)
 <!--

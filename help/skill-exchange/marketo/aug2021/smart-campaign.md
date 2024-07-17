@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Kraften i en smart kampanj
 
-Under den här sessionen kommer du att lära dig allt om *Smarta kampanjer* inklusive: Smart List - utlösare och filter, flöde, schema och resultat.
+Under den här sessionen kommer du att lära dig allt om *smarta kampanjer* inklusive: Smart lista - utlösare och filter, flöde, schema och resultat.
 
 Du lämnar den här sessionen med en förståelse för vad smarta kampanjer är, hur de används och tips och tricks för att lyckas!
 

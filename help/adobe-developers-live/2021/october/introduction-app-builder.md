@@ -1,6 +1,6 @@
 ---
-title: Vi presenterar App Builder - allt du behöver för att skapa en anpassad molnapp som uppfyller dina affärsbehov
-description: Utforska vad som är möjligt med App Builder och fråga oss allt du vill veta. Följ oss för att lära dig mer om hur du med App Builder kan skapa molnbaserade program för att utöka de körklara funktionerna i Adobe Experience Manager och andra Adobe-produkter. Du får lära dig mer om vanliga användningsfall och en titt på hur du kommer igång med att skapa med App Builder.
+title: Nu kommer App Builder - allt du behöver för att skapa en anpassad molnapp som uppfyller dina affärsbehov
+description: Upptäck vad som är möjligt med App Builder och fråga oss allt du vill veta. Följ oss för att lära dig mer om hur App Builder gör det möjligt att skapa molnbaserade program för att utöka de körklara funktionerna i Adobe Experience Manager och andra Adobe-produkter. Du får lära dig mer om vanliga användningsområden och en titt på hur du kommer igång med att skapa med App Builder.
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -16,9 +16,9 @@ ht-degree: 3%
 
 ---
 
-# Vi presenterar App Builder - allt du behöver för att skapa en anpassad molnapp som uppfyller dina affärsbehov
+# Nu kommer App Builder - allt du behöver för att skapa en anpassad molnapp som uppfyller dina affärsbehov
 
-Utforska vad som är möjligt med App Builder och fråga oss allt du vill veta. Följ oss för att lära dig mer om hur du med App Builder kan skapa molnbaserade program för att utöka de körklara funktionerna i Adobe Experience Manager och andra Adobe-produkter. Du får lära dig mer om vanliga användningsfall och en titt på hur du kommer igång med att skapa med App Builder.
+Upptäck vad som är möjligt med App Builder och fråga oss allt du vill veta. Följ oss för att lära dig mer om hur App Builder gör det möjligt att skapa molnbaserade program för att utöka de körklara funktionerna i Adobe Experience Manager och andra Adobe-produkter. Du får lära dig mer om vanliga användningsområden och en titt på hur du kommer igång med att skapa med App Builder.
 
 Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/3AYeJlv)**.
 
@@ -26,6 +26,6 @@ Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/3A
 
 ## Ytterligare resurser
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform-dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Adobe Experience Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=sv)

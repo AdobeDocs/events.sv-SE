@@ -21,7 +21,7 @@ ht-degree: 0%
 
 *Levererat 2018-08-08*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Thomas Mueller, Senior Software Engineer, Adobe
 

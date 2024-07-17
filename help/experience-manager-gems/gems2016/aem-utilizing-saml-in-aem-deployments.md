@@ -18,14 +18,14 @@ Gå med i Sham Hassan Chikkegowda, CS Engineer och Timothee Market, Senior Devel
 
 >[!VIDEO](https://video.tv.adobe.com/v/19299/?quality=9)
 
-*Levererat 20 juli 2016*
+*Levererad 20 juli 2016*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Sham Hassan Chikkegowda, CS Engineer, Adobe
 * Timothee Maret, Senior Developer, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-gems-072016-saml.pdf)
 
@@ -34,5 +34,5 @@ Gå med i Sham Hassan Chikkegowda, CS Engineer och Timothee Market, Senior Devel
 * [SAML 2.0-autentiseringshanterare](https://docs.adobe.com/docs/en/aem/6-2/administer/security/saml-2-0-authenticationhandler.html)
 * [[SAMLProf] Profiler för SAML (OASIS Security Assertion Markup Language) V2.0](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf)
 * [[SAMLBind] Bindningar för SAML (OASIS Security Assertion Markup Language) V2.0](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf)
-* [[SAMLTech] Security Assertion Markup Language (SAML) V2.0 Technical Overview](https://www.oasis-open.org/committees/download.php/27819/sstc-saml-tech-overview-2.0-cd-02.pdf)
-* [SAML V2.0 Executive - översikt](https://www.oasis-open.org/committees/download.php/13525/sstc-saml-exec-overview-2.0-cd-01-2col.pdf)
+* [[SAMLTech] SAML (Security Assertion Markup Language) V2.0 Technical Overview](https://www.oasis-open.org/committees/download.php/27819/sstc-saml-tech-overview-2.0-cd-02.pdf)
+* [SAML V2.0 Executive Overview](https://www.oasis-open.org/committees/download.php/13525/sstc-saml-exec-overview-2.0-cd-01-2col.pdf)

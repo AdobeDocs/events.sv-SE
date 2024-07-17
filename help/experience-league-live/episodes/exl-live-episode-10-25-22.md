@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Leverera rätt erbjudande vid rätt tidpunkt med beslutsstöd
 
-**Rangordna erbjudanden med hjälp av AI och utnyttja dem i era interna och externa meddelandekanaler.**
+**Rangordna erbjudanden med hjälp av AI och använd dem i interna och externa meddelandekanaler.**
 
 Eftersom de flesta kundresor idag är flersidiga och flerberöringspunkter är det avgörande att hitta och leverera rätt erbjudanden vid rätt interaktion. Erbjudandena omfattar mer än bara rabatter, och kan omfatta lojalitets- och lojalitetsmeddelanden, uppgraderingar, påminnelser, kampanjer och till och med utbildningsmöjligheter. Nu mer än någonsin har marknadsförarna anammat artificiell intelligens för verksamhetskritiska situationer med beslutsunderlag i realtid.
 
@@ -28,4 +28,4 @@ Eftersom de flesta kundresor idag är flersidiga och flerberöringspunkter är d
 
 I det här live-strömsevenemanget introducerade Adobe produktexperter de senaste funktionerna för intelligent rankning av erbjudanden och visade hur man lägger till erbjudanden på resor och kampanjer i Adobe Journey Optimizer.  De visade också hur erbjudanden kan placeras i inbyggda Journey Optimizer-kanaler som e-post, SMS och mobilappar, liksom externa system och integrerade program som Adobe Target.
 
-Fortsätta diskussionen om Adobe Experience League [Community-post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55).
+Fortsätt diskutera det här ämnet i Adobe Experience League [Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55).

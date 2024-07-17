@@ -1,6 +1,6 @@
 ---
 title: newrelic apm for aem cloud service
-description: Delta i vårt seminarium där vi hjälper dig att identifiera och lösa problem som påverkar dina slutanvändarkunder, säkerställa en enastående upplevelse genom att förbättra effektiviteten i ditt AEM as a Cloud Service projekt, mäta påverkan av externa tjänster för ditt as a Cloud Service AEM och få ut så mycket som möjligt av anpassade och anpassade vyer. Upptäck processen för åtkomst till New Relic, en funktion som ingår som standard med AEM as a Cloud Service. Tveka inte att engagera dig i dina frågor.
+description: Delta i vårt seminarium där vi hjälper dig att identifiera och lösa problem som påverkar dina slutanvändarkunder, säkerställa en enastående upplevelse genom att förbättra effektiviteten i ditt AEM as a Cloud Service-projekt, mäta påverkan av externa tjänster för ditt AEM as a Cloud Service-system och få ut det mesta av anpassade och anpassade vyer. Upptäck processen för åtkomst till New Relic, en funktion som ingår som standard i AEM as a Cloud Service. Tveka inte att engagera dig i dina frågor.
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -20,21 +20,21 @@ ht-degree: 0%
 
 ---
 
-# Frigöra potentialen i New Relic APM för AEM as a Cloud Service
+# Släpp loss potentialen i New Relic APM för AEM as a Cloud Service
 
 Maximera prestanda och få en snabbare problemlösning.
 
-Det här webbinariet har genomförts på **20 september**, 2023. Se inspelningen nedan.
+Det här webbinariet har genomförts den **20** september 2023. Se inspelningen nedan.
 
 ## Sessionsbeskrivning
 
 Delta i vårt seminarium, där vi hjälper er att identifiera och lösa problem som påverkar era slutanvändarkunder och säkerställa en enastående upplevelse genom att:
 
-* Förbättra effektiviteten i ditt AEM as a Cloud Service projekt
-* Mäta påverkan av externa tjänster på ditt AEM as a Cloud Service system
+* Effektivare AEM as a Cloud Service Project
+* Mäta påverkan av externa tjänster för ditt AEM as a Cloud Service-system
 * Få ut det mesta av skräddarsydda vyer
 
-Upptäck processen för åtkomst till New Relic, en funktion som ingår som standard med AEM as a Cloud Service. Tveka inte att engagera dig i dina frågor.
+Upptäck processen för åtkomst till New Relic, en funktion som ingår som standard i AEM as a Cloud Service. Tveka inte att engagera dig i dina frågor.
 
 ## Presentatörer
 
@@ -50,6 +50,6 @@ Upptäck processen för åtkomst till New Relic, en funktion som ingår som stan
 
 >[!NOTE]
 >
->* Besök vårt webbforum om du vill veta mer om webbcommunityn i Experience League [kontextuell tråd](https://adobe.ly/3sV67N5).
+>* Besök vår [kontextuella tråd](https://adobe.ly/3sV67N5) för sessionsspecifika communityinteraktioner på Experience League.
 >
->* Om du vill få meddelanden om våra kommande webbinarier registrerar du dig på [AdobeAEM User Group](https://aem-augs.adobe.com/).
+>* Om du vill få meddelanden om våra kommande webbinarier registrerar du dig på [Adobe AEM User Group](https://aem-augs.adobe.com/).

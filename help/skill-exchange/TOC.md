@@ -15,7 +15,7 @@ ht-degree: 7%
 
 + [Översikt](overview.md)
 + Analyser {#analytics}
-   + Aug 2023 {#aug2023}
+   + aug 2023 {#aug2023}
       + [Alla Om segment](analytics/aug2023/spotlight-segments.md)
       + [Analysera data](analytics/aug2023/analyze-the-data.md)
       + [Utbilda den tillfälliga arbetsytans användare](analytics/aug2023/spotlight-workspace-user.md)
@@ -78,18 +78,18 @@ ht-degree: 7%
       + [Sammanfoga allt](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
    + Augusti 2023 {#aug2023}
-      + Developer Track {#developer-track}
+      + Utvecklarspår {#developer-track}
          + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
          + [Bygga ett effektivt och skalbart stilsystem](aem/aug2023/scalable-style-system.md)
          + [Migrera till AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
          + [Personaliserade e-postmeddelanden](aem/aug2023/personalized-marketing-emails.md)
-      + Web Track {#webtrack}
+      + Webbspår {#webtrack}
          + [Komma igång med AEM Assets](aem/aug2023/getting-started-aem-assets.md)
          + [Utnyttja ett samarbetsbaserat resurshanteringssystem](aem/aug2023/collaborative-dam.md)
          + [Skala för AI-beredskap](aem/aug2023/metadata.md)
          + [Strålkastare](aem/aug2023/spotlight.md)
    + Augusti 2022 {#aug2022}
-      + Developer Track {#developer-track}
+      + Utvecklarspår {#developer-track}
          + [Experience Makers Spotlight](aem/aug2022/spotlight.md)
          + [AEM Champion Session Multi tenancy](aem/aug2022/multi-tenancy.md)
          + [AEM Core Components &amp; Style Systems](aem/aug2022/core-components.md)
@@ -101,25 +101,25 @@ ht-degree: 7%
 + Marketo {#marketo}
    + Februari 2022 {#feb2022}
       + [Dataunderhåll](marketo/feb2022/data-maintenance.md)
-      + [Dynamiskt innehåll och kraften i personalisering](marketo/feb2022/dynamic-content.md)
+      + [Dynamiskt innehåll och kraften i Personalization](marketo/feb2022/dynamic-content.md)
       + [Experience Makers Spotlight](marketo/feb2022/experience-makers-spotlight.md)
       + [Dolt Gem i databasen - återaktiverade poster](marketo/feb2022/hidden-gems.md)
-      + [Anpassning i stor skala](marketo/feb2022/personalization-at-scale.md)
+      + [Personalization i skala](marketo/feb2022/personalization-at-scale.md)
       + [Skalbarhet och effektivitet med hjälp av variabler](marketo/feb2022/using-tokens.md)
       + [Använda engagemangsprogram för att engagera kunderna](marketo/feb2022/utilize-engagement-programs.md)
    + Augusti 2021 {#aug2021}
-      + [Skapa program i [!DNL Marketo Engage]](marketo/aug2021/create-programs.md)
+      + [Skapar program inom  [!DNL Marketo Engage]](marketo/aug2021/create-programs.md)
       + [[!DNL Marketo Engage] Rockstars](marketo/aug2021/engage-rockstars.md)
       + [Styrkan hos en smart kampanj](marketo/aug2021/smart-campaign.md)
       + [Anpassade fält för programmedlem](marketo/aug2021/program-member-custom-fields.md)
-      + [Rapportera inom [!DNL Marketo Engage]](marketo/aug2021/reporting.md)
+      + [Rapporterar inom  [!DNL Marketo Engage]](marketo/aug2021/reporting.md)
       + [Din Marketo-karta](marketo/aug2021/marketo-roadmap.md)
    + Februari 2021 {#feb2021}
       + [En topprope-dykning i anpassade objekt och hastighet](marketo/feb2021/custom-objects.md)
       + [Adobe [!DNL Marketo Engage] Rockstar-segment](marketo/feb2021/rockstar.md)
-      + [Skapa program i Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
+      + [Skapar program i Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
       + [Styrkan hos en smart kampanj](marketo/feb2021/power-of-smart-campaign.md)
-      + [Rapportera inom [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
+      + [Rapporterar inom  [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Ultimata tips och tricks för din Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + Augusti 2023 {#aug2023}
@@ -141,7 +141,7 @@ ht-degree: 7%
       + [Lär dig Spåra upplevelsemakare i strålkastarljuset](workfront/apr2022/learn-track-spotlight.md)
       + [Datum och tidslinjer för masterprojekt](workfront/apr2022/projects-dates-timelines.md)
       + [Förstå objekt i Workfront](workfront/apr2022/understanding-objects.md)
-+ Digital Bites {#digital-bites}
++ Digitala bitar {#digital-bites}
    + [Lås upp driftseffektivitet med en driftmodell i toppklass](digital-bites/operational-model.md)
    + [En färdplan för värdemappning och värderealisering](digital-bites/roadmap.md)
    + [Så här får ni upp affärsvärdet under hela kundresan](digital-bites/business-value.md)

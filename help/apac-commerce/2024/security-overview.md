@@ -28,7 +28,7 @@ I juni kommer vi att välkomna Smita Verma, Senior Product Manager, Adobe Digita
 
 ## Viktiga uppgifter
 
-**E-commerce Industry Security**
+**E-handelsindustrins säkerhet**
 
 * Avsedd av cyberangripare för stöld av kreditkortsdata.
 
@@ -44,11 +44,11 @@ I juni kommer vi att välkomna Smita Verma, Senior Product Manager, Adobe Digita
 * Övervaka säkerhetshot och engagera systemintegratörer för att utreda intrång.
 * Rapportera säkerhetsluckor via programmet för buggmarkering.
 
-**Adobe Commerce Updates**
+**Adobe Commerce-uppdateringar**
 
 * Uppgradera till de senaste versionerna för att åtgärda säkerhetsluckor och säkerställa regelefterlevnad.
 
-**Snabb integrering med nästa generations WAF**
+**Snabbt nästa generations WAF-integrering**
 
 * Pågår för att förbättra säkerhetsåtgärderna.
 * Collaboration med supporttekniker för att implementera regler för att blockera skadliga förfrågningar.

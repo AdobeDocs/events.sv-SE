@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # AEM GEM-funktion - kundanvändningsfall och implementering av AEM Headless in Use
 
-*Det här webbinariet har genomförts på&#x200B;**Onsdag, 12 oktober - 17:00 UTC**. Inspelningen finns nedan.*
+*Det här webbinariet har utförts **onsdagen den 12 oktober - kl. 16.00 UTC**. Inspelningen är tillgänglig nedan.*
 
 Denna exceptionella AEM GEM-session har två högtalare som fungerar AEM som kunder. Sessionen delas i två halvor enligt följande:
 
@@ -27,7 +27,7 @@ Denna exceptionella AEM GEM-session har två högtalare som fungerar AEM som kun
 
 Presenter: VengLÄSH Shanmugavelu - Technical Architect, Qatar Airways
 
-**Session description:**
+**Sessionsbeskrivning:**
 Det finns många sätt att implementera headless CMS via AEM.
 Under detta möte kommer vi att ta upp följande:
 
@@ -41,7 +41,7 @@ Under detta möte kommer vi att ta upp följande:
 
 Presenter: Debal Das - Senior System Analyst, IBM
 
-**Session description:**
+**Sessionsbeskrivning:**
 Under den här sessionen kommer vi att ta upp GraphQL konsumtion av innehållsfragment (utöver de redan befintliga JSON-API:erna).
 
 GraphQL liknar en SQL-databasfråga, med undantag för att ett API används för frågan i stället för en databas.
@@ -54,5 +54,5 @@ Detta eliminerar kravet på att API:t ska tillhandahålla många slutpunkter som
 
 >[!NOTE]
 >
->* Besök följande om du vill se sessionsspecifika communityinteraktioner på Experience League: [Sammanhangsberoende koppling](https://adobe.ly/3r6P4nr)
->* Om du vill få automatiska meddelanden om webbinarier registrerar du dig på [AdobeAEM User Group](https://aem-augs.adobe.com/).
+>* Besök den här [kontextuella tråden](https://adobe.ly/3r6P4nr) för sessionsspecifika communityinteraktioner på Experience League
+>* Om du vill få automatiska meddelanden om webbinarier registrerar du dig på [Adobe AEM User Group](https://aem-augs.adobe.com/).

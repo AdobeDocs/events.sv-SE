@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Med Experience League är lärande en händelse.
 
-Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inlärning. Besök det här området ofta för att se inspelningar av tidigare händelser som Experience League LIVE, SDödbyggare, Developers Live med mera. Om du vill registrera dig för ett kommande evenemang kan du titta på [kommande event](https://%65xperienceleague.adobe.com/events/?lang=en) på Experience League.
+Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inlärning. Besök det här området ofta för att se inspelningar av tidigare händelser som Experience League LIVE, SDödbyggare, Developers Live med mera. Om du vill registrera dig för ett kommande evenemang kan du titta närmare på [kommande evenemang](https://%65xperienceleague.adobe.com/events/?lang=en) på Experience League.
 
 ## Event Series
 
@@ -31,7 +31,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Acrobat Sign Webinars">Acrobat Sign Webinars</a>
+              <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Acrobat Sign Webinars">Acrobat Sign-webbinarier</a>
           </p>
           <p class="is-size-6">
          Lär dig av Adobe experter hur du lär dig bemästra nya arbetsflöden för e-signaturer i Acrobat Sign.</p>
@@ -143,7 +143,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" title="Kontor för AEM">Kontor för AEM</a>
+              <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" title="Kontor för AEM">AEM kontorstimmar</a>
           </p>
           <p class="is-size-6">
          Om du är intresserad av att utveckla dina kunskaper om och din användning av Adobe Experience Manager, interagera med Experience Manager och få exklusiv rabatt - gå med i AEM Champion Office Hours User Group idag!</p>
@@ -165,7 +165,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="APAC Adobe Commerce Webinars">APAC Adobe Commerce Webinars</a>
+              <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="APAC Adobe Commerce Webinars">APAC Adobe Commerce-webbinarier</a>
           </p>
           <p class="is-size-6">
          APAC Commerce Webinar Series är en månatlig mötesplats för Adobe Commerce-kunder som täcker ett brett urval av ämnen, från metodtips till produktplaner och branschtrender.</p>
@@ -187,7 +187,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" title="Adobe - nöjda webbseminarier">Adobe - nöjda webbseminarier</a>
+              <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" title="Adobe - nöjda webbseminarier">Adobe webbseminarier om nöjda kunder</a>
           </p>
           <p class="is-size-6">
          Adobe kundnöjda webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe-lösningar.</p>
@@ -231,7 +231,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html" title="Voices om kunddatahantering">Voices om kunddatahantering</a>
+              <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html" title="Voices om kunddatahantering">Voices om hantering av kunddata</a>
           </p>
           <p class="is-size-6">
          Ert mål som ansvarig för hantering av kunddata, teknik och marknadsföring samt specialist. Ett steg till att höra vad kollegor tycker, få inspiration och lära sig om utvecklingen inom marknadsföringsbranschen.</p>
@@ -253,7 +253,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" title="Djupdykning">Djupdykning</a>
+              <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" title="Djupdykning">Djupenheter</a>
           </p>
           <p class="is-size-6">
          Med Deep Dive On-demand-inspelningar får du en bättre förståelse för hur du kan använda Adobe Marketo för att stödja ditt företag.</p>
@@ -275,7 +275,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" title="EXPERIENCE LEAGUE LIVE">EXPERIENCE LEAGUE LIVE</a>
+              <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" title="EXPERIENCE LEAGUE LIVE">Experience League LIVE</a>
           </p>
           <p class="is-size-6">
          Experience League LIVE är ett direktuppspelningsprogram som producerats av Experience League-teamet. Det är en chans att få kontakt med produktexperter på Adobe och lära dig praktiska tips, tricks och strategier som du kan använda med Adobe Experience Cloud-programmen.</p>
@@ -297,7 +297,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="Experience Manager GEMS">Experience Manager GEMS</a>
+              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="Experience Manager GEMS">Experience Manager-GEMS</a>
           </p>
           <p class="is-size-6">
          Adobe Experience Manager tekniska djupdykningar levereras av Adobe experter. Serien är en komplettering av produktdokumentationen och av alla andra tekniska kanaler som gäller Adobe Experience Manager, vilket gör att utvecklare kan komma i kontakt med varandra och gå djupare på ett visst ämne.</p>
@@ -341,7 +341,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" title="Lär dig av andra">Lär dig av andra</a>
+              <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" title="Lär dig av andra">Lär dig av dina kollegor</a>
           </p>
           <p class="is-size-6">
          Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina lösningar från Adobe. Med ämnen som yrkesverksamma har valt ut för yrkesverksamma delar dessa interaktiva sessioner"konst av möjliga" användningsfall, bästa praxis samt tips och tricks.</p>
@@ -410,7 +410,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
               <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="Adobe Commerce Intelligence">Adobe Commerce Intelligence</a>
           </p>
           <p class="is-size-6">
-         Adobe Commerce Intelligence-serien (även MBI) är en periodisk händelse för Adobe Commerce Intelligence-kunder. Webbseminarierna innehåller ett brett urval av ämnen och metodtips för att använda Adobe Commerce Intelligence i sin fulla potential.</p>
+         Adobe Commerce Intelligence (även kallat MBI) webbinarium är en periodisk händelse för Adobe Commerce Intelligence-kunder. Webbseminarierna innehåller ett brett urval av ämnen och metodtips för att använda Adobe Commerce Intelligence i sin fulla potential.</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
@@ -429,7 +429,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" title="Kunskapsbyggare">Kunskapsbyggare</a>
+              <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" title="Kunskapsbyggare">Kompetensbyggare</a>
           </p>
           <p class="is-size-6">
          SKill Builder är en webbinärserie som utformats för att bygga upp din kunskapsbas och maximera din investering i Adobe Experience Cloud.</p>

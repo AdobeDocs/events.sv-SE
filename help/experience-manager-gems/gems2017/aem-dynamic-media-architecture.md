@@ -22,9 +22,9 @@ Gå med i Cynthia Tillo, produktchef på Adobe Digital Marketing för att få ve
 
 >[!VIDEO](https://video.tv.adobe.com/v/19570/?quality=9)
 
-*Levererat 30 augusti 2017*
+*Levererad 30 augusti 2017*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Cynthia Tillo, produktchef, Adobe
 * Herbert Wolfram, Director of Engineering, Adobe
@@ -32,7 +32,7 @@ Gå med i Cynthia Tillo, produktchef på Adobe Digital Marketing för att få ve
 * Peter Ciszak, datavetenskap, Adobe
 * Kirk Jones, Computer Scientist, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/dynamicmedia83017.pdf)
 <!--

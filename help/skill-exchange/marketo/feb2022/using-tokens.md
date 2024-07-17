@@ -1,6 +1,6 @@
 ---
-title: Skalbarhet och effektivitet med hjälp av token i [!DNL Marketo Engage]
-description: Lär dig använda variabler utöver personalisering för att göra programbygget och åtgärderna effektivare i [!DNL Marketo Engage].
+title: Skalbarhet och effektivitet med token i  [!DNL Marketo Engage]
+description: Lär dig hur du kan använda variabler utöver personalisering för att göra programbygget och åtgärderna mer effektiva i  [!DNL Marketo Engage].
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ---
 
-# Skalbarhet och effektivitet med hjälp av token i [!DNL Marketo Engage]
+# Skalbarhet och effektivitet med token i [!DNL Marketo Engage]
 
-Lär dig använda variabler utöver personalisering för att göra programbygget och åtgärderna effektivare i [!DNL Marketo Engage].
+Lär dig hur du kan använda variabler utöver personalisering för att göra programbygget och åtgärderna mer effektiva i [!DNL Marketo Engage].
 
-**Viktiga uppgifter**
+**Viktiga åtgärder**
 
 * Förstå de olika typerna av tokens och var de kan användas
 * Få idéer om hur ni dokumenterar er tokenstrategi

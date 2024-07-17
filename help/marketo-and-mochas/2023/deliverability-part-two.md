@@ -1,6 +1,6 @@
 ---
 title: Marketo and Mochas - Deliverability (Part 2)
-description: I den här sessionen av Marketo & Mochas finns Marketo Deliverability Manager, Sean Wirt, som granskar de bästa sätten att leverera, framhäver leveransmöjligheterna i Gmail, Apple Mail Privacy och en sammanfattning av Delade och dedikerade IP-adresser. Sean går igenom en lång produktdemonstration av verktyget Deliverability i [!DNL Marketo Engage] samt hur du importerar en startvärdeslista kan du skapa smarta listor, rapporter och mycket mer. Evenemanget avslutas med ett utökat fråge- och svarsmöte där Sean besvarar frågor från registranter och deltagare.
+description: I den här sessionen av Marketo & Mochas finns Marketo Deliverability Manager, Sean Wirt, som granskar de bästa sätten att leverera, framhäver leveransmöjligheterna i Gmail, Apple Mail Privacy och en sammanfattning av Delade och dedikerade IP-adresser. Sean genomgår en lång produktdemonstration av slutproduktverktyget i  [!DNL Marketo Engage] samt hur man importerar en startlista, skapar smarta listor, rapporter och mycket mer. Evenemanget avslutas med ett utökat fråge- och svarsmöte där Sean besvarar frågor från registranter och deltagare.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Marketo and Mochas - Deliverability (Part 2)
 
-I den här sessionen av Marketo &amp; Mochas finns Marketo Deliverability Manager, Sean Wirt, som granskar de bästa sätten att leverera, framhäver leveransmöjligheterna i Gmail, Apple Mail Privacy och en sammanfattning av Delade och dedikerade IP-adresser. Sean går igenom en lång produktdemonstration av verktyget Deliverability i [!DNL Marketo Engage] samt hur du importerar en startvärdeslista kan du skapa smarta listor, rapporter och mycket mer. Evenemanget avslutas med ett utökat fråge- och svarsmöte där Sean besvarar frågor från registranter och deltagare.
+I den här sessionen av Marketo &amp; Mochas finns Marketo Deliverability Manager, Sean Wirt, som granskar de bästa sätten att leverera, framhäver leveransmöjligheterna i Gmail, Apple Mail Privacy och en sammanfattning av Delade och dedikerade IP-adresser. Sean genomgår en lång produktdemonstration av slutprodukten i [!DNL Marketo Engage] samt hur man importerar en startlista, skapar smarta listor, rapporter och mycket mer. Evenemanget avslutas med ett utökat fråge- och svarsmöte där Sean besvarar frågor från registranter och deltagare.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418668/?learn=on)

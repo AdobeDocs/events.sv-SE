@@ -24,11 +24,11 @@ APAC Commerce Webinar Series är en månatlig mötesplats för Adobe Commerce-ku
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html">
-        <strong>Adobe Commerce Accelerator Day</strong>
+        <strong> Adobe Commerce Accelerator Day </strong>
       </a>
     </div>
     <p>
-    <em>Adobe och Commonwealth Bank of Australia (CBA) visar på innovationer inom handel, moln och betallösningar.</em>
+    <em>Adobe och Commonwealth Bank of Australia (CBA) visar innovationer inom handel, moln och betalningslösningar.</em>
     <p>
   </td>
   <td>
@@ -37,11 +37,11 @@ APAC Commerce Webinar Series är en månatlig mötesplats för Adobe Commerce-ku
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
-        <strong>Adobe Commerce Innovation Spotlight Webinar</strong>
+        <strong> Adobe Commerce Innovation Spotlight Webinar </strong>
       </a>
     </div>
     <p>
-    <em>Följ oss för inspiration om hur du använder de senaste funktionerna och arkitekturen för att leverera den bästa upplevelsen till dina kunder och utöka din verksamhet!På det här webbinariet.</em>
+    <em>Följ oss för inspiration om hur du använder de senaste funktionerna och arkitekturen för att leverera den bästa upplevelsen till dina kunder och utöka din verksamhet!I det här webbinariet.</em>
     <p>
   </td> 
   <td>
@@ -50,11 +50,11 @@ APAC Commerce Webinar Series är en månatlig mötesplats för Adobe Commerce-ku
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
-        <strong>The Creative Edge - How Visionary Thinking is Transforming Commerce</strong>
+        <strong> Creative Edge - How Visionary Thinking is Transforming Commerce </strong>
       </a>
     </div>
     <p>
-    <em>Utforska integreringen av kreativitet och handel.</em>
+    <em>Utforska integrationen av kreativitet och handel.</em>
     <p>
   </td>
 </tr>

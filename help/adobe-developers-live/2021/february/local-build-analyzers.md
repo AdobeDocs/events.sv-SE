@@ -1,6 +1,6 @@
 ---
 title: Local Build-analytiker med Adobe Experience Manager as a Cloud Service
-description: Fokusera på nya analysatorer som läggs till i den AEM arkivtypen, vilket gör att du kan återskapa lokala valideringar som görs i Cloud Managers distributionsrutnät.
+description: Fokusera på nya analysatorer som läggs till i den AEM arkivtypen, vilket gör det möjligt att återskapa lokala valideringar som kommer att göras i Cloud Manager driftsättningspipelines.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites

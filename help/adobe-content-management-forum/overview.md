@@ -19,8 +19,8 @@ Delta i sessionerna nedan och lär dig mer:
 * Så här moderniserar ni upplevelsehanteringen som gör det kreativt att skapa innehåll, gör flerkanalsleverans till en lätt match och skalar personalisering så att alla upplevelser räknas.
 * Så här skapar du en innehållsleveranskedja som kan anpassas efter personalisering
 * Hur man snabbar upp time to market för att skapa nya webbplatser och minskar beroendet av tekniska resurser
-* De senaste innovationerna för [!DNL Experience Manager] som erbjuds som en molnbaserad tjänst och hur ni anpassar er efter de föränderliga marknadsförväntningarna samtidigt som ni håller er i framkant
-* Skapa sajter snabbare med Adobe [!DNL Experience Manager] som ett headless CMS med GraphQL och Content Fragments
+* De senaste innovationerna för [!DNL Experience Manager] som erbjuds som en molnbaserad tjänst och hur du anpassar dig efter föränderliga marknadsförväntningar samtidigt som du håller dig i framkanten
+* Så här skapar du webbplatser snabbare med Adobe [!DNL Experience Manager] som ett headless CMS med GraphQL och Content Fragments
 * Bästa praxis för utvecklare som snabbar upp time-to-market för Adobe Experience Manager Sites
 
 >[!TIP]
@@ -34,8 +34,8 @@ Delta i sessionerna nedan och lär dig mer:
       <img alt="Välkomstadress och AEM - översikt" src="assets/welcome.png" >
       </a>
       <div>
-         <a href="2022/welcome.md"><strong>Välkomstadress och AEM - översikt</strong></a>         
-         <br/><em>med Elliot Sedegah, Haresh Kumar och Kurt Benkert</em>
+         <a href="2022/welcome.md"><strong>Välkomstadress och AEM översikt</strong></a>         
+         <br/><em> med Elliot Sedegah, Haresh Kumar och Kurt Benkert </em>
       </div>
       <p>
         <br/>
@@ -44,15 +44,15 @@ Delta i sessionerna nedan och lär dig mer:
    </td>
    <td>
       <a href="2022/assets-for-all.md">
-      <img alt="Resurser för alla" src="assets/assets-for-all.png" >
+      <img alt="Assets for All" src="assets/assets-for-all.png" >
       </a>
       <div>
-         <a href="2022/assets-for-all.md"><strong>Utöka Adobe [!DNL Experience Manager] Headless with Adobe [!DNL App Builder]</strong></a>         
-         <br/><em>med Purnima rachoor Roy</em>
+         <a href="2022/assets-for-all.md"><strong>Utöka Adobe [!DNL Experience Manager] utan rubrik med Adobe [!DNL App Builder]</strong></a>         
+         <br/><em> med Purnima Rachoor Roy </em>
       </div>
       <p>
         <br/>
-          Läs om hur [!DNL Assets Essentials] är den nya [!DNL Digital Asset Management] för avdelningar och medelstora företag.
+          Läs om hur [!DNL Assets Essentials] är det nya [!DNL Digital Asset Management] systemet för avdelningar och medelstora företag.
       </p>
    </td>
    <td>
@@ -60,8 +60,8 @@ Delta i sessionerna nedan och lär dig mer:
       <img alt="Bygga en innehållsleveranskedja som skalas" src="assets/supply-chain.png" />
       </a>
       <div>
-         <a href="2022/supply-chain.md"><strong>Bygga en innehållsleveranskedja som skalas</strong></a>         
-         <br/><em>med Marc Angelinovich</em>
+         <a href="2022/supply-chain.md"><strong>Skapar en innehållsleveranskedja som skalas</strong></a>         
+         <br/><em> med Marc Angelinovich </em>
       </div>
       <p>
         <br/>

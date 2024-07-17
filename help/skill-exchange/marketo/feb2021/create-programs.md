@@ -1,5 +1,5 @@
 ---
-title: Skapa program i Adobe [!DNL Marketo Engage]
+title: Skapar program i Adobe [!DNL Marketo Engage]
 description: Under den här sessionen får du lära dig allt om programstrukturen - Programtyper, Kanaler och status samt Taggar.
 solution: Marketo Engage
 role: User
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Skapa program i Adobe [!DNL Marketo Engage]
+# Skapar program i Adobe [!DNL Marketo Engage]
 
 Under den här sessionen får du lära dig allt om programstrukturen - Programtyper, Kanaler och status samt Taggar. Du får också lära dig mer om Foundation Program Concept och What Makes a Program.
 
-Du lämnar den här sessionen med en förståelse för hur du konfigurerar [!DNL Marketo Engage] instans för att tillgodose era affärsbehov på det mest effektiva sättet och för att skapa program för att köra e-post och webbinarier.
+Du lämnar den här sessionen med en förståelse för hur du konfigurerar [!DNL Marketo Engage]-instansen så att den uppfyller dina affärsbehov på det mest effektiva sättet och hur du skapar program för att köra e-post och webbinarier.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340308/?quality=12&learn=on)

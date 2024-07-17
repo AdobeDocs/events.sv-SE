@@ -18,13 +18,13 @@ Att leverera komplexa webbupplevelser snabbt är en utmaning. I det här samtale
 
 >[!VIDEO](https://video.tv.adobe.com/v/19296/?quality=9)
 
-*Levererat 1 juni 2016*
+*Levererad 1 juni 2016*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Joel Richard, Developer, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-gems-060116-web-performance.pdf)
 
@@ -32,7 +32,7 @@ Att leverera komplexa webbupplevelser snabbt är en utmaning. I det här samtale
 
 >[!WARNING]
 >
->AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar uppgradering till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns här [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar att du uppgraderar till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns på [sidan](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
 
 Apache:\
 [https://httpd.apache.org/docs/trunk/mod/mod_http2.html](https://httpd.apache.org/docs/trunk/mod/mod_http2.html)
@@ -52,7 +52,7 @@ Tredje part:\
 [https://www.ampproject.org/docs/reference/amp-img.html](https://www.ampproject.org/docs/reference/amp-img.html)\
 [https://www.appelsiini.net/projects/lazyload](https://www.appelsiini.net/projects/lazyload)
 
-JavaScript-prestanda:\
+JavaScript prestanda:\
 [https://gist.github.com/paulirish/5d52fb081b3570c81e3a](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)\
 [https://developers.google.com/web/tools/chrome-devtools/?hl=en](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
 

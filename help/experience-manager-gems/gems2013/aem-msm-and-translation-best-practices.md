@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Det här webbinariet undersöker skärningspunkten mellan MSM och översättning för flerspråkiga webbplatser. Vi tar upp de komplexa problem som översättning innebär, rekommendationer för webbplatsstruktur och en kort jämförelse av översättningskontakter och verktyg för olika användningsområden.
 
-**Presenteras av:**
+**Presenterad av:**
 
 Christine Duran, Sr Translation Technology Group Manager, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/20130731-adobe-msm-and-translation-best-practices.pdf)
 
@@ -31,4 +31,4 @@ Läs mer om metodtips i Adobe Experience Manager-dokumentationen:
 
 * [Bästa praxis för hantering av flera webbplatser](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
 * [Bästa praxis för översättning](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
-* [Återgå till Översikt](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Återgå till översikten](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

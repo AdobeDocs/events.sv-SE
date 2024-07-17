@@ -20,7 +20,7 @@ Detta är en fortsättning på förra årets session AEM Indexing och JCR Query.
 
 *Levererat 2018-08-22*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Thomas Mueller, Senior Software Engineer, Adobe
 

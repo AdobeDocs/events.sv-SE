@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager Forms Cloud Service - Säker digital registrering i flera kanaler
-description: Lär dig skapa moderna, säkra, moderna digitala registreringsupplevelser med Adobe Experience Manager Forms as a Cloud Service. Den här sessionen kommer att belysa bästa praxis när det gäller att skydda data som bearbetas i arbetsflöden, externalisera skickade data till Azure-lagring och samla in insikter med Adobe [!DNL Analytics] med Adaptiv Forms på molntjänster.
+description: Lär dig skapa moderna, säkra, moderna digitala registreringsupplevelser med Adobe Experience Manager Forms as a Cloud Service. Den här sessionen kommer att belysa de effektivaste strategierna för att skydda data som bearbetas i arbetsflöden, externalisera skickade data till Azure-lagring och samla in insikter med Adobe [!DNL Analytics] med Adaptive Forms i molntjänsten.
 solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
@@ -20,7 +20,7 @@ ht-degree: 4%
 
 Lär dig skapa moderna, säkra, moderna digitala registreringsupplevelser med Adobe Experience Manager Forms as a Cloud Service.
 
-Den här sessionen kommer att belysa bästa praxis när det gäller att skydda data som bearbetas i arbetsflöden, externalisera skickade data till Azure-lagring och samla in insikter med Adobe [!DNL Analytics] med Adaptiv Forms på molntjänster.
+Den här sessionen kommer att belysa bästa praxis när det gäller att skydda data som bearbetas i arbetsflöden, externalisera skickade data till Azure-lagring och samla in insikter med hjälp av Adobe [!DNL Analytics] med Adaptive Forms i molntjänsten.
 
 Vi kommer även att ta med en förhandsgranskning av vissa integreringar i vår färdplan, som Microsoft PowerAutomate och Teams-integrering med Adobe Experience Manager Forms.
 
@@ -30,6 +30,6 @@ Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/3C
 
 ## Ytterligare resurser
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform-dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Adobe Experience Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=sv)

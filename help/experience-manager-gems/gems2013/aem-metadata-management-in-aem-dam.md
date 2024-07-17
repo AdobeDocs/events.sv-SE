@@ -20,11 +20,11 @@ Lär dig hur AEM DAM hanterar metadata för resurser. Lär dig XMP och hur DAM a
 
 *Levererad 20 november 2013*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Ugo Cei, Developer Technical Marketing Manager, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/metadata-management-in-aem-dam.pdf)
 

@@ -20,12 +20,12 @@ Under den här sessionen kommer vi att presentera AEM 6.3-funktioner och bästa 
 
 *Levererad 25 oktober 2017*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Leandro Reis, Globalization Architect, Adobe Core Services\
-Mathias Siegel, produktchef, [!DNL AEM Sites], ADOBE
+Mathias Siegel, Sr Product Manager, [!DNL AEM Sites], Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/immerse-2017-translationpresentation-rev1.pdf)
 
@@ -33,6 +33,6 @@ Mathias Siegel, produktchef, [!DNL AEM Sites], ADOBE
 
 >[!WARNING]
 >
->AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar uppgradering till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns här [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar att du uppgraderar till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns på [sidan](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
 >
->Se vad som gäller denna session *AEM Sites Translation Documents*, *Dokumentation om bästa praxis för översättning* och *Hantera flerspråkiga resurser* i AEM 6.3-dokumentationen.
+>Vad det gäller den här sessionen kan du läsa *AEM Sites översättningsdokument*, *Dokumentation om översättningsmetoder* och *Hantera flerspråkiga Assets* i dokumentationen till AEM 6.3.

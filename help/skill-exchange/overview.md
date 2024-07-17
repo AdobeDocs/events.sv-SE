@@ -41,7 +41,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
       <img alt="Komma igång med Analytics" src="./assets/analytics-getting-started.png"/>
       </a>
       <div>
-         <a href="analytics/jun2021/getting-started.md"><strong>Adobe Analytics Getting Started</strong></a>
+         <a href="analytics/jun2021/getting-started.md"><strong>Adobe Analytics Komma igång</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>
@@ -67,7 +67,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
       <img alt="Tips för att imponera på din Workfront" src="./assets/workfront-10-tips.png"/>
       </a>
       <div>
-         <a href="workfront/apr2022/ten-tips.md"><strong>Tips för att imponera på din Workfront</strong></a>
+         <a href="workfront/apr2022/ten-tips.md"><strong>10 tips för att imponera på din Workfront</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>

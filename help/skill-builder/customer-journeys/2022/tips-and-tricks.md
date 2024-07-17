@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Plug in i er Adobe Campaign Standard-instans och upptäck de bästa metoderna för målinriktning, personalisering och utmattning av marknadsföring för att få en bättre användning av ACS. Den här sessionen kommer att vara interaktiv: Gör den här sessionen till din egen genom att fråga om funktioner/behov direkt till vår expert!
 
-*Laurent Valenza* Principal Solution Consultant / Adobe
+*Laurent Valenza* Principal Solution Consultant/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343828/?quality=12&learn=on)

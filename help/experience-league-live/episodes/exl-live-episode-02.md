@@ -23,5 +23,5 @@ Delta i en diskussion med tre Adobe-experter som har varit med om att ta med den
 
 >[!VIDEO](https://video.tv.adobe.com/v/336422/?quality=12&learn=on)
 
-Om du vill diskutera denna session går du till [diskussion i Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/questions-and-discussion-for-experience-league-live-ep-2-make/m-p/420645#M68){target="_blank"}.
+Om du vill diskutera den här sessionen går du till [diskussionen i Experience League-communityn](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/questions-and-discussion-for-experience-league-live-ep-2-make/m-p/420645#M68){target="_blank"}.
 

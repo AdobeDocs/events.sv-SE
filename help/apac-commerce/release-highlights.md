@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Adobe Commerce Roadmap Highlights
 
-Följ Ed Kennedy, Senior Product Marketing Manager för Adobe Commerce, och hör de senaste uppdateringarna om de viktigaste produktinvesteringarna i Adobe Commerce, inklusive Adobe Experience Platform Connector for Adobe Commerce, Intelligent Categories, API Mesh, App Builder, Blue/Green Deployment och AutoScaling.
+Följ Ed Kennedy, Senior Product Marketing Manager för Adobe Commerce, för att få höra de senaste uppdateringarna om de viktigaste produktinvesteringarna i Adobe Commerce, inklusive Adobe Experience Platform Connector for Adobe Commerce, Intelligent Categories, API Mesh, App Builder, Blue/Green Deployment och AutoScaling.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410838/?quality=12&learn=on)

@@ -26,6 +26,8 @@ Under den här sessionen kommer Jennafer Higgs, Jonathan Cabre och Malcom Benite
 
 De delar både Fusion- och icke-Fusion-automatisering, inklusive:
 
-・ Så här stänger du projekt automatiskt ・ Generering av undermallar ・ Konsoliderad granskning av godkända resurser
+・ Stänga projekt automatiskt
+・ Generering av undermallar
+・ Konsoliderad granskning av godkända tillgångar
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425812/?learn=on)

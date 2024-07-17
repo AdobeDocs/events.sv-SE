@@ -23,13 +23,13 @@ Vissa kunder förlitar sig fortfarande på det klassiska användargränssnittet 
 
 >[!VIDEO](https://video.tv.adobe.com/v/27322?quality=9)
 
-*Levererat 2008-05-19*
+*Levererat 2019-05-08*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Bryan Stopp, AEM Technical Architect, Adobe
 * Gilles Knobloch, Senior Engineering Manager, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/modernization-toolsaemgems.pdf)

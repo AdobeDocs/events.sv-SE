@@ -1,6 +1,6 @@
 ---
 title: Förberedelse av högsäsong
-description: I nästa avbetalning av APAC Commerce Webinar Series som fokuserar på att förbereda verksamheten för högsäsong. Förberedelser är avgörande för framgång och i det här webbinariet visar vi dig de bästa sätten att utnyttja Adobe Commerce för att maximera försäljning och resultat under denna viktiga handelsperiod (eller andra säljtillfällen som ditt företag kan uppleva under hela året).
+description: I nästa avbetalning av APAC-serien kommer Commerce Webinar Series att fokusera på att förbereda din verksamhet för högsäsong. Förberedelser är avgörande för framgång och i det här webbinariet visar vi dig de bästa sätten att utnyttja Adobe Commerce för att maximera försäljning och resultat under denna viktiga handelsperiod (eller andra säljtillfällen som ditt företag kan uppleva under hela året).
 solution: Commerce
 feature: Best Practices
 topic: Performance
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 # Förberedelse av högsäsong
 
-I nästa avbetalning av APAC Commerce Webinar Series som fokuserar på att förbereda verksamheten för högsäsong. Förberedelser är avgörande för framgång och i det här webbinariet visar vi dig de bästa sätten att utnyttja Adobe Commerce för att maximera försäljning och resultat under denna viktiga handelsperiod (eller andra säljtillfällen som ditt företag kan uppleva under hela året).
+I nästa avbetalning av APAC-serien kommer Commerce Webinar Series att fokusera på att förbereda din verksamhet för högsäsong. Förberedelser är avgörande för framgång och i det här webbinariet visar vi dig de bästa sätten att utnyttja Adobe Commerce för att maximera försäljning och resultat under denna viktiga handelsperiod (eller andra säljtillfällen som ditt företag kan uppleva under hela året).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423983/?learn=on)

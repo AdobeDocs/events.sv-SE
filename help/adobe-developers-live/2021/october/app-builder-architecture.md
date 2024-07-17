@@ -1,5 +1,5 @@
 ---
-title: App Builder-arkitektur och Technical Deep Drive
+title: App Builder arkitektur och tekniska djupdykning
 description: Läs mer om App Builder när vi går igenom programarkitekturen i App Builder-appar som utökar Adobe Experience Manager.
 solution: Experience Manager
 feature: Developer Tools
@@ -18,7 +18,7 @@ ht-degree: 8%
 
 ---
 
-# App Builder-arkitektur och Technical Deep Drive
+# App Builder arkitektur och tekniska djupdykning
 
 Läs mer om App Builder när vi går igenom programarkitekturen i App Builder-appar som utökar Adobe Experience Manager.
 
@@ -28,6 +28,6 @@ Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/3u
 
 ## Ytterligare resurser
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform-dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Adobe Experience Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=sv)

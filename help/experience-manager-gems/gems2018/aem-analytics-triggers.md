@@ -21,11 +21,11 @@ Kombinera kraften i händelsestyrd arkitektur och mönsterigenkänning av kundbe
 
 *Levererad 27 juni 2018*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Sarah Xu, Developer Evangelist, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/gems+6+27+18+adobe+io+analytics+triggers.pdf)
 
@@ -35,7 +35,7 @@ Sarah Xu, Developer Evangelist, Adobe
 
 >[!MORELIKETHIS]
 >
->* [Solera som ett ekindexvärde för AEM](solr-as-an-oak-index-for-aem.md)
+>* [Lås som ett Oak-index för AEM](solr-as-an-oak-index-for-aem.md)
 >* [Låsa upp mer kraftfull tillgångsanalys med AEM 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
 
 <!-- this link is broken: >* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html) 

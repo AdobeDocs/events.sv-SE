@@ -1,5 +1,5 @@
 ---
-title: Fråga experten - Följ upp Workfront Proof Best Practices
+title: Fråga experten - Följ upp Workfront Proof bästa praxis
 description: Lär dig varför du bör använda automatiska arbetsflödesmallar, hur du skapar dem och hur du justerar korrekturinställningar för att säkerställa sekretess. Det här webbinariet spelades in den 4 mars 2020.
 doc-type: feature video
 team: Technical Marketing
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Fråga experten - Följ upp Workfront Proof Best Practices
+# Fråga experten - Följ upp Workfront Proof bästa praxis
 
 Lär dig varför du bör använda automatiska arbetsflödesmallar, hur du skapar dem och hur du justerar korrekturinställningar för att säkerställa sekretess. Det här webbinariet spelades in den 4 mars 2020.
 
@@ -43,7 +43,7 @@ I det här fallet överför designern dokumentet, men kontohanteraren genererar 
 
 **Svar**
 
-Om du ställer in Designer på en åtkomstnivå för arbete eller plan i Workfront får de en korrekturlicens. Om korrekturlicensen är inställd på Administratör eller Administratör kan de skapa nya versioner av korrektur utan att behöva ta det manuella steget att låta Kontohanteraren konvertera den nya versionen och använda ett arbetsflöde. Den nya versionen kommer bara att anta arbetsflödet från den tidigare versionen (och kan även ändras nu).
+Om du konfigurerar Designer med en åtkomstnivå för arbete eller plan i Workfront får de en korrekturlicens. Om korrekturlicensen är inställd på Administratör eller Administratör kan de skapa nya versioner av korrektur utan att behöva ta det manuella steget att låta Kontohanteraren konvertera den nya versionen och använda ett arbetsflöde. Den nya versionen kommer bara att anta arbetsflödet från den tidigare versionen (och kan även ändras nu).
 
 **Fråga**
 
@@ -83,7 +83,7 @@ Kan du redigera befintliga arbetsflöden?
 
 **Svar**
 
-Ja, du vill navigera till Workfront Proof och sedan välja Arbetsflöden på den vänstra menyn. Där kan du redigera faser, lägga till användare, ta bort användare, lägga till faser osv.
+Ja, du vill navigera till Workfront Proof och sedan välja Arbetsflöden från den vänstra menyn. Där kan du redigera faser, lägga till användare, ta bort användare, lägga till faser osv.
 
 **Fråga**
 

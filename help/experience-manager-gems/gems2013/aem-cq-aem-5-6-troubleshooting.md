@@ -20,11 +20,11 @@ Under det här seminariet kommer vi att ge riktlinjer för hur man felsöker ett
 
 *Levererad 2 oktober 2013*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Thierry Yge, Senior Support Engineer, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/gems-cq-troubleshoot-ppt-2.pdf)
 

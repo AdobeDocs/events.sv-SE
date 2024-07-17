@@ -1,6 +1,6 @@
 ---
 title: Mallar, tokens och teamwork - Gör innehållet skalbart
-description: Läs om hur du använder variabler och mallar i [!DNL Marketo Engage]. Tips om hur du får ut det mesta av ditt befintliga innehållsbibliotek.
+description: Läs om hur du använder variabler och mallar i  [!DNL Marketo Engage]. Tips om hur du får ut det mesta av ditt befintliga innehållsbibliotek.
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# Mallar, tokens och teamwork - Skapa Adobe [!DNL Marketo Engage] skalbar
+# Mallar, tokens och teamwork - Gör ditt [!DNL Marketo Engage]-innehåll i Adobe skalbart
 
-Att skapa innehåll för era marknadsföringsprogram är en långdragen kompromiss. Genom att använda mallar och variabler kan ni skapa skalbara processer i olika team och uppnå mer med mindre [!DNL Marketo Engage]. Lyssna på Lauren McCormack, en prisbelönt marknadsledare - och 2 gånger Adobe [!DNL Marketo Engage] Champion - när hon delar med sig av sina många år av visdom för att skapa [!DNL Marketo Engage] innehåll skalbart.
+Att skapa innehåll för era marknadsföringsprogram är en långdragen kompromiss. Genom att använda mallar och tokens kan du skapa skalbara processer mellan team och uppnå mer med mindre i [!DNL Marketo Engage]. Lyssna på Lauren McCormack, en prisbelönt marknadsledare - och 2x Adobe [!DNL Marketo Engage] Champion - när hon delar med sig av sina många visuella år för att göra ditt [!DNL Marketo Engage] -innehåll skalbart.
 
 Läs mer om:
 

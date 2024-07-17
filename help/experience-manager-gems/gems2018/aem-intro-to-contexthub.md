@@ -18,9 +18,9 @@ Presentationen täcker ContextHub-arkitekturen på hög nivå med några djupdyk
 
 >[!VIDEO](https://video.tv.adobe.com/v/23839/?quality=9)
 
-*Levererat den 19 september 2018*
+*Levererat 2018-09-19*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Artur Kudlacz, Developer, Adobe
 

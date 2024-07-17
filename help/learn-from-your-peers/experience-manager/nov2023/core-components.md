@@ -27,7 +27,8 @@ Förbered dig för att dyka i,
 
 * Snabbare webbutveckling och lägre underhållskostnader med kärnkomponenterna i Web Content Management (WCM)
 * En live-demonstration som visar hur du omvandlar en teaserkomponent till en kortliknande komponent med flera designvarianter
-* Bästa tillvägagångssätt för optimering av Style Systems *En stegvis demonstration av hur ni kan driftsätta gränssnittsändringar effektivt med hjälp av frontendriet
+* Bästa tillvägagångssätt för optimering av dina stilsystem
+*En stegvis demonstration av hur man driftsätter gränssnittsändringar effektivt med hjälp av pipeline i frontend-läget
 
 Du kommer åt presentationsbilderna [här](/help/learn-from-your-peers/assets/experience-manager/sept2023/aem-core-components.pdf).
 

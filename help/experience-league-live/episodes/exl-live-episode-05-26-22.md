@@ -21,7 +21,7 @@ I det första av de tre sessionerna om insamling av data för Adobe Experience C
 
 >[!VIDEO](https://video.tv.adobe.com/v/343335/?quality=12&learn=on)
 
-**Fortsätt diskussionen** i [Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-the-basics-of-web/m-p/454159#M283){target="_blank"}!
+**Fortsätt diskussionen** i [Experience League-communityn](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-the-basics-of-web/m-p/454159#M283){target="_blank"}!
 
 ## Ytterligare Experience League LIVE-sessioner från den här datainsamlingsserien
 
@@ -30,11 +30,11 @@ I det första av de tre sessionerna om insamling av data för Adobe Experience C
 
 ### Några praktiska länkar
 
-* [Självstudiekurs: Implementera Adobe Experience Cloud med Web SDK](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html){target="_blank"}
+* [Självstudie: Implementera Adobe Experience Cloud med Web SDK](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html){target="_blank"}
 * [Automatiskt insamlad information i Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
 * [Kostnadsfri etablering av Web SDK](https://adobe.ly/websdkaccess){target="_blank"}
-* [Information om enhets-ID:n för första part i Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
-* [Översikt och nedladdning för Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
+* [Information om enhets-ID för första part i Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
+* [Adobe Experience Platform Debugger - översikt och hämtning](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
 * [Mobile SDK Docs](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
-* [Information om insamling av hybridappar](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
+* [Samlingsinformation för hybrida appar](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
 

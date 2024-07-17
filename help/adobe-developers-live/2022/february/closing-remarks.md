@@ -1,6 +1,6 @@
 ---
 title: Avslutande kommentarer
-description: Stänga Adobe Developers Live Commerce med Sr. Director, produktchef Chris Hedge.
+description: Stänga av Adobe Developers Live Commerce med Sr. Director, Product Management Chris Hedge.
 role: User
 level: Beginner
 kt: 9787
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Avslutande kommentarer
 
-Stänga Adobe Developers Live Commerce med Sr. Director, produktchef Chris Hedge.
+Stänga av Adobe Developers Live Commerce med Sr. Director, Product Management Chris Hedge.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340625/?quality=12&learn=on)

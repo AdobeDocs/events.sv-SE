@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Datakvalitet och införande i [!DNL Analytics]
 
-Företag har identifierat data som en viktig faktor för framtida affärsframgångar. För att lyckas med detta krävs en hög nivå av datakvalitet och en anpassning av en mogen datahög. Lär dig hur du kan skapa datakvalitet i alla delar av [!DNL Adobe Analytics] och skapa en gemensam kultur kring den.
+Företag har identifierat data som en viktig faktor för framtida affärsframgångar. För att lyckas med detta krävs en hög nivå av datakvalitet och en anpassning av en mogen datahög. Lär dig hur du kan skapa datakvalitet i alla delar av [!DNL Adobe Analytics] och skapa en delad kultur runt den.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414203/?quality=12&learn=on)

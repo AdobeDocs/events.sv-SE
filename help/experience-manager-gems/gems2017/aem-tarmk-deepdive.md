@@ -22,7 +22,7 @@ Har du någonsin undrat vad som finns i Tjärs tjärfiler? Vad är ett segment o
 
 **Michael Duerig, Senior Developer, Adobe**
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-gems-tarmk-deep-dive.pptx)
 

@@ -18,9 +18,9 @@ Läs om hur enkelt det är att utveckla OSGi-paket och -tjänster för AEM. Den 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19654/?quality=9)
 
-*Levererat 6 september 2017*
+*Levererad 6 september 2017*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Carsten Ziegeler, forskningschef, Adobe
 
@@ -29,7 +29,7 @@ Karl Pauls, Computer Scientist, Adobe
 Chattexpert:\
 David Bosschaert, Senior Software Engineer, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-gems-osgi-best-practices-090617.pdf)
 

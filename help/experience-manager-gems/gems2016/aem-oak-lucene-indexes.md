@@ -20,12 +20,12 @@ Vi beskriver funktionerna i Oak Lucene-index och hur de kan användas för att f
 
 *Levererad 20 januari 2016*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Chetan Mehrotra, Senior Computer Scientist, Adobe
 * Alex Parvulescu, Senior Developer, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-gems-012016-oak-lucene-indexes-async-local.pdf)
 
@@ -37,8 +37,8 @@ Vi beskriver funktionerna i Oak Lucene-index och hur de kan användas för att f
 
 >[!WARNING]
 >
->AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar uppgradering till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns här [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar att du uppgraderar till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns på [sidan](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
 >
->Se vad som gäller denna session *Fråga och indexering* i AEM 6.1-dokumentationen.
+>Se *Oak Queries and Indexing* i dokumentationen för AEM 6.1 eftersom det gäller den här sessionen.
 
-* [Oak Documentation: Lucene Index](https://jackrabbit.apache.org/oak/docs/query/lucene.html)
+* [Oak-dokumentation: Lucene-index](https://jackrabbit.apache.org/oak/docs/query/lucene.html)

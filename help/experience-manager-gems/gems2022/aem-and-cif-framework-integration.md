@@ -28,11 +28,11 @@ Det här webbinariet ägde rum den 27 april 2022 och presenterades av Kunal Gaba
 
 >[!MORELIKETHIS]
 >
->* [Motsvarande Adobe Experience Manager User Group Event-sida](https://adobe.ly/3O0uXl5/)
+>* [Motsvarande händelsesida för Adobe Experience Manager-användargrupp](https://adobe.ly/3O0uXl5/)
 >* [Motsvarande sammanhangsberoende tråd](https://adobe.ly/3jorz5r)
->* Registrera dig på [AdobeAEM User Group](https://aem-augs.adobe.com/) för att få meddelanden om kommande webbinarier.
+>* Registrera dig på [Adobe AEM User Group](https://aem-augs.adobe.com/) om du vill få meddelanden om kommande webbinarier.
 
-**Högnivåagenda:**
+**Dagordning på hög nivå:**
 
 * Vad är CIF och varför använda CIF?
 

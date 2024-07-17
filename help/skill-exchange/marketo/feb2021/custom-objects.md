@@ -17,6 +17,8 @@ ht-degree: 0%
 
 # En topprope-dykning i anpassade objekt och hastighet
 
-En-till-många-relationsdata plus en tidstestad mallmotor; den perfekta taggruppen för avancerat e-postinnehåll. Lär dig mer om CO-schemadesign, sortering, filtrering och aggregering av CO-poster, identifiering av postuppdateringar och integrering av pseudo-CO med JSON. Vi kommer även att ta upp allmänna snabbhetsuppgifter som lokalisering av datum, tider och valutor.
+En-till-många-relationsdata plus en tidstestad mallmotor; den perfekta taggruppen för avancerat e-postinnehåll. Lär er strategi för CO
+schemadesign, sortering, filtrering och aggregering av CO-poster, identifiering av postuppdateringar och integrering av pseudo-CO:er med JSON. Vi ska
+omfattar även allmänna snabbhetsuppgifter som lokalisering av datum, tider och valutor.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340313/?quality=12&learn=on)

@@ -18,14 +18,14 @@ Följ med Gabriel Walt och Justin Edelson för att få en titt på vad vi har ar
 
 >[!VIDEO](https://video.tv.adobe.com/v/19305/?quality=9)
 
-*Levererat 13 april 2016*
+*Levererad 13 april 2016*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Gabriel Walt, Product Manager, Adobe
 * Justin Edelson, Experience Architect &amp; Evangelist, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-gems-041316-6-2-tech-preview.pdf)
 <!--

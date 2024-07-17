@@ -18,19 +18,19 @@ AEM är ganska självständiga, men vi på AT/AAM/AA-konsulter som arbetar med A
 
 >[!VIDEO](https://video.tv.adobe.com/v/19833/?quality=9)
 
-*Levererat 27 september 2017*
+*Levererad 27 september 2017*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Jan Exner, mars Management Consultant, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/170927-aem-gems-integrations.pdf)
 
 ## Relaterade länkar {#related-links}
 
-[Web Analytics för utvecklare](https://webanalyticsfordevelopers.com/)
+[Webbanalys för utvecklare](https://webanalyticsfordevelopers.com/)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

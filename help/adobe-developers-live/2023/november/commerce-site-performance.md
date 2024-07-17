@@ -1,6 +1,6 @@
 ---
-title: Strategier för att optimera er Commerce-webbplats
-description: Öka er handelsupplevelse - Delta i vår presentation om strategier för optimering av webbplatsens prestanda. Upptäck tekniker och metodtips för att förbättra hastighet, svarstider och kundnöjdhet och driva onlineverksamheten framåt.
+title: Strategier för optimering av prestanda på Commerce webbplats
+description: Förbättra din Commerce-upplevelse - Delta i vår presentation av strategier för optimering av webbplatsens prestanda. Upptäck tekniker och metodtips för att förbättra hastighet, svarstider och kundnöjdhet och driva onlineverksamheten framåt.
 solution: Commerce
 feature-set: Commerce
 feature: Site Management
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# Strategier för att optimera er Commerce-webbplats
+# Strategier för optimering av prestanda på Commerce webbplats
 
-Öka er handelsupplevelse - Delta i vår presentation om strategier för optimering av webbplatsens prestanda. Upptäck tekniker och metodtips för att förbättra hastighet, svarstider och kundnöjdhet och driva onlineverksamheten framåt.
+Förbättra din Commerce-upplevelse - Delta i vår presentation av strategier för optimering av webbplatsens prestanda. Upptäck tekniker och metodtips för att förbättra hastighet, svarstider och kundnöjdhet och driva onlineverksamheten framåt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426314/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Innehåll och handel med Adobe Experience Manager as a Cloud Service
-description: Denna session hjälper utvecklare att komma igång med Commerce på Adobe Experience Manager as a Cloud Service - från den lokala konfigurationen av Adobe Experience Manager SDK + Commerce integration framework till Adobe Experience Manager & Magento i molnet. Den här sessionen skapades som en del av Adobe Developers Live Content Event.
+title: Innehåll och Commerce med Adobe Experience Manager as a Cloud Service
+description: Under den här sessionen kan utvecklare komma igång med Commerce i Adobe Experience Manager as a Cloud Service - från den lokala konfigurationen av Adobe Experience Manager SDK + Commerce integration framework till Adobe Experience Manager & Magento i molnet. Den här sessionen skapades som en del av Adobe Developers Live Content Event.
 solution: Experience Manager,Experience Manager Sites, Commerce
 product: experience manager
 sub-product: sites
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 ---
 
-# Innehåll och handel med Adobe Experience Manager as a Cloud Service
+# Innehåll och Commerce med Adobe Experience Manager as a Cloud Service
 
-Denna session hjälper utvecklare att komma igång med Commerce på Adobe Experience Manager as a Cloud Service - från den lokala konfigurationen av Adobe Experience Manager SDK + Commerce integration framework till Adobe Experience Manager &amp; Magento i molnet.
+Under den här sessionen kan utvecklare komma igång med Commerce i Adobe Experience Manager as a Cloud Service - från den lokala konfigurationen av Adobe Experience Manager SDK + Commerce integration framework till Adobe Experience Manager &amp; Magento i molnet.
 
 Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 

@@ -22,4 +22,4 @@ ht-degree: 0%
 >[!NOTE]
 >
 >* Information om kommande sessioner kommer att följa efter i början av november 2022.
->* Registrera dig på [AdobeAEM User Group](https://aem-augs.adobe.com/) för att få meddelanden om kommande webbinarier automatiskt.
+>* Registrera dig på [Adobe AEM User Group](https://aem-augs.adobe.com/) om du vill få meddelanden om kommande webbinarier automatiskt.

@@ -1,8 +1,8 @@
 ---
 title: Hantera datauppsättningar i Commerce Intelligence
-description: Titta på det här webbinariet och lär dig mer om några av de kraftfulla funktionerna i Commerce Intelligence Data Warehouse Manager.
-landing-page-description: Titta på det här webbinariet och lär dig mer om några av de kraftfulla funktionerna i Commerce Intelligence Data Warehouse Manager.
-short-description: Titta på det här webbinariet och lär dig mer om några av de kraftfulla funktionerna i Commerce Intelligence Data Warehouse Manager.
+description: Titta på det här webbinariet och lär dig mer om de kraftfulla funktionerna i Commerce Intelligence Data Warehouse Manager.
+landing-page-description: Titta på det här webbinariet och lär dig mer om de kraftfulla funktionerna i Commerce Intelligence Data Warehouse Manager.
+short-description: Titta på det här webbinariet och lär dig mer om de kraftfulla funktionerna i Commerce Intelligence Data Warehouse Manager.
 kt: 10410
 solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
@@ -33,5 +33,5 @@ Under det här inspelade webbinariet får du lära dig att beräkna avkastningen
 
 ## Användbara resurser
 
-[Demo av Data Warehouse Manager](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
+[En rundtur i Data Warehouse Manager](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
 [Koppla samman data](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

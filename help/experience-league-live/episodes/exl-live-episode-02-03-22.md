@@ -1,6 +1,6 @@
 ---
 title: Alla nya referensdemonstrationer i AEM
-description: Lär dig det snabbaste sättet att etablera, demonstrera och utforska funktioner som AEM as a Cloud Service med tillägget Reference Demos.
+description: Lär dig det snabbaste sättet att etablera, demonstrera och utforska AEM as a Cloud Service funktioner med tillägget Reference Demos.
 solution: Experience Manager
 event-cta-url: https://youtu.be/FEREXV826NQ
 event-start-time: 2022-02-03 09:00-8
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Lär dig det snabbaste sättet att tillhandahålla, demonstrera och utforska funktioner i AEM as a Cloud Service
 
-Med AEM Reference Demos Add-On kan du enkelt skapa sandlådemiljöer som är förinlästa med exempelinnehåll och förkonfigurerade med hjälp av de senaste Adobe-riktlinjerna för bästa praxis. Med tillägget kan du enkelt utvärdera AEM funktioner i sitt sammanhang och utan att behöva göra någon konfiguration alls. Demonstrationerna omfattar Sites, SPA Editor, Commerce och avancerade funktioner i Assets.
+Med AEM Reference Demos Add-On kan du enkelt skapa sandlådemiljöer som är förinlästa med exempelinnehåll och förkonfigurerade med hjälp av de senaste Adobe-riktlinjerna för bästa praxis. Med tillägget kan du enkelt utvärdera AEM funktioner i sitt sammanhang och utan att behöva göra någon konfiguration alls. Demonstrationerna innehåller Sites, SPA Editor, Commerce och avancerade funktioner i Assets.
 
 Delta i en live presentation och demo med Adobe Product Manager Hyman Chung och CTO Ruben Reusser.
 

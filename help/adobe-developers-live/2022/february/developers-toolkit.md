@@ -1,5 +1,5 @@
 ---
-title: En titt på en Commerce Developer's Toolkit
+title: En titt på Commerce Developer's Toolkit
 description: Omfattar ämnen som lokal utvecklingsmiljö, felsökning och profileringsverktyg, användning av New Relic i en produktionsmiljö samt testning.
 role: Developer
 level: Beginner
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# En titt på en Commerce Developer&#39;s Toolkit
+# En titt på Commerce Developer&#39;s Toolkit
 
 När det gäller att leverera framgångsrika resultat om flexibla och därför komplexa ramverk som Adobe Commerce och Magento med öppen källkod är det av största vikt att utvecklingsteamen använder rätt verktyg för jobbet. I det här samtalet ska vi gå igenom verktyg som jag har funnit användbara i min karriär som utvecklare av Magento. Vi kommer att behandla ämnen som lokal utvecklingsmiljö, felsökning och profileringsverktyg, dra nytta av New Relic i en produktionsmiljö, testning osv. Vi ska titta på några exempel på hur dessa verktyg kan göra utvecklarnas liv i en redan komplex miljö enklare!
 

@@ -20,9 +20,9 @@ Lär dig de bästa sätten kring de omfattande konfigurationerna och användning
 
 >[!VIDEO](https://video.tv.adobe.com/v/27087/?quality=9)
 
-*Levererat 2019-04-17*
+*Levererat 19-04-17*
 
-**Presenteras av:**
+**Presenterad av:**
 
  Bansal, datavetenskap, Adobe
 

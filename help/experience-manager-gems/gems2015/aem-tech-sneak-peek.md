@@ -20,11 +20,11 @@ Ta en titt på vad vi har arbetat med för nästa generation av Adobe Experience
 
 *Levererad 21 januari 2015*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Gabriel Walt, Product Manager, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-technical-sneak-peek.pdf)
 <!--

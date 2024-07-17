@@ -1,6 +1,6 @@
 ---
-title: AEM as a Cloud Service - 2021 review and 2022 Outlook
-description: Se ett AEM GEM:s webbinarium om AEM as a Cloud Service 2021. Få även en översikt över vad som finns i butik för 2022.
+title: AEM as a Cloud Service - 2021 års granskning och 2022 års översikt
+description: Se ett AEM GEM:s webbinarium om en granskning av AEM as a Cloud Service 2021. Få även en översikt över vad som finns i butik för 2022.
 solution: Experience Manager
 feature-set: Experience Manager
 version: Cloud Service
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Detta AEM GEM:s webbinarium kommer att innehålla följande:
 
-Under den här sessionen ska vi först granska de viktigaste ändringarna av Adobe Experience Manager (AEM) as a Cloud Service 2021 och några av nyckelmätningarna. Vi kommer också att tala om de kommande förändringar som planeras för 2022.
+Under den här sessionen ska vi först granska de viktigaste förändringarna i Adobe Experience Manager (AEM) as a Cloud Service 2021 och några viktiga mätvärden. Vi kommer också att tala om de kommande förändringar som planeras för 2022.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341444/?quality=12&learn=on)
 
@@ -31,6 +31,6 @@ Det här webbinariet ägde rum den 25 januari 2022 och presenterades av Bertrand
 
 >[!MORELIKETHIS]
 >
->* [Motsvarande Adobe Experience Manager User Group Event-sida](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
+>* [Motsvarande händelsesida för Adobe Experience Manager-användargrupp](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
 >* [Motsvarande sammanhangsberoende tråd](https://adobe.ly/3rqbSOz)
->* Registrera dig på [AdobeAEM User Group](https://aem-augs.adobe.com/) för att få meddelanden om kommande webbinarier.
+>* Registrera dig på [Adobe AEM User Group](https://aem-augs.adobe.com/) om du vill få meddelanden om kommande webbinarier.

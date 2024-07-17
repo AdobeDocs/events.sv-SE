@@ -21,13 +21,13 @@ SKill Builder är en webbinärserie som utformats för att bygga upp din kunskap
   <td>
     <img alt="Content and Commerce" src="assets/commerce.png" />
     <div>
-      <strong>Innehåll och handel</strong>
+      <strong>Innehåll och Commerce</strong>
     </div>
     <p>
-    <em>Skapa och hantera en rad engagerande webbplatser, mobilappar och formulär. Lär dig också att bygga flerkanalsupplevelser på en enda plattform med vår flexibla AI-baserade handelslösning.</em>
+    <em>Skapa och hantera en rad engagerande webbplatser, mobilappar och formulär. Lär dig även att skapa flerkanalsupplevelser för e-handel på en enda plattform med vår flexibla AI-baserade e-handelslösning.</em>
     <p>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bläddra bland sessioner</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bläddra bland sessioner </span>
     </a>
   </td>
   <td>
@@ -36,10 +36,10 @@ SKill Builder är en webbinärserie som utformats för att bygga upp din kunskap
       <strong>Kundresor</strong>
     </div>
     <p>
-    <em>Utveckla kundprofiler i realtid genom att hämta data från alla källor för att skapa personaliserade flerkanalsresor.</em>
+    <em>Utveckla kundprofiler i realtid genom att hämta data från alla källor för att skapa personaliserade, kanalövergripande kundresor.</em>
     <p>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bläddra bland sessioner</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bläddra bland sessioner </span>
     </a>
   </td>
   <td>
@@ -48,10 +48,10 @@ SKill Builder är en webbinärserie som utformats för att bygga upp din kunskap
       <strong>Data och insikter</strong>
     </div>
     <p>
-    <em>Driv personalisering i realtid i alla kanaler med hjälp av insikter om online- och offlinedata i hela organisationen.</em>
+    <em>Driv personalisering i realtid i valfri kanal med hjälp av insikter om online- och offlinedata i hela organisationen.</em>
     <p>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bläddra bland sessioner</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bläddra bland sessioner </span>
     </a>
   </td>  
 </tr>

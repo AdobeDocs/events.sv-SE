@@ -1,6 +1,6 @@
 ---
 title: Marketo Engage Rockstars
-description: Tre"Rockstar"-kunder kommer var och en att presentera sina bästa [!DNL Marketo Engage] tips eller trick. Vem ska imponera på dig? Titta och rösta i realtid.
+description: Tre"Rockstar"-kunder kommer att presentera sitt bästa [!DNL Marketo Engage] tips eller trick. Vem ska imponera på dig? Titta och rösta i realtid.
 solution: Marketo Engage
 role: User
 level: Intermediate, Experienced
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # [!DNL Marketo Engage] Rockstars
 
-Tre&quot;Rockstar&quot;-kunder kommer var och en att presentera sina bästa [!DNL Marketo Engage] tips eller trick. Vem ska imponera på dig? Titta och rösta i realtid.
+Tre&quot;Rockstar&quot;-kunder kommer att presentera sitt bästa [!DNL Marketo Engage]-tips eller -trick. Vem ska imponera på dig? Titta och rösta i realtid.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342559/?quality=12&learn=on)

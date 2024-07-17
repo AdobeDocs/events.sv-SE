@@ -22,12 +22,12 @@ Lär dig det senaste och bästa (NYA) sättet att migrera Adobe Analytics till W
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428791/?quality=12&learn=on)
 
-**Information**: Under den här sessionen får du lära dig det senaste och bästa (NYA) sättet att migrera Adobe Analytics till Web SDK. Detta gör att du kan använda de nya, snabbare biblioteken, massor av nya funktioner och framtidssäkra implementeringen när du vill använda Adobe Experience Platform, samtidigt som du enkelt skickar data till Adobe Analytics (och Target och AAM).
+**Information**: Lär dig det senaste och bästa (NYA) sättet att migrera Adobe Analytics till Web SDK. Detta gör att du kan använda de nya, snabbare biblioteken, massor av nya funktioner och framtidssäkra implementeringen när du vill använda Adobe Experience Platform, samtidigt som du enkelt skickar data till Adobe Analytics (och Target och AAM).
 
 Vi konfigurerar en dataström i kanten och installerar och konfigurerar Web SDK-tillägget i egenskapen Tags. Vi visar hur du migrerar olika regeltyper från Analytics-tillägget till Web SDK.
 
-Om du vill ställa frågor eller ha kontakt med Adobe och kollegor kan du besöka [Diskussion om Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538){target="_blank"}.
+Om du vill ställa frågor eller ha ett gränssnitt med experter från Adobe samt dina kollegor kan du gå till [Experience League Community-diskussionen](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538){target="_blank"}.
 
 Mer information finns i [Implementera Adobe Analytics med Adobe Experience Platform Web SDK](https://experienceleague.adobe.com/en/docs/analytics/implementation/aep-edge/web-sdk/overview).
 
-Delta i en kommande **webbinarium om strategiska steg för implementering av Web SDK**, registrera [HÄR](https://engage.adobe.com/step_by_step_guide_implement.html).
+Om du vill delta i ett kommande **webbinarium om strategiska steg för implementering av Web SDK** registrerar du [HERE](https://engage.adobe.com/step_by_step_guide_implement.html).

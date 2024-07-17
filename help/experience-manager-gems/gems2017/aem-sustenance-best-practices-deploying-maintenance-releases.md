@@ -20,12 +20,12 @@ Följ oss för att få veta de bästa sätten att driftsätta AEM underhållsrel
 
 *Levererad 28 juni 2017*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Gurpreet Singh Bhatia, Lead Software Engineer, AEM Sustaining Engineering, Adobe
 * Karanjeet Singh, Senior Software Engineer, AEM Sustaining Engineering, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-sustenance-best-practices-gems.pdf)
 <!--

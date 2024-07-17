@@ -18,13 +18,13 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19467/?quality=9)
 
-*Levererat 10 september 2014*
+*Levererad 10 september 2014*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Anthony Rumsey, Computer Scientist, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/9-10-2014-delivering-managed-content-to-your-native-apps.pdf)
 <!--

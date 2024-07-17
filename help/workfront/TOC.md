@@ -22,7 +22,7 @@ ht-degree: 0%
    + [Workfront System Maintenance](user-groups/workfront-system-maintenance.md)
 + Agile {#agile}
    + [Agile in Marketing](user-groups/agile-in-marketing.md)
-+ Rapportering och kontrollpaneler {#reporting-and-dashboards}
++ Rapportering och instrumentpaneler {#reporting-and-dashboards}
    + [Avancerad rapportering](user-groups/advanced-reporting.md)
    + [Kreativa myndigheter: Rapporter och kontrollpaneler](user-groups/creative-agencies-reporting-and-dashboards.md)
    + [Mätningskvalitet och engagemang](webinars/gauging-quality-and-engagement.md)
@@ -40,11 +40,11 @@ ht-degree: 0%
 + Tidrapporter {#timesheets}
    + [Använda tidrapporter i Workfront](user-groups/utilizing-timesheets-in-workfront.md)
 + Workfront Proof {#workfront-proof}
-   + [De bästa sätten att maximera Workfront-korrektur](webinars/best-practices-to-maximize-workfront-proof.md)
-   + [Följ upp Workfront Proof Best Practices](webinars/follow-up-to-workfront-proof-best-practices.md)
+   + [De bästa sätten att maximera Workfront Proof](webinars/best-practices-to-maximize-workfront-proof.md)
+   + [Följ upp Workfront Proof bästa praxis](webinars/follow-up-to-workfront-proof-best-practices.md)
    + [Reklambyråer: Workfront Proof](user-groups/creative-agencies-workfront-proof.md)
    + [Utnyttja Workfront Proof](user-groups/leveraging-workfront-proof.md)
-+ Begär köer och indata {#request-queues-and-intake}
++ Begär köer och intag {#request-queues-and-intake}
    + [Begär köer och ta in Forms](user-groups/request-queues-and-intake-forms.md)
 + Utgåvor {#releases}
    + [24.1 Utgåva](webinars/24-1-release-webinar.md)

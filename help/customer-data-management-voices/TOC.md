@@ -4,7 +4,7 @@ user-guide-breadcrumb: Customer Data Management Voices
 user-guide-description: Målet för hantering av kunddata för teknikern och marknadsföringsledaren samt specialisten
 source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -20,12 +20,12 @@ ht-degree: 0%
    + [Utvecklar ditt högteknologiska målgruppscenter](cdm/evolving-your-audience-center-of-excellence.md)
    + [Skapa bättre upplevelser med kundprofiler](cdm/building-better-experiences-with-customer-profiles.md)
    + [Hur marknadsföringsteamen förbättrar datahanteringsstrategier](cdm/how-marketing-teams-are-improving-data-management-strategies.md)
-+ Målgrupps- och profildatastyrning och sekretess {#governance}
-   + [10 saker att tänka på när det gäller ansvarstagande kunddatahantering](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
-   + [Öka markörens roll som en dataförvaltare](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
++ Styrning av målgrupps- och profildata och sekretess {#governance}
+   + [10 saker att tänka på vid hantering av kunddata](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+   + [Utökar marknadsförarens roll som en dataförvaltare](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
    + [Målgruppsprofildatastyrning och sekretess](governance/healthcare-shield.md)
 + Branschdiskussioner {#industry}
    + [Bygg fantastiska upplevelser med era egna data](industry/build-superb-experiences-with-your-first-party-data.md)
-   + [Datasamarbete i förstahandskontexten](industry/data-collaboration-in-the-first-party-data-context.md)
+   + [Data-Collaboration i förstahandskontexten](industry/data-collaboration-in-the-first-party-data-context.md)
    + [Framtiden för datahantering och den föränderliga miljön](industry/the-future-of-data-management-and-the-changing-environment.md)
    + [En tabell med två perceptioner - varumärken jämfört med konsumenter](industry/brands-vs-consumers.md)

@@ -1,5 +1,5 @@
 ---
-title: Handel och kaffe - e-handelstrender
+title: Commerce och Coffee - E-Commerce Trends
 description: Mötet är 5 av de viktigaste trenderna inom e-handel idag. Vi diskuterar strategier och taktik kring de viktigaste trenderna och vilken påverkan de har på er verksamhet när de genomförs. Corey går sedan igenom en demonstration av händelseväljare, kategoribehörigheter, B2B-funktioner med mera. Presentationen och demon åtföljs av live-frågor och svar tillsammans med Corey.
 solution: Commerce
 topic: Commerce
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Handel och kaffe - e-handelstrender
+# Commerce och Coffee - E-Commerce Trends
 
 Mötet är 5 av de viktigaste trenderna inom e-handel idag. Vi diskuterar strategier och taktik kring de viktigaste trenderna och vilken påverkan de har på er verksamhet när de genomförs. Corey går sedan igenom en demonstration av händelseväljare, kategoribehörigheter, B2B-funktioner med mera. Presentationen och demon åtföljs av live-frågor och svar tillsammans med Corey.
 

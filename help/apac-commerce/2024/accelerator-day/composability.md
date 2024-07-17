@@ -1,6 +1,6 @@
 ---
 title: Kompatibilitet - App Builder, API Mesh och Headless
-description: Översikt över den senaste utvecklingen av Adobe Commerce- och App Builder-plattformen för en utbyggbar digital upplevelse genom headless, composable Innovation. Presenteras av Jason Ford, chef för ANZ Solution Engineering - Adobe
+description: Översikt över den senaste utvecklingen inom Adobe Commerce och App Builder-plattformen för utbyggbar digital upplevelse genom headless, composable Innovation. Presenteras av Jason Ford, chef för ANZ Solution Engineering - Adobe
 feature: API Mesh
 topic: Commerce
 role: Admin, Developer, Leader, User
@@ -11,17 +11,17 @@ last-substantial-update: 2024-05-21T00:00:00Z
 jira: KT-15545
 hidefromtoc: true
 badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
-source-git-commit: 89005ee91f2222029cc3abf30d02dc3b7714b588
+exl-id: 66ff908c-9107-4318-9ace-c9893fd6e3de
+source-git-commit: 0ebc7343e2d19e91f27c1bbba20f290ef7df5377
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
-
 # Kompatibilitet: App Builder, API Mesh och Headless
 
-Översikt över den senaste utvecklingen av Adobe Commerce- och App Builder-plattformen för en utbyggbar digital upplevelse genom headless, composable Innovation.
+Översikt över den senaste utvecklingen inom Adobe Commerce och App Builder-plattformen för utbyggbar digital upplevelse genom headless, composable Innovation.
 
 + Presenteras av Jason Ford, chef för ANZ Solution Engineering - Adobe
 

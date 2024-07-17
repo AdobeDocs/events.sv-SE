@@ -22,13 +22,13 @@ David presenterar utvecklarläget i AEM 6.O. Utvecklarläget är:
 
 >[!VIDEO](https://video.tv.adobe.com/v/19501/?quality=9)
 
-*Levererat 16 juli 2014*
+*Levererad 16 juli 2014*
 
-**Presenteras av:**
+**Presenterad av:**
 
 David Catalan, QE Developer, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-6-developer-mode-07-16-14.pdf)
 

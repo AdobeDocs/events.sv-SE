@@ -18,13 +18,13 @@ Lär dig allt om kärnkomponenterna och deras relaterade funktioner, om hur de f
 
 >[!VIDEO](https://video.tv.adobe.com/v/25674/)
 
-*Levererat 18/12-05*
+*Levererad 18/12-05*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Gabriel Walt, Product Manager, Adobe
 
-[Dokumentation för AEM kärnkomponenter](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
+[AEM kärnkomponentdokumentation](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
 
 AEM Gems - AEM Core Components - Date: 12/05/2018
 

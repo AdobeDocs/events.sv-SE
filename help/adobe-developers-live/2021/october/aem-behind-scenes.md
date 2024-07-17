@@ -1,6 +1,6 @@
 ---
 title: Bakom kulisserna i Adobe Experience Manager med medlemmar i SRE Guild
-description: En panel med Joerg Hoh, Peter Acsai och Tom Blackford, medlemmar av våra Site Reliable Engineers Guild, arbetar bakom kulisserna för att "hålla tågen i tid" för AEM as a Cloud Service. Vi kommer att lära oss om de färdigheter och den smak som krävs för att vara en effektiv SRE, deras åsikter om hur man gör system robusta och flexibla samt vilken typ av mätvärden och larm de använder för att förhindra avbrott.
+description: En panel med Joerg Hoh, Peter Acsai och Tom Blackford, medlemmar av vår guide Site Reliable Engineers, arbetar bakom kulisserna för att "hålla tågen i tid" för AEM as a Cloud Service. Vi kommer att lära oss om de färdigheter och den smak som krävs för att vara en effektiv SRE, deras åsikter om hur man gör system robusta och flexibla samt vilken typ av mätvärden och larm de använder för att förhindra avbrott.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # Bakom kulisserna i Adobe Experience Manager med medlemmar i SRE Guild
 
-En panel med Joerg Hoh, Peter Acsai och Tom Blackford, medlemmar av våra Site Reliable Engineers Guild, arbetar bakom kulisserna för att &quot;hålla tågen i tid&quot; för AEM as a Cloud Service. Vi kommer att lära oss om de färdigheter och den smak som krävs för att vara en effektiv SRE, deras åsikter om hur man gör system robusta och flexibla samt vilken typ av mätvärden och larm de använder för att förhindra avbrott.
+En panel med Joerg Hoh, Peter Acsai och Tom Blackford, medlemmar av vår guide Site Reliable Engineers, arbetar bakom kulisserna för att &quot;hålla tågen i tid&quot; för AEM as a Cloud Service. Vi kommer att lära oss om de färdigheter och den smak som krävs för att vara en effektiv SRE, deras åsikter om hur man gör system robusta och flexibla samt vilken typ av mätvärden och larm de använder för att förhindra avbrott.
 
 Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/2WoCVOU)**.
 
@@ -28,6 +28,6 @@ Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/2W
 
 ## Ytterligare resurser
 
-- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience Manager-dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 - [Adobe Experience Manager Cloud Service - översikt](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

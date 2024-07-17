@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Under den här sessionen får du lära dig mer om de effektivaste strategierna för att använda kontrollpaneler i Analytics på mobila enheter och hur du kan personalisera appar via Target.
 
-*Ashika Ramjee* Solution Consultant / Adobe
+*Ashika Ramjee* Solution Consultant/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343819/?quality=12&learn=on)

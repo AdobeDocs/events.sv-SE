@@ -5,7 +5,7 @@ user-guide-description: Kontorstid är en proaktiv metod för att hantera fallav
 source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 3%
    + Adobe Campaign {#adobe-campaign-office-hours}
       + [SMS-kanalöversikt och felsökningstips](2023/ac-sms-channel-overview.md)
    + Adobe Commerce {#adobe-commerce-office-hours}
-      + [Site-Wide Analysis Tool](2023/site-wide-analysis-tool.md)
+      + [Webbplatsövergripande analysverktyg](2023/site-wide-analysis-tool.md)
    + Adobe Experience Platform {#adobe-experience-platform-office-hours}
       + [Admin Console behörigheter](2023/aep-admin-console-permissions.md)
    + Adobe Experience Manager {#adobe-experience-manager-office-hours}
@@ -33,6 +33,6 @@ ht-degree: 3%
    + Adobe Marketo {#adobe-marketo-office-hours}
       + [Advanced Smart List Logic &amp; Common Pitfalls](2023/marketo-common-pitfalls.md)
    + Adobe Target {#adobe-target-office-hours}
-      + [Översikt över JavaScript-bibliotek, felsökningstips och tricks](2023/target-debugging-tips-and-tricks.md)
+      + [JavaScript Library Overview, Debugging Tips &amp; Tricks](2023/target-debugging-tips-and-tricks.md)
    + Workfront {#workfront-office-hours}
       + [Korrigera dubblettkontakter](2023/workfront-fix-duplicate-contacts.md)

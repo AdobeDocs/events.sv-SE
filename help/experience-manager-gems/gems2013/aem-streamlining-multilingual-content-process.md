@@ -18,9 +18,9 @@ Söker ni bästa praxis för att effektivisera arbetet med att skapa och lokalis
 
 >[!VIDEO](https://video.tv.adobe.com/v/19569/?quality=9)
 
-*Levererat den 30 oktober 2013*
+*Levererad 30 oktober 2013*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Keith Brazil, VP of Technology, Translations.com
 

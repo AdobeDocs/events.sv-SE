@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Är du beredd att växa? Mirakl Marketplaces som en tillväxtkraft
 
-I september av APAC Commerce Webinar Series välkomnar vi gästhögtalarna Cheryl Jones och Joael Pereira, som kommer från Mirakl, en av Adobe Premier Technology Partners. Under det här seminariet får du lära dig att utnyttja marknadsplatser för att öka intäkterna samtidigt som ni levererar en enastående kundupplevelse och vikten av att anpassa er till en allt mer krävande konsumentmarknad. Du kommer att förstå hur enkelt och enkelt det är att integrera marknadsplatser i din Adobe Commerce-butik med en demo och få möjlighet att ställa frågor live.
+I september av APAC Commerce Webinar Series välkomnar vi gästföreläsarna Cheryl Jones och Joael Pereira, som kommer från Mirakl, en av Adobe Premier Technology Partners. Under det här seminariet får du lära dig att utnyttja marknadsplatser för att öka intäkterna samtidigt som ni levererar en enastående kundupplevelse och vikten av att anpassa er till en allt mer krävande konsumentmarknad. Du kommer att förstå hur enkelt och enkelt det är att integrera marknadsplatser i din Adobe Commerce-butik med en demo och få möjlighet att ställa frågor live.
 
 Följ oss för att upptäcka:
 

@@ -9,13 +9,13 @@ doc-type: Event
 duration: 3392
 last-substantial-update: 2024-03-18T00:00:00Z
 jira: KT-15182
-source-git-commit: 598a8b46ed2e2dff796bb076c5323da3639fe837
+exl-id: dcdf76f7-3327-4564-b68f-925506715ac4
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce Innovation Spotlight Webinar
 
@@ -25,10 +25,10 @@ När vi lanserar Commerce Webinar Series för 2024 kommer vi att välkomna ett a
 I det här webbinariet får du höra om:
 
 * Leverera snabba, förstklassiga upplevelser med PWA Studio
-* Utnyttja App Builder för utbyggbarhet utanför processen
-* Innovativa handelsfunktioner som används av Miter10, Mitsubishi Motors och andra viktiga återförsäljare i APAC
+* Utnyttja App Builder för utökningsmöjligheter utanför processen
+* Innovativa Commerce-funktioner som används av Miter10, Mitsubishi Motors och andra viktiga återförsäljare i APAC
 
-I takt med att Commerce-landskapet utvecklas och förändras är det viktigt att ni maximerar potentialen hos er Commerce-plattform så att ni kan förbli konkurrenskraftiga och leverera en oöverträffad upplevelse till era kunder. Under den här sessionen ska vi titta närmare på hur företag använder modern arkitektur och de senaste funktionerna i Adobe Commerce för att ligga steget före.
+I takt med att Commerce landskap utvecklas och förändras är det viktigt att ni maximerar potentialen hos er Commerce-plattform så att ni kan förbli konkurrenskraftiga och leverera en oöverträffad upplevelse till era kunder. Under den här sessionen ska vi titta närmare på hur företag använder modern arkitektur och de senaste funktionerna i Adobe Commerce för att ligga steget före.
 
 ## Viktiga uppgifter
 

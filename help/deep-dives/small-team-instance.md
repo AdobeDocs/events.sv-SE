@@ -1,6 +1,6 @@
 ---
-title: Se hur ett litet team maximerar Adobe [!DNL Marketo Engage] instance
-description: Diskutera hur instanser av Adobe som stöds [!DNL Marketo Engage] med ett litet team eller ett team.
+title: Lär dig hur ett litet team maximerar sin Adobe [!DNL Marketo Engage] instans
+description: Diskutera hur du kan ge stöd till instanser av Adobe [!DNL Marketo Engage] med ett litet team eller ett team.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Lär dig hur ett litet team maximerar instansen
 
-Gå med i nuvarande Adobe [!DNL Marketo Engage] Champions, Darshil Shah, Jenny Robertson och Joy Martinez diskuterar hur de stöder förekomster av Adobe [!DNL Marketo Engage] med ett litet team eller ett team. Våra Champions kommer också att diskutera hur de lyckades bli framgångsrika, utan mängder av resurser, hur detta hjälpte deras karriär och de positiva resultat de kunde se i deras instans.
+Gå med i de nuvarande Adobe [!DNL Marketo Engage]-Championerna, Darshil Shah, Jenny Robertson och Joy Martinez när de diskuterar hur de har stött förekomster av Adobe [!DNL Marketo Engage] med ett litet team eller ett team från ett. Våra Champions kommer också att diskutera hur de lyckades bli framgångsrika, utan mängder av resurser, hur detta hjälpte deras karriär och de positiva resultat de kunde se i deras instans.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417670/?quality=12&learn=on)
 

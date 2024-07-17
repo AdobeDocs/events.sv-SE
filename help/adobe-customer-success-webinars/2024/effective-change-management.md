@@ -41,7 +41,7 @@ Delta i nyanserna inom ändringshantering och få strategiska insikter som hjäl
 * Effektiv kommunikation är avgörande.
 * Utbildning och support krävs för att ändringarna ska kunna antas med framgång.
 
-**Hantera förändringar och övervinna utmaningarna**
+**Åtgärda problem med ändringshantering**
 
 * Som åtgärdar förändringar i trötthet och resistensstyrning.
 * Det är avgörande att definiera framgångsmått.

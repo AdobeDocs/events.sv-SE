@@ -1,6 +1,6 @@
 ---
 title: Nyheter i Adobe Experience Manager Assets as a Cloud Service
-description: Vi har lagt till många funktioner till Adobe Experience Manager Assets as a Cloud Service 2021 för att lösa viktiga användningsfall för utvecklare och företag. När vi stänger året kan du delta i den här sessionen för att få en snabbkurs om nyheter och kanske en demo eller två.
+description: Vi har lagt till många funktioner i Adobe Experience Manager Assets as a Cloud Service 2021 för att lösa viktiga användningsfall för utvecklare och företag. När vi stänger året kan du delta i den här sessionen för att få en snabbkurs om nyheter och kanske en demo eller två.
 solution: Experience Manager,Experience Manager Assets
 role: User
 level: Beginner
@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Nyheter i Adobe Experience Manager Assets as a Cloud Service
 
-Vi har lagt till många funktioner till Adobe Experience Manager Assets as a Cloud Service 2021 för att lösa viktiga användningsfall för utvecklare och företag. När vi stänger året kan du delta i den här sessionen för att få en snabbkurs om nyheter och kanske en demo eller två.
+Vi har lagt till många funktioner i Adobe Experience Manager Assets as a Cloud Service 2021 för att lösa viktiga användningsfall för utvecklare och företag. När vi stänger året kan du delta i den här sessionen för att få en snabbkurs om nyheter och kanske en demo eller två.
 
 Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/2XSAcg)**.
 
@@ -26,6 +26,6 @@ Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/2X
 
 ## Ytterligare resurser
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform-dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Adobe Experience Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=sv)

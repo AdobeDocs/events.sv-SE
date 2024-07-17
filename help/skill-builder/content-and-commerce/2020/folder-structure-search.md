@@ -33,7 +33,7 @@ Grunderna för att konfigurera och använda din DAM.
 
 * [AEM Assets Användarhandbok](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html)
 * [Konfigurera mappstrukturen för AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
-* [Ange behörigheter för AEM Assets-mappar](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html)
+* [Konfigurera behörigheter för AEM Assets-mappar](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html)
 * [Använd samlingar för att ordna och dela resurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
 * [Hitta visuellt liknande resurser med maskininlärning](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
 * [Få exakta och korrekta sökresultat med dynamiska sökfaktorer](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)

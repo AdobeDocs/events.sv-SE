@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Fråga experten - Utnyttja grundläggande textlägesrapportering med API Explorer
 
-Läs mer om [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/), hur du använder det och hur du förbättrar dina rapporter med hjälp av det grundläggande textläget. Det här webbinariet spelades in den 22 januari 2020.
+Lär dig mer om [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/), hur du använder den och hur du förbättrar dina rapporter med hjälp av det grundläggande textläget. Det här webbinariet spelades in den 22 januari 2020.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341124/?quality=12)
 
@@ -49,7 +49,7 @@ valueexpression={name}
 valueformat=HTML
 ```
 
-**Textläge för kolumnen&quot;Alla grupper&quot;**
+**Textläge för kolumnen Alla grupper**
 
 ```
 displayname=All Groups
@@ -101,7 +101,7 @@ När du skapar en problemrapport kan du se aktivitetsinformation om problemet ha
 
 **Fråga**
 
-Kan du dela textformat ([!DNL CSS])?
+Kan du dela textformatsexempel ([!DNL CSS])?
 
 **Svar**
 
@@ -135,7 +135,8 @@ När du refererar till objekt i textläge måste du skriva det exakt som den hö
 valuefield=project:name
 ```
 
-När det gäller problem kallas de dock opTasks i API Explorer. Om du kör en timrapport och vill lägga till en kolumn för Issue name ser värdefältet ut så här:
+När det gäller problem kallas de dock opTasks i API Explorer. Om du kör en timrapport och vill lägga till en kolumn för Issue name, skulle värdefältet
+se ut så här:
 
 ```
 valuefield=opTask:name

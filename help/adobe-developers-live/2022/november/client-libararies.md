@@ -1,6 +1,6 @@
 ---
 title: Adobe Developers Live - NOV 22- Forms that Work - Leveraging Client Libraries & Headless Forms
-description: Forms som fungerar - Utnyttja klientbibliotek och headless FormsAdobe Experience Manager Forms har släppt många spännande nya funktioner på Cloud Servicen. För formulärutvecklare finns det ibland ett behov av att utnyttja anpassade skript och JavaScript-bibliotek från tredje part för att förbättra användarupplevelsen i Adobe Experience Manager Forms.Under den här sessionen ska vi visa hur du använder klientbibliotek och ta skripten ur händerna på formulärförfattare så att de enkelt kan välja funktioner som behövs för att utföra avancerade beräkningar, datumhantering och anpassade modala fönster.Vi kommer också att visa våra senaste innovationer med Headless Adaptive Forms, där du kan skapa ett formulär en gång och använda det i flera kanaler, inklusive webben, SPA app med hjälp av respons och anpassa svarsappen. Våra produktexperter visar hur man använder samma formulär för datainhämtning i interaktiva kanaler som WhatsApp - så att du kan få formulär att fungera exakt som du vill.
+description: Forms som fungerar - Utnyttja klientbibliotek och headless FormsAdobe Experience Manager Forms har släppt många spännande nya funktioner på Cloud Servicen. För formulärutvecklare finns det ibland ett behov av att utnyttja anpassade skript och JavaScript-bibliotek från tredje part för att förbättra användarupplevelsen i Adobe Experience Manager Forms. Under den här sessionen ska vi visa hur du använder klientbibliotek och ta skripten ur händerna på formulärförfattare, så att de enkelt kan välja funktioner som behövs för att utföra avancerade beräkningar, datumändringar och anpassade modala fönster.Vi kommer också att presentera våra senaste innovationer med Headless Adaptive Forms där Du kan skapa ett formulär en gång och använda det i flera kanaler, inklusive webben, SPA app med hjälp av reaktion och anpassa svarsappen. Våra produktexperter visar hur man använder samma formulär för datainhämtning i interaktiva kanaler som whatsApp, så att ni kan få formulär att fungera exakt som ni vill.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Forms som fungerar - Utnyttja klientbibliotek och Headless Forms
 
-Adobe Experience Manager Forms har släppt många spännande nya funktioner på Cloud Servicen. För formulärutvecklare finns det ibland behov av att utnyttja anpassade skript och JavaScript-bibliotek från tredje part för att förbättra användarupplevelsen i Adobe Experience Manager Forms.
+Adobe Experience Manager Forms har släppt många spännande nya funktioner på Cloud Servicen. För formulärutvecklare finns det ibland behov av att utnyttja anpassade skript och JavaScript-bibliotek från tredje part för att förbättra Adobe Experience Manager Forms användarupplevelse.
 
 Under den här sessionen ska vi visa hur du använder klientbibliotek och tar ut skriptfunktionerna från formulärförfattare så att de enkelt kan välja funktioner som behövs för att utföra avancerade beräkningar, datumhantering och anpassade modala fönster.
 

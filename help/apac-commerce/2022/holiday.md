@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Förberedelser är avgörande för framgång och i det här webbinariet visar vi dig de bästa sätten att utnyttja Adobe Commerce för att maximera försäljning och resultat under denna viktiga handelsperiod (eller andra säljtillfällen som ditt företag kan uppleva under hela året).
 
-Jason Ford, Manager Commerce Solutions Consulting APAC och Sophia Gray, Senior Commerce Account Manager kommer att tala om följande:
+Jason Ford, Manager Commerce Solutions Consulting APAC och Sophia Grey, Senior Commerce Account Manager, som kommer att ta upp följande ämnen:
 
 * Kampanjförberedelse
 * Prestandaöverväganden

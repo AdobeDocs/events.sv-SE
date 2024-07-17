@@ -1,6 +1,6 @@
 ---
 title: Slösa aldrig tid på att hitta innehåll igen
-description: Bli en skicklig författare med djupdykning i AEM Sites och Media Library Administration UI med tips och tricks för att öka effektiviteten
+description: Bli en skicklig författare med djupdykning i AEM webbplatser och Media Library administrationsgränssnitt med tips och tricks som ökar effektiviteten
 solution: Experience Manager, Experience Manager Sites
 feature-set: Experience Manager Assets
 product: experience manager
@@ -29,7 +29,7 @@ Lär dig hur du skapar engagerande kundupplevelser i Adobe Experience Manager i 
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-Bli en skicklig författare med djupdykning i AEM Sites och Media Library Administration UI med tips och tricks för att effektivisera din dagliga verksamhet.
+Bli en skicklig författare med djupdykning i AEM webbplatser och Media Library administrationsgränssnitt med tips och tricks som ökar effektiviteten.
 
 ## Serieinspelningar
 

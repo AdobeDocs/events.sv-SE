@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Marketo och Mochas
 
-Välkommen till inspelningar från Marketo och Mochas. Använda dessa resurser i kombination med Adobe Marketo [dokumentation](https://experienceleague.adobe.com/docs/marketo-engage.html) och [självstudier](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)får du en bättre förståelse för hur du använder Adobe Marketo för att stödja ditt företag.
+Välkommen till inspelningar från Marketo och Mochas. Om du använder de här resurserna tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/marketo-engage.html) och [självstudiekurserna](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) från Adobe Marketo får du en bättre förståelse för hur du använder Adobe Marketo för att stödja ditt företag.
 
 >[!TIP]
 >

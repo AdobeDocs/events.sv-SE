@@ -1,6 +1,6 @@
 ---
 title: Experience League LIVE, Episod 1 - Mina tre favoriter Adobe [!DNL Analytics] Implementeringstips
-description: Du har sett honom på Summit. Du har hört honom dela expertråd på Adobe Insider Tours. Du kan till och med ha haft fördelen att jobba med honom på din egen Adobe [!DNL Analytics] implementering. Eric Matisoff tar med sig sin tre Favorite Adobe [!DNL Analytics] Implementeringstips till den här exklusiva diskussionen om Experience League Live.
+description: Du har sett honom på Summit. Du har hört honom dela expertråd på Adobe Insider Tours. Du kan till och med ha haft fördelen att arbeta med honom på din egen Adobe [!DNL Analytics] implementering. Eric Matisoff tar nu med sig sina tre favorittips för Adobe [!DNL Analytics] implementering till den här exklusiva diskussionen om Experience League Live.
 solution: Analytics
 feature: Implementation Basics
 kt: 8553
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ---
 
-# Experience League LIVE, Episod 1: Mina tre favoriter Adobe [!DNL Analytics] Implementeringstips
+# Experience League LIVE, Episod 1: Mina tre favoriter Adobe [!DNL Analytics] - implementeringstips
 
-Du har sett honom på Summit. Du har hört honom dela expertråd på Adobe Insider Tours. Du kan till och med ha haft fördelen att jobba med honom på din egen Adobe [!DNL Analytics] implementering. Eric Matisoff tar med sig sin tre Favorite Adobe [!DNL Analytics] Implementeringstips till den här exklusiva diskussionen om Experience League Live.
+Du har sett honom på Summit. Du har hört honom dela expertråd på Adobe Insider Tours. Du kan till och med ha haft fördelen att arbeta med honom på din egen Adobe [!DNL Analytics]-implementering. Nu kommer Eric Matisoff att ta med sina tre Favorite Adobe [!DNL Analytics] implementeringstips till den här exklusiva Experience League Live-diskussionen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335921/?quality=12&learn=on)
 
-Om du vill diskutera denna session går du till [diskussion i Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498){target="_blank"}.
+Om du vill diskutera den här sessionen går du till [diskussionen i Experience League-communityn](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498){target="_blank"}.
 

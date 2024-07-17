@@ -26,7 +26,7 @@ ht-degree: 0%
 ## Beskrivning
 
 Best Practices Analyzer är ett verktyg som tillhandahåller analys- och rapporteringsfunktioner för AEM på plats och AMS-instanser. Den genererar en utvärdering av din nuvarande AEM genom att ange områden som inte följer rekommenderad bästa praxis, samtidigt som den ger vägledning om hur ni ska vidta åtgärder för att åtgärda potentiella problem. Motiveringen är enkel. Genom att identifiera och åtgärda endast ett missbruk i AEM kan man förbättra användarupplevelsen, minska den tekniska skulden och i sin tur sänka den totala ägandekostnaden. Så varför inte ta sig tid att se om det finns möjligheter till förbättringar.
-Observera att AEM Best Practices Analyzer inte kan användas för AEM as a Cloud Service miljöer.
+Observera att AEM Best Practices Analyzer inte kan användas i AEM as a Cloud Service-miljöer.
 
 ### Presentatörer
 
@@ -42,5 +42,5 @@ Observera att AEM Best Practices Analyzer inte kan användas för AEM as a Cloud
 
 >[!NOTE]
 >
->* Besök följande om du vill se sessionsspecifika communityinteraktioner på Experience League: [Sammanhangsberoende koppling](https://bit.ly/3Z6AyM1)
->* Om du vill få automatiska meddelanden om webbinarier registrerar du dig på [AdobeAEM User Group](https://aem-augs.adobe.com/).
+>* Besök den här [kontextuella tråden](https://bit.ly/3Z6AyM1) för sessionsspecifika communityinteraktioner på Experience League
+>* Om du vill få automatiska meddelanden om webbinarier registrerar du dig på [Adobe AEM User Group](https://aem-augs.adobe.com/).

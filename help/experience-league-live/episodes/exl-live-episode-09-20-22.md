@@ -21,5 +21,5 @@ Adobe Target och Adobe Real-time Customer Data Platform kan integreras för att 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409425/?quality=12&learn=on)
 
-Mer information om [Kantsegmentering](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html) och [strömningssegmentering](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html).
+Mer information om [Edge-segmentering](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html) och [direktuppspelningssegmentering](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html) finns i dokumentationen.
 

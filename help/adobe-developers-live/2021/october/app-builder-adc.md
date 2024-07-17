@@ -1,6 +1,6 @@
 ---
 title: En introduktion till Adobe Developer Console
-description: Adobe Developer Console är en gateway till Adobe API:er, händelser, körningsmiljön och App Builder. Följ oss för en översikt över de tjänster och verktyg som finns som en del av Adobe Developer ekosystem.
+description: Adobe Developer Console är gatewayen till Adobe API:er, händelser, körningsmiljöer och App Builder. Följ oss för en översikt över de tjänster och verktyg som finns som en del av Adobe Developer ekosystem.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 # En introduktion till Adobe Developer Console
 
-Adobe Developer Console är en gateway till Adobe API:er, händelser, körningsmiljön och App Builder. Följ oss för en översikt över de tjänster och verktyg som finns som en del av Adobe Developer ekosystem.
+Adobe Developer Console är gatewayen till Adobe API:er, händelser, körningsmiljöer och App Builder. Följ oss för en översikt över de tjänster och verktyg som finns som en del av Adobe Developer ekosystem.
 
 Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/2Y2DDld)**.
 
@@ -28,6 +28,6 @@ Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/2Y
 
 ## Ytterligare resurser
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform-dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Adobe Experience Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=sv)

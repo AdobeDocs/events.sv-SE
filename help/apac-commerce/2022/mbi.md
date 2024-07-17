@@ -27,7 +27,7 @@ Daniel Rios (Senior Manager, Product Management) har skrivit om följande:
 
 * Omvandla data till värde
 * Bygga en stark grund för data
-* Kombinera MBI och [!DNL Analytics] data
+* Kombinera MBI- och [!DNL Analytics]-data
 
 Du kommer också att se en live-demo av plattformen för att förverkliga dessa koncept.
 

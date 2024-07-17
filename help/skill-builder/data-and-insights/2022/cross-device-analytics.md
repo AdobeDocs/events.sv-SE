@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Få bättre förståelse för hur du använder Adobe Analytics och Customer Journey Analytics för att analysera användarbeteende som fungerar i olika webbläsare, enheter/appar och flera kanaler.
 
-*Sonia Charles* Lösningskonsult, data och insikter/Adobe
+*Sonia Charles* Solutions Consultant, Data &amp; Insights / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343820/?quality=12&learn=on)

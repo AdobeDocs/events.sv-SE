@@ -20,18 +20,18 @@ Sessionen visar hur du kan utöka AEM 6.0 användargränssnitt. Med den nya resu
 
 *Levererad 7 maj 2014*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Gilles Knobloch, Engineering Manager, Adobe
 * Damien Antipa, Senior UX Engineer, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/user-interface-customization-for-aem6.pdf)
 
 ## Relaterade länkar {#related-links}
 
-* [Peka på gränssnittskoncept](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
+* [Perspektivgränssnittskoncept](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
 * [Struktur](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
 * [Anpassa konsolerna (pekoptimerat användargränssnitt)](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
 * [Anpassa sidredigering (pekoptimerat gränssnitt)](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)

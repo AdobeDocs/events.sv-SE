@@ -20,11 +20,11 @@ Replikering är en central funktion i AEM eftersom det gör det möjligt att pub
 
 >[!VIDEO](https://video.tv.adobe.com/v/19282/?quality=9)
 
-*Levererat 26 juli 2017*
+*Levererad 26 juli 2017*
 
 **Tommaso Teofili, Developer, Adobe**
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-gems-troubleshooting-aem-replication.pdf)
 
@@ -37,6 +37,6 @@ Replikering är en central funktion i AEM eftersom det gör det möjligt att pub
 
 >[!MORELIKETHIS]
 >
->* [AEM och JCR-fråga](aem-indexing-jcr-query.md)
+>* [AEM indexering och JCR-fråga](aem-indexing-jcr-query.md)
 >* [Felsökning AEM replikering](aem-troubleshooting-aem-replication.md)
 <!-- >>* [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html) -->

@@ -26,7 +26,7 @@ Vi kan fördjupa oss i utvecklingen av Single-Page-Applications som kan redigera
 
 >[!VIDEO](https://video.tv.adobe.com/v/25503/?quality-9)
 
-*Levererat 2018-11-21*
+*Levererat 21/11/18*
 
 Presenteras av: Artur Kudlacz, Developer, Adobe
 
@@ -36,7 +36,7 @@ Presentationsbilder - 21/11/11
 
 ## Relaterade länkar {#related-links}
 
-[Självstudiekurs om helger](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
+[Veckoslut, självstudiekurs](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 
 [Dokumentation](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
 

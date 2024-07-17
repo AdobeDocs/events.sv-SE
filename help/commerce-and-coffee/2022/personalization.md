@@ -1,6 +1,6 @@
 ---
-title: Handel och kaffe - personalisering
-description: Den här sessionen handlar om strategier och taktik för att personalisera er Commerce-sajt och behålla konkurrenskraften året runt. Vi granskar varför, vad och hur vi personaliserar och diskuterar de effekter på konverteringar som har direkt samband med personalisering. Corey demonstrerar sedan kategoribehörigheter, kundsegment, dynamiska block/widgetar, Recommendations och mycket annat. Presentationen och demon åtföljs av live-frågor och svar tillsammans med Corey.
+title: Commerce och Coffee - Personalization
+description: Den här sessionen handlar om strategier och taktik när det gäller att personalisera er Commerce sajt och behålla konkurrenskraften året runt. Vi granskar varför, vad och hur vi personaliserar och diskuterar de effekter på konverteringar som har direkt samband med personalisering. Corey demonstrerar sedan kategoribehörigheter, kundsegment, dynamiska block/widgetar, Recommendations och mycket annat. Presentationen och demon åtföljs av live-frågor och svar tillsammans med Corey.
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Handel och kaffe - personalisering
+# Commerce och Coffee - Personalization
 
-Den här sessionen handlar om strategier och taktik för att personalisera er Commerce-sajt och behålla konkurrenskraften året runt. Vi granskar varför, vad och hur vi personaliserar och diskuterar de effekter på konverteringar som har direkt samband med personalisering. Corey demonstrerar sedan kategoribehörigheter, kundsegment, dynamiska block/widgetar, Recommendations och mycket annat. Presentationen och demon åtföljs av live-frågor och svar tillsammans med Corey.
+Den här sessionen handlar om strategier och taktik när det gäller att personalisera er Commerce sajt och behålla konkurrenskraften året runt. Vi granskar varför, vad och hur vi personaliserar och diskuterar de effekter på konverteringar som har direkt samband med personalisering. Corey demonstrerar sedan kategoribehörigheter, kundsegment, dynamiska block/widgetar, Recommendations och mycket annat. Presentationen och demon åtföljs av live-frågor och svar tillsammans med Corey.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412700/?quality=12&learn=on)

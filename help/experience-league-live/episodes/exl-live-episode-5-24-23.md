@@ -23,4 +23,4 @@ Lär dig fördelarna med meddelanden i appen som en engagemangskanal i realtid o
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419194/?quality=12&learn=on)
 
-Har du frågor om det? Fortsätta diskussionen om Adobe Experience League [Community-post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-maximize-your/td-p/599638)).
+Har du frågor om det? Fortsätt diskutera det här ämnet i Adobe Experience League [Community-inlägg](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-maximize-your/td-p/599638)).

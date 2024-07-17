@@ -7,13 +7,13 @@ doc-type: Event
 duration: 1790
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15298
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: fc9f03e9-09ec-43b5-8afe-6b7866e49489
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # Avancerad utbildning i redigeringsmiljön
 
@@ -28,4 +28,3 @@ Gå ett steg längre när det gäller de alternativ som finns i Acrobat Sign Aut
 * Ytterligare alternativ som fält för bifogade filer, hyperlänksfält och transaktions-ID-fält utforskas.
 * Deltagare kan tilldelas formulärfält och mallegenskaper kan anges för anpassning.
 * Processen att skapa återanvändbara dokumentmallar, hantera mallar och exportera signerade avtal omfattas också.
-

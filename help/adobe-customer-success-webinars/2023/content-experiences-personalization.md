@@ -1,5 +1,5 @@
 ---
-title: Innehåll och upplevelser - Hjärtat i personaliseringen
+title: Innehåll och upplevelser - Personalization taktiska hjärta
 description: Identifiera och övervinna vanliga utmaningar när det gäller att bygga upp ett innehåll och upplevelser Skapa användningsfall som driver innehåll längs hela kundresan
 solution: General
 topic: Personalization
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# Innehåll och upplevelser: Hjärtat i personaliseringen
+# Innehåll och upplevelser: Personalization takthjärta
 
-*Innehåll och upplevelser: Hjärtat i personaliseringen*
+*Innehåll och upplevelser: Personalization slaghjärta*
 
 * Identifiera och övervinna vanliga utmaningar när det gäller att bygga upp en innehålls- och upplevelsefunktion
 * Bygga upp användningsexempel för att skapa innehåll under hela kundresan

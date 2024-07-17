@@ -27,6 +27,8 @@ Dale Whitch, EVP, Production Intelligence, på IPG Health, berättar hur han och
 
 Du hör,
 
-Hur de har utvecklat både sina processer och sin infrastruktur över tiden Praktisk rådgivning för att integrera Workfront i er större tekniklösning och matcha viktiga arbetsflöden Hur IPG lägger grunden till en innehållsleveranskedja
+Hur de har utvecklat både sina processer och sin infrastruktur över tid
+Praktisk rådgivning om hur du integrerar Workfront i din bredare teknologi och mognar viktiga arbetsflöden
+Hur IPG lägger grunden för Content Supply Chain
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Berätta slagkraftiga historier med data
-description: Hörn [!DNL Adobe Analytics] Champion Amy Ard förklarar hur konst och vetenskap kan komma ihop för att skapa en kraftfull historia och hjälpa ert företag att fatta datadrivna beslut.
+description: Gå med [!DNL Adobe Analytics] Champion Amy Ard och berätta hur konst och vetenskap kan komma samman för att berätta en kraftfull historia och hjälpa ert företag att fatta datadrivna beslut.
 solution: Analytics
 role: User
 doc-type: Event
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Berätta slagkraftiga historier med data
 
-Data är ett av de mest kraftfulla verktyg som en organisation kan förlita sig på, men bara om de presenteras på ett sätt som är viktigt för beslutsfattarna. Hörn [!DNL Adobe Analytics] Champion Amy Ard förklarar hur konst och vetenskap kan komma ihop för att skapa en kraftfull historia och hjälpa ert företag att fatta datadrivna beslut.
+Data är ett av de mest kraftfulla verktyg som en organisation kan förlita sig på, men bara om de presenteras på ett sätt som är viktigt för beslutsfattarna. Besök [!DNL Adobe Analytics] Champion Amy Ard som förklarar hur konst och vetenskap kan komma samman för att berätta en kraftfull historia och hjälpa ert företag att fatta datadrivna beslut.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342096/?quality=12&learn=on)

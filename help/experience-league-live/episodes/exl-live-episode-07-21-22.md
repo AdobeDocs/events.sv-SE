@@ -28,5 +28,5 @@ Under den här sessionen när det gäller datainsamling för Adobe Experience Cl
 * [Fråga experterna - Grunderna i Web SDK](exl-live-episode-05-26-22.md)
 * [Fråga experterna - RTCDP-anslutningar](exl-live-episode-06-23-22.md)
 
-Om du vill fortsätta diskutera detta ämne kan du gå till Experience League [Community-post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/aep-community-qna-coffee-break-7-21-22-10-30am-pt-adobe/td-p/461503).
+Om du vill fortsätta diskutera det här ämnet går du till Experience League [Community-posten](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/aep-community-qna-coffee-break-7-21-22-10-30am-pt-adobe/td-p/461503).
 

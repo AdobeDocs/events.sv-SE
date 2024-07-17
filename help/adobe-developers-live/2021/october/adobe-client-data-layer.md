@@ -1,6 +1,6 @@
 ---
 title: Adobe-klientdatalager - händelsestyrd datahantering
-description: Har du någonsin velat veta hemligheterna och detaljerna bakom Adobe Client Data Layer? Hur den är utformad, hur den ser ut och hur du kan utnyttja den fullt ut? Gå med i det här seminariet och lär dig allt om det. Ett exempel på e-handel visar hur Core Components hyr ACDL och senare Launch-tillägget interagerar med andra program, som Adobe. [!DNL Analytics] eller Adobe Target.
+description: Har du någonsin velat veta hemligheterna och detaljerna bakom Adobe Client Data Layer? Hur den är utformad, hur den ser ut och hur du kan utnyttja den fullt ut? Gå med i det här seminariet och lär dig allt om det. Ett exempel på handel visar hur Core Components hyr ACDL och senare Launch-tillägget interagerar med andra program, som Adobe [!DNL Analytics]  eller Adobe Target.
 solution: Data Collection,Experience Manager
 feature: Tags
 topic: Development
@@ -20,12 +20,12 @@ ht-degree: 4%
 
 # Adobe-klientdatalager - händelsestyrd datahantering
 
-Har du någonsin velat veta hemligheterna och detaljerna bakom Adobe Client Data Layer? Hur den är utformad, hur den ser ut och hur du kan utnyttja den fullt ut? Gå med i det här seminariet och lär dig allt om det. Ett exempel på e-handel visar hur Core Components hyr ACDL och senare Launch-tillägget interagerar med andra program, som Adobe. [!DNL Analytics] eller Adobe Target.
+Har du någonsin velat veta hemligheterna och detaljerna bakom Adobe Client Data Layer? Hur den är utformad, hur den ser ut och hur du kan utnyttja den fullt ut? Gå med i det här seminariet och lär dig allt om det. Som bonus kommer ett handelsexempel att visa hur Core Components hyr ACDL och senare Launch-tillägget interagerar med andra program, som Adobe [!DNL Analytics] eller Adobe Target.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337585/?quality=12&learn=on&hidetitle=true)
 
 ## Ytterligare resurser
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform-dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Adobe Experience Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=sv)

@@ -26,9 +26,9 @@ Adobe Journey Optimizer har ett modernt, marknadsföringsvänligt gränssnitt oc
 
 Med API Triggered Campaigns kan företag skapa en kampanj och använda den flera gånger för att leverera personaliserade meddelanden med sammanhangsbaserad information i realtid genom att utlösa via REST API.
 
-I den här Experience League Live-sessionen kommer produktexperter från Adobe att förklara hur du kan köra transaktions- och marknadsföringsfall med API Triggered Messaging-funktioner i AJO.
+I den här Experience League Live-sessionen kommer Adobe produktexperter att förklara hur du kan genomföra transaktions- och marknadsföringsanvändning med API Triggered Messaging-funktioner i AJO.
 
-**Klicka på bilden ovan om du vill se bildspelet!**
+**Klicka på bilden ovan om du vill titta på bildspelet!**
 
-Fortsätt diskussionen om [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
+Fortsätt med diskussionen om [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
 

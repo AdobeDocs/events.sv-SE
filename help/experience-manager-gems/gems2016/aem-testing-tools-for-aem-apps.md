@@ -22,7 +22,7 @@ Från enhetstestning till integrationstestning av Experience Manager-applikation
 
 **Robert Munteanu och Carsten Ziegeler**
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-gems-tools-for-testing-12-14-16.pdf)
 <!--

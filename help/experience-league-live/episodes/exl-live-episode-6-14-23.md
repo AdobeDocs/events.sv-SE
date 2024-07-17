@@ -21,4 +21,4 @@ Den nya webbkanalen gör att marknadsförarna kan skapa webbkampanjer med en vis
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420129/?learn=on)
 
-Har du frågor om det? Fortsätta diskussionen om Adobe Experience League [Community-post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-explore-the/m-p/599366#M121).
+Har du frågor om det? Fortsätt diskutera det här ämnet i Adobe Experience League [Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-explore-the/m-p/599366#M121).

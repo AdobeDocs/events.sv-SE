@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Adobe Developers Live inledande inledningsanförande (APAC) - november 2023
 
-Träffa Mark Szulc, Principal Product Manager och APAC Regional Evangelist och Ron Nagy, Senior Evangelist, för Adobe Experience Manager Keynote under Adobe Developers Live APAC: Content and Commerce den 14 november 2023.
+Besök Mark Szulc, Principal Product Manager och APAC Regional Evangelist och Ron Nagy, Senior Evangelist, för Adobe Experience Manager Keynote under Adobe Developers Live APAC: Content och Commerce den 14 november 2023.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426342/?learn=on)

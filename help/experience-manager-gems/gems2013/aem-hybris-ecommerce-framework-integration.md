@@ -18,13 +18,13 @@ Under det här seminariet presenterar vi vår integrationslösning för hybris i
 
 >[!VIDEO](https://video.tv.adobe.com/v/19578/?quality=9)
 
-*Levererat 13 maj 2013*
+*Levererad 13 maj 2013*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Felix Oghina, produktutvecklare för Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/hybris-aem-5-6-ecommerce-framework-integration.pdf)
 

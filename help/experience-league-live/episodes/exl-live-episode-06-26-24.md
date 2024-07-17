@@ -21,9 +21,9 @@ Lär dig mer om de senaste funktionerna i Adobe Real-Time CDP som har lanserats 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430515/?quality=12&learn=on)
 
-**Om du vill fortsätta diskussionen går du till [diskussion om Experience League Community](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-how-the-latest/m-p/685150#M67){target="_blank"}.**
+**Om du vill fortsätta diskussionen går du till [diskussionen om Experience League Community](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-how-the-latest/m-p/685150#M67){target="_blank"}.**
 
-**Visa detaljer**: Är du en av Real-Time CDP nuvarande specialister och letar efter insikter om vad som är nytt i produkten, varför det är viktigt och hur Adobe kan hjälpa dig att förbättra era strategier för hantering av kunddata? Titta inte längre - du har kommit till rätt ställe! I den här serien kommer vi att fördjupa oss i det som nyligen lanserats i Real-Time CDP så att ni kan dra nytta av det som är nytt på en gång och påverka er organisation.\
+**Visa information**: Är du Real-Time CDP-läkare och letar efter information om nyheter i produkten, varför det är viktigt och hur Adobe kan hjälpa dig att förbättra era strategier för hantering av kunddata? Titta inte längre - du har kommit till rätt ställe! I den här serien kommer vi att fördjupa oss i det som nyligen lanserats i Real-Time CDP så att ni kan dra nytta av det som är nytt på en gång och påverka er organisation.\
 Under det här seminariet ska vi diskutera och visa fem nya funktioner som har lanserats under de senaste månaderna:
 
 1. Spelböcker med användningsexempel

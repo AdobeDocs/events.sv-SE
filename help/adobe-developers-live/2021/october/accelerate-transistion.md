@@ -1,8 +1,8 @@
 ---
 title: Accelerating Transition to Adobe Experience Manager as a Cloud Service
 description: Lär dig mer om hur du kan utnyttja Adobe Experience Manager as a Cloud Service verktyg för omfaktorisering för att snabba upp övergången till Cloud Service genom att göra din befintliga Cloud Service (paketstruktur, index, arbetsflöden för Adobe Experience Manager Asset Processing, dispatcher configurations) kompatibel via automatisering.
-landing-page-description: Använd de AEM as a Cloud Service kodomfaktoriseringsverktygen för att snabba upp övergången till Cloud Service.
-short-description: Använd de AEM as a Cloud Service kodomfaktoriseringsverktygen för att snabba upp övergången till Cloud Service.
+landing-page-description: Använd AEM as a Cloud Service kodomfaktoriseringsverktyg för att snabba upp övergången till Cloud Service.
+short-description: Använd AEM as a Cloud Service kodomfaktoriseringsverktyg för att snabba upp övergången till Cloud Service.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -34,6 +34,6 @@ Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/3E
 
 ## Ytterligare resurser
 
-- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience Manager-dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 - [Adobe Experience Manager Cloud Service - översikt](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

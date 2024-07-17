@@ -19,13 +19,13 @@ AEM 6 har en molntjänst för Dynamic Tag Management (DTM), det sätt som Adobe 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19401/?quality=9)
 
-*Levererat 1 oktober 2014*
+*Levererad 1 oktober 2014*
 
-**Presenteras av:**
+**Presenterad av:**
 
 Sandro Looser, Solution Architect, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/dtm-10-1-2014.pdf)
 
@@ -33,7 +33,7 @@ Sandro Looser, Solution Architect, Adobe
 
 [Integrera med Adobe Dynamic Tag Management](https://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
 
-[Hjälp om DTM](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
+[DTM - hjälp](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
 
 [Begär åtkomst till DTM](https://dtm.adobe.com/request_access)
 
@@ -43,4 +43,4 @@ Sandro Looser, Solution Architect, Adobe
 
 >[!MORELIKETHIS]
 >
->* [Distribuera Adobe Analytics på en lokal AEM med molntjänsten Dynamic Tag Management](aem-adobe-analytics-dynamic-tag-management.md)
+>* [Så här distribuerar du Adobe Analytics på en lokal AEM genom att använda molntjänsten för dynamiska Tag Management](aem-adobe-analytics-dynamic-tag-management.md)

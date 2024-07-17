@@ -1,6 +1,6 @@
 ---
 title: Spåra ändringar i Adobe Commerce Cloud
-description: Spåra era Commerce-projektdistributionsevenemang i New Relic genom att skapa en skriptintegrering. Aktivera enkelt funktionen New Relic Track-ändringar för att övervaka distributionshändelser i ditt Commerce i molninfrastrukturprojekt. Datainsamlingen Distribuerar hjälper till att analysera effekterna av förändringar i driftsättningsutvecklingen av övergripande prestanda, som processor, minne, svarstider för transaktioner med mera.
+description: Spåra driftsättningsevenemang för Commerce-projekt i New Relic genom att skapa en skriptintegrering. Aktivera enkelt funktionen New Relic Track-ändringar för att övervaka driftsättningshändelser i ditt Commerce i molninfrastrukturprojekt. Datainsamlingen Distribuerar hjälper till att analysera effekterna av förändringar i driftsättningsutvecklingen av övergripande prestanda, som processor, minne, svarstider för transaktioner med mera.
 solution: Commerce
 feature-set: Commerce
 feature: Cloud, Deploy
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 # Spåra ändringar i Adobe Commerce Cloud
 
-Spåra era Commerce-projektdistributionsevenemang i New Relic genom att skapa en skriptintegrering. Aktivera enkelt funktionen New Relic Track-ändringar för att övervaka distributionshändelser i ditt Commerce i molninfrastrukturprojekt. Datainsamlingen Distribuerar hjälper till att analysera effekterna av förändringar i driftsättningsutvecklingen av övergripande prestanda, som processor, minne, svarstider för transaktioner med mera.
+Spåra driftsättningsevenemang för Commerce-projekt i New Relic genom att skapa en skriptintegrering. Aktivera enkelt funktionen New Relic Track-ändringar för att övervaka driftsättningshändelser i ditt Commerce i molninfrastrukturprojekt. Datainsamlingen Distribuerar hjälper till att analysera effekterna av förändringar i driftsättningsutvecklingen av övergripande prestanda, som processor, minne, svarstider för transaktioner med mera.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426313/?learn=on)

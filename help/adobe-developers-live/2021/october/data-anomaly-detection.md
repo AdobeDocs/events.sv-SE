@@ -1,6 +1,6 @@
 ---
 title: DataFacts - AEP:s första Data Anomaly Detection Tool som bygger på App Builder
-description: Softcrylic använder Adobe App Builder för att utveckla ett program som hjälper till att identifiera inkonsekvenser i Adobe Experience Platform (AEP)
+description: Programvara använder Adobe App Builder för att utveckla ett program som hjälper till att identifiera inkonsekvenser i Adobe Experience Platform (AEP)
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -18,12 +18,12 @@ ht-degree: 8%
 
 # DataFacts - AEP:s första Data Anomaly Detection Tool som bygger på App Builder
 
-Softcrylic använder Adobe App Builder för att utveckla ett program som hjälper till att identifiera inkonsekvenser i Adobe Experience Platform (AEP)
+Programvara använder Adobe App Builder för att utveckla ett program som hjälper till att identifiera inkonsekvenser i Adobe Experience Platform (AEP)
 
 >[!VIDEO](https://video.tv.adobe.com/v/337710/?quality=12&learn=on&hidetitle=true)
 
 ## Ytterligare resurser
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform-dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Adobe Experience Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 - [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=sv)

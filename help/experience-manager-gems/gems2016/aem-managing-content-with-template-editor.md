@@ -18,9 +18,9 @@ Med Adobe Experience Manager 6.2 har en ny mallredigerare introducerats som ger 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19300/?quality=9)
 
-*Levererat 14 september 2016*
+*Levererad 14 september 2016*
 
-**Presenteras av:**
+**Presenterad av:**
 
 * Patrick Fauchere, Software Engineer, Adobe
 
@@ -28,7 +28,7 @@ Chat expert,
 
 * Gabriel Walt, Product Manager, Adobe
 
-**Presentatörsbilder**
+**Presentationsbilder**
 
 [Hämta fil](assets/aem-gems-91416-template-editor.pdf)
 
@@ -36,6 +36,6 @@ Chat expert,
 
 >[!WARNING]
 >
->AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar uppgradering till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns här [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar att du uppgraderar till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns på [sidan](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
 >
->Se vad som gäller denna session *Sidmallar* och *Skapa sidmallar* i AEM 6.2-dokumentationen.
+>Se *Sidmallar* och *Skapa sidmallar* i dokumentationen för AEM 6.2, beroende på vad som gäller för den här sessionen.

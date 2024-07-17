@@ -29,13 +29,13 @@ Det här webbinariet utforskar viktiga sätt att utforska och prioritera använd
 
 ## Mötessammanfattning
 
-**Utmaningar som hanteras av CDP i realtid**
+**Utmaningar som har åtgärdats av CDP i realtid**
 
 * Segmenterade marknadsföringsverktyg
 * Spridda data kommer från
 * Förskjutna styrningsregler
 
-**Inverkan av att cookies från tredje part har tagits bort**
+**Påverkan av borttagning av cookies från tredje part**
 
 * Effekter på användningsfall som återannonsering och personalisering av betalda medier
 

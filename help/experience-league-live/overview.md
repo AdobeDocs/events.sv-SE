@@ -27,7 +27,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 <tr>
 
 <td style="vertical-align: top;">
-      <b>Kom tillbaka snart för att lära dig om nya, kommande program! Under tiden kan du se våra tidigare avsnitt genom att klicka på länkarna nedan eller i den vänstra navigeringen.</b>
+      <b>Kom tillbaka snart och lär dig mer om nya, kommande program! Under tiden kan du visa våra tidigare avsnitt genom att klicka på länkarna nedan eller i den vänstra navigeringen.</b>
   </td>
 </tr>
 </table>
@@ -56,10 +56,10 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
     </a>
     <div>
       <a href="/help/experience-league-live/episodes/exl-live-episode-04-21-22.md">
-        <strong>AEM från Headless till Headless</strong>
+        <strong>AEM från Headful till Headless </strong>
       </a>
-      <br/><em>med Danny Gordon, Amol Anand, Sachin Mali och Sean Steimer</em>
-      <br/><em>21 april 2022</em>
+      <br/><em> med Danny Gordon, Amol Anand, Sachin Mali och Sean Steimer </em>
+      <br/><em>21 april 2022 </em>
     </div>
   </td>
 
@@ -68,9 +68,9 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
       <img alt="Experience League LIVE ep8" src="./assets/youtube-thumbnails/jan-25-yt.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics - The Inside Scoop</strong></a>
-      <br/><em>med Trevor Paulsen, Rohit Gossain, Alex Strawn</em>
-      <br/><em>25 januari 2021</em>
+      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics - den inre Scoop</strong></a>
+      <br/><em> med Trevor Paulsen, Rohit Gossain, Alex Strawn </em>
+      <br/><em>25 januari 2021 </em>
     </div>
   </td>
 
@@ -80,10 +80,10 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
     </a>
     <div>
       <a href="episodes/exl-live-episode-05-26-22.md">
-        <strong>Fråga experterna: Grunderna i Web SDK</strong>
+        <strong> Fråga experterna: Grunderna i Web SDK </strong>
       </a>
-      <br/><em>med Rudi Shumpert, Jeff Chasin och Eric Matisoff</em>
-      <br/><em>26 maj 2022</em>
+      <br/><em> med Rudi Shumpert, Jeff Chasin och Eric Matisoff </em>
+      <br/><em>26 maj 2022 </em>
     </div>
   </td>
   </tr>
@@ -93,4 +93,4 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 >[!TIP]
 >
->Om du vill ha fler inlärningsmetoder kan du titta på vår kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) såväl som individ [självstudier](https://experienceleague.adobe.com/docs/home-tutorials.html).
+>Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).
