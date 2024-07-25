@@ -9,18 +9,27 @@ doc-type: Event
 duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
-source-git-commit: c1716eac12bc496f866db8dce1f67235dc75c319
+exl-id: 811852d0-9900-43cc-b6d8-29c8b2fef40c
+source-git-commit: 7358d62eee1468e65b4ec073de1344a54dac41ce
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
-
 # Förbereda för Marketo Engage på Adobe-identitet
+
+Det här är en utbildning om migrering för [Adobe Marketo Engage-prenumerationer som ska integreras med Adobe Identity Management System](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Innehållet passar bäst för Marketo Engage-administratörer. Den här utbildningen ger dig den kunskap du behöver för att förbereda din organisation för funktionalitet och utbilda interna användare i denna kommande förändring.
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
 ## Översikt
 
-Det främsta syftet med denna utbildningssession är att migrera Marketo Engage till Adobe Identity och Admin Console i Adobe. Det täcker viktiga aspekter av varje steg (produkt, användare och supportövergång) av migreringsresan med större betoning på användarmigrering - vilka ändringar som görs eller inte ändras, åtgärder som organisationens administratörer eller användare behöver samt kommunikation från Adobe vid varje milstolpe. Den fördjupar sig i nyckelområden som schemaläggning av ett migreringsdatum i fasen före migreringen, vad som förväntas under migreringen av användaren och navigering i migreringskonsolen under självmigreringen. Fullständigt med länkar till användbara resurser och fyra viktiga steg för att förbereda organisationen.
+Denna utbildningssession fokuserar på att migrera Marketo Engage-prenumerationer till Adobe Identity och Admin Console i Adobe. Det täcker viktiga aspekter av varje fas (produkt-, användar- och supportövergång) av migreringsresan med huvudfokus på användarmigrering.
+
+## Under den här sessionen kommer du att förvänta dig att höra:
+
+1. Översikt över vilka ändringar som görs eller inte ändras, vilka migreringsåtgärder som krävs av organisationens administratörer eller användare samt kommunikation från Adobe vid varje milstolpe.
+1. Viktiga migreringsåtgärder är bland annat att schemalägga ett migreringsdatum under förmigreringen, vad som ska förväntas under användarmigreringen och navigera i migreringskonsolen för instanser som är berättigade till självmigrering.
+1. Resurser och fyra viktiga steg som administratörer bör ta för att förbereda organisationen för kommande ändringar.
