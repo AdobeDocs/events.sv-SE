@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 33de0c8d1af0afe68c602cc566f9fb91a148a302
+source-git-commit: 4382796f5fa84ca4ceecd49b8138a45a3da16a8d
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '176'
 ht-degree: 1%
 
 ---
@@ -51,39 +51,39 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 <table style="max-width: 1214px;">
 
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-21-22.md">
-      <img alt="Experience League LIVE 21 april" src="assets/youtube-thumbnails/april-21-yt.jpg">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
+      <img alt="Experience League LIVE 21 april" src="episodes/assets/WebBanner-June26-2024.jpg">
     </a>
     <div>
-      <a href="/help/experience-league-live/episodes/exl-live-episode-04-21-22.md">
-        <strong>AEM från Headful till Headless </strong>
+      <a href="episodes/exl-live-episode-06-26-24.md">
+        <strong>Hur de senaste Adobe Real-Time CDP-releaserna kan flytta nålen för ditt företag </strong>
       </a>
-      <br/><em> med Danny Gordon, Amol Anand, Sachin Mali och Sean Steimer </em>
-      <br/><em>21 april 2022 </em>
+      <br/><em> med Nina Caruso, Rudi Shumpert och Doug Moore </em>
+      <br/><em>26 juni 2024</em>
     </div>
   </td>
 
 <td style="vertical-align: top;">
-    <a href="episodes/exl-live-episode-08.md">
-      <img alt="Experience League LIVE ep8" src="./assets/youtube-thumbnails/jan-25-yt.jpg">
+    <a href="episodes/exl-live-episode-05-16-24.md">
+      <img alt="Experience League LIVE ep8" src="episodes/assets/WebBanner-May16-2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics - den inre Scoop</strong></a>
-      <br/><em> med Trevor Paulsen, Rohit Gossain, Alex Strawn </em>
-      <br/><em>25 januari 2021 </em>
+      <a href="episodes/exl-live-episode-05-16-24.md"><strong>Så här migrerar du Analytics till Web SDK </strong></a>
+      <br/><em>med Mitch Rice, Joe Khoury och Doug Moore</em>
+      <br/><em>16 maj 2024 </em>
     </div>
   </td>
 
 <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-26-22.md">
-      <img alt="Experience League LIVE 26 maj" src="assets/May26_exl_live_banner_web_1920_WebBanner.png">
+      <img alt="Experience League LIVE 26 maj" src="episodes/assets/WebBanner-Apr24-2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-05-26-22.md">
-        <strong> Fråga experterna: Grunderna i Web SDK </strong>
+      <a href="episodes/exl-live-episode-04-24-24.md">
+        <strong> Ny kodbaserad upplevelsekanal i Journey Optimizer </strong>
       </a>
-      <br/><em> med Rudi Shumpert, Jeff Chasin och Eric Matisoff </em>
-      <br/><em>26 maj 2022 </em>
+      <br/><em> med Sandra Hausmann, Robert Calangiu och Brent Kostak </em>
+      <br/><em>24 april 2024 </em>
     </div>
   </td>
   </tr>
