@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM Sessions
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
+source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 <img alt="Digitala upplevelser" src="./assets/ADX_Gems.png"/>
 
-## Kommande AEM GEM:s webbinarium - Integrera privata GitHub-databaser i AEM Cloud Manager
+## Kommande AEM GEM:s webbinarium - Integrera AEM Assets med Edge Delivery Services
 
-Det här webbinariet kommer att genomföras onsdagen den 31 juli - 17:00 CEST / 8:00 PDT / 20:00 IST. Observera att endast registrering krävs för det här webbinariet - registrera [här](https://adobe.ly/3LmXfGk).
+Det här webbinariet kommer att genomföras onsdagen den 21 augusti - kl. 17.00 CEST / kl. 8.00 PDT / kl. 20.30 IST. Observera att endast registrering krävs för det här webbinariet - registrera [här](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-integrating-aem-assets-with-edge-delivery-services/).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -48,11 +48,11 @@ Det här webbinariet kommer att genomföras onsdagen den 31 juli - 17:00 CEST / 
 
 -->
 
-## Föregående AEM GEM-händelse
+## Föregående AEM GEMs webbinarium
 
-Vårt senaste AEM GEM:er-webbinarium om **Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser** har utförts den *19 juni 2024*.
+Vårt senaste AEM GEM-webbinarium om att **integrera privata GitHub-databaser i AEM Cloud Manager** har genomförts den *31 juli 2024*.
 **inspelningen** finns här:
-[ Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser ](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
+[Integrera privata GitHub-databaser i AEM Cloud Managers ](gems2024/private-github-for-aem-cloud-manager.md)
 
 >[!NOTE]
 >
