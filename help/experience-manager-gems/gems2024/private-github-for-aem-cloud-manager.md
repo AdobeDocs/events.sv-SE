@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
-source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
+source-git-commit: 8191106e64cbfb6337e37c411e56630d59aabe2e
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -43,6 +43,6 @@ Under det här AEM GEM-webbinariet kommer vi att visa hur du får ut det mesta a
 
 >[!NOTE]
 >
->* Besök respektive [Sammanhangsberoende tråd](tbd) för webbinarium-/ämnesspecifika communityinteraktioner på det här webbinariet på Experience League.
+>* Besök respektive [Sammanhangsberoende tråd](https://adobe.ly/4f1jhMo) för webbinarium-/ämnesspecifika communityinteraktioner på det här webbinariet på Experience League.
 >
 >* Om du vill få meddelanden om våra kommande webbinarier registrerar du dig på [Adobe AEM User Group](https://aem-augs.adobe.com/).
