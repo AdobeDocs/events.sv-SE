@@ -8,7 +8,7 @@ doc-type: Event
 duration: 2740
 last-substantial-update: 2024-08-05T00:00:00Z
 jira: KT-15890
-source-git-commit: aa6147e16b48c10fa163e3a939d1edde30f7989c
+source-git-commit: d2954c2c4ed7b83ca6084395e3d414f76109acb9
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 ---
 
 
-# Marknadsförarens karta: En omfattande guide för att utforma, bygga och analysera Marketo-kampanjer
+# Marketerns karta: A Comprehensive Guide to Strategizing, Building, and Analyzing Marketo Campaigns
 
 Under den här Marketo User Group-sessionen får du lära dig hur viktigt det är att planera i kampanjbyggprocessen, inklusive förstå marknadsföringsstrategin och validera den inom Marketo arkitektur.
 
