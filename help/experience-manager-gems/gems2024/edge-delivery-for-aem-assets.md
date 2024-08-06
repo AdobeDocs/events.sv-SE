@@ -9,9 +9,9 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
+source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Det här webbinariet kommer att genomföras den 21 augusti 2024 - kl. 17.00 CEST/kl. 8.00 PDT/kl. 20.30 IST.
 Webbseminariet är kostnadsfritt, endast registrering krävs.
-Registrera [här](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-integrating-aem-assets-with-edge-delivery-services/) om du vill gå med.
+Registrera [här](https://adobe.ly/3LTT3hg) om du vill gå med.
 
 ## Integrera AEM Assets med Edge Delivery Services
 
@@ -34,5 +34,7 @@ Under det här AEM GEM-webbinariet kommer vi att visa hur du kan använda AEM As
 ## Webbinarium Community Interaction
 
 >[!NOTE]
+>
+>* Besök respektive [Sammanhangsberoende tråd](https://adobe.ly/4aCz0OE) för sessionsspecifika communityinteraktioner på Experience League.
 >
 >* Om du vill få meddelanden om våra kommande webbinarier registrerar du dig på [Adobe AEM User Group](https://aem-augs.adobe.com/).

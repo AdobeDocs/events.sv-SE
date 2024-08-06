@@ -12,7 +12,7 @@ type: Event
 user-guide-description: AEM GEM Sessions
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
+source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 ## Kommande AEM GEM:s webbinarium - Integrera AEM Assets med Edge Delivery Services
 
-Det här webbinariet kommer att genomföras onsdagen den 21 augusti - kl. 17.00 CEST / kl. 8.00 PDT / kl. 20.30 IST. Observera att endast registrering krävs för det här webbinariet - registrera [här](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-integrating-aem-assets-with-edge-delivery-services/).
+Det här webbinariet kommer att genomföras onsdagen den 21 augusti - kl. 17.00 CEST / kl. 8.00 PDT / kl. 20.30 IST. Observera att endast registrering krävs för det här webbinariet - registrera [här](https://adobe.ly/3LTT3hg).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
