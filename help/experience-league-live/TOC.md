@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: b38221f215d93a24838a607da1def2129f398bb3
+source-git-commit: d692337e230540fe667072bd12351fd62c5aa4d2
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 0%
 
 + [Översikt](overview.md)
 + Avsnitten {#episodes}
+   + [Ep. 38: Sommarspotlight - Tre måste prova funktioner i Adobe Journey Optimizer](episodes/exl-live-episode-08-28-24.md)
    + [Ep. 37: Hur de senaste Adobe Real-Time CDP-releaserna kan flytta nålen för ditt företag](episodes/exl-live-episode-06-26-24.md)
    + [Ep. 36: Så här migrerar du Analytics till Web SDK](episodes/exl-live-episode-05-16-24.md)
    + [Ep. 35: Ny kodbaserad upplevelsekanal i Journey Optimizer](episodes/exl-live-episode-04-24-24.md)
