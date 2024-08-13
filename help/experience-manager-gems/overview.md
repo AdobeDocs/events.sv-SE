@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM Sessions
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
+source-git-commit: 5ea58365068d0e97175bde8b27e9bf995c1b46a9
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,8 @@ Välkommen till **AEM GEM:er** - våra webbinarier med tekniska djupdykningar om
 
 Webbseminarierna kommer att genomföras regelbundet, bland annat följande:
 
-* Maximala 60 minuter
-* Frågor och svar i slutet och chattexperterna som finns i webbinariet
+* Maximalt 60 minuter per webbinarium
+* &lt; 15 minuter frågor och svar och chattexperter är tillgängliga i hela webbinariet
 * Inspelning tillgänglig efter varje webbinarium
 * Alla AEM GEM:s webbinarier är kostnadsfria och genomförs i stort sett, endast registrering krävs.
 
