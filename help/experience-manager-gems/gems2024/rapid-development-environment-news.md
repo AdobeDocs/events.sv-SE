@@ -9,9 +9,9 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 75e71817dd313f37d258b0edc8b66dab95f70cbd
+source-git-commit: 2566ab3bb8dbb6d240dba157bbcb8dadb1c0b43a
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Det här webbinariet kommer att genomföras 4 september 2024 - 17:00 CEST/8:00 PDT/20:00 IST.
 Webbseminariet är kostnadsfritt, endast registrering krävs.
-Registrera [här](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-whats-new-in-rapid-development-environments/) om du vill gå med.
+Registrera [här](https://adobe.ly/4cwc5W4) om du vill gå med.
 
 ## Nyheter i miljöer med snabb utveckling?
 
@@ -37,6 +37,6 @@ Tack vare de lokala redigeringssystemen kan utvecklare snabbt driftsätta och gr
 
 >[!NOTE]
 >
->* Besök respektive sammanhangstråd som blir tillgänglig den 23 augusti för information om sessionsspecifika communityinteraktioner på Experience League.
+>* Besök respektive [Sammanhangsberoende tråd](https://adobe.ly/3M8MFTE) för sessionsspecifika communityinteraktioner på Experience League.
 >
 >* Om du vill få meddelanden om våra kommande webbinarier registrerar du dig på [Adobe AEM User Group](https://aem-augs.adobe.com/).
