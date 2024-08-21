@@ -1,5 +1,5 @@
 ---
-title: Nyheter i miljöer med snabb utveckling?
+title: Nyheter i miljöer för snabb utveckling för AEM?
 description: Tack vare de lokala redigeringssystemen kan utvecklare snabbt driftsätta och granska ändringar, vilket minimerar den tid som krävs för att testa funktioner som är beprövade i en lokal utvecklingsmiljö. Under den här sessionen ska vi visa hur du kan använda RDE för att minska omvändningstiden under utvecklingen och få nästan omedelbar feedback för kodändringar. Dessutom kommer vi att presentera de senaste funktionerna som förbättrad loggning och stöd för frontend. Följ oss för att lära dig mer om vad du kan göra med de skrivskyddade redigeringssystemen och tala om för oss vad du vill ska läggas till härnäst!
 solution: Experience Manager
 version: Cloud Service
@@ -9,9 +9,9 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 2566ab3bb8dbb6d240dba157bbcb8dadb1c0b43a
+source-git-commit: 06d87b13be213513469f77fd44782f6ae27ffc30
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Det här webbinariet kommer att genomföras 4 september 2024 - 17:00 CEST/8:00 P
 Webbseminariet är kostnadsfritt, endast registrering krävs.
 Registrera [här](https://adobe.ly/4cwc5W4) om du vill gå med.
 
-## Nyheter i miljöer med snabb utveckling?
+## Nyheter i miljöer för snabb utveckling för AEM?
 
 Tack vare de lokala redigeringssystemen kan utvecklare snabbt driftsätta och granska ändringar, vilket minimerar den tid som krävs för att testa funktioner som är beprövade i en lokal utvecklingsmiljö. Under den här sessionen ska vi visa hur du kan använda RDE för att minska omvändningstiden under utvecklingen och få nästan omedelbar feedback för kodändringar. Dessutom kommer vi att presentera de senaste funktionerna som förbättrad loggning och stöd för frontend. Följ oss för att lära dig mer om vad du kan göra med de skrivskyddade redigeringssystemen och tala om för oss vad du vill ska läggas till härnäst!
 
