@@ -2,9 +2,9 @@
 user-guide-title: Adobe - nöjda webbseminarier
 breadcrumb-title: Adobe - nöjda webbseminarier
 user-guide-description: Adobe kundnöjda webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe-lösningar.
-source-git-commit: 32b9aa55a48d744e695ca23b88f927c9fc538bb0
+source-git-commit: 3bcce2d2a01f5ed1abbc8fccd59512fe8a070fae
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,6 @@ ht-degree: 0%
    + [Använd funktioner för att mappa ärenden till lösningar](2024/use-case-mapping.md)
    + [Grundläggande om Web SDK-migrering](2024/web-sdk-migration.md)
    + [AEP App Services-integreringar för kundärenden](2024/aep-apps-services-integrations.md)
-   + [Commerce &amp; Coffee: Strategies for B2B eCommerce](2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md)
    + [Marketo Measure &amp; Mochas: Verksamheter och anpassade modeller](2024/marketo-measure-and-mochas-activities-and-custom-models.md)
 + 2023 {#2023}
    + [Building the Foundation for Personalization at Scale](2023/personalization-at-scale.md)
