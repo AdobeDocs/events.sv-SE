@@ -9,18 +9,16 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
+source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
 
 # Webbinarium: 21 augusti 2024
 
-Det här webbinariet kommer att genomföras den 21 augusti 2024 - kl. 17.00 CEST/kl. 8.00 PDT/kl. 20.30 IST.
-Webbseminariet är kostnadsfritt, endast registrering krävs.
-Registrera [här](https://adobe.ly/3LTT3hg) om du vill gå med.
+Det här webbinariet har slutförts - se inspelningen nedan.
 
 ## Integrera AEM Assets med Edge Delivery Services
 
@@ -31,8 +29,10 @@ Under det här AEM GEM-webbinariet kommer vi att visa hur du kan använda AEM As
 * Satya Deep Maheshwari, forskningschef, Adobe
 * Ashutosh Shroti, forskningschef, Adobe
 
-## Webbinarium Community Interaction
+## Inspelning av webbinarium
 
+>[!VIDEO](https://video.tv.adobe.com/v/3433046/)
+>
 >[!NOTE]
 >
 >* Besök respektive [Sammanhangsberoende tråd](https://adobe.ly/4aCz0OE) för sessionsspecifika communityinteraktioner på Experience League.

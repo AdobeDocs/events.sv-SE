@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM Sessions
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 5ea58365068d0e97175bde8b27e9bf995c1b46a9
+source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,10 @@ ht-degree: 0%
 
 <img alt="Digitala upplevelser" src="./assets/ADX_Gems.png"/>
 
-## Kommande AEM GEM:s webbinarium - Integrera AEM Assets med Edge Delivery Services
+## Kommande AEM GEM:s webbinarium - Vad är nytt i Rapid Development Environment för AEM?
 
-Det här webbinariet kommer att genomföras onsdagen den 21 augusti - kl. 17.00 CEST / kl. 8.00 PDT / kl. 20.30 IST. Observera att endast registrering krävs för det här webbinariet - registrera [här](https://adobe.ly/3LTT3hg).
+Det här webbinariet kommer att hållas onsdagen den 4 september - 17:00 CEST/8:00 PDT/20:00 IST. Observera att endast registrering krävs för det här webbinariet.
+Registrera [här](https://adobe.ly/3LTT3hg) om du vill gå med.
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -50,9 +51,9 @@ Det här webbinariet kommer att genomföras onsdagen den 21 augusti - kl. 17.00 
 
 ## Föregående AEM GEMs webbinarium
 
-Vårt senaste AEM GEM-webbinarium om att **integrera privata GitHub-databaser i AEM Cloud Manager** har genomförts den *31 juli 2024*.
+Vårt senaste AEM GEM-webbinarium om **integrering av AEM Assets med Edge Delivery Services** har genomförts den *2 augusti 2024*.
 **inspelningen** finns här:
-[Integrera privata GitHub-databaser i AEM Cloud Managers ](gems2024/private-github-for-aem-cloud-manager.md)
+[Integrera AEM Assets med Edge Delivery Services](gems2024/edge-delivery-for-aem-assets.md)
 
 >[!NOTE]
 >
