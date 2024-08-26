@@ -2,9 +2,9 @@
 user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
-source-git-commit: e5c41210809983e9b6d2854f6ecf75e44976d019
+source-git-commit: 02ca017c96958afecfa431513997e22e830f0c4e
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,6 @@ ht-degree: 0%
 + Agile {#agile}
    + [Agile in Marketing](user-groups/agile-in-marketing.md)
 + Rapportering och instrumentpaneler {#reporting-and-dashboards}
-   + [Avancerad rapportering](user-groups/advanced-reporting.md)
    + [Kreativa myndigheter: Rapporter och kontrollpaneler](user-groups/creative-agencies-reporting-and-dashboards.md)
    + [Mätningskvalitet och engagemang](webinars/gauging-quality-and-engagement.md)
    + [Introduktion till textlägesrapportering](webinars/introduction-to-text-mode-reporting.md)
