@@ -2,9 +2,9 @@
 user-guide-title: Adobe - nöjda webbseminarier
 breadcrumb-title: Adobe - nöjda webbseminarier
 user-guide-description: Adobe kundnöjda webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe-lösningar.
-source-git-commit: 3bcce2d2a01f5ed1abbc8fccd59512fe8a070fae
+source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -14,17 +14,20 @@ ht-degree: 0%
 
 + [Adobe - nöjda webbseminarier](overview.md)
 + 2024 {#2024}
+   + [AEP App Services-integreringar för kundärenden](2024/aep-apps-services-integrations.md)
+   + [AEP - fallplanering](2024/aep-use-case-planning.md)
    + [Adobe Workfront - Lean Teams](2024/workfront-lean-teams.md)
    + [Prioritering för dataström](2024/data-stream-prioritization.md)
    + [Effektiv ändringshantering](2024/effective-change-management.md)
    + [Empowering Lean Teams](2024/empowering-lean-teams.md)
    + [Expedia går från Adobe Analytics till Customer Journey Analytics](2024/expedia-aa-to-cja.md)
+   + [Grundläggande om Workfront System and Group Admin Guardianship](2024/workfront-admin-guardianship.md)
    + [Hyperpersonalisering](2024/hyperpersonalization.md)
+   + [Journey Optimizer Mobile Capabilities](2024/journey-optimizer-mobile-capabilities.md)
    + [Strategisk ledning](2024/strategic-leadership.md)
    + [Använd funktioner för att mappa ärenden till lösningar](2024/use-case-mapping.md)
    + [Grundläggande om Web SDK-migrering](2024/web-sdk-migration.md)
-   + [AEP App Services-integreringar för kundärenden](2024/aep-apps-services-integrations.md)
-   + [Marketo Measure &amp; Mochas: Verksamheter och anpassade modeller](2024/marketo-measure-and-mochas-activities-and-custom-models.md)
+
 + 2023 {#2023}
    + [Building the Foundation for Personalization at Scale](2023/personalization-at-scale.md)
    + [Ändra hantering](2023/change-management.md)
