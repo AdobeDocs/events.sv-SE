@@ -9,7 +9,7 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
+source-git-commit: 9dc54b9034ffa5e533df2c026b9d6518f50c6531
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -35,6 +35,6 @@ Under det här AEM GEM-webbinariet kommer vi att visa hur du kan använda AEM As
 >
 >[!NOTE]
 >
->* Besök respektive [Sammanhangsberoende tråd](https://adobe.ly/4aCz0OE) för sessionsspecifika communityinteraktioner på Experience League.
+>* Besök respektive [Sammanhangsberoende tråd](https://adobe.ly/3LSCVfX) för sessionsspecifika communityinteraktioner på Experience League.
 >
 >* Om du vill få meddelanden om våra kommande webbinarier registrerar du dig på [Adobe AEM User Group](https://aem-augs.adobe.com/).
