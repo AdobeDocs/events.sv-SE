@@ -2,9 +2,9 @@
 user-guide-title: Adobe - nöjda webbseminarier
 breadcrumb-title: Adobe - nöjda webbseminarier
 user-guide-description: Adobe kundnöjda webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe-lösningar.
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+source-git-commit: 87a01d0a4002a35bf538c6ac32ee6631c38f25c0
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,15 @@ ht-degree: 0%
 + 2024 {#2024}
    + [AEP App Services-integreringar för kundärenden](2024/aep-apps-services-integrations.md)
    + [AEP - fallplanering](2024/aep-use-case-planning.md)
+   + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Workfront - Lean Teams](2024/workfront-lean-teams.md)
    + [Prioritering för dataström](2024/data-stream-prioritization.md)
    + [Effektiv ändringshantering](2024/effective-change-management.md)
    + [Empowering Lean Teams](2024/empowering-lean-teams.md)
    + [Expedia går från Adobe Analytics till Customer Journey Analytics](2024/expedia-aa-to-cja.md)
    + [Grundläggande om Workfront System and Group Admin Guardianship](2024/workfront-admin-guardianship.md)
+   + [Lean Teams och Customer Journey Analytics](2024/lean-teams-cja.md)
+   + [Personalization](2024/target-personalization.md)
    + [Hyperpersonalisering](2024/hyperpersonalization.md)
    + [Journey Optimizer Mobile Capabilities](2024/journey-optimizer-mobile-capabilities.md)
    + [Strategisk ledning](2024/strategic-leadership.md)
