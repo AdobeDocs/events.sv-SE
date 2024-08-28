@@ -2,9 +2,9 @@
 user-guide-title: Adobe - nöjda webbseminarier
 breadcrumb-title: Adobe - nöjda webbseminarier
 user-guide-description: Adobe kundnöjda webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe-lösningar.
-source-git-commit: 87a01d0a4002a35bf538c6ac32ee6631c38f25c0
+source-git-commit: 12447442bb31bec89d2c82b45cf15a8c99bd34ce
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -23,10 +23,13 @@ ht-degree: 0%
    + [Empowering Lean Teams](2024/empowering-lean-teams.md)
    + [Expedia går från Adobe Analytics till Customer Journey Analytics](2024/expedia-aa-to-cja.md)
    + [Grundläggande om Workfront System and Group Admin Guardianship](2024/workfront-admin-guardianship.md)
+   + [Komma igång med Adobe Journey Optimizer Analysis](2024/getting-started-ajo-analysis.md)
    + [Lean Teams och Customer Journey Analytics](2024/lean-teams-cja.md)
+   + [Mastering Cookies och dataintegritet](2024/mastering-cookies-data-privacy.md)
    + [Personalization](2024/target-personalization.md)
    + [Hyperpersonalisering](2024/hyperpersonalization.md)
    + [Journey Optimizer Mobile Capabilities](2024/journey-optimizer-mobile-capabilities.md)
+   + [Real-time Customer Data Platform migreringsberedskap](2024/rtcdp-migration-readiness.md)
    + [Strategisk ledning](2024/strategic-leadership.md)
    + [Använd funktioner för att mappa ärenden till lösningar](2024/use-case-mapping.md)
    + [Grundläggande om Web SDK-migrering](2024/web-sdk-migration.md)
