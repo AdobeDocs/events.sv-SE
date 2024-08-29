@@ -3,10 +3,10 @@ user-guide-title: Kunskapsutbyte
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Samling av inspelningar från Experience Makers Kunskapsutbyte
 event-series: The Skill Exchange
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
 workflow-type: tm+mt
-source-wordcount: '526'
-ht-degree: 5%
+source-wordcount: '581'
+ht-degree: 4%
 
 ---
 
@@ -14,7 +14,16 @@ ht-degree: 5%
 # Kunskapsutbyte {#the-skill-exchange-recordings}
 
 + [Översikt](overview.md)
++ Adobe Commerce {#commerce}
+   + aug 2024 {#aug2024}
+      + [Öka Adobe Commerce prestanda](commerce/aug2024/commerce-performance.md)
+      + [Maximera SEO i hela migreringsarbetsflöden](commerce/aug2024/seo-migration-workflows.md)
 + Analyser {#analytics}
+   + aug 2024 {#aug2024}
+      + [Attributionsbegrepp på hög nivå](analytics/aug2024/attribution-concepts.md)
+      + [Identifiera värdefulla insikter](analytics/aug2024/uncover-valuable-insights.md)
+      + [Använda beräknade värden](analytics/aug2024/calculated-metrics.md)
+      + [Visualiseringar med Analysis Workspace](analytics/aug2024/spotlight-visualizations.md)
    + aug 2023 {#aug2023}
       + [Alla Om segment](analytics/aug2023/spotlight-segments.md)
       + [Analysera data](analytics/aug2023/analyze-the-data.md)
@@ -77,6 +86,10 @@ ht-degree: 5%
       + [Marknadsföringskanaler, använd ansvarsfullt](analytics/jun2021/marketing-channels.md)
       + [Sammanfoga allt](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+   + Augusti 2024 {#aug2024}
+      + [AEM Sites med Universal Editor](aem/aug2024/universal-editor.md)
+      + [Mallar för Headless och SPA Editor](aem/aug2024/headless-spa-editor.md)
+      + [Strategier för hantering av digitala resurser](aem/aug2024/spotlight-dam-strategies.md)
    + Augusti 2023 {#aug2023}
       + Utvecklarspår {#developer-track}
          + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
@@ -125,10 +138,13 @@ ht-degree: 5%
    + Augusti 2024 {#aug2024}
       + [Öppnar inledningsanförandet](workfront/aug2024/keynote.md)
       + [Anpassa arbetsbelastningsutjämnaren](workfront/aug2024/workload-balancer.md)
+      + [Datakvalitet](workfront/aug2024/data-quality.md)
       + [Förbättra godkännandeupplevelsen](workfront/aug2024/approval-experience.md)
+      + [Workfront Fusion and Boards](workfront/aug2024/fusion-boards.md)
       + [Marknadsföringsmaterialets leveranskedja](workfront/aug2024/content-supply-chain.md)
       + [Processförbättringar och driftseffektivitet](workfront/aug2024/spotlight-process-operations.md)
       + [Lagring och engagemangsresor](workfront/aug2024/retention-engagement-journey.md)
+      + [Anpassa Workfront hemsidor](workfront/aug2024/tailoring-homepages.md)
       + [Omvandla processflöden till Workfront Wins](workfront/aug2024/spotlight-process-flows.md)
    + Augusti 2023 {#aug2023}
       + [En introduktion till styrelser](workfront/aug2023/introduction-to-boards.md)
