@@ -1,16 +1,17 @@
 ---
 title: Spotlight - Tre måste prova funktioner i Adobe Journey Optimizer
 description: Utnyttja kundengagemanget i sommar med Adobe Journey Optimizer tre funktioner - reseexperiment, frekvensbegränsning och flerspråkiga meddelanden
-kt: KT-15471
+kt: 15471
 solution: Journey Optimizer
 feature: Experimentation, Frequency Rules
 event-cta-url-live: https://www.youtube.com/live/u_UEsl2Nw3M
 event-start-time: 2024-08-28 09:00-7
 event-guests: Sandra Hausmann, Keara Fausett, Aaron Forrest, Justin Grover
 duration: 25
-source-git-commit: 5bde08b8abfa315e3d423947b143702fe15876c8
+exl-id: 858bc394-66a4-4d35-bf53-ed9e2bd47a5d
+source-git-commit: 6b39a63bc2791069fa2b4c7ae45d7c0091898729
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -19,9 +20,8 @@ ht-degree: 0%
 
 Utnyttja kundengagemanget i sommar med Adobe Journey Optimizer tre funktioner: reseexperiment, frekvensbegränsning och flerspråkiga meddelanden.
 
-[![ExL LIVE 2024-08-28](assets/WebBanner-aug-28-2024.png)](https://www.youtube.com/live/u_UEsl2Nw3M)
+>[!VIDEO](https://video.tv.adobe.com/v/3433225/?learn=on)
 
-**[Ställ in en påminnelse till programmet på YouTube](https://www.youtube.com/live/u_UEsl2Nw3M){target="_blank"}**
 
 **Visa detaljer**:
 I takt med att sommaren värms upp finns det också möjligheter att engagera era kunder på nya och slagkraftiga sätt. Delta i en timmes Experience League Live för Journey Optimizer-användare, oavsett om du arbetar med marknadsföring, kampanj-/resehantering eller kundupplevelser, där vi tar del av de kraftfulla funktionerna i Adobe Journey Optimizer.
@@ -29,3 +29,5 @@ I takt med att sommaren värms upp finns det också möjligheter att engagera er
 Upptäck hur upplevelseexperimenterande kan hjälpa er att finjustera era kundinteraktioner för optimala resultat under hela kundresan. Lär dig implementera frekvensbegränsning för att undvika överkommunikation och se till att dina meddelanden når upp. Utforska fördelarna med flerspråkiga meddelanden och få kontakt med olika målgrupper på de språk de föredrar.
 
 Detta sommartidsevenemang kommer att förbättra era flerkanalsstrategier för marknadsföring och få ut så mycket som möjligt av säsongens engagemangsmöjligheter. Missa inte denna chans att lyfta era kundresor och kampanjer för att lyckas med Adobe Journey Optimizer.
+
+**Fortsätt diskussionen på [Adobe Journey Optimizer Community Q&amp;A Coffee Break](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu[...]28th-8-30-am-pt-superaddar-your/td-p/697931) i Journey Optimizer Community Forum.**
