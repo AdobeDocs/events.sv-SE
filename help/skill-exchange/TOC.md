@@ -3,9 +3,9 @@ user-guide-title: Kunskapsutbyte
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Samling av inspelningar från Experience Makers Kunskapsutbyte
 event-series: The Skill Exchange
-source-git-commit: 28a55b5e5e6716f970585d721edd5ab411d3aa45
+source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '658'
 ht-degree: 4%
 
 ---
@@ -20,10 +20,15 @@ ht-degree: 4%
       + [Öka Adobe Commerce prestanda](commerce/aug2024/commerce-performance.md)
       + [Effektiv utbyggbarhet](commerce/aug2024/extensibility.md)
       + [Maximera SEO i hela migreringsarbetsflöden](commerce/aug2024/seo-migration-workflows.md)
+      + [Personalisera kundupplevelsen](commerce/aug2024/personalization.md)
 + Analyser {#analytics}
    + aug 2024 {#aug2024}
       + [Öppnar inledningsanförandet](analytics/aug2024/keynote.md)
+      + [Varningar och anteckningar](analytics/aug2024/alerts-annotations.md)
+      + [Experience Makers Spotlight](analytics/aug2024/spotlight-reporting-analysis.md)
       + [Attributionsbegrepp på hög nivå](analytics/aug2024/attribution-concepts.md)
+      + [Titta närmare på segmentering](analytics/aug2024/segmentation.md)
+      + [Marknadskanaler och attribuering](analytics/aug2024/marketing-channels-attribution.md)
       + [Identifiera värdefulla insikter](analytics/aug2024/uncover-valuable-insights.md)
       + [Använda beräknade värden](analytics/aug2024/calculated-metrics.md)
       + [Visualiseringar med Analysis Workspace](analytics/aug2024/spotlight-visualizations.md)
@@ -92,10 +97,12 @@ ht-degree: 4%
    + Augusti 2024 {#aug2024}
       + [Öppnar inledningsanförandet](aem/aug2024/keynote.md)
       + [AEM Sites med Universal Editor](aem/aug2024/universal-editor.md)
-      + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
       + [Enhetliga upplevelser med AEM anpassning och styrning](aem/aug2024/customize-elements.md)
-      + [Mallar för Headless och SPA Editor](aem/aug2024/headless-spa-editor.md)
       + [Strategier för hantering av digitala resurser](aem/aug2024/spotlight-dam-strategies.md)
+      + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
+      + [Förbättra innehållsförsörjningskedjan](aem/aug2024/spotlight-content-supply-chain.md)
+      + [Mallar för Headless och SPA Editor](aem/aug2024/headless-spa-editor.md)
+      + [Print Production](aem/aug2024/print-production.md)
    + Augusti 2023 {#aug2023}
       + Utvecklarspår {#developer-track}
          + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
@@ -121,8 +128,13 @@ ht-degree: 4%
    + Augusti 2024 {#aug2024}
       + [Öppnar inledningsanförandet](marketo/aug2024/keynote.md)
       + [Avancerade program i engagemangsprogram](marketo/aug2024/advanced-applications-engagment-programs.md)
+      + [Förbättra prestanda med A/B-testning](marketo/aug2024/a-b-testing.md)
+      + [Livscykelhantering och analys](marketo/aug2024/lifecycle-management-analytics.md)
+      + [Effektivitet vid marknadsföring](marketo/aug2024/spotlight-marketing-ops-efficiency.md)
       + [Lagring och engagemangsresor](marketo/aug2024/retention-engagement-journey.md)
       + [Smart List-logik](marketo/aug2024/smart-list-logic.md)
+      + [Spotlight - interaktiva webbinarier](marketo/aug2024/spotlight-interactive-webinars.md)
+      + [Använda granskningsspår och kampanjinspektör](marketo/aug2024/audit-trail-campaign-inspector.md)
    + Februari 2022 {#feb2022}
       + [Dataunderhåll](marketo/feb2022/data-maintenance.md)
       + [Dynamiskt innehåll och kraften i Personalization](marketo/feb2022/dynamic-content.md)
