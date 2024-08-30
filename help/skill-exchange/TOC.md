@@ -3,9 +3,9 @@ user-guide-title: Kunskapsutbyte
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Samling av inspelningar från Experience Makers Kunskapsutbyte
 event-series: The Skill Exchange
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '615'
 ht-degree: 4%
 
 ---
@@ -16,10 +16,13 @@ ht-degree: 4%
 + [Översikt](overview.md)
 + Adobe Commerce {#commerce}
    + aug 2024 {#aug2024}
+      + [Öppnar inledningsanförandet](workfront/aug2024/keynote.md)
       + [Öka Adobe Commerce prestanda](commerce/aug2024/commerce-performance.md)
+      + [Effektiv utbyggbarhet](commerce/aug2024/extensibility.md)
       + [Maximera SEO i hela migreringsarbetsflöden](commerce/aug2024/seo-migration-workflows.md)
 + Analyser {#analytics}
    + aug 2024 {#aug2024}
+      + [Öppnar inledningsanförandet](analytics/aug2024/keynote.md)
       + [Attributionsbegrepp på hög nivå](analytics/aug2024/attribution-concepts.md)
       + [Identifiera värdefulla insikter](analytics/aug2024/uncover-valuable-insights.md)
       + [Använda beräknade värden](analytics/aug2024/calculated-metrics.md)
@@ -87,7 +90,11 @@ ht-degree: 4%
       + [Sammanfoga allt](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
    + Augusti 2024 {#aug2024}
+      + [Öppnar inledningsanförandet](aem/aug2024/keynote.md)
       + [AEM Sites med Universal Editor](aem/aug2024/universal-editor.md)
+      + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
+      + [Enhetliga upplevelser med AEM anpassning och styrning](aem/aug2024/customize-elements.md)
+      + [Anpassa element](aem/aug2024/customize-elements.md)
       + [Mallar för Headless och SPA Editor](aem/aug2024/headless-spa-editor.md)
       + [Strategier för hantering av digitala resurser](aem/aug2024/spotlight-dam-strategies.md)
    + Augusti 2023 {#aug2023}
@@ -112,6 +119,11 @@ ht-degree: 4%
          + [Öka affärsvärdet med innehållspersonalisering i AEM](aem/aug2022/personalization.md)
          + [Maximera implementeringen av AEM](aem/aug2022/implementation.md)
 + Marketo {#marketo}
+   + Augusti 2024 {#aug2024}
+      + [Öppnar inledningsanförandet](marketo/aug2024/keynote.md)
+      + [Avancerade program i engagemangsprogram](marketo/aug2024/advanced-applications-engagment-programs.md)
+      + [Lagring och engagemangsresor](marketo/aug2024/retention-engagement-journey.md)
+      + [Smart List-logik](marketo/aug2024/smart-list-logic.md)
    + Februari 2022 {#feb2022}
       + [Dataunderhåll](marketo/feb2022/data-maintenance.md)
       + [Dynamiskt innehåll och kraften i Personalization](marketo/feb2022/dynamic-content.md)
@@ -143,7 +155,6 @@ ht-degree: 4%
       + [Workfront Fusion and Boards](workfront/aug2024/fusion-boards.md)
       + [Marknadsföringsmaterialets leveranskedja](workfront/aug2024/content-supply-chain.md)
       + [Processförbättringar och driftseffektivitet](workfront/aug2024/spotlight-process-operations.md)
-      + [Lagring och engagemangsresor](workfront/aug2024/retention-engagement-journey.md)
       + [Anpassa Workfront hemsidor](workfront/aug2024/tailoring-homepages.md)
       + [Omvandla processflöden till Workfront Wins](workfront/aug2024/spotlight-process-flows.md)
    + Augusti 2023 {#aug2023}
