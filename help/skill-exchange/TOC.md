@@ -3,9 +3,9 @@ user-guide-title: Kunskapsutbyte
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Samling av inspelningar från Experience Makers Kunskapsutbyte
 event-series: The Skill Exchange
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+source-git-commit: 28a55b5e5e6716f970585d721edd5ab411d3aa45
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '613'
 ht-degree: 4%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 4%
 + [Översikt](overview.md)
 + Adobe Commerce {#commerce}
    + aug 2024 {#aug2024}
-      + [Öppnar inledningsanförandet](workfront/aug2024/keynote.md)
+      + [Öppnar inledningsanförandet](commerce/aug2024/keynote.md)
       + [Öka Adobe Commerce prestanda](commerce/aug2024/commerce-performance.md)
       + [Effektiv utbyggbarhet](commerce/aug2024/extensibility.md)
       + [Maximera SEO i hela migreringsarbetsflöden](commerce/aug2024/seo-migration-workflows.md)
@@ -94,7 +94,6 @@ ht-degree: 4%
       + [AEM Sites med Universal Editor](aem/aug2024/universal-editor.md)
       + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
       + [Enhetliga upplevelser med AEM anpassning och styrning](aem/aug2024/customize-elements.md)
-      + [Anpassa element](aem/aug2024/customize-elements.md)
       + [Mallar för Headless och SPA Editor](aem/aug2024/headless-spa-editor.md)
       + [Strategier för hantering av digitala resurser](aem/aug2024/spotlight-dam-strategies.md)
    + Augusti 2023 {#aug2023}
