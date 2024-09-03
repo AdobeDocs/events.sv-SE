@@ -12,7 +12,7 @@ type: Event
 user-guide-description: AEM GEM Sessions
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
+source-git-commit: 3b55664ebc35de2657158bc0d7f365753cbb28eb
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 ## Kommande AEM GEM:s webbinarium - Vad är nytt i Rapid Development Environment för AEM?
 
 Det här webbinariet kommer att hållas onsdagen den 4 september - 17:00 CEST/8:00 PDT/20:00 IST. Observera att endast registrering krävs för det här webbinariet.
-Registrera [här](https://adobe.ly/3LTT3hg) om du vill gå med.
+Registrera [här](https://adobe.ly/3yWr9OY) om du vill gå med.
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
