@@ -1,6 +1,6 @@
 ---
 title: Unlocking Global Marketing with Marketo Engage - Adobe Champion Deep Dive - August 2024
-description: Er organisation är redo att utnyttja Marketo Engage för att stödja flera språk, länder, affärsenheter och/eller produkter, och ni vill påbörja den här omvandlingen på rätt spår. Häng med på Augusti Deep Dive om du vill ha en omfattande guide om hur svårt det är att lansera, underhålla och rapportera om globala marknadsföringssatsningar. Vi kommer att beskriva hur ni strukturerar data och instanser med hjälp av arbetsytor och partitioner, hur ni följer olika lagkrav över hela världen och hur ni stöder era kampanjer med segmenteringar, fragment, dynamiskt innehåll och mycket annat.
+description: Er organisation är redo att utnyttja Marketo Engage för att stödja flera språk, länder, affärsenheter och/eller produkter, och ni vill påbörja den här omvandlingen på rätt spår. Häng med på Augusti Deep Dive om du vill ha en omfattande guide om hur svårt det är att lansera, underhålla och rapportera om globala marknadsföringssatsningar. Vi ska beskriva hur ni strukturerar data och instanser med hjälp av arbetsytor och partitioner, hur ni följer olika lagkrav över hela världen och hur ni stöder era kampanjer med segmenteringar, fragment, dynamiskt innehåll och mycket annat.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,7 +8,7 @@ doc-type: Event
 duration: 3351
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-16119
-source-git-commit: 7f5998a03b576b2b50f0e44507a81187fac10919
+source-git-commit: 6109b20829c1e50664eafb5bc674b781ec26611a
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Unlocking Global Marketing with Marketo Engage - Adobe Champion Deep Dive - August 2024
 
-Er organisation är redo att utnyttja Marketo Engage för att stödja flera språk, länder, affärsenheter och/eller produkter, och ni vill påbörja den här omvandlingen på rätt spår. Häng med på Augusti Deep Dive om du vill ha en omfattande guide om hur svårt det är att lansera, underhålla och rapportera om globala marknadsföringssatsningar. Vi kommer att beskriva hur ni strukturerar data och instanser med hjälp av arbetsytor och partitioner, hur ni följer olika lagkrav över hela världen och hur ni stöder era kampanjer med segmenteringar, fragment, dynamiskt innehåll och mycket annat.
+Er organisation är redo att utnyttja Marketo Engage för att stödja flera språk, länder, affärsenheter och/eller produkter, och ni vill påbörja den här omvandlingen på rätt spår. Häng med på Augusti Deep Dive om du vill ha en omfattande guide om hur svårt det är att lansera, underhålla och rapportera om globala marknadsföringssatsningar. Vi ska beskriva hur ni strukturerar data och instanser med hjälp av arbetsytor och partitioner, hur ni följer olika lagkrav över hela världen och hur ni stöder era kampanjer med segmenteringar, fragment, dynamiskt innehåll och mycket annat.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433245/?learn=on)
 
