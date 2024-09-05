@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM Sessions
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 3b55664ebc35de2657158bc0d7f365753cbb28eb
+source-git-commit: 7c5e261cf6ee05ea1dbe425b015f9ad33f4a20a4
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -23,10 +23,10 @@ ht-degree: 0%
 
 <img alt="Digitala upplevelser" src="./assets/ADX_Gems.png"/>
 
-## Kommande AEM GEM:s webbinarium - Vad är nytt i Rapid Development Environment för AEM?
+## Kommande AEM GEM:s webbinarium - Unlocking the Power of AEM Sites: Master the Content Management APIs
 
-Det här webbinariet kommer att hållas onsdagen den 4 september - 17:00 CEST/8:00 PDT/20:00 IST. Observera att endast registrering krävs för det här webbinariet.
-Registrera [här](https://adobe.ly/3yWr9OY) om du vill gå med.
+Det här webbinariet kommer att hållas onsdagen den 9 oktober - 17:00 CEST/8:00 PDT/20:00 IST. Observera att endast registrering krävs för det här webbinariet.
+Registrera [**här**](https://adobe.ly/4g6TYck) om du vill gå med.
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -51,9 +51,12 @@ Registrera [här](https://adobe.ly/3yWr9OY) om du vill gå med.
 
 ## Föregående AEM GEMs webbinarium
 
-Vårt senaste AEM GEM-webbinarium om **integrering av AEM Assets med Edge Delivery Services** har genomförts den *2 augusti 2024*.
-**inspelningen** finns här:
-[Integrera AEM Assets med Edge Delivery Services](gems2024/edge-delivery-for-aem-assets.md)
+Vårt senaste AEM GEM-webbinarium om **Nyheter i miljöer för snabb utveckling för AEM?** har utförts den *4 september 2024*.
+**inspelningen** är snart tillgänglig..
+
+<!--
+[What's new in Rapid Development Environments for AEM?](gems2024/rapid-development-environment-news.md)
+-->
 
 >[!NOTE]
 >
