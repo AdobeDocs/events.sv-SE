@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM Sessions
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 7c5e261cf6ee05ea1dbe425b015f9ad33f4a20a4
+source-git-commit: 3e9a442e67fab387b886d57bebcc1940631c6ffe
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 <img alt="Digitala upplevelser" src="./assets/ADX_Gems.png"/>
 
-## Kommande AEM GEM:s webbinarium - Unlocking the Power of AEM Sites: Master the Content Management APIs
+## Kommande AEM GEMs webbinarium - AEM Sites: master the Content Management APIs
 
 Det här webbinariet kommer att hållas onsdagen den 9 oktober - 17:00 CEST/8:00 PDT/20:00 IST. Observera att endast registrering krävs för det här webbinariet.
 Registrera [**här**](https://adobe.ly/4g6TYck) om du vill gå med.
