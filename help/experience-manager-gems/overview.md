@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM Sessions
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 3e9a442e67fab387b886d57bebcc1940631c6ffe
+source-git-commit: 1bdf2039e9b44f8f2f938ddf6443bf4888e26d7f
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -52,11 +52,8 @@ Registrera [**här**](https://adobe.ly/4g6TYck) om du vill gå med.
 ## Föregående AEM GEMs webbinarium
 
 Vårt senaste AEM GEM-webbinarium om **Nyheter i miljöer för snabb utveckling för AEM?** har utförts den *4 september 2024*.
-**inspelningen** är snart tillgänglig..
-
-<!--
-[What's new in Rapid Development Environments for AEM?](gems2024/rapid-development-environment-news.md)
--->
+**inspelningen** kan visas här:
+[Nyheter i miljöer för snabb utveckling för AEM?](gems2024/rapid-development-environment-news.md)
 
 >[!NOTE]
 >
