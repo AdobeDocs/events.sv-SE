@@ -8,9 +8,10 @@ event-cta-url-live: https://www.youtube.com/live/QKz1slMT36Y
 event-start-time: 2024-09-18 08:30-7
 event-guests: Daniel Wright,Mitch Rice,Kevin Lind
 duration: 25
-source-git-commit: 4d3f85437e3f1c27684be89186f9cd6dad74e859
+exl-id: e97232c7-fa04-4d68-83eb-792ac140332e
+source-git-commit: 7209eb186bbe64d0b9d221b5d11a686e493f088f
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -19,9 +20,9 @@ ht-degree: 0%
 
 Under den här sessionen får du lära dig hur du använder Edge Bridge-tillägget för att överbrygga gapet för migrering. Vi kommer att ge stegvisa instruktioner för hur du konfigurerar dina mobila egenskaper och uppdaterar implementeringen på klientsidan för att använda Edge Bridge.
 
-[![ExL LIVE 2024-08-28](assets/WebBanner-09-18-2024.jpg)](https://www.youtube.com/live/QKz1slMT36Y)
+[!VIDEO](https://video.tv.adobe.com/v/3434575)
 
-**[Ställ in en påminnelse till programmet på YouTube](https://www.youtube.com/live/QKz1slMT36Y){target="_blank"}**
+**Om du vill fortsätta diskussionen går du till [diskussionen om Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}.**
 
 **Visa detaljer**:
 Ni har använt Adobe Analytics i er mobilapp för att få insikter i ert digitala företag och förstå hur era kunder använder er app.
