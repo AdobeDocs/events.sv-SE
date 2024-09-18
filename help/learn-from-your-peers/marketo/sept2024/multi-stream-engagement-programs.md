@@ -8,9 +8,9 @@ doc-type: Event
 duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
-source-git-commit: ac811378b605024bc49232b84932b029fe783c45
+source-git-commit: 933d52ea829b18ee287631c8701c7e4494c5379b
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -33,3 +33,11 @@ Här kan du läsa från sessionerna med kollegor som diskuterar hur engagemangsp
 * Övergångsstrategier: Genom att använda smarta kampanjer för att gå över mellan strömmar inom ett engagemangsprogram får du kontroll och automatisering. &#x200B; Att förstå när och hur övergångar leder baserat på faktorer som livscykelfaser eller innehållsluckor är nödvändigt för effektiv leghantering.
 
 * Programmets framgångsmått: Att definiera tydliga framgångsmått för engagemangsprogram är avgörande för att mäta effektiviteten. &#x200B; Oavsett om det handlar om e-postklick, webbplatsbesök eller andra åtgärder kan det vara bra att utvärdera hur engagemangsprogrammen fungerar och vilken effekt de har. &#x200B;
+
+## Resurser som refereras i den här presentationen
+
+* [Förstå engagemangsprogram](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [Förstå engagemangspoängen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [Lägger till ett program i en engagemangsprogramström](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [Översikt över programimportbibliotek](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [Diskussionstråd för Marketing Nation Community](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)
