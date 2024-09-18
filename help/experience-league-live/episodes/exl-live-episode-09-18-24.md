@@ -9,7 +9,7 @@ event-start-time: 2024-09-18 08:30-7
 event-guests: Daniel Wright,Mitch Rice,Kevin Lind
 duration: 25
 exl-id: e97232c7-fa04-4d68-83eb-792ac140332e
-source-git-commit: 7209eb186bbe64d0b9d221b5d11a686e493f088f
+source-git-commit: facc08465a1a13b3b4ca1bfaa8f993bdbeff8c6b
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -20,7 +20,8 @@ ht-degree: 0%
 
 Under den här sessionen får du lära dig hur du använder Edge Bridge-tillägget för att överbrygga gapet för migrering. Vi kommer att ge stegvisa instruktioner för hur du konfigurerar dina mobila egenskaper och uppdaterar implementeringen på klientsidan för att använda Edge Bridge.
 
-[!VIDEO](https://video.tv.adobe.com/v/3434575)
+>[!VIDEO](https://video.tv.adobe.com/v/3434575/?quality=12&learn=on)
+
 
 **Om du vill fortsätta diskussionen går du till [diskussionen om Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}.**
 
