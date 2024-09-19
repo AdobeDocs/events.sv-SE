@@ -8,9 +8,9 @@ doc-type: Event
 duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
-source-git-commit: 933d52ea829b18ee287631c8701c7e4494c5379b
+source-git-commit: 33ed1cb1bc4a5a62fb590ac07ae788a6df812ef4
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Ta reda på hur ni systematiskt engagerar och vårdar kundrelationer med engagem
 
 ## Sammanfattning
 
-Här kan du läsa från sessionerna med kollegor som diskuterar hur engagemangsprogram i Marketo ska konfigureras och hanteras. Det omfattade ämnen som planering, uppbyggnad och rapportering inom engagemangsprogram. Bland huvudpunkterna märks att välja mellan program för näring och engagemang, använda smarta kampanjer för övergångar, välja mellan e-post och standardprogram och förstå mätvärden för programframgångar. &#x200B; Diskussionen gällde även ämnen som att övergå till innehåll, hantera olika språk, använda dynamiskt innehåll och skapa flera strömmar baserat på livscykelfaser eller produktfamiljer. På webbinariet betonades vikten av att testa, tillgängliggöra program och använda engagemangsmätningar för rapportering. &#x200B;
+Under denna Learn from Your Peers-session diskuterades hur engagemangsprogram i Marketo Engage har skapats och administrerats. Det omfattade ämnen som planering, uppbyggnad och rapportering inom engagemangsprogram. Några viktiga punkter är att välja mellan droppnäring och engagemangsprogram, använda smarta kampanjer för övergångar, välja mellan e-post och standardprogram och förstå mätvärden för programframgångar. &#x200B; Diskussionen gällde även ämnen som att övergå till innehåll, hantera olika språk, använda dynamiskt innehåll och skapa flera strömmar baserat på livscykelfaser eller produktfamiljer. På webbinariet betonades vikten av att testa, tillgängliggöra program och använda engagemangsmätningar för rapportering. &#x200B;
 
 ## Viktiga uppgifter
 
-* Välja rätt programtyp: Det är avgörande att förstå skillnaden mellan program för att närma sig resan och engagemang. &#x200B; Engagemangsprogram erbjuder större flexibilitet och komplexitet för att vårda leads effektivt jämfört med program för näring på resan. &#x200B;
+* Välja rätt programtyp: Det är viktigt att förstå skillnaden mellan droppnäring och engagemangsprogram. &#x200B; Engagemangsprogram erbjuder större flexibilitet och komplexitet för att vårda leads effektivt jämfört med program för droppvårdnad. &#x200B;
 
 * Övergångsstrategier: Genom att använda smarta kampanjer för att gå över mellan strömmar inom ett engagemangsprogram får du kontroll och automatisering. &#x200B; Att förstå när och hur övergångar leder baserat på faktorer som livscykelfaser eller innehållsluckor är nödvändigt för effektiv leghantering.
 
