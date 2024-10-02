@@ -2,9 +2,9 @@
 user-guide-title: Adobe - nöjda webbseminarier
 breadcrumb-title: Adobe - nöjda webbseminarier
 user-guide-description: Adobe kundnöjda webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe-lösningar.
-source-git-commit: 3ccafeec70790d62407a06e8dde89ae7ed5fd826
+source-git-commit: 2552636b85de07bec762083103a50b207798d71f
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,7 @@ ht-degree: 0%
    + [Grundläggande om Workfront System and Group Admin Guardianship](2024/workfront-admin-guardianship.md)
    + [Komma igång med Adobe Journey Optimizer Analysis](2024/getting-started-ajo-analysis.md)
    + [Komma igång med Real-time Customer Data Platform](2024/getting-started-rtcdp.md)
+   + [Utnyttja AI för kundupplevelsen](2024/ai-customer-experience.md)
    + [Lean Teams och Customer Journey Analytics](2024/lean-teams-cja.md)
    + [Mastering Cookies och dataintegritet](2024/mastering-cookies-data-privacy.md)
    + [Personalization](2024/target-personalization.md)
