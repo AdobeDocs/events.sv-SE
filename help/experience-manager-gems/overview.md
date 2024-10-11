@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM Sessions
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 1bdf2039e9b44f8f2f938ddf6443bf4888e26d7f
+source-git-commit: 670b69aea8b574567487f169579d7c81db7550ad
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,16 @@ ht-degree: 0%
 
 <img alt="Digitala upplevelser" src="./assets/ADX_Gems.png"/>
 
-## Kommande AEM GEMs webbinarium - AEM Sites: master the Content Management APIs
+## Kommande AEM GEM:s webbseminarier kommer snart
 
-Det här webbinariet kommer att hållas onsdagen den 9 oktober - 17:00 CEST/8:00 PDT/20:00 IST. Observera att endast registrering krävs för det här webbinariet.
-Registrera [**här**](https://adobe.ly/4g6TYck) om du vill gå med.
+Registrera dig på [Adobe AEM User Group](https://aem-augs.adobe.com/) för att få meddelanden.
 
-<!--  Remove the comment marks, and put the upcoming event in the below table
+<!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
+
+This webinar will be conducted on Wednesday, October 9th - 5pm CEST / 8am PDT / 8.30pm IST. Note, that only registration is required for this webinar. 
+If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
+
+
 
 <table style="max-width: 1214px;">
 <tr>
@@ -51,9 +55,9 @@ Registrera [**här**](https://adobe.ly/4g6TYck) om du vill gå med.
 
 ## Föregående AEM GEMs webbinarium
 
-Vårt senaste AEM GEM-webbinarium om **Nyheter i miljöer för snabb utveckling för AEM?** har utförts den *4 september 2024*.
+Vårt senaste AEM GEM-webbinarium om **Upplåsning av kraften i AEM Sites - bemästra API:erna för innehållshantering** har utförts den *9 oktober 2024*.
 **inspelningen** kan visas här:
-[Nyheter i miljöer för snabb utveckling för AEM?](gems2024/rapid-development-environment-news.md)
+[Låsa upp kraften i AEM Sites - Lär dig mer om API:erna för innehållshantering ](gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
