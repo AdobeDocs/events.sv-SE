@@ -2,9 +2,9 @@
 user-guide-title: Adobe Experience League Event Recording
 user-guide-breadcrumb: Event Recordings
 user-guide-description: En samling händelseregistreringar som framtvingas vid användning av Adobe Enterprise-produkter
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: 628e6811e60c0157d268acbd70435dff0ff0daf0
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '391'
 ht-degree: 2%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 2%
    + [Experience League LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + [Experience Manager-GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
    + [Experience Manager versionsöversikt](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html)
+   + [GenStudio for Performance Marketing Events](https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html)
    + [Lär dig av dina kollegor](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
    + [Marketo och Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
    + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
@@ -81,6 +82,8 @@ ht-degree: 2%
       + [Voices om hantering av kunddata](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
+   + Adobe GenStudio for Performance Marketing {#agspm}
+      + [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html)
    + Adobe Marketo {#am}
       + [Djupenheter](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
       + [Lär dig av dina kollegor](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)

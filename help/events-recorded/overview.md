@@ -4,9 +4,9 @@ description: En samling inspelningar med fokus på att använda Adobe Enterprise
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: 628e6811e60c0157d268acbd70435dff0ff0daf0
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1091'
 ht-degree: 0%
 
 ---
@@ -347,6 +347,28 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
          Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina lösningar från Adobe. Med ämnen som yrkesverksamma har valt ut för yrkesverksamma delar dessa interaktiva sessioner"konst av möjliga" användningsfall, bästa praxis samt tips och tricks.</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="GenStudio for Performance Marketing Events" tabIndex="13">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html" title="GenStudio for Performance Marketing Events" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png" alt="GenStudio for Performance Marketing Events">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html" title="GenStudio for Performance Marketing Events">GenStudio for Performance Marketing Events</a>
+          </p>
+          <p class="is-size-6">
+         Upptäck kommande och tidigare webbinarier och event som hjälper dig att bemästra GenStudio for Performance Marketing.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
       </a>
     </div>
