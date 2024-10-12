@@ -4,7 +4,7 @@ description: En samling inspelningar med fokus på att använda Adobe Enterprise
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: 628e6811e60c0157d268acbd70435dff0ff0daf0
+source-git-commit: ac867e3983725543f7a63bcf7e0db1598e1de6c9
 workflow-type: tm+mt
 source-wordcount: '1091'
 ht-degree: 0%
@@ -346,7 +346,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
           <p class="is-size-6">
          Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina lösningar från Adobe. Med ämnen som yrkesverksamma har valt ut för yrkesverksamma delar dessa interaktiva sessioner"konst av möjliga" användningsfall, bästa praxis samt tips och tricks.</p>
       </div>
-      <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+      <a href="https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
       </a>
     </div>
@@ -355,7 +355,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html" title="GenStudio for Performance Marketing Events" tabindex="-1">
+        <a href="https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview" title="GenStudio for Performance Marketing Events" tabindex="-1">
           <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png" alt="GenStudio for Performance Marketing Events">
         </a>
       </figure>
