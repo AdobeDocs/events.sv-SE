@@ -10,32 +10,29 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: cb32ddba-b105-4a85-9cb1-af2ff16dc037
-source-git-commit: 0255ad98fecb5393cd60ed8d0809925c334472fa
+source-git-commit: d415db2456f78bb474a438920789d90fea6f1f0a
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
+
 
 # Webbinarium: 21 augusti 2024
 
 Det här webbinariet har slutförts - se inspelningen nedan.
 
-## Integrera AEM Assets med Edge Delivery Services
+>[!VIDEO](https://video.tv.adobe.com/v/3433046/?quality=12&learn=on)
 
-Under det här AEM GEM-webbinariet kommer vi att visa hur du kan använda AEM Assets på din webbplats som bygger på AEM Edge Delivery Services.  Vi börjar med integreringsstegen som gör att utvecklare kan integrera AEM Assets-databasen i webbplatsens utvecklingsflöde. Sedan kommer vi att visa hur utvecklare kan anpassa integreringen baserat på webbplatsspecifika redigeringskrav. Vi visar också hur materialet kan levereras med AEM Dynamic Media med Open API, så att du kan utnyttja Dynamic Media Open API-funktioner. Dessutom kommer vi att fördjupa oss i praktiska användningsfall och beprövade arbetsmetoder, vilket ger en heltäckande bild av hur denna integrering hjälper till att utnyttja er resurshanteringslösning i era webbplatsutvecklingsflöden.
-
-## Presentatörer
+** Presentatörer **
 
 * Satya Deep Maheshwari, forskningschef, Adobe
 * Ashutosh Shroti, forskningschef, Adobe
 
-## Inspelning av webbinarium
+## Integrera AEM Assets med Edge Delivery Services
 
->[!VIDEO](https://video.tv.adobe.com/v/3433046/)
+Under det här AEM GEM-webbinariet kommer vi att visa hur du kan använda AEM Assets på din webbplats som bygger på AEM Edge Delivery Services.  Vi börjar med integreringsstegen som gör att utvecklare kan integrera AEM Assets-databasen i webbplatsens utvecklingsflöde. Sedan kommer vi att visa hur utvecklare kan anpassa integreringen baserat på webbplatsspecifika redigeringskrav. Vi visar också hur materialet kan levereras med AEM Dynamic Media med Open API, så att du kan utnyttja Dynamic Media Open API-funktioner. Dessutom kommer vi att fördjupa oss i praktiska användningsfall och beprövade arbetsmetoder, vilket ger en heltäckande bild av hur denna integrering hjälper till att utnyttja er resurshanteringslösning i era webbplatsutvecklingsflöden.
 
->[!NOTE]
->
->* Besök respektive [Sammanhangsberoende tråd](https://adobe.ly/3LSCVfX) för sessionsspecifika communityinteraktioner på Experience League.
->
->* Om du vill få meddelanden om våra kommande webbinarier registrerar du dig på [Adobe AEM User Group](https://aem-augs.adobe.com/).
+Besök respektive [Sammanhangsberoende tråd](https://adobe.ly/3LSCVfX) för sessionsspecifika communityinteraktioner på Experience League.
+
+Om du vill få meddelanden om våra kommande webbinarier registrerar du dig på [Adobe AEM User Group](https://aem-augs.adobe.com/).
