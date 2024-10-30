@@ -2,9 +2,9 @@
 user-guide-title: Adobe - nöjda webbseminarier
 breadcrumb-title: Adobe - nöjda webbseminarier
 user-guide-description: Adobe kundnöjda webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe-lösningar.
-source-git-commit: 2552636b85de07bec762083103a50b207798d71f
+source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,9 @@ ht-degree: 0%
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Workfront - Lean Teams](2024/workfront-lean-teams.md)
+   + [Adobe Workfront Mastery](2024/workfront-mastery.md)
+   + [AEM viktiga begrepp](2024/aem-authoring-concepts.md)
+   + [AEM Sites Effektiviteter](2024/aem-sites-efficiencies.md)
    + [AEP App Services-integreringar för kundärenden](2024/aep-apps-services-integrations.md)
    + [AEP - fallplanering](2024/aep-use-case-planning.md)
    + [AI-driven copywriting](2024/ai-copywriting.md)
