@@ -8,9 +8,9 @@ doc-type: Event
 duration: 2132
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16415
-source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
+source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -27,3 +27,23 @@ Stärk teamet med strategier för att utnyttja Adobe Workfront fullt ut. Under d
 * Maximera acceptansen genom optimering av slutanvändarupplevelsen: Upptäck hur Workfront levererar en förenklad slutanvändarupplevelse
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435746/?learn=on)
+
+## Viktiga uppgifter
+
+### Anpassa arbetet till strategiska mål
+
+* Definiera strategiska mål som vem, vad och hur människor, processer och tekniker ska vara.
+* Bygg en strategikarta för att koppla samman punkterna mellan vision, mål, användningsfall och nyckeltal.
+* Mät värdet genom att identifiera KPI:er och iterera när de ändras över tid.
+
+### Styrning för inkrementellt värde
+
+* Styrning driver rätt sorts förändring genom medvetenhet, förståelse, acceptans och engagemang.
+* Iterativ omvandling för samman människor och stöder kontinuerlig förbättring och värdeskapande prestationer.
+* Styrning stöder innovation och representerar hur en organisation samarbetar och anpassar sig över tid.
+
+### Adobe och slutanvändarupplevelsen
+
+* Komplexa användarupplevelser kan försvåra användningen, övertekniska problem och brist på användaraktivering är vanliga problem.
+* Work Front har färdiga funktioner som hemsideslayouter, mallar och kontrollpaneler som underlättar för användarna och ökar deras acceptans.
+* Att förenkla användarupplevelsen och tillhandahålla lämplig utbildning kan avsevärt förbättra acceptansfrekvensen.
