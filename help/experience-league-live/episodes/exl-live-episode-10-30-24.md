@@ -7,7 +7,7 @@ feature: Audiences
 event-cta-url-live: https://www.youtube.com/watch?v=xp3WRr4XmWM
 event-start-time: 2024-10-30 08:30-7
 event-guests: Sandra Hausmann, Don Huynh, Pravin Prakash Kumar
-source-git-commit: 9b5b41db0e530cc11f0e534d80dbdc4e62f95030
+source-git-commit: 637f0256c1033c6ad016c5289103b09304ae5002
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 Under den här sessionen presenterar Don Huynh och Pravin Prakash Kumar Content Cards, en ny, mångsidig meddelandekanal för Adobe Journey Optimizer som är utformad för att öka användarengagemanget och öka konversationerna i mobilappar och webbapplikationer. Till skillnad från traditionella push- och in-app-meddelanden levererar Content Cards smidigt viktiga uppdateringar, kampanjer och meddelanden i din app eller på din webbplats, vilket ger en icke-påträngande användarupplevelse.
 
 
-![Experience leag live](assets/30Oct24-webbanner.png)
+![Experience leag live](/help/experience-league-live/assets/WebBanner-Nov-6-2024.jpg)
 
 [Registrera dig för den här aktiviteten](https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&amp;s_iid=&amp;sfid=&amp;acctid=&amp;ecp=)
 
