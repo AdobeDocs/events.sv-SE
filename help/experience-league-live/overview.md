@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 637f0256c1033c6ad016c5289103b09304ae5002
+source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 1%
+source-wordcount: '214'
+ht-degree: 0%
 
 ---
 
@@ -26,14 +26,14 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-24.md">
-      <img alt="Experience League LIVE okt 24" src="assets/WebBanner-Nov-6-2024.jpg">
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-11-13-24.md">
+      <img alt="Experience League LIVE okt 24" src="episodes/assets/WebBanner_nov13_2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-10-30-24.md"><strong>Lär dig mer om innehållskort, en ny, mångsidig meddelandekanal för Adobe Journey Optimizer som utformats för att öka användarengagemanget och öka konversationerna i olika mobil- och webbprogram. </strong></a>
-      <br/><em> med Don Huyhn och Pravin Kumar </em>
-      <br/><em> 6 november 2024 kl. 8:30 PT</em>
-      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&amp;s_iid=&amp;sfid=&amp;acctid=&amp;ecp=">Registrera dig för den här aktiviteten</a>
+      <a href="episodes/exl-live-episode-11-13-24.md"><strong>Delta i en spännande livesession där experter på Adobe och konstruktion kan ge dig en spännande förhandstitt på våra senaste banbrytande innovationer - AI Assistant for Audiences, som snart kommer till Adobe Real-Time CDP för att ge målgrupper insikter och åtgärder. </strong></a>
+      <br/><em> med Shivakumar Vaithyanathan, Ali Nazer och Horia Galatanu </em>
+      <br/><em> 13 november 2024 kl. 9:00 PT</em>
+      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241113.html">Registrera dig för den här aktiviteten</a>
     </div>
   </td>
 </tr>
