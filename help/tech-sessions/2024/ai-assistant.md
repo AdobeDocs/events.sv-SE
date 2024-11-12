@@ -7,13 +7,13 @@ doc-type: Event
 duration: 2813
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16367
-source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
+exl-id: 29400794-7b24-41e8-a3b5-e15337ecb62f
+source-git-commit: 745121bd9c9a88634a54c0bff67d913035378e83
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
-
 
 # Kom snabbt igång med produktiviteten med AI Assistant i Adobe Experience Platform
 
@@ -28,10 +28,10 @@ Ett insiktsfullt webbinarium där du får lära dig att konfigurera, komma igån
 
 ## Webbinarium - dagordning
 
-Översikt över AI- och AI-assistenten.
-Exempeluppmaningar och en demo av Rachel.
-Diskussion om tillförlitlighet och dataanvändning.
-Öppna AI-assistenten.
+* Översikt över AI- och AI-assistenten.
+* Exempeluppmaningar och en demo.
+* Diskussion om tillförlitlighet och dataanvändning.
+* Öppna AI-assistenten.
 
 ## Viktiga punkter
 
