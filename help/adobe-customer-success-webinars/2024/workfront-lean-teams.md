@@ -1,6 +1,6 @@
 ---
 title: Maximera effektiviteten med Adobe Workfront - Lean Teams Webinar
-description: Insiktsfulla strategier och praktiska strategier för organisationer som vill effektivisera sin verksamhet och öka produktiviteten med hjälp av resurssnåla metoder. Webbseminariet, som handhas av branschexperter, fördjupar sig i grundprinciperna för ett sunt tänkande och dess tillämpning i Adobe Workfront.Viktiga diskussionsgrupper - Förstå Lean Principal ​ Using Workfront to Support Lean Project ManagementKontinuerligt lärande och anpassning
+description: Utforska strategier och praktiska strategier för att öka produktiviteten och effektivisera verksamheten med hjälp av slimmade metoder med Adobe Workfront, som presenteras av branschexperter.
 solution: Workfront
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 2148
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15558
 exl-id: 1ab0e81c-50eb-4416-baa1-e80572ffe783
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---

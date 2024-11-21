@@ -1,6 +1,6 @@
 ---
 title: Real-Time CDP - Använd funktioner för ärendemappning till lösning
-description: Det här webbinariet utforskar viktiga sätt att utforska och prioritera användningsfall, mappa dem till specifika RTCDP-funktioner och se till att de anpassas till affärsresultat och värde. Viktiga diskussionspunkter - Använd ärenden RT-CDP-lösningar för och prioritera dem som är specifika för affärsresultat ​ Justera RT-CDP-funktioner till prioriterade användningsfall
+description: Det här webbinariet utforskar viktiga sätt att utforska och prioritera användningsfall, mappa dem till specifika CDP-funktioner i realtid och säkerställa anpassning till affärsresultat och affärsvärde.
 solution: Real-Time Customer Data Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 2421
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15560
 exl-id: ebc38b82-52a7-4f8c-8ac7-f6e9f3fd2c55
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---

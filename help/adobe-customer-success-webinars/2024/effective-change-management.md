@@ -1,6 +1,6 @@
 ---
 title: Navigera i förändring - Ett webbseminarium om effektiv ändringshantering
-description: Delta i nyanserna inom ändringshantering och tillhandahålla strategiska insikter som ger er möjlighet att styra organisationen genom omvandlingsresor.Viktiga diskussionsgrupper - Lär er hur ni anpassar ändringsinsatser med övergripande organisatoriska mål och mål. Mästra konsten att förmedla ändringar till olika intressenter Implementera effektiv strategi och planering Lär er proaktiva strategier för att minska riskerna och säkerställa smidiga övergångar
+description: Delta i nyanserna inom ändringshantering och få strategiska insikter som hjälper er att styra organisationen genom omvandlingsresor.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3340
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15557
 exl-id: 6e71cc1e-f1bd-4c78-9fee-90ba0e0bce47
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---

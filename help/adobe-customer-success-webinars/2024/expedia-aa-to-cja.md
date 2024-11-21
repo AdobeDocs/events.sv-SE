@@ -1,6 +1,6 @@
 ---
 title: Expedia och ledande varumärken utvecklar sin organisation från Adobe Analytics till Customer Journey Analytics
-description: utforska nästa utveckling av analyser, med Jake Winter, huvudansvarig på Adswerve, Erikas Ulmer, Senior Manager, Data Product Management på Expedia, Ben Gaines, Director på Product Management på Adobe och Trevor Paulsen, Director på Adobe, som kommer att dela med sig av sina första erfarenheter av att utveckla sina organisationer till Adobe Customer Journey Analytics. Vi kommer att diskutera de senaste trenderna och bästa metoderna inom analys samt de utmaningar och möjligheter som följer med att utnyttja Customer Journey Analytics. Vare sig du är analytiker eller företagsledare och vill förbättra organisationens analysfunktioner får du inte missa det här webbinariet.
+description: Delta i branschledare från Adswerve, Expedia och Adobe när de delar insikter, trender och bästa metoder för att utnyttja Adobe Customer Journey Analytics för att omvandla organisationsanalyser i detta webbseminarium.
 solution: Analytics, Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Adobe Analytics Integration
@@ -12,9 +12,9 @@ duration: 3933
 last-substantial-update: 2024-05-09T00:00:00Z
 jira: KT-15435
 exl-id: a6bb36bb-6bea-4ee0-b5e3-021d02d3de20
-source-git-commit: 1ee9b50eca2e167af477bd17bceb6c1d4b59311b
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,6 @@ Vi kommer att diskutera de senaste trenderna och bästa metoderna inom analys sa
 
 
 ## Viktiga uppgifter
-
 
 * Få en djupgående förståelse för data, inklusive modellering av data med fältgrupper och förståelse av identitet och händelsens omfattning.
 * För att kommunicera syfte och fördelar med Customer Journey Analytics (CJA) till intressenter och tillhandahålla utbildning som gör det möjligt för individer att fatta datadrivna beslut.
