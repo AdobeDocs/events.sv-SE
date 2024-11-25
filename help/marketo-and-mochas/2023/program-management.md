@@ -1,6 +1,6 @@
 ---
 title: Marketo och Mochas - bästa praxis inom programhantering
-description: Program är ett av de viktigaste elementen i Marketo. Vare sig du skapar mappar, arbetar med namnkonventioner, söker efter medlemmar, kontrollerar programstatus eller bara är intresserad av att hantera vedertagna standarder.  De senaste uppdateringarna av programbiblioteksmallar och kreativa resurser, tillsammans med utbyte av bästa praxis för programhantering och en demonstration.
+description: Utforska de viktigaste elementen i Marketo-programmen, inklusive mappinställningar, namnkonventioner, medlemssökningar och programstatuskontroller, med de senaste uppdateringarna av programbiblioteksmallar, kreativa resurser och demonstrationer av metodtips.
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Programs, Templates
@@ -12,9 +12,9 @@ jira: KT-14226
 thumbnail: 3425070.jpeg
 exl-id: d3147987-3250-4d5c-a96a-e0bc41001528
 duration: 3501
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Unlocking Global Marketing with Marketo Engage - Adobe Champion Deep Dive - August 2024
-description: Er organisation är redo att utnyttja Marketo Engage för att stödja flera språk, länder, affärsenheter och/eller produkter, och ni vill påbörja den här omvandlingen på rätt spår. Häng med på Augusti Deep Dive om du vill ha en omfattande guide om hur svårt det är att lansera, underhålla och rapportera om globala marknadsföringssatsningar. Vi ska beskriva hur ni strukturerar data och instanser med hjälp av arbetsytor och partitioner, hur ni följer olika lagkrav över hela världen och hur ni stöder era kampanjer med segmenteringar, fragment, dynamiskt innehåll och mycket annat.
+description: Delta i August Deep Dive för att låsa upp den globala marknadsföringen med Marketo Engage, som omfattar datastrukturering, regelefterlevnad, kampanjstöd med segmentering, fragment, dynamiskt innehåll med mera, med insikter om hur du optimerar arbetsytor och partitioner för flera varumärken och instanser.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3351
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-16119
-source-git-commit: 6109b20829c1e50664eafb5bc674b781ec26611a
+exl-id: 297b9baf-95c9-4154-be96-75455100b4d8
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
-
 
 # Unlocking Global Marketing with Marketo Engage - Adobe Champion Deep Dive - August 2024
 

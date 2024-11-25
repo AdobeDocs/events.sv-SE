@@ -1,6 +1,6 @@
 ---
 title: Push-meddelanden med Adobe Journey Optimizer
-description: Push-meddelanden hjälper dig att nå mobilappsanvändare när som helst, särskilt när de inte aktivt använder din app. Journey Optimizer har stöd för push inte.. (Beskrivningarna ska vara mellan 60 och 160 tecken)
+description: I det här Experience League Live-avsnittet talar vi om vanliga användningsfall för push-meddelanden med Adobe Journey Optimizer och tittar närmare på den tekniska informationen om hur du konfigurerar en app för Push med Adobe Experience Platform.
 solution: Journey Optimizer
 kt: 10407
 feature: Push
@@ -9,9 +9,9 @@ event-start-time: 2022-05-12 09:30-7
 event-guests: Sandra Hausmann,Archana Chaudhary,Don Huynh
 exl-id: 3e813ced-154d-4ec6-b7a3-6800b814f123
 duration: 2963
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 1f64d5c4388bbcb13256e188b540a7f932b4c9e6
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---

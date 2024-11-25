@@ -1,6 +1,6 @@
 ---
 title: Commerce & Coffee - Mastering Ecommerce Essentials
-description: Under den här sessionen utforskar Corey Gelato, Senior Commerce Strategy Consultant, de viktigaste elementen i e-handelns framgång för Adobe Commerce. Upptäck hur ni enkelt kan skapa skräddarsydda kampanjer och utnyttja lojalitetsprogram för kunder för att öka konverteringsgraden och personalisera kundupplevelserna. Vi ger en översikt över hur ni optimerar era betalningar och leveranser med inbyggt stöd för betalningsmetoder och transportföretag. Corey kommer också att dela med sig av en live demonstration av marknadsföringstekniker för olika kategorier, från manuell organisation till mer automatiserade smarta produkttilldelningar samt bästa praxis för innehålls- och kundhantering.
+description: Corey Gelatos session handlar om grunderna för e-handel på Adobe Commerce, om strategier för personaliserad varuexponering, lojalitetsprogram, optimerade betalningar och leveranser samt effektiva marknadsföringskampanjer för att öka kundengagemang, behålla kunder och konverteringar.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3480
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15605
 exl-id: e9061413-76b5-496c-91a2-a8bb54e1d21d
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---

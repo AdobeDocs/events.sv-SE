@@ -1,6 +1,6 @@
 ---
 title: Commerce & kaffe - förberedelse av högsäsong
-description: allt du behöver veta för att förbereda webbplatsen för högsäsong när som helst på året. effektiva strategier för att inte bara förbli konkurrenskraftiga utan framför konkurrenterna. Lär dig hur du optimerar webbplatsens prestanda, hanterar lager och proaktivt ökar kundsupporten. Corey kommer även att omfatta bästa praxis för planering av effektiva marknadsföringskampanjer som driver konverteringar, slutför beställningar och analyserar era kampanjer med hjälp av analyser och rapportering efter högsäsong.
+description: Corey Gelatos session innehåller strategier för hur e-handelsföretag kan utvecklas under högsäsong genom att optimera webbplatsens prestanda, hantera lager, förbättra kundengagemanget med AI-verktyg och utnyttja analyser efter säsongen för att förbättra lojaliteten och lojaliteten.
 solution: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3436
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16235
-source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
+exl-id: 8dc72811-74db-485a-ac25-e2647d0848f7
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
-
 
 # Commerce &amp; kaffe: Förberedelser inför högsäsong
 

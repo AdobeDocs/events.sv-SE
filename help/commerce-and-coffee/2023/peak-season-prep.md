@@ -1,6 +1,6 @@
 ---
 title: Förberedelse av högsäsong
-description: Corey Gelato tar en djupdykning i bästa praxis och strategier för högsäsong, lär sig att framgångsrikt och effektivt marknadsföra era varor och/eller tjänster på er webbplats(er) och behåller konkurrenskraften under högsäsong när som helst på året. Efter en demonstration av funktioner som innehållstagning och förhandsgranskning, kampanjer, prisregler för kataloger och varukorgar med mera besvarar Corey frågor under en livesession i Frågor och svar.
+description: Besök Corey Gelato och utforska strategier för högsäsong, inklusive kampanjer, innehållstaging och prisregler, med live-demonstrationer och experttips som hjälper er att behålla konkurrenskraften året runt.
 solution: Commerce
 feature-set: Commerce
 feature: Promotions/Events, Catalog Management, Catalog Service, Checkout, Best Practices, Price Rules
@@ -12,9 +12,9 @@ jira: KT-13992
 thumbnail: 3424390.jpeg
 exl-id: 48986967-b794-4dc9-8a17-d38800ae90aa
 duration: 3580
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---

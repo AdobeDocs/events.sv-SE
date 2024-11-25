@@ -1,6 +1,6 @@
 ---
 title: Kundresehantering - livscykelmodellering
-description: Täcker konfigurationen av livscykeln korrekt från början, segmentering av personer i köpresan, produktdemonstration av livscykelmodelleraren och olika rapporter och analyser som är tillgängliga för att hjälpa er att analysera hur effektiva era kundsegment är.
+description: Upptäck hur transparens skapar marknadsföringens trovärdighet med Cynthia Chang och James Leedom när de delar strategier för livscykelkonfiguration, segmentering av resor och demonstrerar Marketo Engage livscykelmodellering, rapportering och analysverktyg.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +10,9 @@ thumbnail: 3420763.jpeg
 event-start-time: 2023-6-30 08:30-8
 exl-id: e31120ae-3bdd-4974-953b-1f007c6962a8
 duration: 3772
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---

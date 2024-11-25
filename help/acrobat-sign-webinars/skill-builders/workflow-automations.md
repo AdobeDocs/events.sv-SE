@@ -9,9 +9,9 @@ duration: 1109
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15303
 exl-id: 72fc12aa-05fe-4856-9c34-bb61f6f3a295
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 27c53f62fe63e9b166b46cefa04abcdcc7823556
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -28,4 +28,4 @@ Utnyttja alla automatiseringsfunktioner med Microsoft lågkods-/kodlösning Powe
 * Det gör det möjligt för användare att automatisera uppgifter och processer genom att utnyttja färdiga anslutningar för att arbeta med hundratals andra system och program. Power Automate gör det möjligt för användare att läsa och skriva data, starta processer och utföra åtgärder med dessa kopplingar, allt via en grafisk dra och släpp-konfiguration. Data visas automatiskt och är tillgängliga för användning i efterföljande utlösare och åtgärder.
 * Dessutom kan man med Power Automate skapa och använda automatiserade arbetsflöden i Adobe Acrobat Sign utan att behöva ta hjälp av IT-personal.
 * Dessa automatiserade arbetsflöden kan öka effektiviteten, produktiviteten och minska antalet fel.
-* Power Automate ger även icke-administratörer möjlighet att skapa arbetsflöden som ger en plattform där användare kan automatisera uppgifter och processer genom att skapa flöden som kopplar samman olika program och tjänster. Det erbjuder ett brett urval av triggers och åtgärder som kan användas för att skapa anpassade arbetsflöden baserat på specifika affärsbehov.
+* Power Automate ger även icke-administratörer möjlighet att skapa arbetsflöden som ger en plattform där användare kan automatisera uppgifter och processer genom att skapa flöden som kopplar samman olika program och tjänster. Det erbjuder ett brett urval av utlösare och åtgärder som kan användas för att skapa anpassade arbetsflöden baserat på specifika affärsbehov.

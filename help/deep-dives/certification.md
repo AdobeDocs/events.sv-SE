@@ -1,6 +1,6 @@
 ---
 title: Investera i dig själv - Adobe [!DNL Marketo Engage] Certifiering
-description: Har du varit intresserad av certifieringsprocessen och hur den kan hjälpa er marknadsföringskarriär? Eller kanske du är intresserad av att studera, förbereda och ta provet? Gå med i Adobe [!DNL Marketo Engage] Champions och diskutera deras resa till Marketo Certified Expert eller Architect!
+description: Vill du veta hur certifiering kan öka din marknadsföringskarriär? Dela med dig av Adobe Marketo Engage Champions erfarenheter och tips om hur du studerar, förbereder och genomför provet för att bli en Marketo Certified Expert eller Architect!
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +9,9 @@ jira: KT-12941
 thumbnail: 3416760.jpeg
 exl-id: aea1f3e5-3b28-432f-95df-a4eb300830c8
 duration: 3331
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---

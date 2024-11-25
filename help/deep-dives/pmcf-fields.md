@@ -1,8 +1,8 @@
 ---
 title: Utnyttja PMCF-fält för skalbarhet
-description: Här beskrivs användningen av PMCF (Program Member Custom Fields) i Marketo för skalbarhet. Sessionen omfattar definitioner, syften, regler och användningsfall för PMCF:er. Bästa tillvägagångssätt för att använda PMCF för att ändra data, referensinformation och spåra unika händelsedata, som UTM-parametrar för webbinarier. PMCF är generellt ett värdefullt verktyg för marknadsförare som vill hantera och skala komplexa marknadsföringsprogram i Marketo.
+description: Lär dig utnyttja PMCF (Program Member Custom Fields) i Marketo för skalbarhet, inklusive bästa praxis för datahantering, personaliserad kommunikation och korrekt rapportering, vilket beskrivs i videon Adobe Marketo Engage Champion Deep Dive.
 solution: Marketo Engage
-feature-set: "Marketo Engage"
+feature-set: Marketo Engage
 feature: Field Management
 role: Admin, Developer, User
 level: Intermediate, Experienced
@@ -10,13 +10,13 @@ doc-type: Event
 duration: 3059
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15784
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+exl-id: 9fd094c3-d6ad-410e-aeae-1b6bf3f012bd
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
-
 
 # Utnyttja PMCF-fält för skalbarhet
 
@@ -32,7 +32,7 @@ I videon&quot;Adobe Marketo Engage Champion Deep Dive&quot; diskuterar presentat
 * Tillåt kontextdata på programnivå.
 * Endast 20 anpassade fält per program kan skapas.
 * Metoder för dataimport: lista import, formulärfyllningar, flödessteg.
-* Synkronisera med Salesforce-kampanjmedlemmar för att få enhetliga data.
+* Synkronisera med medlemmar i Salesforce-kampanjer för att få enhetliga data.
 * Använd i e-postmeddelanden, landningssidor och aviseringar för personlig kommunikation.
 * Förbättra spårning, analys och rapportering av programspecifika data.
 

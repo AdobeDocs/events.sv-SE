@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '76'
 ht-degree: 2%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 2%
 
 + [Översikt](overview.md)
 + 2024 {#2024}
+   + [Fråga mig vad som helst](2024/ask-me-anything.md)
    + [Löptid, del 1 - Stiftelsen](2024/maturity-part1-foundation.md)
    + [Löptid, del 2 - Optimera din Marketo-användning](2024/optimize-marketo-usage.md)
    + [Löptid, del 3 - Drivande tillväxt med rapportering](2024/drive-growth-with-reporting.md)

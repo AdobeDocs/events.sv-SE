@@ -1,6 +1,6 @@
 ---
 title: Online- kontra offlinekanaler
-description: Ta en närmare titt på den strategiska konfigurationen av kanaler och underkanaler, instruktionsöversikt över kanalhantering online och offline, hur de fungerar, sessionen visar produktdemonstrationer och recenserar de bästa metoderna som attribueringsexperterna använder
+description: Gå med i Adobe Marketing Automation Business Advisors, Kate Colbert och Elizabeth Lundberg, för en 90-minuters session om optimering av online- och offlinekanaler med Marketo Measure Attribution, med strategiska konfigurationer, bästa praxis samt live Q&A.
 solution: Marketo Measure
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -10,9 +10,9 @@ jira: KT-13750
 thumbnail: 3422363.jpeg
 exl-id: d11e2351-81d3-42ae-baf2-dc9b487cc9b5
 duration: 5434
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---

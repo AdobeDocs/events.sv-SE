@@ -1,6 +1,6 @@
 ---
 title: API:er
-description: lär dig hur du använder Adobe Marketo API, hur du skapar baslinjeanslutningar, använder tillägg för rörliga berg och gör dina första API-anrop. Lär dig mer om webhooks jämfört med API, så att du vet vilket verktyg som används bäst i din lösning. Lär dig de effektivaste strategierna för säkerhet, inklusive att miniera dina behörighetsgrupper. Integrera med molnet, utnyttja lagringsutrymme och utnyttja kraften i det kraftfulla API:t för import-/exportåtgärder.
+description: Följ oss för att frigöra potentialen hos Adobe Marketo API, från att ringa dina första API-anrop till att utnyttja massAPI för import/export, utforska webhooks jämfört med API, och lära dig de bästa metoderna för datasäkerhet och molnintegrering, med oändliga möjligheter att revolutionera era marknadsföringsstrategier.
 solution: Marketo Engage
 role: Admin, Architect, Developer, User
 level: Intermediate
@@ -10,9 +10,9 @@ jira: KT-13773
 thumbnail: 3422479.jpeg
 exl-id: 9620a016-8e4a-4cd9-9d63-2a731e0f226c
 duration: 3550
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
