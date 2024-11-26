@@ -2,9 +2,9 @@
 user-guide-title: Adobe Developers Live Events
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Samling med inspelningar från Adobe Developer Live Content event
-source-git-commit: c50f4241e22bc858473156a3e7cd32052177a5e1
+source-git-commit: 8770c8172ee90524079efc65aec7e129f1d1d031
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '801'
 ht-degree: 1%
 
 ---
@@ -13,6 +13,12 @@ ht-degree: 1%
 # Adobe Developers Live Events {#adobe-developers-live-recordings}
 
 + [Översikt](overview.md)
++ 2024 {#2024}
+   + November {#nov2024}
+      + [Förse AI och Personalization med AEM EDS](2024/nov/ai-and-personalization.md)
+      + [Extension Manager för AEM Sites](2024/nov/extension-manager.md)
+      + [HTML med webbkomponenter](2024/nov/html-and-web-components.md)
+      + [Organisera Commerce API:er för Headless-implementeringar](2024/nov/commerce-api-headless.md)
 + 2023 {#2023}
    + November {#nov2023}
       + [Öppnar inledningsanförandet](2023/november/keynote.md)
@@ -68,7 +74,7 @@ ht-degree: 1%
       + [Avslutande kommentarer](2022/february/closing-remarks.md)
    + November - Headless {#nov2022}
       + [Översikt](2022/november/overview.md)
-      + [Adobe Experience Manager som headless CMS](2022/november/headless-cms.md)
+      + [Adobe Experience Manager som Headless CMS](2022/november/headless-cms.md)
       + [AEM Rockstar Headless](2022/november/rockstar.md)
       + [Lägg in kontext och Headless-redigering i Next.JS-appen](2022/november/next-js.md)
       + [Bygg din första React-app](2022/november/react-app.md)
