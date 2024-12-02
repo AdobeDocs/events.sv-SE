@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Adobe Analytics] Skapar en datadriven kulturuppföljning - frågor och svar'
+title: '[!DNL Adobe Analytics] Skapar en datadriven kultur uppföljningsfrågor och svar'
 description: Under  [!DNL Adobe Analytics] Building a Data Driven Culture Webinar tillfrågades över 35 frågor av  [!DNL Adobe Analytics] användare runt om i världen. Eftersom vår [!DNL Adobe Analytics] Champion inte kunde besvara alla dessa frågor under live-frågeställningarna tog vi dem tillbaka och var värd för en uppföljningssession för att besvara dina frågor och delade ännu mer expertkunskap.
 role: User
 doc-type: Event

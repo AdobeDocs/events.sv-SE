@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Adobe Analytics] Bygger en datadriven kultur'
+title: '[!DNL Adobe Analytics] skapar en datadriven kultur'
 description: Följ med [!DNL Adobe Analytics] Champion Gitai Ben-Ammi när han diskuterar hur en datadriven kultur ser ut och delar strategier för hur  [!DNL Adobe Analytics] används för att skapa en.
 role: User
 doc-type: Event

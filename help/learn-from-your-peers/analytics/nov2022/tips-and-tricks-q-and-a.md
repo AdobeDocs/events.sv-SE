@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Adobe Analytics], tips och tricks, uppföljningsfrågor och svar'
+title: '[!DNL Adobe Analytics] Champion Tips and Tricks - uppföljningsfrågor och svar'
 description: Vi samlade fem [!DNL Adobe Analytics] Champions från hela världen för att dela med oss av de tips och trick som hjälpte dem att bemästra [!DNL Adobe Analytics]. During the event, over 90 questions were asked by [!DNL Adobe Analytics] användare världen över. Eftersom våra [!DNL Adobe Analytics] experter inte kunde besvara alla dessa frågor under Frågor och svar fick gruppen tillbaka samman och var värd för en uppföljningssession där Champions besvarade dina frågor och delade ännu fler experttips och trick.
 role: User
 doc-type: Event
