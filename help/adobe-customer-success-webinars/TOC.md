@@ -2,9 +2,9 @@
 user-guide-title: Adobe - nöjda webbseminarier
 breadcrumb-title: Adobe - nöjda webbseminarier
 user-guide-description: Adobe kundnöjda webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe-lösningar.
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 0%
 + [Adobe - nöjda webbseminarier](overview.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
+   + [Adobe Target AI-styrda Personalization](2024/ai-personalization.md)
    + [Adobe Workfront - Lean Teams](2024/workfront-lean-teams.md)
    + [Adobe Workfront Mastery](2024/workfront-mastery.md)
    + [AEM viktiga begrepp](2024/aem-authoring-concepts.md)
@@ -22,6 +23,7 @@ ht-degree: 0%
    + [AEP App Services-integreringar för kundärenden](2024/aep-apps-services-integrations.md)
    + [AEP - fallplanering](2024/aep-use-case-planning.md)
    + [AI-driven copywriting](2024/ai-copywriting.md)
+   + [Grundläggande till mellanliggande analysfunktioner](2024/basic-to-intermediate-analysis-capabilities.md)
    + [Prioritering för dataström](2024/data-stream-prioritization.md)
    + [Edge Network &amp; Mobile Personalization](2024/edge-network-mobile-personalization.md)
    + [Effektiv ändringshantering](2024/effective-change-management.md)
@@ -31,16 +33,17 @@ ht-degree: 0%
    + [Komma igång med Adobe Journey Optimizer Analysis](2024/getting-started-ajo-analysis.md)
    + [Komma igång med Real-time Customer Data Platform](2024/getting-started-rtcdp.md)
    + [Utnyttja AI för kundupplevelsen](2024/ai-customer-experience.md)
+   + [Hyperpersonalisering](2024/hyperpersonalization.md)
+   + [Journey Optimizer Mobile Capabilities](2024/journey-optimizer-mobile-capabilities.md)
    + [Lean Teams och Customer Journey Analytics](2024/lean-teams-cja.md)
    + [Mastering the Adobe Admin Console](2024/adobe-admin-console.md)
    + [Mastering Cookies och dataintegritet](2024/mastering-cookies-data-privacy.md)
-   + [Personalization](2024/target-personalization.md)
-   + [Hyperpersonalisering](2024/hyperpersonalization.md)
-   + [Journey Optimizer Mobile Capabilities](2024/journey-optimizer-mobile-capabilities.md)
+   + [Organiserad beredskap för innehållsleveranskedja](2024/organizational-readiness-content-supply-chain.md)
    + [Integrering med Real-time Customer Data Platform och Marketo](2024/aep-marketo-integration.md)
    + [Real-time Customer Data Platform migreringsberedskap](2024/rtcdp-migration-readiness.md)
    + [Strategisk ledning](2024/strategic-leadership.md)
    + [Effektiv autentisering](2024/streamline-authentication.md)
+   + [Personalization](2024/target-personalization.md)
    + [Förvandla data till handling](2024/turning-data-into-action.md)
    + [Frigöra kraften i Edge Services](2024/edge-delivery-services.md)
    + [Använd funktioner för att mappa ärenden till lösningar](2024/use-case-mapping.md)

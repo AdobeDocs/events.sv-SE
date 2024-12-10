@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3391
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16628
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: eaa9642c-c460-410b-9af5-3ff42e50ef89
+source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
 
 ---
-
 
 # Den strategiska kraften i mätning: Förvandla data till handling
 
@@ -29,7 +29,7 @@ Lär dig grunderna i att bygga en holistisk mätningsstrategi och de viktigaste 
 * Genom att involvera intressenter regelbundet för att kunna tillhandahålla sina resurser kan du vara bekant med de data som samlas in.
 * Att ge intressenter möjlighet att känna sig säkra på att kunna genomföra rapporter och fatta beslut på egen hand minskar tveksamheten.
 
-**Trust
+**Lita på**
 
 * Förtroendet byggs upp av proaktivt engagemang, transparens, datastyrning och kvalitetskontroll.
 * Det är av största vikt att alla intressenter har en enhetlig och engagerad strategi.
@@ -52,4 +52,3 @@ Lär dig grunderna i att bygga en holistisk mätningsstrategi och de viktigaste 
 * Kuratera resurser för nya användare och icke-analytiker.
 * Håll regelbundna tips och kunskapsutbyte.
 * Använd nyhetsbrev och intern kommunikation för att dela insikter och uppdateringar.
-
