@@ -5,9 +5,9 @@ user-guide-breadcrumb: AEM Release Events
 duration: 91
 hidefromtoc: true
 exl-id: eb9580ae-84c9-4c68-84c3-007e67b91a92
-source-git-commit: 4d25dc5773d0666f3b4957774dddb0f083b32e2b
+source-git-commit: c0acc351e9a50b862b11a3446fa725c561f6fd47
 workflow-type: tm+mt
-source-wordcount: '800'
+source-wordcount: '814'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,9 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://video.tv.adobe.com/v/3440920?quality=12&learn=on" title="2024.11.0 AEM versionsöversikt" target="_blank" rel="referrer">
+                    <a href="2024/2024-11-0.md" title="2024.11.0 AEM versionsöversikt" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="2024/assets/2024-11-play-button.png" alt="2024.11.0 AEM versionsöversikt"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
             </div>
@@ -54,7 +56,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
 ## Senaste uppdateringar
 
 <!-- CARDS
-{cta = Watch}
+{cta = More details}
 
   * 2024/2024-10-0.md
   * 2024/2024-9-0.md
@@ -74,7 +76,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-10-0.md" title="2024.10.0 AEM versionsöversikt" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440501/?format=jpeg&nocache=1733849390907" alt="2024.10.0 AEM versionsöversikt"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440501/?format=jpeg&nocache=1733938196055" alt="2024.10.0 AEM versionsöversikt"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -87,7 +89,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
                     <p class="is-size-6">Funktionerna i den här versionen fokuserar på innovationer inom Experience Manager Assets och Cloud Service och innehåller följande:AEM Assets New Pricing and packaging for AEM Assets with Assets Ultimate &amp; Asset PrimeAEM Cloud Service Forward logs to more destination Pipeline-free URL redirects for business users ​ RDEs support Config Pipeline YAMLs ​ Interactive AEM Developer Console</p>
                 </div>
                 <a href="2024/2024-10-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mer information </span>
                 </a>
             </div>
         </div>
@@ -97,7 +99,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-9-0.md" title="2024.9.0 AEM versionsöversikt" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434847/?format=jpeg&nocache=1733849390945" alt="2024.9.0 AEM versionsöversikt"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434847/?format=jpeg&nocache=1733938196071" alt="2024.9.0 AEM versionsöversikt"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -110,7 +112,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
                     <p class="is-size-6">Funktionerna i den här versionen fokuserar på innovationer inom Experience Manager Assets och Cloud Service och omfattar följande: AEM Assets - Förbättring av tillgångsväljaren i supportsamlingar ​ Assets Content Hub - stöd för DRM (utgånget och licensierat material) ​ AEM Cloud Service - Cloud Manager-stöd för Edge Delivery ​ Side Includes (ESI) ​ Basic Authentication ​ Interactive AEM</p>
                 </div>
                 <a href="2024/2024-9-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mer information </span>
                 </a>
             </div>
         </div>
@@ -120,7 +122,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-8-0.md" title="2024.8.0 AEM versionsöversikt" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433381/?format=jpeg&nocache=1733849390918" alt="2024.8.0 AEM versionsöversikt"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433381/?format=jpeg&nocache=1733938196075" alt="2024.8.0 AEM versionsöversikt"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -133,7 +135,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
                     <p class="is-size-6">Funktionerna i den här versionen fokuserar på nyheterna i AEM Assets &amp; Dynamic Media, Forms, Sites och Cloud Foundation och inkluderar följande - Dynamic Media Composable Templates för dynamiska 1:1-varianter Forms GenAI Assistant Universal Editor med ny integrering av innehållsstrukturen ​ Hantera livscykeln för DV-certifikat och stöd för Edge Delivery Services via Cloud Manager Experience Audit Dashboard Förbättringar i Pipeline-prestanda</p>
                 </div>
                 <a href="2024/2024-8-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mer information </span>
                 </a>
             </div>
         </div>
@@ -143,7 +145,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-7-0.md" title="2024.7.0 AEM versionsöversikt" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431707/?format=jpeg&nocache=1733849390928" alt="2024.7.0 AEM versionsöversikt"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431707/?format=jpeg&nocache=1733938196066" alt="2024.7.0 AEM versionsöversikt"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +158,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
                     <p class="is-size-6">Funktionerna i den här versionen fokuserar på innovationer inom Experience Manager Assets och Cloud Service och innehåller följande:AEM Assets: i AEM Assets ​ AI-baserade bildtexter för video med Dynamic Media ​ Asset Selector Enhancements for Upload ​ Cloud Manager:Självbetjäningskonfiguration för kundhanterade CDN-referenser ​ CDN-radering ​ Traffic Filter Rules Alerts ​</p>
                 </div>
                 <a href="2024/2024-7-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mer information </span>
                 </a>
             </div>
         </div>
@@ -166,7 +168,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-6-0.md" title="2024.6.0 AEM - översikt" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430779/?format=jpeg&nocache=1733849390913" alt="2024.6.0 AEM - översikt"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430779/?format=jpeg&nocache=1733938196083" alt="2024.6.0 AEM - översikt"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +181,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
                     <p class="is-size-6">Funktionerna i versionen från juni 2024 fokuserar AEM Assets med Content Hub, Dynamic Media med OpenAPI-funktioner, förbättringar av Assets-väljare - taggar och förfallna resurser, modeller för innehållsfragment i Content Fragment Admin Console, Cloud Foundation - lägga till privata databaser i Cloud Manager och Cloud Foundation - Innehållsåterställning.</p>
                 </div>
                 <a href="2024/2024-6-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mer information </span>
                 </a>
             </div>
         </div>
@@ -189,7 +191,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-5-0.md" title="2024.5.0 AEM versionsöversikt" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429503/?format=jpeg&nocache=1733849390922" alt="2024.5.0 AEM versionsöversikt"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429503/?format=jpeg&nocache=1733938196089" alt="2024.5.0 AEM versionsöversikt"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -202,7 +204,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
                     <p class="is-size-6">Funktionerna i den här versionen fokuserar på - Nya Publish-alternativ för AEM &amp; Dynamic Media Universal Editor Förbättrad migrering av adaptiva Forms Foundation-komponenter till ytterligare Core Components Stöd för Captcha i förbättringar av adaptiva Forms Cloud Foundation</p>
                 </div>
                 <a href="2024/2024-5-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mer information </span>
                 </a>
             </div>
         </div>
@@ -212,7 +214,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-4-0.md" title="2024.4.0 AEM versionsöversikt" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429111/?format=jpeg&nocache=1733849390932" alt="2024.4.0 AEM versionsöversikt"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429111/?format=jpeg&nocache=1733938196102" alt="2024.4.0 AEM versionsöversikt"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -225,7 +227,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
                     <p class="is-size-6">Funktionerna i den här versionen fokuserar på innovationer inom Experience Manager Assets och Cloud Service och omfattar följande:AEM Assets:1-klicksbyte av resurs-/mappnamn i Assets ViewFörenklad sökfunktion med naturligt språkFörhandsgranska dynamiska renderingar inklusive Smart Crop från Assets View Redigera videor enkelt i AEM med Express Quick ActionsCloud Manager:CDN-optimering och justeringSjälvbetjänad konfiguration av versionsrensning och rensningsåtgärder för granskningsloggUtöka direkt till andra leverantörer än Splunk, med självbetjäningsdedikerad IP-supportCDN-stöd för ESI, även via SDIImporterad Java-loggningsupplevelse för RDE</p>
                 </div>
                 <a href="2024/2024-4-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mer information </span>
                 </a>
             </div>
         </div>
@@ -235,7 +237,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-3-0.md" title="2024.3.0 AEM versionsöversikt" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428344/?format=jpeg&nocache=1733849390942" alt="2024.3.0 AEM versionsöversikt"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428344/?format=jpeg&nocache=1733938196095" alt="2024.3.0 AEM versionsöversikt"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -248,7 +250,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
                     <p class="is-size-6">High Impact Experience AEM Authoring with Edge Delivery Services Edge Delivery Services for FormsContent by all, for all Universal Editor Action Intelligence AEM Sites - Generate Content Variations (GenAI)Rapid Development CruD OpenAPIs for Content Fragments and ModelsCloud Service Foundation Advanced NetworkingAndra märkbara förbättringar Jämför Content Fragment Versions Stöd för Experience Fragments Updated Content Importer v1.51.0 Sidekick Extension v6.41.0</p>
                 </div>
                 <a href="2024/2024-3-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mer information </span>
                 </a>
             </div>
         </div>
@@ -258,7 +260,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-1-0.md" title="2024.1.0 AEM versionsöversikt" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427041/?format=jpeg&nocache=1733849390936" alt="2024.1.0 AEM versionsöversikt"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427041/?format=jpeg&nocache=1733938196099" alt="2024.1.0 AEM versionsöversikt"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -271,7 +273,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
                     <p class="is-size-6">Funktionerna i den här versionen fokuserar på innovationer inom Experience Manager Assets och Cloud Service och innehåller följande: AEM Assets - AEM Assets Cloud Service &amp; Adobe Journey Optimizer Integration, Smart Tags Blockeringslista, OTB Video Preview Rendering, Cloud Manager - Custom Permissions</p>
                 </div>
                 <a href="2024/2024-1-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mer information </span>
                 </a>
             </div>
         </div>
