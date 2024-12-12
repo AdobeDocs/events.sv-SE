@@ -5,7 +5,7 @@ user-guide-breadcrumb: AEM Release Events
 duration: 91
 hidefromtoc: true
 exl-id: eb9580ae-84c9-4c68-84c3-007e67b91a92
-source-git-commit: 49b386b6729419261265a3d022a87df77f294137
+source-git-commit: ee8aede121140f6a4ce9f5da2656b3e3cc0e0137
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops" title="2024.11.0 AEM versionsöversikt" target="_blank" rel="referrer">
+                    <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops&autoplay=true" title="2024.11.0 AEM versionsöversikt" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="2024/assets/2024-11-play-button.png" alt="2024.11.0 AEM versionsöversikt"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
