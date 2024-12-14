@@ -2,9 +2,9 @@
 user-guide-title: Experience Cloud Tech Sessions
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud Tech Sessions är ett förebyggande sätt att hantera avböjda ärenden genom att erbjuda kunderna lösningsspecifika webbinarier.
-source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
+source-git-commit: b6f18d1a7adb683886bd08ad86998e619be24c29
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '123'
 ht-degree: 10%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 10%
 + [Experience Cloud Tech Sessions](overview.md)
 + 2024 {#2024}
    + Plattform för innehållsdata i realtid {#rtcdp-office-hours-2024}
+      + [AEP Web SDK - felsökning](2024/aep-web-sdk-troubleshooting.md)
       + [AI-assistenten](2024/ai-assistant.md)
       + [Timingar för innehållsdataplattform i realtid](2024/rtcdp-timings.md)
    + Adobe Experience Manager {#aem-office-hours-2024}
