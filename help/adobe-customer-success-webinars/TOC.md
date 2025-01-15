@@ -2,9 +2,9 @@
 user-guide-title: Adobe - nöjda webbseminarier
 breadcrumb-title: Adobe - nöjda webbseminarier
 user-guide-description: Adobe kundnöjda webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe-lösningar.
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 0%
    + [Lean Teams och Customer Journey Analytics](2024/lean-teams-cja.md)
    + [Mastering the Adobe Admin Console](2024/adobe-admin-console.md)
    + [Mastering Cookies och dataintegritet](2024/mastering-cookies-data-privacy.md)
+   + [Mastering Sequential Logic](2024/sequential-logic.md)
    + [Organiserad beredskap för innehållsleveranskedja](2024/organizational-readiness-content-supply-chain.md)
    + [Integrering med Real-time Customer Data Platform och Marketo](2024/aep-marketo-integration.md)
    + [Real-time Customer Data Platform migreringsberedskap](2024/rtcdp-migration-readiness.md)
@@ -47,7 +48,7 @@ ht-degree: 0%
    + [Förvandla data till handling](2024/turning-data-into-action.md)
    + [Frigöra kraften i Edge Services](2024/edge-delivery-services.md)
    + [Använd funktioner för att mappa ärenden till lösningar](2024/use-case-mapping.md)
-   + [Grundläggande om Web SDK-migrering](2024/web-sdk-migration.md)
+   + [SDK Migration Essentials](2024/web-sdk-migration.md)
 
 + 2023 {#2023}
    + [Building the Foundation for Personalization at Scale](2023/personalization-at-scale.md)
