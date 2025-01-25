@@ -9,15 +9,20 @@ event-background-image: exl-event-wake-up-with-workfront.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 46f5e599ad9648498972898731f64f3c24d92c43
+solution: Workfront
+source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
 workflow-type: tm+mt
-source-wordcount: '21'
-ht-degree: 4%
+source-wordcount: '36'
+ht-degree: 0%
 
 ---
 
 
 # Vakna med Workfront {#wake-up-with-workfront-recordings}
 
-+ [Översikt](overview.md)
-+ Vakna med Workfront {#wake-up-with-workfront}
++ [Vakna med Workfront](overview.md)
++ 2025 {#2025}
+   + [Fråga mig vad som helst](2025/ask-me-anything.md)
+   + [Maximera produktiviteten med Workfront Fusion](2025/maximize-productivity.md)
+   + [Optimera och underhåll din miljö](2025/optimize-maintain-environment.md)
+   + [Resurshantering](2025/resource-management.md)
