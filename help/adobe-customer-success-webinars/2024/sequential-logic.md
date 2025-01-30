@@ -1,23 +1,23 @@
 ---
-title: Mastering Sequential Logic in Adobe Analytics and Customer Journey Analytics
-description: Lär dig mer om sekventiell logik och analys i Customer Journey Analytics (CJA) med grundläggande aspekter, praktiska exempel och affärstillämpningar, vilket behandlas i Andy Powers session.
+title: Mastering Sequential Logic in Adobe Analytics and Customer Journey Analytics - Foundations
+description: Lär dig mer om sekventiell segmentering och filter i AA och CJA med grundläggande aspekter, praktiska exempel och affärsapplikationer, som behandlas i Andy Powers session.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3259
 last-substantial-update: 2025-01-15T00:00:00Z
 jira: KT-17125
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+exl-id: db84e4aa-2585-4a08-8e85-bbf67419cc24
+source-git-commit: eba128e9c55c6f22e172b2700dae34dfbd2c16b3
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
-
 # Mastering Sequential Logic in AA and CJA: Foundations
 
-Få en grundläggande förståelse för THEN och relaterade sekventiella logikoperatorer i Adobe Analytics och Customer Journey Analytics. Sekventiell logik möjliggör högvärdesanalys i Adobe Analytics och Customer Journey Analytics, men är underutnyttjad och ofta missförstådd. Det här webbinariet kommer att utgöra grunden för hur dessa operatorer utvärderas i Analysis Workspace.
+Få en grundläggande förståelse för THEN och relaterade sekventiella logikoperatorer i Adobe Analytics (sekventiella segment) och Customer Journey Analytics (sekventiella filter). Sekventiell logik möjliggör högvärdesanalys i Adobe Analytics och Customer Journey Analytics, men är underutnyttjad och ofta missförstådd. Det här webbinariet kommer att utgöra grunden för hur dessa operatorer utvärderas i Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442925/?learn=on&enablevpops)
 
