@@ -11,19 +11,20 @@ doc-type: Technical Video
 duration: 3325
 last-substantial-update: 2024-10-10T00:00:00Z
 jira: KT-16327
-source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
+exl-id: 9137dbbd-4e23-4a59-9f9c-d2702b56d70d
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
 
 ---
 
-
 # AEM GEM-program - Frigör kraften i AEM Sites: Lär dig hantera API:er för innehållshantering
 
 Sätten att använda AEM Sites utvecklas snabbt och lägger till API-mönster i traditionella användarinteraktioner. Oavsett om ni vill effektivisera verksamheten eller förbättra er automatisering är det avgörande att ligga steget före med sådana trender. Besök oss på en djuplodande session där vi utforskar de relevanta senaste uppdateringarna i AEM Sites och hur de kan stärka er strategi för innehållshantering.
 
 Under den här sessionen kommer du att upptäcka
+
 * **Avancerade OpenAPI-standarder** Utforska de senaste OpenAPI-implementeringarna för sömlösa CRUD-åtgärder AEM strukturerat innehåll.
 * **Eventing and Webhooks** Lär dig hur Adobe I/O kan automatisera processer baserat på innehåll och AEM.
 * **Nya REST API:er för översättningsautomatisering** Lär dig mer om de nya REST API:erna som förenklar och effektiviserar arbetsflödena för översättning av innehåll i AEM.

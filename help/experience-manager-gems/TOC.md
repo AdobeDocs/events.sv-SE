@@ -2,9 +2,9 @@
 user-guide-title: Adobe Experience Manager GEMS-event
 user-guide-description: Läs om AEM Gems, en serie tekniska djupdykningar från Adobe Experience Manager experter.
 breadcrumb-title: AEM GEM-event
-source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 0%
 # Experience Manager GEMS-händelser {#experience-manager-gems-recordings}
 
 + [Översikt](overview.md)
++ 2025 {#gems2025}
+   + [Komma igång med hanterad CDN från Adobe](gems2025/getting-started-adobe-managed-cdn.md)
 + 2024 {#gems2024}
    + [Låsa upp kraften i AEM Sites - bemästra API:erna för innehållshantering](gems2024/content-management-apis.md)
    + [Nyheter i miljöer för snabb utveckling för AEM?](gems2024/rapid-development-environment-news.md)
@@ -45,7 +47,7 @@ ht-degree: 0%
 + 2018 {#gems2018}
    + [Djupdyka in i Adobe Experience Manager 6.4](gems2018/aem-6-4-technical-sneak-peek.md)
    + [Adobe Experience Platform - hjärtat i Experience Cloud](gems2018/aem-acp.md)
-   + [Realtid och låg vikt: bygg händelsestyrda integreringar med AEM med Adobe I/O Events](gems2018/aem-adobe-io.md)
+   + [Realtid och lätt: skapa händelsestyrda integreringar med AEM med Adobe I/O Events](gems2018/aem-adobe-io.md)
    + [Adobe Developer (IO) events - Analytics Triggers](gems2018/aem-analytics-triggers.md)
    + [Experimentera med AEM Author Scalability](gems2018/aem-author-scalability1.md)
    + [AEM kärnkomponenter](gems2018/aem-core-components.md)

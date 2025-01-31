@@ -3,9 +3,9 @@ title: Adobe - nöjda webbseminarier
 description: Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att optimera er investering i Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe-lösningar.
 exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
 duration: 42
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
-source-wordcount: '2356'
+source-wordcount: '2500'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,69 @@ ht-degree: 0%
 # Adobe - nöjda webbseminarier {#adobe-customer-success-webinars}
 
 Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att optimera er investering i Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe-lösningar.
+
+
+
+## 2025 sessioner
+
+<!-- CARDS  
+
+{cta = Watch}
+
+* 2025/enhance-loyalty-programs.md
+* 2025/mastering-sequential-logic.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Enhancing Loyalty Programs Through Personalization and Data with the Power of Adobe Solutions">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/enhance-loyalty-programs.md" title="Förbättra lojalitetsprogram genom Personalization och data med kraften i Adobe Solutions" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443130/?format=jpeg&nocache=1738358971574" alt="Förbättra lojalitetsprogram genom Personalization och data med kraften i Adobe Solutions"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/enhance-loyalty-programs.md" target="_blank" rel="referrer" title="Förbättra lojalitetsprogram genom Personalization och data med kraften i Adobe Solutions">Förbättra lojalitetsprogram via Personalization och data med kraften i Adobe Solutions</a>
+                    </p>
+                    <p class="is-size-6">Upptäck hur Adobe lösningar förbättrar lojalitetsprogram genom personalisering och data, och stöder kundresor från medvetenhet till lojalitet i olika branscher.</p>
+                </div>
+                <a href="2025/enhance-loyalty-programs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Mastering Sequential Logic in AA and CJA - A Visual Framework">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/mastering-sequential-logic.md" title="Mastering Sequential Logic in AA and CJA - A Visual Framework" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443129/?format=jpeg&nocache=1738358971583" alt="Mastering Sequential Logic in AA and CJA - A Visual Framework"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/mastering-sequential-logic.md" target="_blank" rel="referrer" title="Mastering Sequential Logic in AA and CJA - A Visual Framework">Mastering Sequential Logic in AA and CJA - A Visual Framework</a>
+                    </p>
+                    <p class="is-size-6">Lär dig bemästra sekventiell logik i Adobe Analytics och Customer Journey Analytics med ett visuellt ramverk för att omvandla scenarier till åtgärdbara planer och skapa effektiva sekventiella segment.</p>
+                </div>
+                <a href="2025/mastering-sequential-logic.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## 2024 års sessioner
 
@@ -64,7 +127,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/adobe-admin-console.md" title="Mastering the Adobe Admin Console" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440937/?format=jpeg&nocache=1736977640016" alt="Mastering the Adobe Admin Console"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440937/?format=jpeg&nocache=1738358972886" alt="Mastering the Adobe Admin Console"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -87,7 +150,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aem-authoring-concepts.md" title="AEM Basics Introduction to AEM Authoring key concepts and capabilities" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435747/?format=jpeg&nocache=1736977640045" alt="AEM Basics Introduction to AEM Authoring key concepts and capabilities"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435747/?format=jpeg&nocache=1738358972901" alt="AEM Basics Introduction to AEM Authoring key concepts and capabilities"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -110,7 +173,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aem-sites-efficiencies.md" title="AEM Sites-effektivitet - Prestandaoptimering, konfiguration och felsökning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435114/?format=jpeg&nocache=1736977640034" alt="AEM Sites-effektivitet - Prestandaoptimering, konfiguration och felsökning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435114/?format=jpeg&nocache=1738358973017" alt="AEM Sites-effektivitet - Prestandaoptimering, konfiguration och felsökning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -133,7 +196,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-apps-services-integrations.md" title="Läs mer om AEP App Services-integreringar för kundärenden" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432053/?format=jpeg&nocache=1736977640020" alt="Läs mer om AEP App Services-integreringar för kundärenden"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432053/?format=jpeg&nocache=1738358972912" alt="Läs mer om AEP App Services-integreringar för kundärenden"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +219,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-marketo-integration.md" title="Grundläggande om integrering mellan Real-time Customer Data Platform och Marketo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433222/?format=jpeg&nocache=1736977640023" alt="Grundläggande om integrering mellan Real-time Customer Data Platform och Marketo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433222/?format=jpeg&nocache=1738358972921" alt="Grundläggande om integrering mellan Real-time Customer Data Platform och Marketo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +242,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-use-case-planning.md" title="Från vision till värde - AEP Use Case Planning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433025/?format=jpeg&nocache=1736977640027" alt="Från vision till värde - AEP Use Case Planning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433025/?format=jpeg&nocache=1738358972930" alt="Från vision till värde - AEP Use Case Planning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -202,7 +265,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ai-copywriting.md" title="Innehållsacceleration med AI-driven copywriting" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433223/?format=jpeg&nocache=1736977640025" alt="Innehållsacceleration med AI-driven copywriting"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433223/?format=jpeg&nocache=1738358973025" alt="Innehållsacceleration med AI-driven copywriting"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -225,7 +288,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ai-customer-experience.md" title="RTCDP Insights - Utnyttja AI för kundupplevelsen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434919/?format=jpeg&nocache=1736977640030" alt="RTCDP Insights - Utnyttja AI för kundupplevelsen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434919/?format=jpeg&nocache=1738358972988" alt="RTCDP Insights - Utnyttja AI för kundupplevelsen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -248,7 +311,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ai-personalization.md" title="Maximera användarupplevelser med Adobe Target AI-styrda Personalization" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440934/?format=jpeg&nocache=1736977640040" alt="Maximera användarupplevelser med Adobe Target AI-styrda Personalization"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440934/?format=jpeg&nocache=1738358972998" alt="Maximera användarupplevelser med Adobe Target AI-styrda Personalization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -271,7 +334,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ajo-essentials.md" title="Adobe Journey Optimizer Essentials - Skapa kampanjer, kundresor och landningssidor" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433000/?format=jpeg&nocache=1736977640037" alt="Adobe Journey Optimizer Essentials - Skapa kampanjer, kundresor och landningssidor"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433000/?format=jpeg&nocache=1738358972939" alt="Adobe Journey Optimizer Essentials - Skapa kampanjer, kundresor och landningssidor"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -294,7 +357,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/basic-to-intermediate-analysis-capabilities.md" title="Adobe Analytics &amp; CJA snabbstart för grundläggande till mellanliggande analysfunktioner" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440933/?format=jpeg&nocache=1736977640056" alt="Adobe Analytics &amp; CJA snabbstart för grundläggande till mellanliggande analysfunktioner"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440933/?format=jpeg&nocache=1738358972948" alt="Adobe Analytics &amp; CJA snabbstart för grundläggande till mellanliggande analysfunktioner"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -317,7 +380,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/data-stream-prioritization.md" title="Prioritering för dataström" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427302/?format=jpeg&nocache=1736977640042" alt="Prioritering för dataström"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427302/?format=jpeg&nocache=1738358973102" alt="Prioritering för dataström"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -340,7 +403,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/edge-delivery-services.md" title="Optimera innehållsleverans - Frigör kraften i Edge Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440938/?format=jpeg&nocache=1736977640048" alt="Optimera innehållsleverans - Frigör kraften i Edge Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440938/?format=jpeg&nocache=1738358972971" alt="Optimera innehållsleverans - Frigör kraften i Edge Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -363,7 +426,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/edge-network-mobile-personalization.md" title="Insikter om Edge Network &amp; Mobile Personalization med Adobe Solutions" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433328/?format=jpeg&nocache=1736977640050" alt="Insikter om Edge Network &amp; Mobile Personalization med Adobe Solutions"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433328/?format=jpeg&nocache=1738358972956" alt="Insikter om Edge Network &amp; Mobile Personalization med Adobe Solutions"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -386,7 +449,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/effective-change-management.md" title="Navigera i förändring - Ett webbseminarium om effektiv ändringshantering" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429286/?format=jpeg&nocache=1736977640061" alt="Navigera i förändring - Ett webbseminarium om effektiv ändringshantering"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429286/?format=jpeg&nocache=1738358972980" alt="Navigera i förändring - Ett webbseminarium om effektiv ändringshantering"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -409,7 +472,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/empowering-lean-teams.md" title="Empowering Lean Teams" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427800/?format=jpeg&nocache=1736977640059" alt="Empowering Lean Teams"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427800/?format=jpeg&nocache=1738358973008" alt="Empowering Lean Teams"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -432,7 +495,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/expedia-aa-to-cja.md" title="Expedia och ledande varumärken utvecklar sin organisation från Adobe Analytics till Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428762/?format=jpeg&nocache=1736977640065" alt="Expedia och ledande varumärken utvecklar sin organisation från Adobe Analytics till Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428762/?format=jpeg&nocache=1738358973066" alt="Expedia och ledande varumärken utvecklar sin organisation från Adobe Analytics till Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -455,7 +518,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/getting-started-ajo-analysis.md" title="Komma igång med Adobe Journey Optimizer Analysis i Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432996/?format=jpeg&nocache=1736977640063" alt="Komma igång med Adobe Journey Optimizer Analysis i Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432996/?format=jpeg&nocache=1738358973074" alt="Komma igång med Adobe Journey Optimizer Analysis i Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -478,7 +541,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/getting-started-rtcdp.md" title="Real-time Customer Data Platform - Komma igång" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433224/?format=jpeg&nocache=1736977640066" alt="Real-time Customer Data Platform - Komma igång"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433224/?format=jpeg&nocache=1738358973081" alt="Real-time Customer Data Platform - Komma igång"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -501,7 +564,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/hyperpersonalization.md" title="Personalization Maturity - Sökvägen till hyperpersonalisering" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429288/?format=jpeg&nocache=1736977640072" alt="Personalization Maturity - Sökvägen till hyperpersonalisering"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429288/?format=jpeg&nocache=1738358973130" alt="Personalization Maturity - Sökvägen till hyperpersonalisering"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -524,7 +587,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/journey-optimizer-mobile-capabilities.md" title="Journey Optimizer Mobile Capabilities" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433001/?format=jpeg&nocache=1736977640069" alt="Journey Optimizer Mobile Capabilities"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433001/?format=jpeg&nocache=1738358973088" alt="Journey Optimizer Mobile Capabilities"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -547,7 +610,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lean-teams-cja.md" title="Maximera effektiviteten - Lean Teams och Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432998/?format=jpeg&nocache=1736977640074" alt="Maximera effektiviteten - Lean Teams och Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432998/?format=jpeg&nocache=1738358973109" alt="Maximera effektiviteten - Lean Teams och Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -570,7 +633,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/mastering-cookies-data-privacy.md" title="Privacy-First Analytics - Mastering Cookies and Data Privacy in Adobe Analytics and Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432997/?format=jpeg&nocache=1736977640076" alt="Privacy-First Analytics - Mastering Cookies and Data Privacy in Adobe Analytics and Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432997/?format=jpeg&nocache=1738358973095" alt="Privacy-First Analytics - Mastering Cookies and Data Privacy in Adobe Analytics and Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -593,7 +656,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/organizational-readiness-content-supply-chain.md" title="Frigöra kraften i Adobe GenStudions organisationsberedskap för att ta itu med utmaningarna i innehållsleveranskedjan" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440932/?format=jpeg&nocache=1736977640078" alt="Frigöra kraften i Adobe GenStudions organisationsberedskap för att ta itu med utmaningarna i innehållsleveranskedjan"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440932/?format=jpeg&nocache=1738358973116" alt="Frigöra kraften i Adobe GenStudions organisationsberedskap för att ta itu med utmaningarna i innehållsleveranskedjan"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -616,7 +679,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/rtcdp-migration-readiness.md" title="Real-time Customer Data Platform migreringsberedskap" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432995/?format=jpeg&nocache=1736977640080" alt="Real-time Customer Data Platform migreringsberedskap"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432995/?format=jpeg&nocache=1738358973137" alt="Real-time Customer Data Platform migreringsberedskap"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -639,7 +702,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/sequential-logic.md" title="Mastering Sequential Logic in Adobe Analytics and Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3442925/?format=jpeg&nocache=1736977640092" alt="Mastering Sequential Logic in Adobe Analytics and Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3442925/?format=jpeg&nocache=1738358973123" alt="Mastering Sequential Logic in Adobe Analytics and Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -662,7 +725,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/strategic-leadership.md" title="Strategisk ledning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427463/?format=jpeg&nocache=1736977640082" alt="Strategisk ledning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427463/?format=jpeg&nocache=1738358973145" alt="Strategisk ledning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -685,7 +748,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/streamline-authentication.md" title="Streamline-autentisering - migrerar från tjänstkonto (JWT) till OAuth Server-till-server-autentiseringsuppgifter" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440936/?format=jpeg&nocache=1736977640089" alt="Streamline-autentisering - migrerar från tjänstkonto (JWT) till OAuth Server-till-server-autentiseringsuppgifter"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440936/?format=jpeg&nocache=1738358973153" alt="Streamline-autentisering - migrerar från tjänstkonto (JWT) till OAuth Server-till-server-autentiseringsuppgifter"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -708,7 +771,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/target-personalization.md" title="Personalization - Komma igång med Recommendations och kategoritillhörighet" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432999/?format=jpeg&nocache=1736977640084" alt="Personalization - Komma igång med Recommendations och kategoritillhörighet"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432999/?format=jpeg&nocache=1738358973160" alt="Personalization - Komma igång med Recommendations och kategoritillhörighet"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -731,7 +794,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/turning-data-into-action.md" title="Den strategiska kraften i mätning - att förvandla data till handling" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440935/?format=jpeg&nocache=1736977640094" alt="Den strategiska kraften i mätning - att förvandla data till handling"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440935/?format=jpeg&nocache=1738358973167" alt="Den strategiska kraften i mätning - att förvandla data till handling"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -754,7 +817,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/use-case-mapping.md" title="Real-Time CDP - Använd funktioner för ärendemappning till lösning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429290/?format=jpeg&nocache=1736977640099" alt="Real-Time CDP - Använd funktioner för ärendemappning till lösning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429290/?format=jpeg&nocache=1738358973174" alt="Real-Time CDP - Använd funktioner för ärendemappning till lösning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -777,7 +840,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/web-sdk-migration.md" title="SDK Migration Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429291/?format=jpeg&nocache=1736977640100" alt="SDK Migration Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429291/?format=jpeg&nocache=1738358973190" alt="SDK Migration Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -800,7 +863,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-admin-guardianship.md" title="Grundläggande om Workfront System and Group Admin Guardianship" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433002/?format=jpeg&nocache=1736977640096" alt="Grundläggande om Workfront System and Group Admin Guardianship"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433002/?format=jpeg&nocache=1738358973211" alt="Grundläggande om Workfront System and Group Admin Guardianship"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -823,7 +886,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-lean-teams.md" title="Maximera effektiviteten med Adobe Workfront - Lean Teams Webinar" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429287/?format=jpeg&nocache=1736977640103" alt="Maximera effektiviteten med Adobe Workfront - Lean Teams Webinar"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429287/?format=jpeg&nocache=1738358973181" alt="Maximera effektiviteten med Adobe Workfront - Lean Teams Webinar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -846,7 +909,7 @@ Adobe webbseminarier som är framgångspunna för Adobe och som hjälper er att 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-mastery.md" title="Workfront Mastery - Strategies for Success" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1736977640108" alt="Workfront Mastery - Strategies for Success"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1738358973204" alt="Workfront Mastery - Strategies for Success"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
