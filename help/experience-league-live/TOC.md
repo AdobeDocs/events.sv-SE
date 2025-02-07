@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
+source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '505'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 0%
 
 + [Översikt](overview.md)
 + Avsnitten {#episodes}
+   + [Ep. 44: Låsa upp funktionsinsikter med AI Assistant i Adobe Experience Platform](episodes/exl-live-episode-02-27-25.md)
    + [Ep. 43: Introduktion till AI Assistant för marknadsförare i Real-Time CDP](episodes/exl-live-episode-11-13-24.md)
    + [Ep. 42: Visa innehållskort för Adobe Journey Optimizer](episodes/exl-live-episode-10-30-24.md)
    + [Ep. 41: Harmonisera målgrupper med Federated Audience Composition i Experience Platform](episodes/exl-live-episode-40-2024-10-24.md)
@@ -48,7 +49,7 @@ ht-degree: 0%
    + [Ep. 19: Leverera rätt erbjudande vid rätt tidpunkt med beslutsstöd](episodes/exl-live-episode-10-25-22.md)
    + [Ep. 18: Kör kampanjer i Adobe Journey Optimizer](episodes/exl-live-episode-09-22-22.md)
    + [Ep. 17: En mer personaliserad kundupplevelse i realtid](episodes/exl-live-episode-09-20-22.md)
-   + [Ep. 16: Be experterna - användbara tillägg i taggar (Launch) om hjälp att ladda ned Web SDK](episodes/exl-live-episode-08-23-22.md)
+   + [Ep. 16: Be experterna - användbara tillägg i Tags (Launch) att ladda ned Web SDK](episodes/exl-live-episode-08-23-22.md)
    + [Ep. 15: Fråga experterna - Datastreams och dataförberedelse](episodes/exl-live-episode-07-21-22.md)
    + [Ep. 14: Fråga experterna - RTCDP-anslutningar](episodes/exl-live-episode-06-23-22.md)
    + [Ep. 13: Fråga experterna - Grunderna i Web SDK](episodes/exl-live-episode-05-26-22.md)

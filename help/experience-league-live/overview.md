@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 2abf56d9dea80f750aa77b002ede38e9d2aa96cb
+source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '175'
 ht-degree: 1%
 
 ---
@@ -25,11 +25,16 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 <table>
 <tr>
-
-<td style="vertical-align: top;">
-    Gå tillbaka till den här sidan snart för fler kommande avsnitt av Experience League LIVE!
-    </br>
-    Välj tidigare avsnitt i innehållsförteckningen till vänster på den här sidan.
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-27-25.md">
+      <img alt="Experience League LIVE 27 feb" src="episodes/assets/WebBanner-02-27-25.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-02-27-25.md">
+        <strong> Låsa upp funktionsinsikter med AI Assistant i Adobe Experience Platform </strong>
+      </a>
+      <br/><em>med Rudi Shumpert, Namita Krishnan och Huong Vu</em>
+      <br/><em>27 februari 2025</em>
+    </div>
   </td>
 </tr>
 </table>
