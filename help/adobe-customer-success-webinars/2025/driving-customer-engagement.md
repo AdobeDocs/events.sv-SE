@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3077
 last-substantial-update: 2025-02-07T00:00:00Z
 jira: KT-17266
-source-git-commit: 4a4822129ced9ee1bd11374a637c09ff7f95d61f
+exl-id: 29b18954-f53a-4273-8852-0e42fb9477e9
+source-git-commit: a5112a81216059cfa3f362eb3a7882801c8a001a
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
-
 
 # Skapa kundengagemang för betalarna
 
@@ -26,9 +26,9 @@ Underlätta en insiktsfull session om hur AEM Forms förändrar kundengagemanget
 
 * **Utmaningar och möjligheter i betalarvärlden** Hälso- och sjukvården står inför utmaningar när det gäller att hantera den exponentiella tillväxten av digital information och formulär, vilket leder till ineffektivitet och höga kostnader. Det finns ett behov av att effektivisera processerna, minska kostnaderna och förbättra kundengagemanget.
 
-* **Aims funktioner för Forms** Aim-formulär ökar effektiviteten och ger enastående användarupplevelser genom att man kan skapa formulär i stor skala, automatisera arbetsflöden och leverera flerkanalsupplevelser. Detta leder till högre konverterings- och registreringsfrekvens, minskad nedläggning av blanketter och ökad produktivitet.
+* **Funktionerna i AEM Forms** AEM-formulär ökar effektiviteten och ger enastående användarupplevelser genom att man kan skapa formulär i stor skala, automatisera arbetsflöden och leverera flerkanalsupplevelser. Detta leder till högre konverterings- och registreringsfrekvens, minskad nedläggning av blanketter och ökad produktivitet.
 
-* **Heltäckande lösning** Målformulär är en totallösning som innehåller flerkanalsformulär, automatiserade arbetsflöden och interaktiv kundkommunikation. Lösningen är integrerad med Adobe Experience Cloud och förbättrar användarupplevelsen och effektiviteten.
+* **Heltäckande lösning** AEM Forms är en totallösning som innehåller flerkanalsformulär, automatiserade arbetsflöden och interaktiv kundkommunikation. Lösningen är integrerad med Adobe Experience Cloud och förbättrar användarupplevelsen och effektiviteten.
 
 * **Nyheter och integreringar** Nyligen gjorda innovationer inkluderar leveranstjänster för bättre prestanda, headless adaptive-formulär för flerkanalsleverans och nya anslutningar för integrering med system som OneDrive, Power Automate, Salesforce och Workfront. Tidiga åtkomstfunktioner är bland annat Gen AI-assistent, Marketo-kontakt och konversationsformulär.
 
