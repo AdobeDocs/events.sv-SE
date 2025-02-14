@@ -1,6 +1,6 @@
 ---
 title: Adobe Analytics & CJA snabbstart för grundläggande till mellanliggande analysfunktioner
-description: Sessionen"Quickstart for Basic Intermediate Analysis Capabilities", som leds av Dr Kirsten Schaffer, gick ut på att skapa stabila analysfunktioner, styrning och analysvägar, jämföra Adobe Analytics och Customer Journey Analytics, diskutera olika typer av analyser och betona vikten av en enda informationskälla för datarapportering.
+description: I mötet gick vi igenom hur man ställer in analysfunktioner, jämför Adobe Analytics och Customer Journey Analytics och hur man gör nyckelfunktioner för marknadsföringsrapporter.
 solution: Customer Journey Analytics, Analytics
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Analytics &amp; CJA: Snabbstart för grundläggande till mellanliggande analysfunktioner
 
@@ -40,7 +40,7 @@ Lär dig hur du snabbt kommer igång med Adobe Analytics och Customer Journey An
    * **Externa och interna styrkor** som påverkar digital analys, inklusive marknadsförändringar, sekretess och styrning, datamarknad och datakomplexitet.
    * **Skapar en robust analysgrund** Mätningsstrategi, datainsamling, insikt och analys, inlärning, datastyrning.
    * **Konfigurera ett team för digital analys**, roller och ansvarsområden, skapa ett hybridteam och hantera analysförfrågningar effektivt.
-   * **Adobe Enablement Options** Experience League,on-demand-kurser, lärarbaserade kurser, community support.
+   * **Adobe aktiveringsalternativ** Experience League, on-demand-kurser, lärarbaserade kurser, communitysupport.
 
 * **Jämförelse mellan Adobe Analytics och Customer Journey Analytics (CGA)**
    * Adobe Analytics är grunden för digital analys.
@@ -61,5 +61,5 @@ Lär dig hur du snabbt kommer igång med Adobe Analytics och Customer Journey An
 * **Q&amp;A-markeringar**
    * Förklaring av komponenter och statiska datascheman.
    * Beskrivning av offlinedata.
-   * Recommendations för migrering från Adobe Analytics till CGA.
+   * Rekommendationer för migrering från Adobe Analytics till CGA.
    * Vikten av att definiera en enda sanningskälla för datarapportering.

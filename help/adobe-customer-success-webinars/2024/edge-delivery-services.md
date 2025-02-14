@@ -1,6 +1,6 @@
 ---
 title: Optimera innehållsleverans - Frigör kraften i Edge Services
-description: ATM Edge Delivery Services (EDS) förbättrar ATM med sammanställningsbara tjänster, snabba utvecklingscykler och höga fyrar, stöd för dokumentbaserad och WYSIWYG-baserad redigering, serverlös arkitektur, snabb framtagning av webbplatser och omfattande anpassningsmöjligheter.
+description: Sessionen med Edge Delivery Services (EDS) behandlade dess arkitektur, integrering med dokumentbaserad och AEM-baserad redigering, snabb framtagning av webbplatser, anpassningsalternativ och bästa praxis för att upprätthålla höga prestanda.
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 role: Admin, Developer, Leader, User
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3589
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16631
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: 2057e491-9ec3-4bfe-b85a-6b74d70822bf
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-
 # Optimera innehållsleverans: Frigör kraften i Edge Services
 
-Under det här seminariet kommer vi att ge en översikt över Edge Delivery Services (EDS) och dess arkitektur. Vi kommer att ta reda på hur EDS kan integreras med dokumentbaserad redigering och AEM via den universella redigeraren. En live-demo visar upp EDS i praktiken, följt av resurser för ytterligare utforskande och en session med Frågor och svar.
+Under det här seminariet kommer vi att ge en översikt över Edge Delivery Services (EDS) och dess arkitektur. Vi kommer att ta reda på hur EDS kan integreras med dokumentbaserad redigering och AEM-baserad redigering via den universella redigeraren. En live-demo visar upp EDS i praktiken, följt av resurser för ytterligare utforskande och en session med Frågor och svar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440938/?learn=on&enablevpops)
 
@@ -33,7 +33,7 @@ Under det här seminariet kommer vi att ge en översikt över Edge Delivery Serv
 ### Redigeringsalternativ
 
 * **Dokumentbaserad redigering** Använder välbekanta verktyg som Microsoft Word eller Google Docs för att skapa innehåll, vilket gör det möjligt att snabbt skapa innehåll utan omfattande utbildning. &#x200B;
-* **Universell redigerare** Tillhandahåller ett WYSIWYG-gränssnitt som liknar traditionella ATM, vilket gör att du kan skapa mer detaljerat och visuellt innehåll. &#x200B;
+* **Universell redigerare** Tillhandahåller ett WYSIWYG-gränssnitt som liknar traditionella ATM-webbplatser, vilket gör det möjligt att skapa mer detaljerat och visuellt innehåll. &#x200B;
 
 ### Arkitektur
 
@@ -65,4 +65,4 @@ Under det här seminariet kommer vi att ge en översikt över Edge Delivery Serv
 ### Support och dokumentation
 
 * Det finns omfattande dokumentation som vägleder användarna genom installations- och anpassningsprocessen. &#x200B;
-* Vi rekommenderar att man kontaktar Adobe för att få hjälp med olösta problem. &#x200B;
+* Vi rekommenderar att du kontaktar Adobe support för olösta problem. &#x200B;

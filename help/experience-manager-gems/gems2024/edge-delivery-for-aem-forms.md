@@ -1,6 +1,6 @@
 ---
 title: Komma igång med Edge Delivery Services för AEM Forms
-description: Lär dig skapa och publicera AEM Forms med Edge Delivery Services och leverera dem som exceptionella upplevelser i toppen. Vi kommer att gå igenom två sätt att skapa dessa formulär - med dokumentbaserad redigering och AEM baserad redigering. Du får lära dig hur du konfigurerar ett AEM Forms Edge Delivery Services-projekt för att anpassa Forms-block och -komponenter och för att använda tillägg på serversidan. Du får också lära dig hur du kan utnyttja AEM Forms as a Cloud Service för backend-bearbetning av Forms efter inlämningen.
+description: Lär dig skapa och publicera AEM Forms med Edge Delivery Services, som omfattar dokumentbaserad och AEM-baserad redigering, projektinställningar för anpassning och användning av AEM Forms as a Cloud Service för backend-bearbetning.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 0361b404-1c6c-4343-876c-ac6a200ba3b9
-source-git-commit: 3fe49df071fd893fb7007545abec74ee3e331702
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,12 @@ Det här webbinariet har slutförts - se inspelningen nedan.
 
 ## Komma igång med Edge Delivery Services för AEM Forms
 
-Lär dig skapa och publicera AEM Forms med Edge Delivery Services och leverera dem som exceptionella upplevelser i toppen. Vi kommer att gå igenom två sätt att skapa dessa formulär: med dokumentbaserad redigering och AEM baserad redigering. Du får lära dig hur du konfigurerar ett AEM Forms Edge Delivery Services-projekt för att anpassa Forms-block och -komponenter och för att använda tillägg på serversidan. Du får också lära dig hur du kan utnyttja AEM Forms as a Cloud Service för backend-bearbetning av Forms efter inlämningen.
+Lär dig skapa och publicera AEM Forms med Edge Delivery Services och leverera dem som exceptionella upplevelser i toppklass. Vi kommer att gå igenom två sätt att skapa dessa formulär: med dokumentbaserad redigering och AEM-baserad redigering. Du får lära dig hur du konfigurerar ett AEM Forms Edge Delivery Services-projekt för att anpassa Forms-block och -komponenter och för att använda tillägg på serversidan. Du får också lära dig hur du kan använda AEM Forms as a Cloud Service för backend-bearbetning av Forms efter inlämningen.
 
 ## Presentatörer
 
 * Arun Taneja, Product Management Director, Adobe
-* Vijay Kumar Jalagari, teknikchef, Adobe
+* Vijay Kumar Jalagari, Sr. Engineering Manager, Adobe
 
 ## Inspelning av webbinarium
 

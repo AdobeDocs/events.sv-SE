@@ -1,6 +1,6 @@
 ---
 title: AEM Sites-effektivitet - Prestandaoptimering, konfiguration och felsökning
-description: Denna session behandlar viktiga felsökningskunskaper för Adobe Experience Manager (AEM) Sites, med fokus på praktiska, praktiska lösningar för prestandaproblem, komplexa konfigurationer och användarbehörigheter.
+description: Webbinariet om effektiviteten hos AMP-webbplatser omfattade prestandaoptimering, dispatcherns konfiguration, god praxis för rättighetshantering och strategier för att åtgärda prestandaproblem.
 solution: Experience Manager
 version: Cloud Service
 role: Admin, Developer, Leader, User
@@ -10,16 +10,16 @@ duration: 3452
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16353
 exl-id: 55f7c1d8-7c2c-4392-894a-2aa9b3cc0e4a
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
 # AEM Sites-effektivitet: Prestandaoptimering, konfiguration och felsökning
 
-I det här webbinariet kommer vi att dyka upp i grunderna för felsökning av Adobe Experience Manager-sajter (AEM). Oavsett om du har prestandaproblem eller har att göra med komplexa konfigurationer kommer den här sessionen att ge praktiska kunskaper för att underhålla och optimera din AEM. Vi prioriterar live-demos framför bilder och ger praktiska erfarenheter av att tackla utmaningar i verkligheten. &#x200B;
+I det här webbinariet kommer vi att dyka upp i grunderna för felsökning av Adobe Experience Manager-sajter (AEM). Vare sig du har prestandaproblem eller har att göra med komplexa konfigurationer kan du underhålla och optimera din AEM-miljö med den här sessionen. Vi prioriterar live-demos framför bilder och ger praktiska erfarenheter av att tackla utmaningar i verkligheten. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435114/?learn=on)
 

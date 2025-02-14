@@ -1,6 +1,6 @@
 ---
 title: AEM GEM Sessions
-description: Det här är landningssidan för AEM GEM-företag, inklusive information om webbinarier och registreringsinformation, föregående och kommande webbinarier
+description: Det här är landningssidan för AEM GEM:er, inklusive information om webbinarier och registreringsinformation, tidigare och kommande webbinarier
 role: Leader
 cloud: Experience Cloud
 product: adobe experience manager
@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM Sessions
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '1372'
+source-wordcount: '845'
 ht-degree: 0%
 
 ---
@@ -23,14 +23,14 @@ ht-degree: 0%
 
 <img alt="Digitala upplevelser" src="./assets/ADX_Gems.png"/>
 
-Välkommen till **AEM GEM:er** - en Adobe Experience Manager-webbinarieserie som fokuserar på djupdykning i tekniska produkter som levereras av experter från Adobe AEM. Serien är ett komplement till produktdokumentationen och alla andra tekniska kanaler som gäller Adobe Experience Manager, vilket gör att utvecklare kan kontakta oss och fördjupa dig i olika AEM.
+Välkommen till **AEM GEM** - en Adobe Experience Manager-webbinariserie som fokuserar på djupdykning i tekniska produkter som levereras av Adobe AEM experter. Serien är ett komplement till produktdokumentationen och alla andra tekniska kanaler som gäller Adobe Experience Manager, så att utvecklarna kan komma i kontakt med och fördjupa sig i olika frågor som rör AEM.
 
 Webbinarierna genomförs regelbundet.  Viktiga tips,
 
-* Alla AEM GEM:er är kostnadsfria
+* Alla AEM:er GEM:er är kostnadsfria
 * Registrering krävs
 * Om du missar en session kan du kolla här för inspelningen
-* AEM är vanligtvis en timme långa och har 15 minuters frågor och svar
+* AEM GEM är vanligtvis en timme lång och har 15 minuters frågor och svar
 
 ## 2025
 
@@ -46,7 +46,7 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2025/getting-started-adobe-managed-cdn.md" title="AEM GEM - Komma igång med Adobe Managed CDN" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443168/?format=jpeg&nocache=1738357042293" alt="AEM GEM - Komma igång med Adobe Managed CDN"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443168/?format=jpeg&nocache=1739484199651" alt="AEM GEM - Komma igång med Adobe Managed CDN"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -54,9 +54,9 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="gems2025/getting-started-adobe-managed-cdn.md" target="_blank" rel="referrer" title="AEM GEM - Komma igång med Adobe Managed CDN">AEM GEM:er - Komma igång med Adobe Managed CDN</a>
+                        <a href="gems2025/getting-started-adobe-managed-cdn.md" target="_blank" rel="referrer" title="AEM GEM - Komma igång med Adobe Managed CDN">AEM GEM - Komma igång med Adobe Managed CDN</a>
                     </p>
-                    <p class="is-size-6">Lär dig hur du konfigurerar hanterad CDN för Adobe i AEM Cloud Service för att förbättra prestanda och säkerhet med nya CDN-konfigurationsfunktioner.</p>
+                    <p class="is-size-6">Lär dig hur du konfigurerar Adobe Managed CDN i AEM Cloud-tjänsten för att förbättra prestanda och säkerhet med nya CDN-konfigurationsfunktioner.</p>
                 </div>
                 <a href="gems2025/getting-started-adobe-managed-cdn.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
@@ -70,14 +70,14 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
 ## 2024
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce
+* gems2024/aem-authoring-and-edge-delivery.md
+* gems2024/content-management-apis.md
+* gems2024/edge-delivery-for-aem-assets.md
+* gems2024/edge-delivery-for-aem-forms.md
+* gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md
+* gems2024/private-github-for-aem-cloud-manager.md
+* gems2024/rapid-development-environment-news.md
+* gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -85,8 +85,8 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery" title="Kom igång med AEM och Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427919/?format=jpeg&nocache=1738357043803" alt="Kom igång med AEM och Edge Delivery Services"
+                    <a href="gems2024/aem-authoring-and-edge-delivery.md" title="Komma igång med AEM Authoring och Edge Delivery Services" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427919/?format=jpeg&nocache=1739484200021" alt="Komma igång med AEM Authoring och Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,12 +94,12 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery" target="_blank" rel="referrer" title="Kom igång med AEM och Edge Delivery Services">Komma igång med AEM och Edge Delivery Services</a>
+                        <a href="gems2024/aem-authoring-and-edge-delivery.md" target="_blank" rel="referrer" title="Komma igång med AEM Authoring och Edge Delivery Services">Komma igång med AEM Authoring och Edge Delivery Services</a>
                     </p>
-                    <p class="is-size-6">Det här AEM GEM-webbinariet innehåller en presentation och demo som visar hur AEM fungerar tillsammans med Edge Delivery Services. Vi kommer att hjälpa dig att skapa ett projekt för nya Edge Delivery Services som kan användas för AEM med AEM Cloud Service som innehållskälla, och vi kommer att visa dig hur du kan dra nytta av den smidiga och smidiga utvecklingsupplevelsen som Edge Delivery Servicens ger, men som bevarar WYSIWYG redigeringsupplevelse.</p>
+                    <p class="is-size-6">AEM GEM:s webbinarium visar hur AEM redigering kan integreras med Edge Delivery Services, skapa ett projekt med AEM Cloud Service och underhålla ett WYSIWYG-gränssnitt.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                <a href="gems2024/aem-authoring-and-edge-delivery.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>
         </div>
@@ -108,8 +108,8 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis" title="AEM GEM - Unlocking the Power of AEM Sites - Master the Content Management APIs" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435036/?format=jpeg&nocache=1738357043849" alt="AEM GEM - Unlocking the Power of AEM Sites - Master the Content Management APIs"
+                    <a href="gems2024/content-management-apis.md" title="AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435036/?format=jpeg&nocache=1739484200038" alt="AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,12 +117,12 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis" target="_blank" rel="referrer" title="AEM GEM - Unlocking the Power of AEM Sites - Master the Content Management APIs">AEM GEM:er - Frigör kraften i AEM Sites - Lär dig bemästra API:erna för innehållshantering</a>
+                        <a href="gems2024/content-management-apis.md" target="_blank" rel="referrer" title="AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs">AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs</a>
                     </p>
-                    <p class="is-size-6">I webbinariet om Adobe Experience Manager (AEM) innehålls-API:er introducerades nya, moderniserade API:er för förbättrad innehållshantering och leverans. ​Viktiga högtalare, bland annat Matthias, Catalina, Leonard och Prashant, visade upp funktionerna i dessa API:er, som strukturerad innehållshantering, optimerad innehållsleverans och automatiserade översättningsprocesser. ​Bland nyheterna finns den nya funktionen för användargränssnittsschema, förbättrad referenshantering, funktioner för gruppförfrågningar och ett snabbare API för innehållsleverans. ​Deltagarna uppmanades att utforska dessa API:er via Adobe dokumentation och gå med i det tidiga adopterprogrammet för tidig åtkomst och direkt teknisk support.</p>
+                    <p class="is-size-6">AEM GEM-sessioner undersöker mönster som sätter API:er i första rummet i AEM Sites, och omfattar avancerade OpenAPI-standarder, händelser och webbhooks samt nya REST API:er för översättningsautomatisering, med insikter från Adobe experter.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                <a href="gems2024/content-management-apis.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>
         </div>
@@ -131,8 +131,8 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets" title="Integrera AEM Assets med Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433046/?format=jpeg&nocache=1738357043796" alt="Integrera AEM Assets med Edge Delivery Services"
+                    <a href="gems2024/edge-delivery-for-aem-assets.md" title="Integrera AEM Assets med Edge Delivery Services" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433046/?format=jpeg&nocache=1739484200051" alt="Integrera AEM Assets med Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,12 +140,12 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets" target="_blank" rel="referrer" title="Integrera AEM Assets med Edge Delivery Services">Integrera AEM Assets med Edge Delivery Services</a>
+                        <a href="gems2024/edge-delivery-for-aem-assets.md" target="_blank" rel="referrer" title="Integrera AEM Assets med Edge Delivery Services">Integrera AEM Assets med Edge Delivery Services</a>
                     </p>
-                    <p class="is-size-6">Under det här AEM GEM-webbinariet kommer vi att visa hur du kan använda AEM Assets på din webbplats som bygger på AEM Edge Delivery Services.  Vi börjar med integreringsstegen som gör att utvecklare kan integrera AEM Assets-databasen i webbplatsens utvecklingsflöde. Sedan kommer vi att visa hur utvecklare kan anpassa integreringen baserat på webbplatsspecifika redigeringskrav. Vi visar också hur materialet kan levereras med AEM Dynamic Media med Open API, så att du kan utnyttja Dynamic Media Open API-funktioner. Dessutom kommer vi att fördjupa oss i praktiska användningsfall och beprövade arbetsmetoder, vilket ger en heltäckande bild av hur denna integrering hjälper till att utnyttja er resurshanteringslösning i era webbplatsutvecklingsflöden.</p>
+                    <p class="is-size-6">AEM GEM:s webbinarium visar hur man integrerar AEM Assets på webbplatser som bygger på AEM Edge Delivery Services, anpassar integreringen, levererar material med AEM Dynamic Media med Open API samt utforskar praktiska användningsexempel och bästa praxis.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                <a href="gems2024/edge-delivery-for-aem-assets.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>
         </div>
@@ -154,8 +154,8 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms" title="Komma igång med Edge Delivery Services för AEM Forms" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428434/?format=jpeg&nocache=1738357043810" alt="Komma igång med Edge Delivery Services för AEM Forms"
+                    <a href="gems2024/edge-delivery-for-aem-forms.md" title="Komma igång med Edge Delivery Services för AEM Forms" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428434/?format=jpeg&nocache=1739484200089" alt="Komma igång med Edge Delivery Services för AEM Forms"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,12 +163,12 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms" target="_blank" rel="referrer" title="Komma igång med Edge Delivery Services för AEM Forms">Komma igång med Edge Delivery Services för AEM Forms</a>
+                        <a href="gems2024/edge-delivery-for-aem-forms.md" target="_blank" rel="referrer" title="Komma igång med Edge Delivery Services för AEM Forms">Komma igång med Edge Delivery Services för AEM Forms</a>
                     </p>
-                    <p class="is-size-6">Lär dig skapa och publicera AEM Forms med Edge Delivery Services och leverera dem som exceptionella upplevelser i toppen. Vi kommer att gå igenom två sätt att skapa dessa formulär - med dokumentbaserad redigering och AEM baserad redigering. Du får lära dig hur du konfigurerar ett AEM Forms Edge Delivery Services-projekt för att anpassa Forms-block och -komponenter och för att använda tillägg på serversidan. Du får också lära dig hur du kan utnyttja AEM Forms as a Cloud Service för backend-bearbetning av Forms efter inlämningen.</p>
+                    <p class="is-size-6">Lär dig skapa och publicera AEM Forms med Edge Delivery Services, som omfattar dokumentbaserad och AEM-baserad redigering, projektinställningar för anpassning och användning av AEM Forms as a Cloud Service för backend-bearbetning.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                <a href="gems2024/edge-delivery-for-aem-forms.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>
         </div>
@@ -177,8 +177,8 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events" title="Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430198?format=jpeg&nocache=1738357043829" alt="Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser"
+                    <a href="gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md" title="Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430198?format=jpeg&nocache=1739484200062" alt="Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,12 +186,12 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events" target="_blank" rel="referrer" title="Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser">Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser</a>
+                        <a href="gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md" target="_blank" rel="referrer" title="Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser">Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser</a>
                     </p>
-                    <p class="is-size-6">AEM utvecklare får möjlighet att utforska de nya Assets Open API:erna och molnbaserade I/O-händelser som vi erbjuder. Dessa förbättringar gör det möjligt att skapa AEM tillägg som inte har bearbetats. Under denna session kommer vi att visa hur vi kan implementera dessa verktyg på ett effektivt sätt. Den här demonstrationen visar utvecklarna hur de kan effektivisera sina arbetsflöden, förbättra utvecklingshastigheten och minska pågående underhållsarbete. Dessutom kommer vi att fördjupa oss i praktiska användningsfall och bästa metoder, vilket ger en heltäckande bild av hur dessa innovationer kan utnyttjas för att optimera utvecklingsprocesserna.</p>
+                    <p class="is-size-6">AEM-utvecklare kan utforska nya Assets Open API:er och molnbaserade I/O Events för att skapa AEM-tillägg som inte har bearbetats, effektivisera arbetsflöden, förbättra utvecklingshastigheten och minska underhållet, med praktiska användningsexempel och beprövade metoder.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                <a href="gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>
         </div>
@@ -200,8 +200,8 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager" title="Integrera privata GitHub-databaser i AEM Cloud Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432350?format=jpeg&nocache=1738357043823" alt="Integrera privata GitHub-databaser i AEM Cloud Manager"
+                    <a href="gems2024/private-github-for-aem-cloud-manager.md" title="Integrera privata GitHub-databaser i AEM Cloud Manager" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432350?format=jpeg&nocache=1739484200072" alt="Integrera privata GitHub-databaser i AEM Cloud Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,12 +209,12 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager" target="_blank" rel="referrer" title="Integrera privata GitHub-databaser i AEM Cloud Manager">Integrerar privata GitHub-databaser i AEM Cloud Manager</a>
+                        <a href="gems2024/private-github-for-aem-cloud-manager.md" target="_blank" rel="referrer" title="Integrera privata GitHub-databaser i AEM Cloud Manager">Integrerar privata GitHub-databaser i AEM Cloud Manager</a>
                     </p>
-                    <p class="is-size-6">Under det här AEM GEM-webbinariet kommer vi att visa hur du får ut det mesta av din egen privata GitHub-databas i Cloud Manager. Vi börjar med databasintroduktionen, som nu gör att du kan länka GitHub-databasen direkt till dina Cloud Manager-pipelines, vilket eliminerar behovet av att synka koden konsekvent med Adobe-databasen. Sedan vill vi visa hur den här funktionen gör att du kan ändra till vänster i testprocessen, så att Cloud Manager-kodkvalitetskontroller ligger på efterfrågenivån innan koden sammanfogas. På så sätt kan du som AEM utvecklare identifiera de problem som skulle ha misslyckats med att skapa Cloud Manager tidigare i utvecklingscykeln.</p>
+                    <p class="is-size-6">AEM GEM:s webbinarium visar hur du lägger till en privat GitHub-databas i Cloud Manager, länkar den direkt till pipelines och skift-vänster-testning för att identifiera problem på pull-begärandenivå innan du sammanfogar kod.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                <a href="gems2024/private-github-for-aem-cloud-manager.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>
         </div>
@@ -223,8 +223,8 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news" title="Nyheter i miljöer för snabb utveckling för AEM?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433337/?format=jpeg&nocache=1738357043868" alt="Nyheter i miljöer för snabb utveckling för AEM?"
+                    <a href="gems2024/rapid-development-environment-news.md" title="Nyheter i Rapid Development Environment för AEM?" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433337/?format=jpeg&nocache=1739484200081" alt="Nyheter i Rapid Development Environment för AEM?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,12 +232,12 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news" target="_blank" rel="referrer" title="Nyheter i miljöer för snabb utveckling för AEM?">Nyheter i miljöer för snabb utveckling för AEM?</a>
+                        <a href="gems2024/rapid-development-environment-news.md" target="_blank" rel="referrer" title="Nyheter i Rapid Development Environment för AEM?">Nyheter i miljöer för snabb utveckling för AEM?</a>
                     </p>
-                    <p class="is-size-6">Tack vare de lokala redigeringssystemen kan utvecklare snabbt driftsätta och granska ändringar, vilket minimerar den tid som krävs för att testa funktioner som är beprövade i en lokal utvecklingsmiljö. Under den här sessionen ska vi visa hur du kan använda RDE för att minska omvändningstiden under utvecklingen och få nästan omedelbar feedback för kodändringar. Dessutom kommer vi att presentera de senaste funktionerna som förbättrad loggning och stöd för frontend. Följ oss för att lära dig mer om vad du kan göra med de skrivskyddade redigeringssystemen och tala om för oss vad du vill ska läggas till härnäst!</p>
+                    <p class="is-size-6">Sessionen visar hur de regionala utvecklingsprogrammen möjliggör snabb driftsättning och granskning av ändringar, vilket minskar utvecklingstiden och ger omedelbar feedback. Det kommer också att innehålla nya funktioner som förbättrad loggning och stöd för frontend.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                <a href="gems2024/rapid-development-environment-news.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>
         </div>
@@ -246,8 +246,8 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce" title="Bygga&quot;Storefront on Edge Delivery Services&quot; med Adobe Commerce" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427729?format=jpeg&nocache=1738357043816" alt="Bygga&quot;Storefront on Edge Delivery Services&quot; med Adobe Commerce"
+                    <a href="gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md" title="Building Storefront on Edge Delivery Services with Adobe Commerce" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427729?format=jpeg&nocache=1739484200100" alt="Building Storefront on Edge Delivery Services with Adobe Commerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -255,12 +255,12 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce" target="_blank" rel="referrer" title="Bygga&quot;Storefront on Edge Delivery Services&quot; med Adobe Commerce">Bygger Storefront på Edge Delivery Services med Adobe Commerce</a>
+                        <a href="gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md" target="_blank" rel="referrer" title="Building Storefront on Edge Delivery Services with Adobe Commerce">Bygger Storefront på Edge Delivery Services med Adobe Commerce</a>
                     </p>
-                    <p class="is-size-6">Det här AEM GEM-webbinariet lär dig hur du skapar en högpresterande butik på Edge Delivery Services för Adobe Commerce. Vi vägleder dig genom installationsprocessen för ditt projekt med Commerce-mallen och hur du kopplar den till de nya Commerce SaaS-tjänsterna för snabb och Sensei UI-förbättrad integration av produktkataloger. Vi presenterar instickskomponenter, en uppsättning anpassningsbara frontkomponenter som snabbar upp framtagningen av butiker. Du får lära dig de bästa sätten att utöka och utforma dem. Slutligen kommer vi att lyfta fram nya redigeringsfunktioner i Edge Delivery för att berika dina Commerce-upplevelser med redigerat innehåll.</p>
+                    <p class="is-size-6">AEM GEM:s webbinarium lär dig att bygga en högpresterande butik för Edge Delivery Services för Adobe Commerce, som omfattar projektinställningar, Commerce SaaS-integrering, anpassningsbara komponenter i gränssnittet och nya redigeringsfunktioner som förbättrar Commerce-upplevelser.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                <a href="gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>
         </div>
@@ -271,11 +271,11 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
 
 ## Håll dig uppdaterad
 
-Vill du veta när nästa AEM kommer att vara?  Registrera dig hos [Adobe AEM User Group](https://aem-augs.adobe.com/) för att få meddelanden.
+Vill du veta när nästa AEM GEM blir?  Registrera dig hos [Adobe AEM User Group](https://aem-augs.adobe.com/) för att få ett meddelande.
 
 ## Fortsätt diskutera
 
-I vår [Experience Manager-community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) kan du ansluta till andra utvecklare och fortsätta att diskutera AEM.  Ni kan nätverka med kollegor och medarbetare på Adobe för vägledning och bästa praxis från implementering till utökad produktanvändning.  Få snabba svar på dina frågor och förse Adobe med dina produktidéer och värdefull feedback.
+I vår [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) kan du ansluta till andra utvecklare och fortsätta att diskutera med AEM.  Ni kan nätverka med kollegor och Adobe-anställda för vägledning och bästa praxis, från implementering till utökad produktanvändning.  Få snabba svar på dina frågor och förse Adobe med produktidéer och värdefull feedback.
 
 <!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
 

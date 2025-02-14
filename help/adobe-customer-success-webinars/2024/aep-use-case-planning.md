@@ -1,6 +1,6 @@
 ---
 title: Från vision till värde - AEP Use Case Planning
-description: Lär dig leverera slagkraftiga kundupplevelser genom att definiera en strategi med tydliga mål och framgångsfaktorer som anpassar sig till affärsresultat och nyckeltal, vägleda en färdplan för att uppnå värdeförverkligande och effektivt utnyttja lösningskapaciteten i Adobe.
+description: AEP Use Case Planning-sessionen täcker värdemappning, strategijustering och maximering av affärsvärdet med hjälp av nyckeltal. Det hjälper organisationer att anpassa sina mål efter affärsresultaten och utnyttja Adobe lösningar för slagkraftiga kundupplevelser.
 solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 3022
 last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-16038
 exl-id: 1d30c85d-3e78-4cc1-94f5-0a5b63d20ab2
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Lär er leverera slagkraftiga kundupplevelser genom att definiera en strategi me
 
 1. anpassa till affärsresultat och nyckeltal
 1. informera om en färdplan för att uppnå värderealisering
-1. utnyttja Adobe-lösningarna effektivt.
+1. utnyttja Adobe lösningar effektivt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433025/?learn=on)
 

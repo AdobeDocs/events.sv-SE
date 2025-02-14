@@ -1,6 +1,6 @@
 ---
-title: Bygga"Storefront on Edge Delivery Services" med Adobe Commerce
-description: Det här AEM GEM-webbinariet lär dig hur du skapar en högpresterande butik på Edge Delivery Services för Adobe Commerce. Vi vägleder dig genom installationsprocessen för ditt projekt med Commerce-mallen och hur du kopplar den till de nya Commerce SaaS-tjänsterna för snabb och Sensei UI-förbättrad integration av produktkataloger. Vi presenterar instickskomponenter, en uppsättning anpassningsbara frontkomponenter som snabbar upp framtagningen av butiker. Du får lära dig de bästa sätten att utöka och utforma dem. Slutligen kommer vi att lyfta fram nya redigeringsfunktioner i Edge Delivery för att berika dina Commerce-upplevelser med redigerat innehåll.
+title: Building Storefront on Edge Delivery Services with Adobe Commerce
+description: AEM GEM:s webbinarium lär dig att bygga en högpresterande butik för Edge Delivery Services för Adobe Commerce, som omfattar projektinställningar, Commerce SaaS-integrering, anpassningsbara komponenter i gränssnittet och nya redigeringsfunktioner som förbättrar Commerce-upplevelser.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -13,9 +13,9 @@ last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15066
 thumbnail: KT-15066.jpeg
 exl-id: 6294fa1b-4807-484b-ac51-f01bb1dd9656
-source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 Tid: 17:00 CET/09:00 PDT/19:00 IST
 Det här webbinariet har slutförts. Se inspelningen nedan.
 
-## Bygga&quot;Storefront on Edge Delivery Services&quot; med Adobe Commerce
+## Building Storefront on Edge Delivery Services with Adobe Commerce
 
 Det här AEM GEM-webbinariet lär dig hur du skapar en högpresterande butik på Edge Delivery Services för Adobe Commerce. Vi vägleder dig genom installationsprocessen för ditt projekt med Commerce-mallen och hur du kopplar den till de nya Commerce SaaS-tjänsterna för snabb och Sensei UI-förbättrad integration av produktkataloger. Vi presenterar instickskomponenter, en uppsättning anpassningsbara frontkomponenter som snabbar upp framtagningen av butiker. Du får lära dig de bästa sätten att utöka och utforma dem. Slutligen kommer vi att lyfta fram nya redigeringsfunktioner i Edge Delivery för att berika dina Commerce-upplevelser med redigerat innehåll.
 
@@ -40,6 +40,6 @@ Det här AEM GEM-webbinariet lär dig hur du skapar en högpresterande butik på
 
 >[!NOTE]
 > 
->* Besök vår [kontextuella tråd](https://adobe.ly/48m4dEm) för sessionsspecifika communityinteraktioner på Experience League.
+>* Besök vår [kontextuella tråd](https://adobe.ly/48m4dEm) om du vill se sessionsspecifika communityinteraktioner för Experience League.
 >
 >* Om du vill få meddelanden om våra kommande webbinarier registrerar du dig på [Adobe AEM User Group](https://aem-augs.adobe.com/).
