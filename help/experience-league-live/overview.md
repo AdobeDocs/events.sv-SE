@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
+source-git-commit: 6201fd942b87ec5e094a90c314d30dcb38a2b278
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 # EXPERIENCE LEAGUE LIVE
 
-Experience League LIVE är ett direktuppspelningsprogram som producerats av Experience League-teamet.  Det är en chans att få kontakt med produktexperter på Adobe och lära dig praktiska tips, tricks och strategier som du kan använda med Adobe Experience Cloud-programmen.
+Experience League LIVE är ett direktuppspelningsprogram som producerats av Experience League team.  Det är en chans att få kontakt med Adobe produktexperter och lära dig praktiska tips, tricks och strategier som du kan tillämpa med Adobe Experience Cloud-programmen.
 
 <div id="upcoming-events">
 
@@ -26,13 +26,13 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 <table>
 <tr>
 <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-27-25.md">
-      <img alt="Experience League LIVE 27 feb" src="episodes/assets/WebBanner-02-27-25.jpg">
+      <img alt="Experience League LIVE 27 feb" src="episodes/assets/WebBanner-Feb-27-2025.png">
     </a>
     <div>
       <a href="episodes/exl-live-episode-02-27-25.md">
         <strong> Låsa upp funktionsinsikter med AI Assistant i Adobe Experience Platform </strong>
       </a>
-      <br/><em>med Rudi Shumpert, Namita Krishnan och Huong Vu</em>
+      <br/><em>med Daniel Wright, Namita Krishnan och Huong Vu</em>
       <br/><em>27 februari 2025</em>
     </div>
   </td>
@@ -59,7 +59,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 <tr>
   <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
-      <img alt="Experience League LIVE 21 april" src="episodes/assets/WebBanner-June26-2024.jpg">
+      <img alt="Experience League LIVE 2011" src="episodes/assets/WebBanner-June26-2024.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-06-26-24.md">
