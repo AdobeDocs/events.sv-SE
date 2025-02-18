@@ -1,19 +1,21 @@
 ---
-user-guide-title: Adobe - nöjda webbseminarier
-breadcrumb-title: Adobe - nöjda webbseminarier
-user-guide-description: Adobe kundnöjda webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe-lösningar.
-source-git-commit: 4a4822129ced9ee1bd11374a637c09ff7f95d61f
+user-guide-title: Adobe Customer Success Webinars
+breadcrumb-title: Adobe Customer Success Webinars
+user-guide-description: Adobe Customer Success-led webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe lösningar.
+source-git-commit: 5d4308bd92d8285e2380725ad72e341319347cc4
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
 
-# Adobe - nöjda webbseminarier {#adobe-customer-success-webinar-recordings}
+# Adobe Customer Success Webinars {#adobe-customer-success-webinar-recordings}
 
-+ [Adobe - nöjda webbseminarier](overview.md)
++ [Adobe Customer Success Webinars](overview.md)
 + 2025 {#2025}
+   + [Grundläggande om innehållsleveranskedjan](2025/content-supply-chain-basics.md)
+   + [Skapa strategier för effektiv mätning](2025/impactful-insights.md)
    + [Skapa kundengagemang](2025/driving-customer-engagement.md)
    + [Förbättra lojalitetsprogram via Personalization och data](2025/enhance-loyalty-programs.md)
    + [Mastering Sequential Logic](2025/mastering-sequential-logic.md)
@@ -22,7 +24,7 @@ ht-degree: 0%
    + [Adobe Target AI-styrda Personalization](2024/ai-personalization.md)
    + [Adobe Workfront - Lean Teams](2024/workfront-lean-teams.md)
    + [Adobe Workfront Mastery](2024/workfront-mastery.md)
-   + [AEM viktiga begrepp](2024/aem-authoring-concepts.md)
+   + [AEM Authoring key concepts](2024/aem-authoring-concepts.md)
    + [AEM Sites Effektiviteter](2024/aem-sites-efficiencies.md)
    + [AEP App Services-integreringar för kundärenden](2024/aep-apps-services-integrations.md)
    + [AEP - fallplanering](2024/aep-use-case-planning.md)
@@ -35,7 +37,7 @@ ht-degree: 0%
    + [Expedia går från Adobe Analytics till Customer Journey Analytics](2024/expedia-aa-to-cja.md)
    + [Grundläggande om Workfront System and Group Admin Guardianship](2024/workfront-admin-guardianship.md)
    + [Komma igång med Adobe Journey Optimizer Analysis](2024/getting-started-ajo-analysis.md)
-   + [Komma igång med Real-time Customer Data Platform](2024/getting-started-rtcdp.md)
+   + [Komma igång med Real-Time Customer Data Platform](2024/getting-started-rtcdp.md)
    + [Utnyttja AI för kundupplevelsen](2024/ai-customer-experience.md)
    + [Hyperpersonalisering](2024/hyperpersonalization.md)
    + [Journey Optimizer Mobile Capabilities](2024/journey-optimizer-mobile-capabilities.md)
@@ -44,8 +46,8 @@ ht-degree: 0%
    + [Mastering Cookies och dataintegritet](2024/mastering-cookies-data-privacy.md)
    + [Mastering Sequential Logic](2024/sequential-logic.md)
    + [Organiserad beredskap för innehållsleveranskedja](2024/organizational-readiness-content-supply-chain.md)
-   + [Integrering med Real-time Customer Data Platform och Marketo](2024/aep-marketo-integration.md)
-   + [Real-time Customer Data Platform migreringsberedskap](2024/rtcdp-migration-readiness.md)
+   + [Integrering med Real-Time Customer Data Platform och Marketo](2024/aep-marketo-integration.md)
+   + [Readiness för migrering av kunddataplattform i realtid](2024/rtcdp-migration-readiness.md)
    + [Strategisk ledning](2024/strategic-leadership.md)
    + [Effektiv autentisering](2024/streamline-authentication.md)
    + [Personalization](2024/target-personalization.md)
@@ -58,7 +60,7 @@ ht-degree: 0%
    + [Building the Foundation for Personalization at Scale](2023/personalization-at-scale.md)
    + [Ändra hantering](2023/change-management.md)
    + [Innehåll och upplevelser - Personalization](2023/content-experiences-personalization.md)
-   + [Migreringsberedskap för Customer Journey Analytics](2023/cja-migration-readiness.md)
+   + [Customer Journey Analytics migreringsberedskap](2023/cja-migration-readiness.md)
    + [Customer Journey Analytics Integration Essentials](2023/cja-integration-essentials.md)
    + [Utveckla en strategi för datainsamling och aktivering i realtid](2023/data-collection-activation-strategy.md)
    + [Effektiv mätningsstrategi](2023/measurement-strategy.md)
@@ -66,5 +68,5 @@ ht-degree: 0%
    + [Prioritera intelligens och mätning](2023/intelligence-and-measurement.md)
    + [CDP-databeredskap i realtid](2023/rtcdp-migration-data-readiness.md)
    + [Beredskap för CDP-migrering i realtid](2023/rtcdp-migration-readiness.md)
-   + [Att fastställa en effektiv Audience Activation-strategi](2023/audience-activation.md)
+   + [Ställa in en effektiv Audience Activation-strategi](2023/audience-activation.md)
    + [Övergång till CDP i realtid](2023/aam-to-rtcdp.md)
