@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Samling med inspelningar från  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: b93f940bfbd028349af2df86992a9e0655b7480d
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '313'
 ht-degree: 2%
 
 ---
@@ -37,11 +37,11 @@ ht-degree: 2%
       + [Kommunikation, krav och testning i Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + November {#nov2023}
-      + [Developer Excellence med AEM kärnkomponenter](experience-manager/nov2023/core-components.md)
+      + [Developer Excellence med AEM Core Components](experience-manager/nov2023/core-components.md)
    + September {#sept2023}
       + [En djupdykning i verktygen för AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
    + Juli {#july2023}
-      + [Effektiva säkerhetsstrategier i Cloud Servicen](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+      + [Effektiva säkerhetsstrategier i Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + {#may2023} maj
       + [Mastering av innehålls- och upplevelsefragment](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
@@ -66,6 +66,9 @@ ht-degree: 2%
    + Mars 2023 {#mar2023}
       + [Så här gör du ditt [!DNL Adobe Marketo Engage] innehåll skalbart](marketo/mar2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
+   + 2025 {#2025}
+      + Februari {#february2025}
+         + [Ledande effekt - Mät och dela Workfront-värde](workfront/2025/how-to-measure-and-share-workfront-value.md)
    + 2024 {#2024}
       + April {#april2024}
          + [Anställa rutinen för systemadministratörer i Workfront](workfront/2024/04/staffing-your-workfront-system-admin-practice.md)
@@ -107,4 +110,4 @@ ht-degree: 2%
          + [Vad är Workfront ledning?](workfront/2022/03/what-is-workfront-governance.md)
       + Februari {#february}
          + [Förstå användarhantering](workfront/2022/02/understanding-user-management.md)
-+ [Lär dig hur du skickar in en tävlingsansökan om Adobe-rabatt](./adobe-champion-application.md)
++ [Lär dig hur du skickar in en Adobe Champion-app som sticker ut](./adobe-champion-application.md)
