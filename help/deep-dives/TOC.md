@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '75'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 + [Översikt](overview.md)
 + Djupdykning i Marketo {#deep-dives-marketo}
-   + [Migrering från Admin Console](admin-console.md)
+   + [Admin Console Migration](admin-console.md)
    + [API:er](api.md)
    + [Automatisera och effektivisera kampanjåtgärder med Marketo API](campaign-operations.md)
    + [Certifiering](certification.md)
@@ -31,6 +31,7 @@ ht-degree: 2%
    + [Ärva en instans](inheriting-an-instance.md)
    + [Leadlivscykler](lead-lifecycles.md)
    + [Utnyttja PMCF-fält för skalbarhet](pmcf-fields.md)
+   + [Marketo-blanketter och AEM Forms](marketo-forms-aem-forms.md)
    + [Maximera e-postleveransen](maximize-email-deliverability.md)
    + [Maximera instansen med ett litet team](small-team-instance.md)
    + [Notera komplexa processer i aktivitetsloggen](activity-log.md)

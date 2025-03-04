@@ -3,16 +3,16 @@ title: Djupdykning
 description: Deep Dives är ett videobibliotek där experter och kollegor har delat med sig av sina tankar och idéer om hur man bäst använder Adobe Marketo.
 exl-id: 21242f9e-8084-4482-8461-ba8a9e2fbd26
 duration: 15
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
 workflow-type: tm+mt
-source-wordcount: '970'
+source-wordcount: '1110'
 ht-degree: 0%
 
 ---
 
 # Djupdykningshändelser
 
-Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resurserna tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/marketo-engage.html) och [självstudiekurserna](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) från Adobe Marketo får du en bättre förståelse för hur du använder Adobe Marketo för att stödja ditt företag.
+Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resurserna tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/marketo-engage.html) och [självstudiekurserna](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) för Adobe Marketo får du en bättre förståelse för hur du använder Adobe Marketo för att stödja ditt företag.
 
 <!-- CARDS
 
@@ -29,7 +29,9 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
 * ims-migration.md
 * inheriting-an-instance.md
 * lead-lifecycles.md
-* pmcf-fields.md
+* marketo-forms-aem-forms.md
+* maximize-email-deliverability.md
+* pmcf-fields.**md**
 * small-team-instance.md
 * webhooks.md
 -->
@@ -40,7 +42,7 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="activity-log.md" title="Notera komplexa processer i aktivitetsloggen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427149/?format=jpeg&nocache=1736980211369" alt="Notera komplexa processer i aktivitetsloggen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427149/?format=jpeg&nocache=1741126806469" alt="Notera komplexa processer i aktivitetsloggen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -62,8 +64,8 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="admin-console.md" title="Förbereda för Marketo Engage på Adobe-identitet" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1736980211378" alt="Förbereda för Marketo Engage på Adobe-identitet"
+                    <a href="admin-console.md" title="Förbereder för Marketo Engage på Adobe Identity" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1741126806435" alt="Förbereder för Marketo Engage på Adobe Identity"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -71,7 +73,7 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="admin-console.md" target="_blank" rel="referrer" title="Förbereda för Marketo Engage på Adobe-identitet">Förbereder Marketo Engage på Adobe-identitet</a>
+                        <a href="admin-console.md" target="_blank" rel="referrer" title="Förbereder för Marketo Engage på Adobe Identity">Förbereder för Marketo Engage på Adobe-identitet</a>
                     </p>
                     <p class="is-size-6">Delta i denna utbildningssession för att förbereda dig för migrering av Marketo Engage-prenumerationer till Adobe Identity, med fokus på användarmigrering, viktiga åtgärder och viktiga resurser för administratörer, med vägledning om navigering i migreringskonsolen och förståelse för förändringar vid varje milstolpe.</p>
                 </div>
@@ -86,7 +88,7 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="api.md" title="API:er" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1736980211382" alt="API:er"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1741126806441" alt="API:er"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -96,7 +98,7 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="api.md" target="_blank" rel="referrer" title="API:er">API:er</a>
                     </p>
-                    <p class="is-size-6">Följ oss för att frigöra potentialen hos Adobe Marketo API, från att ringa dina första API-anrop till att utnyttja massAPI för import/export, utforska webhooks jämfört med API, och lära dig de bästa metoderna för datasäkerhet och molnintegrering, med oändliga möjligheter att revolutionera era marknadsföringsstrategier.</p>
+                    <p class="is-size-6">Häng med när du vill utnyttja Adobe Marketo API fullt ut, från att ringa dina första API-anrop till att utnyttja massvis-API för import/export, utforska webhooks jämfört med API, och lära dig de bästa metoderna för datasäkerhet och molnintegrering, med oändliga möjligheter att revolutionera era era marknadsföringsstrategier.</p>
                 </div>
                 <a href="api.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
@@ -109,7 +111,7 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="campaign-operations.md" title="Automatisera och effektivisera kampanjåtgärder med Marketo API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440396/?format=jpeg&nocache=1736980211392" alt="Automatisera och effektivisera kampanjåtgärder med Marketo API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440396/?format=jpeg&nocache=1741126806452" alt="Automatisera och effektivisera kampanjåtgärder med Marketo API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -132,7 +134,7 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="certification.md" title="Investera i dig själv - Adobe [!DNL Marketo Engage]-certifiering" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416760/?format=jpeg&nocache=1736980211373" alt="Investera i dig själv - Adobe [!DNL Marketo Engage]-certifiering"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416760/?format=jpeg&nocache=1741126806461" alt="Investera i dig själv - Adobe [!DNL Marketo Engage]-certifiering"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,7 +142,7 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="certification.md" target="_blank" rel="referrer" title="Investera i dig själv - Adobe [!DNL Marketo Engage]-certifiering">Investerar i dig själv - [!DNL Marketo Engage] Certifiering i Adobe </a>
+                        <a href="certification.md" target="_blank" rel="referrer" title="Investera i dig själv - Adobe [!DNL Marketo Engage]-certifiering">Investera i dig själv - Adobe [!DNL Marketo Engage] Certification</a>
                     </p>
                     <p class="is-size-6">Vill du veta hur certifiering kan öka din marknadsföringskarriär? Dela med dig av Adobe Marketo Engage Champions erfarenheter och tips om hur du studerar, förbereder och genomför provet för att bli en Marketo Certified Expert eller Architect!</p>
                 </div>
@@ -155,7 +157,7 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="email-nurture.md" title="Adobe [!DNL Marketo Engage] Champion Deep Dive Email Nurture" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418903/?format=jpeg&nocache=1736980211384" alt="Adobe [!DNL Marketo Engage] Champion Deep Dive Email Nurture"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418903/?format=jpeg&nocache=1741126806465" alt="Adobe [!DNL Marketo Engage] Champion Deep Dive Email Nurture"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +180,7 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="executable-campaigns.md" title="Körbara kampanjer - Lär dig hur körbara filer kan öka effektiviteten och påverka" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427704/?format=jpeg&nocache=1736980211389" alt="Körbara kampanjer - Lär dig hur körbara filer kan öka effektiviteten och påverka"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427704/?format=jpeg&nocache=1741126806478" alt="Körbara kampanjer - Lär dig hur körbara filer kan öka effektiviteten och påverka"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -188,7 +190,7 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="executable-campaigns.md" target="_blank" rel="referrer" title="Körbara kampanjer - Lär dig hur körbara filer kan öka effektiviteten och påverka">Körbara kampanjer - Lär dig hur körbara filer kan öka effektiviteten och påverka</a>
                     </p>
-                    <p class="is-size-6">Besök Chris Willis, Courtny Edwards-Jones och Jane Musatova i denna Adobe Champion Deep Dive för att lära dig hur körbara kampanjer i Marketo kan effektivisera processer, säkerställa datakvalitet och automatisera komplexa arbetsflöden, med praktiska exempel och fokus på att minimera fel och eftersläpningar.</p>
+                    <p class="is-size-6">Besök Chris Willis, Courtny Edwards-Jones och Jane Musatova i Adobe Champion Deep Dive för att lära dig hur körbara kampanjer i Marketo kan effektivisera processer, säkerställa datakvalitet och automatisera komplexa arbetsflöden, med praktiska exempel och fokus på att minimera fel och eftersläpningar.</p>
                 </div>
                 <a href="executable-campaigns.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
@@ -200,8 +202,8 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="global-marketing.md" title="Unlocking Global Marketing with Marketo Engage - Adobe Champion Deep Dive - August 2024" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433245/?format=jpeg&nocache=1736980211395" alt="Unlocking Global Marketing with Marketo Engage - Adobe Champion Deep Dive - August 2024"
+                    <a href="global-marketing.md" title="Lås upp global marknadsföring med Marketo Engage - Adobe Champion Deep Dive - augusti 2024" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433245/?format=jpeg&nocache=1741126806482" alt="Lås upp global marknadsföring med Marketo Engage - Adobe Champion Deep Dive - augusti 2024"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,9 +211,9 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="global-marketing.md" target="_blank" rel="referrer" title="Unlocking Global Marketing with Marketo Engage - Adobe Champion Deep Dive - August 2024">Lås upp global marknadsföring med Marketo Engage - Adobe Champion Deep Dive - augusti 2024</a>
+                        <a href="global-marketing.md" target="_blank" rel="referrer" title="Lås upp global marknadsföring med Marketo Engage - Adobe Champion Deep Dive - augusti 2024">Lås upp global marknadsföring med Marketo Engage - Adobe Champion Deep Dive - augusti 2024</a>
                     </p>
-                    <p class="is-size-6">Delta i August Deep Dive för att låsa upp den globala marknadsföringen med Marketo Engage, som omfattar datastrukturering, regelefterlevnad, kampanjstöd med segmentering, fragment, dynamiskt innehåll med mera, med insikter om hur du optimerar arbetsytor och partitioner för flera varumärken och instanser.</p>
+                    <p class="is-size-6">Gå med i Augusti Deep Dive och få en global marknadsföring med Marketo Engage som omfattar datastrukturering, regelefterlevnad, kampanjstöd med segmentering, fragment, dynamiskt innehåll med mera, med insikter om hur man optimerar arbetsytor och partitioner för flera varumärken och instanser.</p>
                 </div>
                 <a href="global-marketing.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
@@ -224,7 +226,7 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="ims-migration.md" title="IMS-migrering ej packad - Förenkla övergången för Marketo-användare" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3441133/?format=jpeg&nocache=1736980211404" alt="IMS-migrering ej packad - Förenkla övergången för Marketo-användare"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3441133/?format=jpeg&nocache=1741126806496" alt="IMS-migrering ej packad - Förenkla övergången för Marketo-användare"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -234,7 +236,7 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="ims-migration.md" target="_blank" rel="referrer" title="IMS-migrering ej packad - Förenkla övergången för Marketo-användare">Opackad IMS-migrering - Förenkla övergången för Marketo-användare</a>
                     </p>
-                    <p class="is-size-6">IMS-migreringen för Marketo-användare till Adobe-plattformen innefattar detaljerade steg, förberedelser och kommunikation, med ändringar efter migrationen och resurser för support och kommande evenemang.</p>
+                    <p class="is-size-6">IMS-migreringen för Marketo-användare till Adobe-plattformen innefattar detaljerade steg, förberedelser och kommunikation, med ändringar efter migreringen och resurser för support och kommande evenemang.</p>
                 </div>
                 <a href="ims-migration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
@@ -247,7 +249,7 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="inheriting-an-instance.md" title="Ärva en instans" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420422/?format=jpeg&nocache=1736980211397" alt="Ärva en instans"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420422/?format=jpeg&nocache=1741126806489" alt="Ärva en instans"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -270,7 +272,7 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="lead-lifecycles.md" title="Leadlivscykler" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421711/?format=jpeg&nocache=1736980211399" alt="Leadlivscykler"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421711/?format=jpeg&nocache=1741126806501" alt="Leadlivscykler"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -288,12 +290,58 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Whose form is it anyway? Deep dive on Marketo forms compared to AEM Forms">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="marketo-forms-aem-forms.md" title="Vems form är det egentligen? Gör djupdykning i Marketo-blanketter jämfört med AEM Forms" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448534/?format=jpeg&nocache=1741126806492" alt="Vems form är det egentligen? Gör djupdykning i Marketo-blanketter jämfört med AEM Forms"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="marketo-forms-aem-forms.md" target="_blank" rel="referrer" title="Vems form är det egentligen? Gör djupdykning i Marketo-blanketter jämfört med AEM Forms">Vems formulär är det egentligen? Gör djupdykning i Marketo-formulär jämfört med AEM Forms</a>
+                    </p>
+                    <p class="is-size-6">Integrera Marketo och AEM Forms för personaliserade upplevelser som skräddarsydda PDF:er. AEM Forms hanterar komplexa blanketter med realtidsvalidering och centraliserad hantering.</p>
+                </div>
+                <a href="marketo-forms-aem-forms.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Maximize Email Deliverability with Marketo - Best Practices for Reaching Your Audience">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="maximize-email-deliverability.md" title="Maximera e-postleveransen med Marketo - de bästa sätten att nå ut till er målgrupp" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435343/?format=jpeg&nocache=1741126806555" alt="Maximera e-postleveransen med Marketo - de bästa sätten att nå ut till er målgrupp"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="maximize-email-deliverability.md" target="_blank" rel="referrer" title="Maximera e-postleveransen med Marketo - de bästa sätten att nå ut till er målgrupp">Maximera e-postleveransen med Marketo - Bästa metoder för att nå din publik</a>
+                    </p>
+                    <p class="is-size-6">Att se till att era e-postmeddelanden når den avsedda målgruppen är avgörande för att öka engagemanget och uppnå marknadsföringsmålen.</p>
+                </div>
+                <a href="maximize-email-deliverability.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Leveraging PMCF Fields for Scalability">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="pmcf-fields.md" title="Utnyttja PMCF-fält för skalbarhet" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430531/?format=jpeg&nocache=1736980211407" alt="Utnyttja PMCF-fält för skalbarhet"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430531/?format=jpeg&nocache=1741126806486" alt="Utnyttja PMCF-fält för skalbarhet"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -315,8 +363,8 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="small-team-instance.md" title="Lär dig hur ett litet team maximerar sin instans av Adobe [!DNL Marketo Engage]" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3417670/?format=jpeg&nocache=1736980211412" alt="Lär dig hur ett litet team maximerar sin instans av Adobe [!DNL Marketo Engage]"
+                    <a href="small-team-instance.md" title="Lär dig hur ett litet team maximerar sin Adobe [!DNL Marketo Engage]-instans" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3417670/?format=jpeg&nocache=1741126806504" alt="Lär dig hur ett litet team maximerar sin Adobe [!DNL Marketo Engage]-instans"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -324,9 +372,9 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="small-team-instance.md" target="_blank" rel="referrer" title="Lär dig hur ett litet team maximerar sin instans av Adobe [!DNL Marketo Engage]">Lär dig hur ett litet team maximerar sin Adobe [!DNL Marketo Engage] instance</a>
+                        <a href="small-team-instance.md" target="_blank" rel="referrer" title="Lär dig hur ett litet team maximerar sin Adobe [!DNL Marketo Engage]-instans">Lär dig hur ett litet team maximerar sin Adobe [!DNL Marketo Engage] instance</a>
                     </p>
-                    <p class="is-size-6">Diskutera hur instanser av Adobe [!DNL Marketo Engage] som stöds av ett litet team eller team av ett.</p>
+                    <p class="is-size-6">Diskutera hur instanser av Adobe [!DNL Marketo Engage] stöds av ett litet team eller ett team.</p>
                 </div>
                 <a href="small-team-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
@@ -339,7 +387,7 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="webhooks.md" title="Adobe Marketo Engage Champion Deep Dive - Använda webbhooks för att överföra data" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428687/?format=jpeg&nocache=1736980211409" alt="Adobe Marketo Engage Champion Deep Dive - Använda webbhooks för att överföra data"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428687/?format=jpeg&nocache=1741126806547" alt="Adobe Marketo Engage Champion Deep Dive - Använda webbhooks för att överföra data"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

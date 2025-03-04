@@ -1,6 +1,6 @@
 ---
-title: Lås upp kraften i det moderna SPA i AEM - master Headless och SPA Editor Approves
-description: Förstå grunderna i Single Page Applications Exploring headless AEM and its integration with front-end frameworks Utilizing the AEM SPA Editor for a streamlined development process Best practices for building, deploying, and managing SPA in AEMDonte this möjlighet att få insikter från en expert och lyft upp er digitala strategi med moderna SPA-tekniker i AEM."
+title: Upptäck kraften i moderna SPA:er i AEM - master Headless och SPA Editor Approaches
+description: Förstå grunderna i Single Page Applications Exploring headless AEM and its integration with front-end frameworks Använda AEM SPA Editor för en smidig utvecklingsprocess Bästa metoder för att bygga, driftsätta och hantera SPA i AEMDon inte missa detta tillfälle att få insikter från en expert och lyft upp er digitala strategi med moderna SPA-tekniker i AEM."
 solution: Experience Manager
 role: Developer, User
 level: Intermediate, Experienced
@@ -8,17 +8,18 @@ doc-type: Event
 duration: 2802
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16095
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+exl-id: 7c9fbc23-b458-4d9c-ab38-0c9b032eb704
+hidefromtoc: true
+source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
+# Lås upp kraften i moderna SPA:er i AEM: master Headless och SPA Editor Approaches
 
-# Lås upp kraften i det moderna SPA i AEM: master Headless och SPA Editor Approaches
-
-Efterfrågan på dynamiska och responsiva digitala upplevelser ökar, och det har blivit nödvändigt att bygga Single Page-program (SPA). Detta seminarium kommer att handla om de viktigaste sätten att bygga SPA, inklusive redaktörsmetoder utan huvud- och SPA. Lär dig använda AEM för att skapa smidiga, interaktiva applikationer som förbättrar användarengagemanget och användarupplevelsen.
+Efterfrågan på dynamiska och responsiva digitala upplevelser ökar, och det har blivit nödvändigt att bygga Single Page Applications (SPA). Detta seminarium kommer att handla om de viktigaste strategierna för att skapa SPA, inklusive redaktionella metoder och SPA-metoder. Lär dig använda AEM för att skapa smidiga, interaktiva applikationer som förbättrar användarengagemanget och användarupplevelsen.
 
 ## Ämnen
 
@@ -27,6 +28,6 @@ Efterfrågan på dynamiska och responsiva digitala upplevelser ökar, och det ha
 * Använda AEM SPA Editor för en smidig utvecklingsprocess
 * Bästa tillvägagångssätt för att bygga, driftsätta och hantera SPA i AEM
 
-Missa inte detta tillfälle att få insikter från en expert och lyft upp er digitala strategi med moderna SPA tekniker i AEM.&quot;
+Missa inte detta tillfälle att få insikter från en expert och lyft fram er digitala strategi med moderna SPA-tekniker i AEM.&quot;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433168/?learn=on)
