@@ -9,10 +9,10 @@ event-background-image: exl-event-espressos-and-experience-manager.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: e867d45cea65c8561bc291df7368771731458522
+source-git-commit: 93f42aa274bbe58b7996eb09582cb353b1b347f4
 workflow-type: tm+mt
-source-wordcount: '29'
-ht-degree: 0%
+source-wordcount: '31'
+ht-degree: 6%
 
 ---
 
@@ -21,5 +21,6 @@ ht-degree: 0%
 
 + [Espressos &amp; Experience Manager](overview.md)
 + 2025 {#2025}
-   + [Digital smidighet med AEM](2025/digital-agility.md)
-   + [Varför AEM är kraftfullare i molnet](2025/aem-in-the-cloud.md)
+   + [AEM Forms](2025/aem-forms.md)
+   + [Digital flexibilitet med AEM](2025/digital-agility.md)
+   + [Varför AEM är mer kraftfullt i molnet](2025/aem-in-the-cloud.md)
