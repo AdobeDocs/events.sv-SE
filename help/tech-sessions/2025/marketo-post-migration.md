@@ -1,6 +1,6 @@
 ---
 title: Marketo Migration to the Adobe Admin Console - (Post-Migration)
-description: Gå med i vårt Tech Sessions webbinarium och lär dig bemästra dina nya Marketo-installationer i Adobe Admin Console! Lär dig viktiga funktioner, bästa praxis och felsökningstips från Adobe Customer Experience & Identity Team. Få insikter om hur du hanterar användare, behörigheter och inställningar och få svar på vanliga frågor efter migreringen. Missa inte live-frågor och svar för verkliga lösningar och användbara insikter för att optimera arbetsflödet!
+description: Centralisera Marketo användarhantering med Adobe Admin Console. Hantera roller (system, produkt, profil, supportadministratörer) och identitetstyper (Adobe, Enterprise, Federated ID). Konfigurera SSL för enkel inloggning, hantera användarhantering och förnya certifikat vart tredje år. Åtgärda vanliga problem som inloggningsproblem och använd katalogförtroende för en enhetlig upplevelse. Dela upp konverteringar för stora användare i grupper om 500. Gå till sessionsinspelningen på Adobe Experience League-sida.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3194
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17534
-source-git-commit: 93f42aa274bbe58b7996eb09582cb353b1b347f4
+exl-id: d9ccabf4-5eff-4e07-a7ff-6509bb6ff3c8
+source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Migration to the Adobe Admin Console - Post Migration
 
@@ -34,3 +34,39 @@ Under hela sessionen kommer våra experter att finnas tillgängliga för att bes
 Missa inte detta tillfälle att förbättra arbetsflödet och få ut mesta möjliga av Marketo-migreringen!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451635/?learn=on&enablevpops)
+
+## Viktiga uppgifter
+
+* **Admin Console Purpose** Centraliserad hantering för Marketo-användare, -administratörer och -identiteter, i linje med andra Adobe-produkter.
+
+* **Roller i Admin Console**
+
+   * **Systemadministratör** Fullständig åtkomst
+   * **Produktadministratör** hanterar specifika produkter
+   * **Profiladministratör** hanterar specifika profiler
+   * **Supportadministratör** Skicka supportärenden
+
+* **Identitetstyper**
+
+   * **Adobe ID** personligt konto
+   * **Enterprise ID** Företagshantering utan SSL
+   * **Federated ID** enkel inloggning (SSL)
+
+* **enkel inloggning (SSL)** kräver att du har installerat en katalog, lagt till en domän och laddat upp en metadatafil.
+
+* **Användarhantering** Lägg till/ta bort användare och administratörer via Admin Console; konvertera Adobe ID till Federated ID med CSV-filer.
+
+* **Supportprocess** Skicka ärenden via Experience League Directory. Rollen &quot;Supportadministratör&quot; krävs.
+
+* **Vanliga problem**
+
+   * Inloggningsproblem på grund av annonsblockerare, felaktiga identitetstyper eller SSL-fel.
+   * Glömt lösenord eller problem med nätverkslösenord.
+
+* **Certifikatförnyelse** SSL-certifikat måste förnyas vart tredje år via Admin Console.
+
+* **Användargrupper** Organisera användare för särskilda verktyg. Kan hanteras lokalt eller synkroniseras med Active Directory.
+
+* **Överväganden efter migrering** Säkerställ konsekventa identitetstyper mellan produkter. Använd katalogförtroende för en enhetlig användarupplevelse.
+
+* **Hantering av stor användarbas** Bryt användarkonverteringen till grupper om 500 för ökad effektivitet.
