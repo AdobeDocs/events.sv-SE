@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
+source-git-commit: aab3785f25043242f8eccb11e304bab7e2ab7804
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 0%
 
 + [Översikt](overview.md)
 + Avsnitten {#episodes}
+   + [Ep. 45: Vänta inte.. Samarbeta! Nu kommer Real-Time CDP Collaboration](episodes/exl-live-episode-04-10-25.md)
    + [Ep. 44: Låsa upp funktionsinsikter med AI Assistant i Adobe Experience Platform](episodes/exl-live-episode-02-27-25.md)
    + [Ep. 43: Introduktion till AI Assistant för marknadsförare i Real-Time CDP](episodes/exl-live-episode-11-13-24.md)
    + [Ep. 42: Visa innehållskort för Adobe Journey Optimizer](episodes/exl-live-episode-10-30-24.md)
@@ -51,12 +52,12 @@ ht-degree: 0%
    + [Ep. 17: En mer personaliserad kundupplevelse i realtid](episodes/exl-live-episode-09-20-22.md)
    + [Ep. 16: Be experterna - användbara tillägg i Tags (Launch) att ladda ned Web SDK](episodes/exl-live-episode-08-23-22.md)
    + [Ep. 15: Fråga experterna - Datastreams och dataförberedelse](episodes/exl-live-episode-07-21-22.md)
-   + [Ep. 14: Fråga experterna - RTCDP-anslutningar](episodes/exl-live-episode-06-23-22.md)
+   + [Ep. 14: Fråga experterna - RTCDP Connections](episodes/exl-live-episode-06-23-22.md)
    + [Ep. 13: Fråga experterna - Grunderna i Web SDK](episodes/exl-live-episode-05-26-22.md)
    + [Ep. 12: Push-meddelanden med Journey Optimizer](episodes/exl-live-episode-05-12-22.md)
    + [Ep. 11: AAM och CDP i realtid - Hur hanterar jag alla dessa målgrupper?](episodes/exl-live-episode-04-28-22.md)
    + [Ep. 10: AEM från Headful till Headless (och allt däremellan)](episodes/exl-live-episode-04-21-22.md)
-   + [Ep. 9: Introduktion till alla nya referensdemonstrationer i AEM](episodes/exl-live-episode-02-03-22.md)
+   + [Ep. 9: Vi presenterar alla nya referensdemonstrationer i AEM](episodes/exl-live-episode-02-03-22.md)
    + [Ep. 8: Customer Journey Analytics: The Inside Scoop](episodes/exl-live-episode-08.md)
    + [Ep. 7: Utöka AEM med Adobe App Builder](episodes/exl-live-episode-07.md)
    + [Ep. 6: Mät människor i stället för enheter](episodes/exl-live-episode-06.md)
@@ -64,5 +65,5 @@ ht-degree: 0%
    + [Ep. 4: Vem klickade det där? Och sedan vad gjorde de?](episodes/exl-live-episode-04.md)
    + [Ep. 3: Experttips som får dina semesterkampanjer att sticka ut](episodes/exl-live-episode-03.md)
    + [Ep. 2: Gör nästa målgruppssegment smartare än någonsin](episodes/exl-live-episode-02.md)
-   + [Ep. 1: Mina tre favoriter, Adobe [!DNL Analytics] implementeringstips](episodes/exl-live-episode-01.md)
+   + [Ep. 1: Mina tre favoriter i Adobe [!DNL Analytics] implementeringstips](episodes/exl-live-episode-01.md)
 + [EXPERIENCE LEAGUE LIVE ASSETS](exl-live-assets.md)
