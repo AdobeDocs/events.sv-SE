@@ -1,27 +1,27 @@
 ---
-title: Kundexempel och implementering av AEM Headless in Use
+title: Kundexempel och implementering av AEM Headless som används
 description: Sessionsmeddelande
-solution: Experience Manager
+solution: Experience Manager, Experience Manager 6.5
 feature-set: Experience Manager
-version: 6.5
+version: Experience Manager 6.5
 feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
 exl-id: 6e35763d-d18a-468c-9b34-df14da7c7e2f
 duration: 3729
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
-# AEM GEM-funktion - kundanvändningsfall och implementering av AEM Headless in Use
+# AEM GEMs feature - Customer Use Case &amp; Implementation of AEM Headless in Use
 
 *Det här webbinariet har utförts **onsdagen den 12 oktober - kl. 16.00 UTC**. Inspelningen är tillgänglig nedan.*
 
-Denna exceptionella AEM GEM-session har två högtalare som fungerar AEM som kunder. Sessionen delas i två halvor enligt följande:
+Denna exceptionella AEM GEM-session har två högtalare som kör AEM som kunder. Sessionen delas i två halvor enligt följande:
 
 ## Del 1: AEM som headless CMS Where/When/Why?
 
@@ -35,7 +35,7 @@ Under detta möte kommer vi att ta upp följande:
 * Innehållsfragment via resurs-API (demo)
 * Innehållsfragment via graphql (demo)
 * Några exempel på användning i realtid av innehållsfragment och deras metoder
-* Inlärning i SPA (viss lösning för när man ska välja) (demo)
+* SPA-redigeraren lär sig (en viss lösning för när man ska välja) (demo)
 
 ## Del 2: Leverera headless-innehåll via GraphQL API och innehållsfragment
 
@@ -54,5 +54,5 @@ Detta eliminerar kravet på att API:t ska tillhandahålla många slutpunkter som
 
 >[!NOTE]
 >
->* Besök den här [kontextuella tråden](https://adobe.ly/3r6P4nr) för sessionsspecifika communityinteraktioner på Experience League
+>* Besök den här [kontextuella tråden](https://adobe.ly/3r6P4nr) om du vill se sessionsspecifika communityinteraktioner för Experience League.
 >* Om du vill få automatiska meddelanden om webbinarier registrerar du dig på [Adobe AEM User Group](https://aem-augs.adobe.com/).

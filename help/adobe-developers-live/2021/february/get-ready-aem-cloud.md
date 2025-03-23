@@ -1,28 +1,28 @@
 ---
-title: Gör dig redo för Cloud Servicen - Bästa praxis för migrering
-description: Att anpassa kodbasen så att den blir molnvänlig och punktsäker mot framtida uppgraderingar som hanteras under huven är avgörande för att maximera fördelarna med Adobe Experience Manager Cloud Service.
+title: Gör dig redo för Cloud Service - Bästa praxis för migrering
+description: Att anpassa er kodbas så att den blir molnvänlig och punktsäker mot framtida uppgraderingar som hanteras under huven är avgörande för att maximera fördelarna med Adobe Experience Manager Cloud Service.
 solution: Experience Manager
 product: experience manager
 feature: Migration
 topic: Development, Migration
 role: Developer
 level: Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7405
 type: Event
 thumbnail: 332308.jpg
 exl-id: 3d1d959b-af21-4268-8dc6-8ac8a910f06a
 duration: 1487
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
-# Gör dig redo för Cloud Servicen - Bästa praxis för migrering
+# Gör dig redo för Cloud Service - Bästa praxis för migrering
 
-Att anpassa kodbasen så att den blir molnvänlig och punktsäker mot framtida uppgraderingar som hanteras under huven är avgörande för att maximera fördelarna med Adobe Experience Manager Cloud Service.
+Att anpassa er kodbas så att den blir molnvänlig och punktsäker mot framtida uppgraderingar som hanteras under huven är avgörande för att maximera fördelarna med Adobe Experience Manager Cloud Service.
 
 Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 

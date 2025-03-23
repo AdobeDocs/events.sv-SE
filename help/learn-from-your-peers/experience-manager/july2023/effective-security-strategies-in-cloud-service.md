@@ -1,8 +1,8 @@
 ---
-title: Effektiva säkerhetsstrategier inom Cloud Service
-description: Träffa Adobe Experience Manager Customer Champion, Rami El Gamal, när han diskuterar olika säkerhetsaspekter i AEM Cloud Service.
+title: Effektiva säkerhetsstrategier i Cloud Service
+description: Gå med i Adobe Experience Manager Customer Champion, Rami El Gamal, och diskutera olika säkerhetsaspekter i AEM Cloud-tjänsten.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature-set: Experience Manager, Experience Manager Assets, Experience Manager Sites
 feature: Cloud Manager, Security, Learn From Your Peers
 topic: Security
@@ -14,21 +14,21 @@ jira: KT-13708
 thumbnail: KT-13708.jpeg
 exl-id: ffac5c39-a1db-4533-947f-609e4d8dc7b4
 duration: 3580
-source-git-commit: 27c53f62fe63e9b166b46cefa04abcdcc7823556
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-# Effektiva säkerhetsstrategier i webbinariet Cloud Service On Demand
+# Effektiva säkerhetsstrategier i Cloud Service On Demand Webinar
 
-Företagen har i allt högre grad gått över till molnbaserade lösningar, det är viktigt att se till att era digitala upplevelser är säkra och skyddade. Se Adobe Experience Manager kundgrupp Rami El Gamal när han diskuterar olika säkerhetsaspekter i AEM Cloud Service:
+Företagen har i allt högre grad gått över till molnbaserade lösningar, det är viktigt att se till att era digitala upplevelser är säkra och skyddade. Gå med i Adobe Experience Manager Customer Champion, Rami El Gamal, där han diskuterar olika säkerhetsaspekter i AEM Cloud-tjänsten:
 
 * Skapa användare med IMS och tilldela olika roller och ansvarsområden
 * Konfigurera Cloud Manager Access för distributioner och databasåtkomst
-* Adobe Experience Manager Access med hjälp av IMS- och AEM
-* Använda Cloud Manager för att skydda AEM miljöer.
+* Adobe Experience Manager Access med hjälp av IMS- och AEM-grupper
+* Använda Cloud Manager för att skydda AEM-miljöer.
 
 Du kommer åt presentationsbilderna [här](../../assets/experience-manager/july2023/effective-security-strategies-in-cloud-service/AEM-CloudManager-Security_Webinar_July_18.pdf).
 

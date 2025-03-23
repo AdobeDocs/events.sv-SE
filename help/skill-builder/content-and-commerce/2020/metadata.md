@@ -9,12 +9,12 @@ feature-set: Experience Manager Assets
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7339
 exl-id: b988b7ca-316f-4a14-9ca1-a9dc6b24aa5d
 duration: 2964
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 1%
@@ -35,7 +35,7 @@ Konfigurera en tydlig strategi för att optimera upptäckbarheten.
 *[Utöka metadatamatcheman](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html)
 *[Optimera redigering av metadata med överlappande metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html)
 *[Tillämpa automatiskt metadata på resurser med Metadataprofiler](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html)
-*[AEM metadatascheman](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
+*[AEM-metadatascheman](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
 *[Hantera resursmetadata](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=en#RegisteringacustomnamespacewithinAEM)
 
 ## Serieinspelningar

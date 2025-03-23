@@ -1,15 +1,15 @@
 ---
 title: Adobe Experience Manager Forms Cloud Service - Säker digital registrering i flera kanaler
-description: Lär dig skapa moderna, säkra, moderna digitala registreringsupplevelser med Adobe Experience Manager Forms as a Cloud Service. Den här sessionen kommer att belysa de effektivaste strategierna för att skydda data som bearbetas i arbetsflöden, externalisera skickade data till Azure-lagring och samla in insikter med Adobe [!DNL Analytics] med Adaptive Forms i molntjänsten.
+description: Lär dig skapa moderna, säkra, moderna digitala registreringsupplevelser med Adobe Experience Manager Forms as a Cloud Service. Den här sessionen kommer att belysa bästa praxis när det gäller att skydda data som bearbetas i arbetsflöden, externalisera skickade data till Azure-lagring och samla in insikter med Adobe [!DNL Analytics] med Adaptive Forms i molntjänsten.
 solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9194
 type: Event
 exl-id: d1cd8681-ec55-4776-99bf-a41fbb755a9a
 duration: 1551
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 4%
@@ -20,7 +20,7 @@ ht-degree: 4%
 
 Lär dig skapa moderna, säkra, moderna digitala registreringsupplevelser med Adobe Experience Manager Forms as a Cloud Service.
 
-Den här sessionen kommer att belysa bästa praxis när det gäller att skydda data som bearbetas i arbetsflöden, externalisera skickade data till Azure-lagring och samla in insikter med hjälp av Adobe [!DNL Analytics] med Adaptive Forms i molntjänsten.
+Den här sessionen kommer att belysa bästa praxis när det gäller att skydda data som bearbetas i arbetsflöden, externalisera skickade data till Azure-lagring och samla in insikter med Adobe [!DNL Analytics] med Adaptive Forms i molntjänsten.
 
 Vi kommer även att ta med en förhandsgranskning av vissa integreringar i vår färdplan, som Microsoft PowerAutomate och Teams-integrering med Adobe Experience Manager Forms.
 

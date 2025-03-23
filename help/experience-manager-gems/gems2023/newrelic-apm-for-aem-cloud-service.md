@@ -2,7 +2,7 @@
 title: newrelic apm for aem cloud service
 description: Delta i vårt seminarium där vi hjälper dig att identifiera och lösa problem som påverkar dina slutanvändarkunder, säkerställa en enastående upplevelse genom att förbättra effektiviteten i ditt AEM as a Cloud Service-projekt, mäta påverkan av externa tjänster för ditt AEM as a Cloud Service-system och få ut det mesta av anpassade och anpassade vyer. Upptäck processen för åtkomst till New Relic, en funktion som ingår som standard i AEM as a Cloud Service. Tveka inte att engagera dig i dina frågor.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Developer Tools
 topic: Performance
 role: Developer
@@ -13,7 +13,7 @@ jira: KT-13920
 thumbnail: KT-13920.jpeg
 exl-id: 874cb607-f622-4ef0-9835-13b640fe57f6
 duration: 3385
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -50,6 +50,6 @@ Upptäck processen för åtkomst till New Relic, en funktion som ingår som stan
 
 >[!NOTE]
 >
->* Besök vår [kontextuella tråd](https://adobe.ly/3sV67N5) för sessionsspecifika communityinteraktioner på Experience League.
+>* Besök vår [kontextuella tråd](https://adobe.ly/3sV67N5) om du vill se sessionsspecifika communityinteraktioner för Experience League.
 >
 >* Om du vill få meddelanden om våra kommande webbinarier registrerar du dig på [Adobe AEM User Group](https://aem-augs.adobe.com/).

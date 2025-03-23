@@ -5,12 +5,12 @@ solution: Experience Manager,Experience Manager Assets
 feature: Asset Ingestion
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9180
 type: Event
 exl-id: 7bf484d6-29fc-44b5-99c1-cc3e6055c72d
 duration: 1797
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/2Z
 
 - [Adobe Experience Manager-dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 - [Adobe Experience Manager Cloud Service - översikt](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
-- [Adobe Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
+- [Adobe Experience Manager-självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

@@ -8,13 +8,13 @@ feature: Core Components, Adobe Client Data Layer
 topic: Development
 role: Developer
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7162
 type: Event
 thumbnail: 331733.jpg
 exl-id: 68cd2f54-02be-40b9-a9b5-ea8824eded6c
 duration: 14
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%

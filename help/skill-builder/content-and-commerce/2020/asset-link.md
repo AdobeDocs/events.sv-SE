@@ -9,12 +9,12 @@ feature: Adobe Asset Link
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7342
 exl-id: 8b9bd020-f584-41a5-9cef-6aefdec4907b
 duration: 3674
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 1%

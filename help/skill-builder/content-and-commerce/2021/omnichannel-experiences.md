@@ -9,12 +9,12 @@ feature: Authoring
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 8935
 exl-id: 0901bbc1-38bf-4c57-9680-77c7d82d24d4
 duration: 3994
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 # Adobe Experience Manager Sites Basics
 
-Lär dig hur du skapar engagerande kundupplevelser i Adobe Experience Manager i den här 5-delsserien av webbinarier. Vi börjar med byggstenarna för framtagning av innehåll och presenterar dig för de grundläggande begreppen och funktionerna. Detta inkluderar webbplatsadministrationsfunktioner och grunderna för hantering av digitalt material i AEM. I den senare delen av serien kan du upptäcka funktioner som kan hjälpa dig att spara tid och bli mer effektiv genom att återanvända innehållet och leverera det i alla kanaler.
+Lär dig hur du skapar engagerande kundupplevelser i Adobe Experience Manager i den här 5-delsserien av webbinarier. Vi börjar med byggstenarna för framtagning av innehåll och presenterar dig för de grundläggande begreppen och funktionerna. Detta omfattar webbplatsadministrationsfunktioner och grunderna för hantering av digitalt material i AEM. I den senare delen av serien kan du upptäcka funktioner som kan hjälpa dig att spara tid och bli mer effektiv genom att återanvända innehållet och leverera det i alla kanaler.
 
 ## Innehåll överallt - Omnichannel experiences a reality
 

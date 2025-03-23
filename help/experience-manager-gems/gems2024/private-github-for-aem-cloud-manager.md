@@ -2,7 +2,7 @@
 title: Integrera privata GitHub-databaser i AEM Cloud Manager
 description: AEM GEM:s webbinarium visar hur du lägger till en privat GitHub-databas i Cloud Manager, länkar den direkt till pipelines och skift-vänster-testning för att identifiera problem på pull-begärandenivå innan du sammanfogar kod.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Developer Tools
 topic: Development
 role: Developer
@@ -10,7 +10,7 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%

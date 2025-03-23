@@ -1,24 +1,24 @@
 ---
-title: Talar från de främsta linjerna - hur man undviker vanliga fallgropar i Experience Manager CS
+title: Presentera material från första raden - hur man undviker vanliga fallgropar i Experience Manager CS
 description: Lär dig av de vanligaste misstag som andra har gjort så att du kan undvika dem själv! Under den här sessionen kommer vi att titta på några av de vanliga problemen som våra tekniker har sett och diskutera de bästa sätten att säkerställa att ni kan undvika dessa i er egen Adobe Experience Manager as a Cloud Service-implementering.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9179
 type: Event
 exl-id: a96e31ec-8079-412f-818c-ebf82b512bbd
 duration: 1889
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 4%
 
 ---
 
-# Talar från de främsta linjerna - hur man undviker vanliga fallgropar i Experience Manager CS
+# Presentera material från första raden - hur man undviker vanliga fallgropar i Experience Manager CS
 
 Lär dig av de vanligaste misstag som andra har gjort så att du kan undvika dem själv! Under den här sessionen kommer vi att titta på några av de vanliga problemen som våra tekniker har sett och diskutera de bästa sätten att säkerställa att ni kan undvika dessa i er egen Adobe Experience Manager as a Cloud Service-implementering.
 

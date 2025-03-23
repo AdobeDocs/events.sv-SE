@@ -6,12 +6,12 @@ feature: GraphQL API, Deploying
 topic: Headless
 role: Developer, Architect
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9144
 type: Event
 exl-id: 8d2c72dc-086f-443d-98c3-2a2497482f21
 duration: 1957
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 1%
@@ -30,4 +30,4 @@ Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/39
 
 - [Adobe Experience Manager-dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 - [Adobe Experience Manager Cloud Service - översikt](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
-- [Adobe Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
+- [Adobe Experience Manager-självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

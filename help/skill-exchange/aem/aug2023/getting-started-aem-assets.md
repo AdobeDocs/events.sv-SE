@@ -2,7 +2,7 @@
 title: Komma igång med AEM Assets
 description: Använda återgivningar och skapa anpassade återgivningar Beskära, redigera och kommentera digitala resurser, samarbeta med andra när du skapar eller redigerar digitala resurser
 solution: Experience Manager Assets
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature-set: Experience Manager, Experience Manager Assets
 feature: Asset Management, Renditions, Assets Essentials, Collaboration
 role: User
@@ -13,14 +13,14 @@ jira: KT-14143
 thumbnail: 3424012.jpeg
 exl-id: 2ab8f8c7-bb0b-47cc-ac35-ebd3ff767c17
 duration: 2018
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# Kunskapsutbyteshändelse augusti 2022 - AEM webbspår - Komma igång med AEM Assets
+# Kunskapsutbytesevent aug 2022 - AEM Web Track - Komma igång med AEM Assets
 
 Under den här sessionen får du lära dig att:
 
