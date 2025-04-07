@@ -1,16 +1,16 @@
 ---
-user-guide-title: Adobe Experience League Event Recording
+user-guide-title: Adobe Experience League - inspelningar
 user-guide-breadcrumb: Event Recordings
-user-guide-description: En samling händelseregistreringar som framtvingas vid användning av Adobe Enterprise-produkter
-source-git-commit: 766c04837f2ccf65813d93bed7d57522a4e17be3
+user-guide-description: En samling inspelningar av händelser som är avsedda att användas med Adobe Enterprise-produkter
+source-git-commit: 1082d67d49901e151115255b585799a5f57bda4a
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '444'
 ht-degree: 2%
 
 ---
 
 
-# Adobe Experience League Event Recording {#experience-league-recorded-events}
+# Adobe Experience League - inspelningar {#experience-league-recorded-events}
 
 + [Översikt](overview.md)
 + Efter serie {#series}
@@ -21,17 +21,17 @@ ht-degree: 2%
    + [Adobe Content Management Forum](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
    + [Adobe webbseminarier om nöjda kunder](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html)
    + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
-   + [AEM kontorstimmar](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
+   + [AEM Champion Office-timmar](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
    + [APAC Commerce Events](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
    + [Bakom brevet](https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html)
    + [Commerce och kaffe](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
    + [Voices om hantering av kunddata](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
    + [Datadripp](https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html)
    + [Djupenheter](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
-   + [Spressos &amp; Experience Manager](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html)
+   + [Espressos &amp; Experience Manager](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html)
    + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
    + [Experience League LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
-   + [Experience Manager-GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
+   + [Experience Manager GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
    + [Experience Manager versionsöversikt](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html)
    + [GenStudio for Performance Marketing Events](https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html)
    + [Lär dig av dina kollegor](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
@@ -76,11 +76,11 @@ ht-degree: 2%
    + Adobe Experience Manager {#aem}
       + [Adobe Content Management Forum](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
-      + [AEM kontorstimmar](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
-      + [Spressos &amp; Experience Manager](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html)
+      + [AEM Champion Office-timmar](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
+      + [Espressos &amp; Experience Manager](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html)
       + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
-      + [Experience Manager-GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
+      + [Experience Manager GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
       + [Experience Manager versionsöversikt](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html)
       + [Lär dig av dina kollegor](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
       + [Kompetensbyggare](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
@@ -102,7 +102,7 @@ ht-degree: 2%
       + [Kompetensutbyte](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + Adobe Journey Optimizer {#ajo}
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
-   + CDP i realtid för Adobe {#rtcdp}
+   + Adobe CDP {#rtcdp} i realtid
       + [Voices om hantering av kunddata](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
       + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
@@ -118,3 +118,5 @@ ht-degree: 2%
       + [Kompetensutbyte](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
       + [Vakna med Workfront](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
       + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
+   + Dold {#hidden}
+      + [Adobe Pass REST API v2](../single-events/adobe-pass-rest-api-v2.md)
