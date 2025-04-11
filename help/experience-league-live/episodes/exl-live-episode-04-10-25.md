@@ -8,7 +8,7 @@ event-cta-url-live: https://www.youtube.com/live/OPRzvdLUu7E
 event-start-time: 2025-04-10 09:00-8
 event-guests: Doug Moore, Nina Caruso, Clayton Smith
 exl-id: 6376944b-eefd-4d9e-8db4-89d6d948889f
-source-git-commit: 3599290ac96cb3791f555bb8ef75ee33a44a57e3
+source-git-commit: 67295e039205f8e84a4de2e1876ed88f5f1595d4
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 1%
@@ -21,7 +21,7 @@ Från och med 10 april 2025 diskuterade våra experter hur Real-Time CDP Collabo
 
 Under det här mötet utforskade vi:
 
-* Varför vi har skapat den här produkten och hur den hjälper er att lösa kundernas integritet och att målgruppen når utmaningar med enkelhet och interoperabilitet
+* Varför vi har skapat produkten och hur den hjälper till att lösa konsumenternas integritet och nå ut till målgrupperna med enkelhet och interoperabilitet
 * Real-Time CDP Collaboration in action, with product demos
 * Användningsexempel stöds nu och vad som kommer att hända
 
