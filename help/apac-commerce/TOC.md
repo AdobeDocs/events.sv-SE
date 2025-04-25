@@ -2,10 +2,10 @@
 user-guide-title: APAC Commerce Events
 breadcrumb-title: APAC Commerce Events
 user-guide-description: Adobe Commerce Events är ett videobibliotek där experter och kollegor har delat med sig av sina tankar och idéer om hur man använder Adobe Commerce.
-source-git-commit: 888157b1ae32dcd6657ddbac51c448ac72c65933
+source-git-commit: 0019364eaad86248349d31290f25f758d762eaf4
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 2%
+source-wordcount: '147'
+ht-degree: 4%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 2%
 + [Översikt](overview.md)
 + 2024 {#2024}
    + [Accelerator Day](2024/accelerator-day/overview.md)
-   + Acceleratordagen {#accelerator-day}
+   + Accelerator Day{#accelerator-day}
       + [Dold: Navigera imorgon](./2024/accelerator-day/navigating-tomorrow.md)
       + [Dold: Panel bakom kanter](./2024/accelerator-day/panel-beyond-borders.md)
       + [Dold: Experience Evolution](./2024/accelerator-day/experience-evolution.md)
@@ -46,7 +46,6 @@ ht-degree: 2%
    + [Site Wide Analysis Tool](2022/analysis-tool.md)
    + [Omvandla data till värde med MBI](2022/mbi.md)
    + [Uppgradera till 2.4.4](2022/upgrade.md)
-+ [Viktigt om lanseringsfärdplan](release-highlights.md)
 
 <!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)
