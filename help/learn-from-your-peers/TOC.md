@@ -42,7 +42,7 @@ ht-degree: 2%
       + [En djupdykning i verktygen för AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
    + Juli {#july2023}
       + [Effektiva säkerhetsstrategier i Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
-   + {#may2023} maj
+   + maj{#may2023}
       + [Mastering av innehålls- och upplevelsefragment](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
    + November 2024 {#nov2024}
@@ -79,7 +79,7 @@ ht-degree: 2%
          + [Kommunicera med slutanvändare](workfront/2023/07/communicating-with-end-users.md)
       + Juni {#june}
          + [Skapa ett högklassigt Workfront-center](workfront/2023/06/establishing-a-workfront-center-of-excellence.md)
-      + {#may} maj
+      + maj{#may}
          + [Foundations of project templates](workfront/2023/05/foundations-of-project-templates.md)
       + April {#april}
          + [öka effektiviteten i Workfront automatisering](workfront/2023/04/finding-efficiencies-in-workfront-automation.md)
@@ -102,7 +102,7 @@ ht-degree: 2%
          + [Allt om begärandeköer](workfront/2022/07/all-about-request-queues.md)
       + Juni {#june}
          + [Grunderna för driftsrapportering](workfront/2022/06/foundations-of-operational-reporting.md)
-      + {#may} maj
+      + maj{#may}
          + [Utnyttja gruppadministratören](workfront/2022/05/leveraging-the-group-admin.md)
       + April {#april}
          + [Designa en perfekt användarupplevelse](workfront/2022/04/designing-an-ideal-user-experience.md)

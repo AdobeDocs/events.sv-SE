@@ -102,7 +102,7 @@ ht-degree: 2%
       + [Kompetensutbyte](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + Adobe Journey Optimizer {#ajo}
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
-   + Adobe CDP {#rtcdp} i realtid
+   + Adobe CDP i realtid {#rtcdp}
       + [Voices om hantering av kunddata](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
       + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)

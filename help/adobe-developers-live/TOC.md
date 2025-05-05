@@ -74,7 +74,7 @@ ht-degree: 1%
          + [Sök- och katalogtjänst](2023/november/commerce-search-and-catalog-service.md)
          + [Strategier för optimering av prestanda på Commerce webbplats](2023/november/commerce-site-performance.md)
          + [Spåra ändringar i Adobe Commerce Cloud](2023/november/commerce-cloud-track-changes.md)
-   + {#may2023} maj
+   + maj{#may2023}
       + [Öppnar inledningsanförandet](2023/may/keynote.md)
       + [API-demo](2023/may/new-apis.md)
       + [Fördjupa dig i AEM kärnkomponenter för e-post och Forms](2023/may/core-components.md)

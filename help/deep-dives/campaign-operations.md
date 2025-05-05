@@ -33,7 +33,7 @@ I den här djupdykningen ska vi visa hur du kommer igång med Marketo API och se
 ## Viktiga uppgifter
 
 * **Fokus** Sessionen fokuserade på att automatisera och effektivisera kampanjåtgärder med Marketo API.
-* API:er av typen **API-prioritet** är avgörande för att automatisera repetitiva uppgifter, vilket gör att system kan kommunicera och spara tid och pengar. API-grunder** Förklaring av vad ett **API är, inklusive skillnaden mellan Get- och Post-begäranden och hur de fungerar.
+* API:er av typen **API-prioritet** är avgörande för att automatisera repetitiva uppgifter, vilket gör att system kan kommunicera och spara tid och pengar. API-grunder **&#x200B; Förklaring av vad ett &#x200B;** API är, inklusive skillnaden mellan Get- och Post-begäranden och hur de fungerar.
 
 ### Användningsfall
 
