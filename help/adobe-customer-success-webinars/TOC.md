@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success-led webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe lösningar.
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+source-git-commit: b0f07b52c50ea008e8d0569ef7c8687a9e806f72
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 0%
    + [GenStudio for Performance Marketing-operativmodell](2025/genstudio-for-performance-marketing-operating-model.md)
    + [Mastering Sequential Logic](2025/mastering-sequential-logic.md)
    + [Optimera AEM-prestanda](2025/optimize-aem-performance.md)
+   + [Smartare marknadsföring börjar här - integrering av Google och Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Target AI-styrda Personalization](2024/ai-personalization.md)
@@ -35,8 +36,8 @@ ht-degree: 0%
    + [Adobe Workfront Mastery](2024/workfront-mastery.md)
    + [AEM Authoring key concepts](2024/aem-authoring-concepts.md)
    + [AEM Sites Effektiviteter](2024/aem-sites-efficiencies.md)
-   + [AEP App Services-integreringar för kundärenden](2024/aep-apps-services-integrations.md)
-   + [AEP - fallplanering](2024/aep-use-case-planning.md)
+   + [Integrering med AEP App Services för kundärenden](2024/aep-apps-services-integrations.md)
+   + [AEP Use Case Planning](2024/aep-use-case-planning.md)
    + [AI-driven copywriting](2024/ai-copywriting.md)
    + [Grundläggande till mellanliggande analysfunktioner](2024/basic-to-intermediate-analysis-capabilities.md)
    + [Prioritering för dataström](2024/data-stream-prioritization.md)
