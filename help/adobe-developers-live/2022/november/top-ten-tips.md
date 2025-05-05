@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Bra prestanda för upplevelser är avgörande för att lyckas med upplevelserna. Under den här sessionen kommer vi att dela med dig av våra tio bästa tips för att hjälpa dina utvecklare att skapa dina Adobe Experience Manager-webbplatser snabbare.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411300/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457179/?quality=12&learn=on&captions=swe)

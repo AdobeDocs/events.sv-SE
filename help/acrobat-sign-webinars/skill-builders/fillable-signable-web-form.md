@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Lär dig hur du skapar ett webbformulär där alla kan fylla i och signera - utan att du behöver initiera transaktionen eller ens känna till signerarens e-postadress. Du får också lära dig hur du förbereder en dokumentmall som kan användas för enskilda signaturtransaktioner, samt publicerar på en unik URL för bred delning.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428187/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455449/?learn=on&captions=swe)
 
 ## Viktiga punkter
 

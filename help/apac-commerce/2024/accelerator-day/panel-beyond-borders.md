@@ -28,6 +28,6 @@ Högtalare:
 + Carolina de Figuerido - Krispy Kreme
 + Hussein Moustafa
 
->[!VIDEO](https://video.tv.adobe.com/v/3429265/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457234/?learn=on&captions=swe)
 
 [&lt; Tillbaka till Adobe Commerce Accelerator Day](./overview.md)

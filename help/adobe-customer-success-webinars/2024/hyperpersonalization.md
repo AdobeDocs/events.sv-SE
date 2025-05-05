@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Information om den nya eran med hyperpersonalisering. Vi bygger en grund på en personaliseringsmodell, diskuterar vanliga blockerare och ger taktiska tips för att komma igång.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429288/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457349/?learn=on&captions=swe)
 
 ## Viktiga diskussionspunkter
 

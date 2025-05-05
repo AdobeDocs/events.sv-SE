@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Se integreringen snabbare och enklare sätt att kommentera dokumenten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428195/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454376/?learn=on&captions=swe)
 
 ## Viktiga ämnen
 

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Läs mer om de analyser och rapporter som finns i Acrobat Sign - och se hur ni kan visa data för att leverera de insikter ni behöver för att utveckla er verksamhet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428191/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454409/?learn=on&captions=swe)
 
 ## Nya funktioner för rapportering och export
 

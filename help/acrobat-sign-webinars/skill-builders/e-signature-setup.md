@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Läs om tre enkla sätt att konfigurera dokument för e-signering. Oavsett om det handlar om PDF-, Microsoft 365-filer eller till och med en enkel bildfil får du de verktyg du behöver för att få dokumentet signerat. Vi kommer att gå igenom tre metoder: Adobe Acrobat Sign enkla dra-och-släpp-redigeringsmiljö Konfigurera ett PDF-formulär i Adobe Acrobat Använd texttaggar för snabb dokumentredigering.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428184/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455948/?learn=on&captions=swe)
 
 ## Vad är fördelen med att använda texttaggar i kombination med Microsoft Word?
 

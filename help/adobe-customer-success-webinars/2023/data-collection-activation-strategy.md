@@ -25,4 +25,4 @@ Utnyttja och aktivera er datainsamlingsstrategi för att kunna interagera snabba
 * Arkitektur på hög nivå - översikt
 * Överväganden för er datainsamling och aktiveringsstrategi
 
->[!VIDEO](https://video.tv.adobe.com/v/3426006/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456228/?learn=on&captions=swe)

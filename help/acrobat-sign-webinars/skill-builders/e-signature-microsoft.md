@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Utöka ditt sätt att använda dina Microsoft-program som Word, Outlook och Sharepoint genom att lägga till Adobe Acrobat Sign i dina befintliga arbetsflöden. Under den här sessionen får du lära dig hur du börjar effektivisera dokumentprocesserna i vanliga Microsoft-program så att du inte behöver byta kontext bara för att få en signatur eller kontrollera en status.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428185/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455054/?learn=on&captions=swe)
 
 ## Vilka program stöder Acrobat Sign-integreringen?
 

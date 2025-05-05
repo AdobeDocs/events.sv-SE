@@ -31,4 +31,4 @@ Hur de har utvecklat både sina processer och sin infrastruktur över tid
 Praktisk rådgivning om hur du integrerar Workfront i din bredare teknologi och mognar viktiga arbetsflöden
 Hur IPG lägger grunden för Content Supply Chain
 
->[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456663/?learn=on&captions=swe)

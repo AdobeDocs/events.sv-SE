@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Är du nyfiken på vart Adobe Analytics är på väg? Ben Gaines, Director på Product Management för Customer Journey Analytics och Adobe Analytics, kommer att berätta lite om vad du kan förvänta dig.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425984/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454420/?learn=on&captions=swe)

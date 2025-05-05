@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Läs om Adobe Commerce nuvarande status och några av de förbättringar som har gjorts under de senaste åren. Adobe Commerce är en modern företagslösning som kan anpassas efter olika branscher och användningsområden. Diskussionen handlar om flera befintliga kunder och hur de använde Adobe Commerce för att slutföra sin handelsupplevelse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425803/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455205/?learn=on&captions=swe)

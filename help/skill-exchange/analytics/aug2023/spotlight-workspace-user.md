@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Leveling Up - Educating the Casual Workspace User
 
->[!VIDEO](https://video.tv.adobe.com/v/3425993/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456688/?learn=on&captions=swe)

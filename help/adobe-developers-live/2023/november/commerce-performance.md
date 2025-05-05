@@ -24,4 +24,4 @@ ht-degree: 0%
 
 I den här inspirerande presentationen går vi in i vår&quot;Better Together&quot;-berättelse, där Adobe Commerce smidigt kan integreras med vår omfattande tekniklösning. Upptäck hur denna synergi främjar effektivitet, innovation och helhetsupplevelser, så att ni når nya höjder i verksamheten
 
->[!VIDEO](https://video.tv.adobe.com/v/3426311/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455982/?learn=on&captions=swe)

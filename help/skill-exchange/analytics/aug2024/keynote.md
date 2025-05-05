@@ -26,4 +26,4 @@ Att ge team datamöjligheter är nödvändigt för att driva på innovation och 
 * Lär dig de bästa sätten att skapa rätt sammanhang och säkerställa effektiv dataanvändning.
 * Upptäck hur Adobe Analytics och Customer Journey Analytics kan ge era team bättre data.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432751/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453591/?learn=on&captions=swe)

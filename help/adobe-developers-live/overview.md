@@ -80,7 +80,7 @@ Adobe produktteam i Adobe Experience Cloud, Document Cloud och Creative Cloud ko
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/ai-and-personalization.md" title="Lägga in AI och Personalization i Adobe Experience Manager-Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440405/?format=jpeg&nocache=1733162925381" alt="Lägga in AI och Personalization i Adobe Experience Manager-Edge Delivery Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440410/?format=jpeg&nocache=1733162925381&captions=swe" alt="Lägga in AI och Personalization i Adobe Experience Manager-Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -126,7 +126,7 @@ Adobe produktteam i Adobe Experience Cloud, Document Cloud och Creative Cloud ko
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/cdn-waf-aemcs.md" title="Konfiguration av CDN och WAF i Adobe Experience Manager as a Cloud Service" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440401/?format=jpeg&nocache=1733162925358" alt="Konfiguration av CDN och WAF i Adobe Experience Manager as a Cloud Service"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440606/?format=jpeg&nocache=1733162925358&captions=swe" alt="Konfiguration av CDN och WAF i Adobe Experience Manager as a Cloud Service"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -237,7 +237,7 @@ Adobe produktteam i Adobe Experience Cloud, Document Cloud och Creative Cloud ko
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/extension-manager.md" title="Extension Manager för Adobe Experience Manager Sites" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440404/?format=jpeg&nocache=1733162926516" alt="Extension Manager för Adobe Experience Manager Sites"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440432/?format=jpeg&nocache=1733162926516&captions=swe" alt="Extension Manager för Adobe Experience Manager Sites"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -390,7 +390,7 @@ Adobe produktteam i Adobe Experience Cloud, Document Cloud och Creative Cloud ko
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/asset-migration-blueprint.md" title="Assets Migration Blue" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440403/?format=jpeg&nocache=1733162927528" alt="Assets Migration Blue"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440443/?format=jpeg&nocache=1733162927528&captions=swe" alt="Assets Migration Blue"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -413,7 +413,7 @@ Adobe produktteam i Adobe Experience Cloud, Document Cloud och Creative Cloud ko
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/performant-delivery.md" title="Bästa praxis för leverans av prestanda" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440399/?format=jpeg&nocache=1733162927540" alt="Bästa praxis för leverans av prestanda"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440421/?format=jpeg&nocache=1733162927540&captions=swe" alt="Bästa praxis för leverans av prestanda"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

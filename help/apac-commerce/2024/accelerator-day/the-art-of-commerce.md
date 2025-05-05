@@ -24,6 +24,6 @@ Exempel på live-kundexempel på Adobe Commerce som visar hur det är möjligt, 
 
 + Presenteras av Carl Screwvala, Senior Solutions Engineer - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429274/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455492/?learn=on&captions=swe)
 
 [&lt; Tillbaka till Adobe Commerce Accelerator Day](./overview.md)

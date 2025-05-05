@@ -24,4 +24,4 @@ Förvärva taktiker för att effektivt uppnå organisatoriska mål genom strateg
 - Ställa in kursen för långsiktig framgång
 - Effektivt driva strategiska initiativ
 
->[!VIDEO](https://video.tv.adobe.com/v/3427463/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456787/?learn=on&captions=swe)

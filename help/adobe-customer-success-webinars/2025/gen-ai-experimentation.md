@@ -27,7 +27,7 @@ Det här webbinariet ger en djupare förståelse för hur AI Assistant Content A
 * Innehållsexperiment och optimering
 * Generativ AI
 
->[!VIDEO](https://video.tv.adobe.com/v/3444453/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444463/?learn=on&enablevpops&captions=swe)
 
 ## Viktiga uppgifter
 

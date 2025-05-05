@@ -65,7 +65,7 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="admin-console.md" title="Förbereder för Marketo Engage på Adobe Identity" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1741126806435" alt="Förbereder för Marketo Engage på Adobe Identity"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432369/?format=jpeg&nocache=1741126806435&captions=swe" alt="Förbereder för Marketo Engage på Adobe Identity"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -88,7 +88,7 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="api.md" title="API:er" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1741126806441" alt="API:er"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432504/?format=jpeg&nocache=1741126806441&captions=swe" alt="API:er"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

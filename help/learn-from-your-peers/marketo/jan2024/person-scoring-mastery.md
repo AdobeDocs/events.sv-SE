@@ -29,7 +29,7 @@ På det här webbinariet får du lära dig:
 * Så här skapar du en genomskinlig och skalbar personbedömningsmodell
 * Det bästa sättet att implementera detta i Marketo Engage, vilket ger flexibilitet på den lokala marknaden samtidigt som modellen är logisk och enhetlig.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457443/?learn=on&captions=swe)
 
 ## Resurser som delas i webbinariet
 

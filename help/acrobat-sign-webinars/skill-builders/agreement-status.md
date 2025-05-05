@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Lär dig mer om allt om verktyg för avtalshantering och bästa praxis så att du när som helst kan se status för dina avtal. Den här sessionen kommer att handla om: vilka åtgärder du kan utföra på dokument på fliken Hantera, hur data från webbformulär och massutskick ska bearbetas och användas samt hur du söker efter och filtrerar efter de dokument du behöver.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428190/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455005/?learn=on&captions=swe)
 
 Under den här sessionen diskuterar talaren hur man hanterar och spårar avtal med Adobe Acrobat Sign. &#x200B; De förklarar de olika avtalsstatusarna, visar åtgärder som kan vidtas när det gäller pågående avtal och tillhandahåller resurser för ytterligare inlärning.

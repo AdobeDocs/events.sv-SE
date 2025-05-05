@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Släpp Adobe Commerce framtid! Utforska vår senaste presentation om de senaste förbättringarna i vår Commerce-plattform, som bygger på generativ AI- och 3D-teknik. Läs om hur dessa innovationer omdefinierar kundengagemang och skapar affärsframgångar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426312/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456460/?learn=on&captions=swe)

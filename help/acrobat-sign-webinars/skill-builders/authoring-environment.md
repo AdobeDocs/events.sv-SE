@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Gå ett steg längre när det gäller de alternativ som finns i Acrobat Sign Authoring Environment. Områden som behandlas är: Översikt över hur du förbereder dina Acrobat Sign-dokumentmallar med Acrobat, texttaggar och Acrobat Sign redigeringsmiljö. Djupdyka in i redigeringsmiljön, som omfattar kloning jämfört med kopiering av fält, tillägg av specialfält, tilldelning av fält samt inställning av villkorsstyrda fält och beräkningsfält. Hur du skickar mallar för signering, där dokumentmallen jämförs med formulärfältsmallen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428189/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455903/?learn=on&captions=swe)
 
 ## Viktiga punkter
 

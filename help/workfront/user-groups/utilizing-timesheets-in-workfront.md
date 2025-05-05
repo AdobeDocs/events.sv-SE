@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Lyssna på Nicholas Twillie och Alma Martinez från Walgreens när han talar om spårningstid via tidrapporter i Workfront. Se sedan på när Christian Barnes visar den tekniska sidan av tidrapporterna.
 
->[!VIDEO](https://video.tv.adobe.com/v/341228/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457335/?quality=12&learn=on&captions=swe)

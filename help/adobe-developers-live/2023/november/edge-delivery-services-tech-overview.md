@@ -25,4 +25,4 @@ ht-degree: 5%
 
 De mest omtalade förändringarna i AEM värld kan se en detaljerad teknisk översikt över de nya Edge Delivery Servicens som går med i AEM.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426339/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455926/?learn=on&captions=swe)

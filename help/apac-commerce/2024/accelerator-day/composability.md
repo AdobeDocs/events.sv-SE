@@ -25,6 +25,6 @@ ht-degree: 0%
 
 + Presenteras av Jason Ford, chef för ANZ Solution Engineering - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429272/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455452/?learn=on&captions=swe)
 
 [&lt; Tillbaka till Adobe Commerce Accelerator Day](./overview.md)

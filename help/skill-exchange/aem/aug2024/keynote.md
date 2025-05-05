@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Experience Manager inledningsanförande
 
->[!VIDEO](https://video.tv.adobe.com/v/3433161/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454961/?learn=on&captions=swe)

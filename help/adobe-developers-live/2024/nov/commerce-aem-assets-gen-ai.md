@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Upptäck hur Ankush Malhotra, Sr. Computer Scientist på Adobe och Pablo Moreno, Sr. Software Engineer på Adobe, integrerar Adobe Experience Manager Assets och GenAI med Adobe Express för att förbättra Adobe Commerce butiker. Utnyttja varumärkesgodkända bildreferenser, förbättra kvaliteten på mediematerialet och förbättra e-handelsprestanda med den här kraftfulla kombinationen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440400/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440553/?learn=on&enablevpops&captions=swe)
 
 ## Community-diskussion
 

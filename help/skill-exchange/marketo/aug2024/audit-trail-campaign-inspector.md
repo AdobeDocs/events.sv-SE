@@ -26,4 +26,4 @@ Under den här sessionen kommer du att lära dig:,
 * Bästa tillvägagångssätt för att använda granskningsspåret, inklusive vad som ska kontrolleras, hur ofta och varför det är viktigt, tillsammans med de ytterligare fördelarna från den senaste versionen från juni 2024.
 * Så här använder du Campaign Inspector för att regelbundet granska smarta kampanjer, inklusive vad du ska leta efter (volym, batch kontra utlösare, utlösarkampanjer med hög latens som kan göra instansen långsammare osv.).
 
->[!VIDEO](https://video.tv.adobe.com/v/3432944/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456955/?learn=on&captions=swe)

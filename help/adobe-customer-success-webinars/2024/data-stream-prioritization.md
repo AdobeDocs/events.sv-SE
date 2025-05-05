@@ -28,4 +28,4 @@ Läs om hur ni hanterar prioriteringen av dataströmmar för kampanjsamordning f
 - Förstå vikten av och bästa praxis för prioritering av dataströmmar
 - Optimera marknadsföringskampanjer i realtid
 
->[!VIDEO](https://video.tv.adobe.com/v/3427302/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456809/?learn=on&captions=swe)

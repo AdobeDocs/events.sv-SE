@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Webbinariet visar hur integreringen av dessa koncept kan öka effektiviteten, förbättra kundupplevelserna och stödja datadrivet beslutsfattande inom organisationer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432998/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457012/?learn=on&captions=swe)
 
 ## Viktiga uppgifter
 

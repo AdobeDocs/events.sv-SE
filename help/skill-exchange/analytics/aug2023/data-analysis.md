@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Analytics har ett till synes oändligt antal funktioner. Vi har valt ut några av våra mest underutnyttjade, men ändå kraftfulla, kunder och branscher. Under den här sessionen får du lära dig hur du använder dessa i analysarbetsflödet och snabbt ökar värdet på dina insikter i organisationen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425990/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456589/?learn=on&captions=swe)

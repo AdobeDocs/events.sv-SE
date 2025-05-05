@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Universell redigerare är nästa generation AEM sammanhangsberoende sidredigerare och löser de nuvarande begränsningarna i AEM sidredigerare eller SPA. Det är oberoende av ramverk, återgivningsmotorer och datakällor, vilket ger all den frihet som utvecklarna vill ha och gör det helt universellt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426341/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456471/?learn=on&captions=swe)

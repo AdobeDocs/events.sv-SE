@@ -20,4 +20,4 @@ ht-degree: 0%
 
 I det här seminariet, Director of Product Marketing, visar Richard Whitehead hur Workfront utvecklas, bland annat nya och tillgängliga funktioner, och avslutar med produktinnovationer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425894/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453833/?learn=on&captions=swe)

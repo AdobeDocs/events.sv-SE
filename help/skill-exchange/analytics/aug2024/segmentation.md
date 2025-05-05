@@ -26,4 +26,4 @@ Segment i Adobe Analytics kan vara mycket kraftfulla, men med den kraften följe
 * Kraftfulla funktioner för att exkludera logik
 * Välja rätt konfiguration för att lyckas
 
->[!VIDEO](https://video.tv.adobe.com/v/3432748/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456933/?learn=on&captions=swe)

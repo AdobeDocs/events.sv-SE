@@ -25,6 +25,6 @@ ht-degree: 0%
 
 + Presenteras av Mike Lynch, Enterprise Commerce Specialist - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429266/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454442/?learn=on&captions=swe)
 
 [&lt; Tillbaka till Adobe Commerce Accelerator Day](./overview.md)

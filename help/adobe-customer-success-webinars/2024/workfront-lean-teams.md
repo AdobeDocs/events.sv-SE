@@ -26,7 +26,7 @@ Insiktsfulla strategier och praktiska strategier för organisationer som vill ef
 * Använda Workfront för att stödja Lean Project Management
 * Kontinuerligt lärande och anpassning
 
->[!VIDEO](https://video.tv.adobe.com/v/3429287/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456710/?learn=on&captions=swe)
 
 ## Mötesöversikt
 

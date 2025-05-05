@@ -23,7 +23,7 @@ Läs om hur Adobe Workfront och Adobe Experience Manager Assets samverkar.
 
 Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/3kHfJED)**.
 
->[!VIDEO](https://video.tv.adobe.com/v/337578/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3457164/?quality=12&learn=on&hidetitle=true&captions=swe)
 
 ## Ytterligare resurser
 

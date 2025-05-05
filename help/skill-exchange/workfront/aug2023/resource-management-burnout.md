@@ -30,4 +30,4 @@ Under den här sessionen kommer Tia Calvert, Product Manager och Erin Kuchera, C
 * Hur man lägger in tidsuppföljning
 * Exempel på hur Mayo Clinic använder Analytics och Resource Manager för att ge team transparens och planera för nytt arbete
 
->[!VIDEO](https://video.tv.adobe.com/v/3425811/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457100/?learn=on&captions=swe)

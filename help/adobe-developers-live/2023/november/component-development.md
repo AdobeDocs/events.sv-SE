@@ -25,4 +25,4 @@ ht-degree: 0%
 
 AEM fortsätter att utvecklas för att möta moderna utmaningar och det sätt på vilket vi bygger vidare på den måste också anpassas. Under den här sessionen ska vi utforska nya sätt att närma oss gamla uppgifter ... som gör det enklare än någonsin för utvecklaren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426338/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456295/?learn=on&captions=swe)

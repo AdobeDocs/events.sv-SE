@@ -24,6 +24,6 @@ En sammanfattning av Adobe Commerce seminarier på Summit 2024, några av de nya
 
 + Presenteras av Scott Rigby, Adobe Commerce Product Manager JAPAC
 
->[!VIDEO](https://video.tv.adobe.com/v/3429264/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454563/?learn=on&captions=swe)
 
 [&lt; Tillbaka till Adobe Commerce Accelerator Day](./overview.md)

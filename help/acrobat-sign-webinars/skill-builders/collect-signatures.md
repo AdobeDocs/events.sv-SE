@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Lär dig hur funktionen Skicka flera i Acrobat Sign kan spara tid. Om du behöver flera personer för att signera unika kopior av en företagsomfattande principuppdatering, en sekretessdagbok eller något annat dokument, kan du med Skicka i grupp förbereda filen en gång, skicka till flera signerare med ett klick och enkelt spåra svaren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428188/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454895/?learn=on&captions=swe)
 
 ## Viktiga punkter
 

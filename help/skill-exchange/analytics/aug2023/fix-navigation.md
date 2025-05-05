@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Navigering är avgörande för att besökarna ska kunna hitta runt på er webbplats och få tillgång till era konverteringsfunktioner. Lär dig hur du kan spåra hur effektiv navigeringen är och hur du kan förbättra den med Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425992/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457371/?learn=on&captions=swe)

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Under [!DNL Adobe Analytics]-byggandet av ett datadrivet kulturwebbinarium tillfrågades över 35 frågor av [!DNL Adobe Analytics]-användare runt om i världen. Eftersom vår [!DNL Adobe Analytics] Champion inte kunde besvara alla dessa frågor under de aktiva frågorna och svaren tog vi dem tillbaka och var värd för en uppföljningssession för att besvara dina frågor och dela med oss av ännu mer expertkunskap.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415614/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455127/?quality=12&learn=on&captions=swe)

@@ -20,7 +20,7 @@ Driv personalisering i realtid i alla kanaler med hjälp av insikter om online- 
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html?lang=sv-SE">
-      <img alt="Anpassa och automatisera med Adobe Target" src="https://video.tv.adobe.com/v/343821?format=jpeg" />
+      <img alt="Anpassa och automatisera med Adobe Target" src="https://video.tv.adobe.com/v/3457382?format=jpeg&captions=swe" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html?lang=sv-SE">

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Det kan vara svårt att organisera innehållet mellan inkommande och utgående kanaler. Med Adobe Experience Manager kan ni skapa både inkommande och utgående innehåll och använda det under hela kundresan. Detta seminarium handlar om integreringsmönster med Adobe Target, Adobe Campaign, Adobe Journey Optimizer med flera.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426337/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455017/?learn=on&captions=swe)

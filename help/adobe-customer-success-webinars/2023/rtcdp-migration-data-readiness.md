@@ -25,4 +25,4 @@ Lär dig strategin bakom organisationsberedskapen ur ett databeredskapsperspekti
 * Lär dig hur man anpassar sig efter affärsanvändningsfall som en organisation
 * Viktiga resurser och åtgärder för CDP-beredskap i realtid
 
->[!VIDEO](https://video.tv.adobe.com/v/3425603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457067/?learn=on&captions=swe)

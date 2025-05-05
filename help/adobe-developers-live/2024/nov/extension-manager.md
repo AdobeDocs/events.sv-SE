@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Lär dig utöka Adobe Experience Manager funktionalitet för skribenter över redigeringsytor utan rubriker och den universella redigeraren med Iryna Lagno, Sr. Software Engineer på Adobe. Möjliggör tillägg till användargränssnitt för flera organisationer och publicera dem för andra för att utnyttja dem via Extension Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440404/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440432/?learn=on&enablevpops&captions=swe)
 
 ## Community-diskussion
 

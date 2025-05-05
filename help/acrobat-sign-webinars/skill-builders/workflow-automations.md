@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Utnyttja alla automatiseringsfunktioner med Microsoft lågkods-/kodlösning Power Automate, direkt i Adobe Acrobat Sign. Få höra hur icke-utvecklare kan skapa nästa generations arbetsflöden. Under den här sessionen får du lära dig hur du: Konfigurera arbetsflödesintegreringen för att komma igång snabbt med att skapa arbetsflöden med färdiga mallar Utnyttja ett stort ekosystem av kopplingar för att integrera Acrobat Sign i dina paketerade och anpassade program Öka produktiviteten och utöka möjligheterna i Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428194/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454928/?learn=on&captions=swe)
 
 ## Mer information om Power Automate
 

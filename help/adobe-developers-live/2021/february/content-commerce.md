@@ -27,6 +27,6 @@ Under den här sessionen kan utvecklare komma igång med Commerce i Adobe Experi
 
 Fortsätt konversationen i **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
->[!VIDEO](https://video.tv.adobe.com/v/331851/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454734/?quality=12&learn=on&hidetitle=true&captions=swe)
 
 Klicka **[här](/help/adobe-developers-live/assets/content-commerce.pdf)** för sessionsbilderna.

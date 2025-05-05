@@ -21,4 +21,4 @@ Delta i detta seminarium och lär dig grunderna för automatisering och optimeri
 
 *Matthias Kolitsch* Senior Multi Solution Trainer EMEA/Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/343821/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457382/?quality=12&learn=on&captions=swe)

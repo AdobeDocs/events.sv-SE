@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Lär dig grunderna i Acrobat Sign för att snabbt få dokument signerade. Vi visar dig hur: Förbered och skicka dina dokument för e-signatur Visa vad dina signerare ser Hantera och spåra avtalsförloppet Skapa en egen signatur med mera.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455469/?learn=on&captions=swe)
 
 ## Viktiga punkter
 

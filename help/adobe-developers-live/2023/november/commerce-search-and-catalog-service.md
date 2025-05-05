@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Lär dig mer om tjänsterna för sökning och katalog för att förbättra och optimera dina butiksupplevelser.  Den här demonstrationen förklarar hur du kan utnyttja e-handelstjänstkopplingen i din butik med GraphQL.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425806/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454732/?learn=on&captions=swe)

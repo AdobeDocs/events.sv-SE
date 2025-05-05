@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Följ Riya Midha, Sr. Product Manager på Adobe, och utforska de bästa sätten att konfigurera Adobe Experience Manager Assets Dynamic Media. Lär dig hur du optimerar leverans av resurser, förbättrar direktuppspelad video, konfigurerar visningsprogram samt mäter och förbättrar prestanda.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440399/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440421/?learn=on&enablevpops&captions=swe)
 
 ## Community-diskussion
 

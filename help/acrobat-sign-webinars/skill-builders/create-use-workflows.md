@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Anropa alla Acrobat Sign-administratörer och slutanvändare/enskilda medarbetare. Denna session kommer att omfatta både framtagning och användning av arbetsflöden. Som grupp- eller kontoadministratör för Acrobat Sign kan du lära dig hur du kan definiera förinställda arbetsflöden för att automatiskt dirigera dokument för signering till rätt parter och sedan ge åtkomst till hela Acrobat Sign-gruppen. Och som slutanvändare kan du lära dig att använda dessa arbetsflöden för att säkerställa att dokumenten signeras korrekt första gången - och varje gång.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428192/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454905/?learn=on&captions=swe)
 
 ## Ämnen som omfattas
 

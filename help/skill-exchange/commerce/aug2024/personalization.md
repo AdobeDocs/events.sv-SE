@@ -26,4 +26,4 @@ Under den här sessionen kommer du att lära dig:
 * Bästa tillvägagångssätt för att utnyttja segmentering och dynamiskt innehåll i Adobe Commerce
 * Strategier för effektiv innehållshantering för att öka kundengagemanget
 
->[!VIDEO](https://video.tv.adobe.com/v/3433146/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456944/?learn=on&captions=swe)

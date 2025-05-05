@@ -26,4 +26,4 @@ Under den här sessionen kommer du att lära dig
 * Använd olika programtyper och automatiseringstekniker för att segmentera målgrupperna och smidigt överföra dem via interaktion, produktförsäljning och förnyelsefaser.
 * Skapa hyper-personaliserat innehåll med token på person- eller programnivå och Snabb skriptning
 
->[!VIDEO](https://video.tv.adobe.com/v/3432946/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456855/?learn=on&captions=swe)

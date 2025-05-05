@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Sessionen kommer att sammanfatta saker och ting genom att förstå hur Adobe Analytics spårar webbplatsdata och använder visualiseringar för att få ytterligare insikter.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425988/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456720/?learn=on&captions=swe)

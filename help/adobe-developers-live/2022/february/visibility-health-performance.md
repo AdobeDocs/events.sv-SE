@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Under den här sessionen får du lära dig mer om de verktyg som finns för att övervaka hälsa, säkerhet och kvalitet på Adobe Commerce-plattformen.
 
->[!VIDEO](https://video.tv.adobe.com/v/340624/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456866/?quality=12&learn=on&captions=swe)
