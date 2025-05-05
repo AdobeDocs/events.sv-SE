@@ -38,6 +38,6 @@ Exempelprojekt
 
 >[!WARNING]
 >
->AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar att du uppgraderar till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns på [sidan](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar att du uppgraderar till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=sv-SE).  Arkiverade versioner av dokumentationen finns på [sidan](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=sv-SE).
 >
 >Se *Distribuera Screens* och *Screens Concept* i dokumentationen till AEM 6.2, eftersom det gäller den här sessionen.

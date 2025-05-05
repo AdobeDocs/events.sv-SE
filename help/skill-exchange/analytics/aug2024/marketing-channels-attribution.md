@@ -25,7 +25,7 @@ I dagens snabba digitala marknadsföringslandskap är det oerhört viktigt att d
 * Introduktion till marknadsföringskanaler: Lär dig vikten av att identifiera och kategorisera olika marknadsföringskanaler för att förstå hur de påverkar er digitala närvaro.
 * Konfigurera Adobe Analytics: Få praktisk kunskap om hur du ställer in kampanjspårningskoder, hämtar in relevanta data och använder Adobe Launch för effektiv datainsamling.
 
-  Om du vill hämta det kodgenereringsverktyg för kampanjspårning som finns i den här sessionen går du till [Mastering Adobe Analytics-Marketing Channels &amp; Attribution](https://experienceleague.adobe.com/en/perspectives/mastering-adobe-analytics-marketing-channels-attribution) i Experience League Perspective.
+  Om du vill hämta det kodgenereringsverktyg för kampanjspårning som finns i den här sessionen går du till [Mastering Adobe Analytics-Marketing Channels &amp; Attribution](https://experienceleague.adobe.com/sv/perspectives/mastering-adobe-analytics-marketing-channels-attribution) i Experience League Perspective.
 
 * Klassificerings- och bearbetningsregler: Upptäck hur du använder klassificeringsregelbyggaren och konfigurerar regler för bearbetning av marknadsföringskanaler för exakt klassificering av trafikkälla.
 * Attributionsmodeller: Utforska olika attribueringsmodeller som finns i Adobe Analytics och hur ni använder dem för att mäta och optimera effektiviteten i era marknadsföringssatsningar.

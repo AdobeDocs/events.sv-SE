@@ -24,7 +24,7 @@ Lär dig allt om kärnkomponenterna och deras relaterade funktioner, om hur de f
 
 Gabriel Walt, Product Manager, Adobe
 
-[AEM kärnkomponentdokumentation](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
+[AEM kärnkomponentdokumentation](https://helpx.adobe.com/se/experience-manager/core-components/user-guide.html)
 
 AEM Gems - AEM Core Components - Date: 12/05/2018
 

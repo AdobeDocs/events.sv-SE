@@ -51,7 +51,7 @@ _Fråga en expert_ består av två sessioner:
 
 >[!TIP]
 >
->Om du inte har använt Commerce Intelligence tidigare får du en fullständig översikt i videoserien [Komma igång](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) som ger bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
+>Om du inte har använt Commerce Intelligence tidigare får du en fullständig översikt i videoserien [Komma igång](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html?lang=sv-SE) som ger bättre affärsinsikter och resultat genom datainsamling, analys och visualisering.
 
-- [Commerce Intelligence Introduktion](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-- [Commerce Intelligence Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+- [Commerce Intelligence Introduktion](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html?lang=sv-SE)
+- [Commerce Intelligence Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=sv-SE)

@@ -31,4 +31,4 @@ Under det här mötet utforskade vi:
 
 ## Ytterligare resurser
 
-[Real-Time CDP Collaboration-videor](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)
+[Real-Time CDP Collaboration-videor](https://experienceleague.adobe.com/sv/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)

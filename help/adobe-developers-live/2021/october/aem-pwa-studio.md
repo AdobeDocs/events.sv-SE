@@ -26,6 +26,6 @@ Adobe Experience Manager är en branschledande lösning för innehållshantering
 
 ## Ytterligare resurser
 
-- [Adobe Experience Manager-dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Adobe Experience Manager Cloud Service - översikt](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
-- [Adobe Experience Manager-självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
+- [Adobe Experience Manager-dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=sv-SE)
+- [Adobe Experience Manager Cloud Service - översikt](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=sv-SE)
+- [Adobe Experience Manager-självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=sv-SE)

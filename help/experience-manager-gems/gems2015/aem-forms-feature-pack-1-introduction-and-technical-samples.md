@@ -29,5 +29,5 @@ AEM [!DNL Forms] Feature Pack 1 är uppgraderingssökvägen för LiveCycle-distr
 
 [Hämta fil](assets/aem-forms-fp1-2015-0204.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/se/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

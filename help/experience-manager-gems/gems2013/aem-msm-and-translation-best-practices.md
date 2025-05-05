@@ -31,4 +31,4 @@ Läs mer om metodtips i Adobe Experience Manager-dokumentationen:
 
 * [Bästa praxis för hantering av flera webbplatser](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
 * [Bästa praxis för översättning](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
-* [Återgå till översikten](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Återgå till översikten](https://helpx.adobe.com/se/experience-manager/kt/eseminars/gems/aem-index.html)

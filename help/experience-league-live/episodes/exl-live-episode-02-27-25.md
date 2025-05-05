@@ -31,7 +31,7 @@ Under det här mötet utforskade vi:
 
 ## Ytterligare resurser
 
-[Översikt över AI-assistenten](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/overview)
+[Översikt över AI-assistenten](https://experienceleague.adobe.com/sv/docs/platform-learn/tutorials/ai-assistant/overview)
 
 [AI Assistant - säkerhetsfaktablad](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-ai-assistant-in-aep-security-fact-sheet.pdf)
 

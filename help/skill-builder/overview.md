@@ -26,7 +26,7 @@ SKill Builder är en webbinärserie som utformats för att bygga upp din kunskap
     <p>
     <em>Skapa och hantera en rad engagerande webbplatser, mobilappar och formulär. Lär dig även att skapa flerkanalsupplevelser för e-handel på en enda plattform med vår flexibla AI-baserade e-handelslösning.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html?lang=sv-SE" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bläddra bland sessioner </span>
     </a>
   </td>
@@ -38,7 +38,7 @@ SKill Builder är en webbinärserie som utformats för att bygga upp din kunskap
     <p>
     <em>Utveckla kundprofiler i realtid genom att hämta data från alla källor för att skapa personaliserade, kanalövergripande kundresor.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html?lang=sv-SE" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bläddra bland sessioner </span>
     </a>
   </td>
@@ -50,7 +50,7 @@ SKill Builder är en webbinärserie som utformats för att bygga upp din kunskap
     <p>
     <em>Driv personalisering i realtid i valfri kanal med hjälp av insikter om online- och offlinedata i hela organisationen.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html?lang=sv-SE" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bläddra bland sessioner </span>
     </a>
   </td>  

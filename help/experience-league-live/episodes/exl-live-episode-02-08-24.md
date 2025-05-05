@@ -51,11 +51,11 @@ Ett exempel på ett användningsfall som diskuteras under den här sessionen är
 
 ## Ytterligare resurser
 
-* **[Använd fallspelningsböcker - översikt](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
+* **[Använd fallspelningsböcker - översikt](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html?lang=sv-SE){target="_blank"}**
   *Använd fallspelningsböcker kan hjälpa dig att lösa problemet när du börjar med Real-Time CDP eller Adobe Journey Optimizer när du kanske inte vet exakt vad du ska börja med eller hur du skapar rätt resurser för att uppnå dina önskade användningsfall.*
 
-* **[Komma igång med Använd fallspelningsböcker](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html){target="_blank"}**
+* **[Komma igång med Använd fallspelningsböcker](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=sv-SE){target="_blank"}**
   *Lär dig hur du konfigurerar ditt konto för Använd fallspelningsböcker, som har utformats för Real-time Customer Data Platform och Adobe Journey Optimizer.*
 
-* **[Tillgängliga fallspelböcker](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html){target="_blank"}**
+* **[Tillgängliga fallspelböcker](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html?lang=sv-SE){target="_blank"}**
   *Läs den här sidan för att få en översikt över alla tillgängliga spelböcker som du kan identifiera och använda i Real-time Customer Data Platform och Adobe Journey Optimizer.*

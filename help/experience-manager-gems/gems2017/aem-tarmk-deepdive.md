@@ -30,5 +30,5 @@ Frågor och svar
 
 [Hämta fil](assets/aem-gems-qandas-tarmk-deep-dive.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/se/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

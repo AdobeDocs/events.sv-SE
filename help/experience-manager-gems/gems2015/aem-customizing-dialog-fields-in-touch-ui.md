@@ -34,5 +34,5 @@ Under den här sessionen kommer vi att förklara hur du implementerar anpassade 
 
 [Hämta fil](assets/aem-gems-customizing-touch-ui-dialog-fields.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/se/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

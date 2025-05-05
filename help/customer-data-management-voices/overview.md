@@ -101,22 +101,22 @@ Välkommen till Customer Data Management Voices som är er målgrupp för hanter
         <br/>
    </td> 
    <td>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=sv-SE">
       <img alt="10 saker att tänka på när det gäller ansvarstagande kunddatahantering" src="./assets/ten-considerations-for-responsible-customer-data-management.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>10 saker att tänka på vid hantering av kunddata</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=sv-SE"><strong>10 saker att tänka på vid hantering av kunddata</strong></a>
          <br/>
       </div>
       <p>
         <br/>
     </td>
     <td>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=sv-SE">
       <img alt="Öka markörens roll som en dataförvaltare" src="./assets/elevating-the-marketers-role-as-a-data-steward.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>Utökar marknadsförarens roll som en dataförvaltare</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=sv-SE"><strong>Utökar marknadsförarens roll som en dataförvaltare</strong></a>
          <br/>
       </div>
       <p>

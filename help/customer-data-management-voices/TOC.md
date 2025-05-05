@@ -21,8 +21,8 @@ ht-degree: 0%
    + [Skapa bättre upplevelser med kundprofiler](cdm/building-better-experiences-with-customer-profiles.md)
    + [Hur marknadsföringsteamen förbättrar datahanteringsstrategier](cdm/how-marketing-teams-are-improving-data-management-strategies.md)
 + Styrning av målgrupps- och profildata och sekretess {#governance}
-   + [10 saker att tänka på vid hantering av kunddata](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
-   + [Utökar marknadsförarens roll som en dataförvaltare](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
+   + [10 saker att tänka på vid hantering av kunddata](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=sv-SE)
+   + [Utökar marknadsförarens roll som en dataförvaltare](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=sv-SE)
    + [Målgruppsprofildatastyrning och sekretess](governance/healthcare-shield.md)
 + Branschdiskussioner {#industry}
    + [Bygg fantastiska upplevelser med era egna data](industry/build-superb-experiences-with-your-first-party-data.md)

@@ -19,11 +19,11 @@ Skapa och hantera en rad engagerande webbplatser, mobilappar och formulär. Lär
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=sv-SE">
       <img alt="Leverera Headless-upplevelser med Adobe Experience Manager" src="https://video.tv.adobe.com/v/343816?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=sv-SE">
         <strong> Leverera Headless-upplevelser med Adobe Experience Manager </strong>
       </a>
     </div>
@@ -32,11 +32,11 @@ Skapa och hantera en rad engagerande webbplatser, mobilappar och formulär. Lär
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html?lang=sv-SE">
       <img alt="Få Metadata att fungera i Adobe Experience Manager Assets" src="https://video.tv.adobe.com/v/343815?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html?lang=sv-SE">
         <strong>Låt metadata fungera i Adobe Experience Manager Assets</strong>
       </a>
     </div>
@@ -45,11 +45,11 @@ Skapa och hantera en rad engagerande webbplatser, mobilappar och formulär. Lär
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html?lang=sv-SE">
       <img alt="Få ut det mesta av Enterprise Workflow Management" src="https://video.tv.adobe.com/v/343817?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html?lang=sv-SE">
         <strong> Få ut det mesta av Enterprise Workflow Management </strong>
       </a>
     </div>

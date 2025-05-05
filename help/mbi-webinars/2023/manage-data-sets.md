@@ -33,5 +33,5 @@ Under det här inspelade webbinariet får du lära dig att beräkna avkastningen
 
 ## Användbara resurser
 
-[En rundtur i Data Warehouse Manager](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
-[Koppla samman data](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)
+[En rundtur i Data Warehouse Manager](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html?lang=sv-SE)
+[Koppla samman data](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html?lang=sv-SE)

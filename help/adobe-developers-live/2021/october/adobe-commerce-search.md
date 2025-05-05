@@ -24,6 +24,6 @@ En av de viktigaste delarna på en e-handelsplats är möjligheten att söka eft
 
 ## Ytterligare resurser
 
-- [Adobe Experience Platform-dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html)
-- [Adobe Experience Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+- [Adobe Experience Platform-dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=sv-SE)
+- [Adobe Experience Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=sv-SE)
 - [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=sv)

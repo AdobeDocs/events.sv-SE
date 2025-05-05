@@ -25,6 +25,6 @@ I det här on-demand-webbinariet Jace Newbold, Manager of Consulting på Workfro
 * Vad alla administratörer bör göra idag för att skapa sig själva (och framtida administratörer) för framgång
 * En nedladdningsbar checklista med frågor, resurser och länkar som hjälper dig genom processen att granska och dokumentera din instans
 
-Se även till att du checkar ut listan Ärvda instanskontroller och utkast: https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
+Se även till att du checkar ut listan Ärvda instanskontroller och utkast: https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431014/?learn=on)

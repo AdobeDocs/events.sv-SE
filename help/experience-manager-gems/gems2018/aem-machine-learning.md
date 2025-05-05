@@ -29,10 +29,10 @@ Jonas Dahl, Product Manager, Adobe
 
 ## Resurser {#resources}
 
-[Förbättrade smarta taggar - AEM Assets](https://helpx.adobe.com/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
+[Förbättrade smarta taggar - AEM Assets](https://helpx.adobe.com/se/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/se/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
 >[!MORELIKETHIS]

@@ -36,10 +36,10 @@ AEM
 
 >[!WARNING]
 >
->AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar att du uppgraderar till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns på [sidan](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar att du uppgraderar till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=sv-SE).  Arkiverade versioner av dokumentationen finns på [sidan](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=sv-SE).
 >
 >Se *Querybuilder API* i AEM.
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/se/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

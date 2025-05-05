@@ -30,23 +30,23 @@ Se årets första Marketo &amp; Mochas-session med våra Marketo Engage-experter
    * [5 funktioner att känna till 2025](../assets/marketo-&-mochas-5-features-handout.pdf)
 
 * **Hantering av målkonto**
-   * [Översikt](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
+   * [Översikt](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
    * [Vanliga frågor och svar ](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
    * [Video om tips och tricks](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
 
 * **Predictive Audiences**
-   * [Översikt](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
+   * [Översikt](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
    * [Användningsexempel](https://nation.marketo.com/t5/product-blogs/using-predictive-audiences-in-marketo-engage/ba-p/301937)
 
 * **Avancerad reseanalys**
-   * [Rapporteringsöversikt](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
-   * [LiveStyle Modeler - översikt](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
+   * [Rapporteringsöversikt](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
+   * [LiveStyle Modeler - översikt](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
 
 * **Sandbox**
-   * [Översikt](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
+   * [Översikt](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
 
 * **Arbetsytor och partitioner**
-   * [Översikt](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
+   * [Översikt](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
 
 ## Viktiga uppgifter
 

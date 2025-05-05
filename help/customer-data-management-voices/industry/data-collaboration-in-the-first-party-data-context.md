@@ -31,8 +31,8 @@ Leverera på löftet om upplevelsen, med tillgång till färre data. Vare sig du
 
 ## Ytterligare information
 
-[Översikt över segmentmatchning](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)
+[Översikt över segmentmatchning](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=sv-SE)
 
-[Audience Marketplace för datainköpare](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
+[Audience Marketplace för datainköpare](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=sv-SE)
 
-[Personbaserade mål](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=en)
+[Personbaserade mål](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=sv-SE)

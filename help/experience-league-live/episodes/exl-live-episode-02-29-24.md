@@ -46,9 +46,9 @@ Det nya webbgränssnittet i Campaign är viktigt eftersom det ger en enhetlig oc
 
 ## Ytterligare resurser
 
-* **[Webbanvändargränssnitt för kampanj - nyckelfunktioner](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html){target="_blank"}**
+* **[Webbanvändargränssnitt för kampanj - nyckelfunktioner](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=sv-SE){target="_blank"}**
   *Detaljerad dokumentation om vad som är tillgängligt i Adobe Campaign webbgränssnitt.*
 
-* **[Adobe Campaign webbanvändargränssnitt - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
+* **[Adobe Campaign webbanvändargränssnitt - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=sv-SE){target="_blank"}**
   *Så här gör du för att se videofilmer och självstudiekurser om Adobe Campaign webbanvändargränssnitt.*
 

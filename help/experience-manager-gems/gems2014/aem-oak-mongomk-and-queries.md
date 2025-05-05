@@ -38,5 +38,5 @@ Läs mer om frågemotorn i Oak och jämför med Jackrabbit 2.x. Sessionen inneh�
 [Oak-dokumentation](https://jackrabbit.apache.org/oak/docs/)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/se/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

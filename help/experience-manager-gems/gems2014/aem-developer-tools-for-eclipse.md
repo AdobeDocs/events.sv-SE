@@ -30,9 +30,9 @@ Stefan Egli, Developer, Adobe
 
 ## Relaterade länkar {#related-links}
 
-* [AEM Utvecklarverktyg för Eclipse - dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/eclipse.html)
+* [AEM Utvecklarverktyg för Eclipse - dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/eclipse.html?lang=sv-SE)
 * [Sling IDE Tooling](https://sling.apache.org/documentation/development/ide-tooling.html)
 * [Forum för diskussioner och frågor](https://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)
 * [Rapportering och spårning av problem](https://github.com/Adobe-Marketing-Cloud/aem-eclipse-developer-tools/issues)
 * [Hobbes.js: UI Testing Framework](https://docs.adobe.com/docs/en/aem/6-0/develop/components/hobbes.html)
-* [Återgå till översikten](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Återgå till översikten](https://helpx.adobe.com/se/experience-manager/kt/eseminars/gems/aem-index.html)

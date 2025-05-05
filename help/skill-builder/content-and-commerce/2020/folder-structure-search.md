@@ -31,13 +31,13 @@ Grunderna för att konfigurera och använda din DAM.
 
 ## Resurser
 
-* [AEM Assets Användarhandbok](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html)
-* [Konfigurera mappstrukturen för AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
-* [Konfigurera behörigheter för AEM Assets-mappar](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html)
-* [Använd samlingar för att ordna och dela resurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
-* [Hitta visuellt liknande resurser med maskininlärning](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [Få exakta och korrekta sökresultat med dynamiska sökfaktorer](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [Avancerad syntax för fulltextsökning](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
+* [AEM Assets Användarhandbok](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=sv-SE)
+* [Konfigurera mappstrukturen för AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html?lang=sv-SE)
+* [Konfigurera behörigheter för AEM Assets-mappar](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=sv-SE)
+* [Använd samlingar för att ordna och dela resurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html?lang=sv-SE)
+* [Hitta visuellt liknande resurser med maskininlärning](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=sv-SE)
+* [Få exakta och korrekta sökresultat med dynamiska sökfaktorer](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=sv-SE)
+* [Avancerad syntax för fulltextsökning](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=sv-SE#using)
 
 ## Serieinspelningar
 

@@ -31,5 +31,5 @@ Sessionen visar även möjligheten att konfigurera uppgiftsytan, mallar för anp
 Varun Nagpal, Computer Scientist, Adobe
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/se/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

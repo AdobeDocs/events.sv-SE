@@ -33,12 +33,12 @@ Timothee Maret, Senior Developer, Adobe
 
 >[!WARNING]
 >
->AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar att du uppgraderar till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns på [sidan](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar att du uppgraderar till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=sv-SE).  Arkiverade versioner av dokumentationen finns på [sidan](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=sv-SE).
 >
 >Se *Användarsynkronisering* i AEM.
 
 * [Distribution av innehåll för Apache Sling](https://sling.apache.org/documentation/bundles/content-distribution.html)
-* [Återgå till översikten](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Återgå till översikten](https://helpx.adobe.com/se/experience-manager/kt/eseminars/gems/aem-index.html)
 
 >[!MORELIKETHIS]
 >

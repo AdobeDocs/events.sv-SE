@@ -30,5 +30,5 @@ Cristine och Mathias kommer att presentera förbättrade funktioner för övers�
 [Hämta fil](assets/09302015-aem-gems-translation-integration-and-best-practices.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/se/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

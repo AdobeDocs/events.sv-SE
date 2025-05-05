@@ -36,6 +36,6 @@ Chat expert,
 
 >[!WARNING]
 >
->AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar att du uppgraderar till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns på [sidan](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar att du uppgraderar till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=sv-SE).  Arkiverade versioner av dokumentationen finns på [sidan](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=sv-SE).
 >
 >Se *Sidmallar* och *Skapa sidmallar* i dokumentationen för AEM 6.2, beroende på vad som gäller för den här sessionen.

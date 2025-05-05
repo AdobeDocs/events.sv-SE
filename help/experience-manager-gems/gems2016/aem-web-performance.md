@@ -32,7 +32,7 @@ Att leverera komplexa webbupplevelser snabbt är en utmaning. I det här samtale
 
 >[!WARNING]
 >
->AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar att du uppgraderar till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Arkiverade versioner av dokumentationen finns på [sidan](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM version 6.4 och äldre är End of Life och säljs inte längre av Adobe.  Adobe rekommenderar att du uppgraderar till den senaste versionen - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=sv-SE).  Arkiverade versioner av dokumentationen finns på [sidan](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=sv-SE).
 
 Apache:\
 [https://httpd.apache.org/docs/trunk/mod/mod_http2.html](https://httpd.apache.org/docs/trunk/mod/mod_http2.html)
@@ -42,7 +42,7 @@ Webbstandarder:\
 [https://www.w3.org/TR/resource-hints/](https://www.w3.org/TR/resource-hints/)
 
 AEM:\
-[https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html)
+[https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html?lang=sv-SE](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html?lang=sv-SE)
 
 AEM:\
 [https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components](https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components)\
@@ -60,5 +60,5 @@ Profilerare:\
 [https://visualvm.java.net/](https://docs.oracle.com/javase/8/docs/technotes/guides/visualvm/intro.html)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/se/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

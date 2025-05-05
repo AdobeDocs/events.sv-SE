@@ -28,5 +28,5 @@ Föreställ dig att du kan ställa upp en communitysajt på några timmar istäl
 
 [Hämta fil](assets/aem-6-1-communities-gems.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/se/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

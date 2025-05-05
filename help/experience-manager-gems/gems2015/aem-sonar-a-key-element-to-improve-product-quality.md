@@ -31,4 +31,4 @@ Under detta möte kommer David att diskutera
 **Presentationsbilder**
 
 [Hämta fil](assets/cq-gems-on-aem-sonarqube-2015-02.pdf)
-[Återgå till Översikt](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Återgå till Översikt](https://helpx.adobe.com/se/experience-manager/kt/eseminars/gems/aem-index.html)

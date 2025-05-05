@@ -26,5 +26,5 @@ Från enhetstestning till integrationstestning av Experience Manager-applikation
 
 [Hämta fil](assets/aem-gems-tools-for-testing-12-14-16.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/se/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

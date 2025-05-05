@@ -31,12 +31,12 @@ Konfigurera en tydlig strategi för att optimera upptäckbarheten.
 
 ## Resurser
 
-*[Använd metadatamodeller för att hantera metadata för resurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html)
-*[Utöka metadatamatcheman](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html)
-*[Optimera redigering av metadata med överlappande metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html)
-*[Tillämpa automatiskt metadata på resurser med Metadataprofiler](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html)
-*[AEM-metadatascheman](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
-*[Hantera resursmetadata](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=en#RegisteringacustomnamespacewithinAEM)
+*[Använd metadatamodeller för att hantera metadata för resurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html?lang=sv-SE)
+*[Utöka metadatamatcheman](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html?lang=sv-SE)
+*[Optimera redigering av metadata med överlappande metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html?lang=sv-SE)
+*[Tillämpa automatiskt metadata på resurser med Metadataprofiler](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html?lang=sv-SE)
+*[AEM-metadatascheman](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=sv-SE#administer)
+*[Hantera resursmetadata](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=sv-SE#RegisteringacustomnamespacewithinAEM)
 
 ## Serieinspelningar
 

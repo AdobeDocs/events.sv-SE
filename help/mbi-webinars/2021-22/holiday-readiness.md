@@ -41,4 +41,4 @@ Använd era e-handelsdata för att lyckas under helgen. Det här webbinariet bel
 ## Användbara resurser
 
 [Commerce Intelligence Användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=sv)
-[Commerce Intelligence Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Commerce Intelligence Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=sv-SE)

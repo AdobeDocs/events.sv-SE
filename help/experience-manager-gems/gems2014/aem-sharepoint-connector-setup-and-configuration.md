@@ -33,5 +33,5 @@ Tarun Aggarwal, Lead Software Engineer, Adobe
 
 [Hämta fil](assets/cq-gems-sharepoint-connector.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/se/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

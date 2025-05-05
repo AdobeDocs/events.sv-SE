@@ -31,10 +31,10 @@ Asset Link är din inbyggda anslutning till Adobe Creative Cloud.
 
 ## Resurser
 
-* [Adobe Asset Link-videor](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html)
-* [Resurslänk för Adobe XD](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
-* [Konfigurera AEM Assets 6.5 och 6.4 för Adobe Asset Link](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
-* [Konfigurera AEM as a Cloud Service för Adobe Asset Link](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
+* [Adobe Asset Link-videor](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html?lang=sv-SE)
+* [Resurslänk för Adobe XD](https://helpx.adobe.com/se/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
+* [Konfigurera AEM Assets 6.5 och 6.4 för Adobe Asset Link](https://helpx.adobe.com/se/enterprise/using/configure-aem-assets-6-for-asset-link.html)
+* [Konfigurera AEM as a Cloud Service för Adobe Asset Link](https://helpx.adobe.com/se/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
 
 ## Serieinspelningar
 

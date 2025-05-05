@@ -36,12 +36,12 @@ Presenteras av: Patrick Fauchere, Engineering Manager, Adobe
 
 ## Relaterade länkar {#related-links}
 
-[Veckoslut, självstudiekurs](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
+[Veckoslut, självstudiekurs](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=sv-SE)
 
-[Dokumentation](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
+[Dokumentation](https://helpx.adobe.com/se/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
 [Exempel - vår detaljhandelsjournal](https://github.com/adobe/aem-sample-we-retail-journal)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/se/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

@@ -29,5 +29,5 @@ Datum: 19 september 2018
 [Hämta fil](assets/gems-session-introduction-to-contexthub-in-aem-64.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/se/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
