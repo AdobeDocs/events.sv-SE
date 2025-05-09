@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Samling med inspelningar från  [!DNL Experience Makers Learn from your peers]
-source-git-commit: b93f940bfbd028349af2df86992a9e0655b7480d
+source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 2%
+source-wordcount: '326'
+ht-degree: 10%
 
 ---
 
@@ -13,11 +13,11 @@ ht-degree: 2%
 # [!DNL Experience Makers - Learn from your peers] {#learn-from-your-peers-recordings}
 
 + [Upplevelsemakare](overview.md)
-+ Analyser {#analytics}
++ Analytics  {#analytics}
    + 2023 {#2023}
       + November {#nov2023}
          + [Effektiv datavisualiseringar](analytics/nov2023/impactful-data-visualizations.md)
-      + Augusti {#aug2023}
+      + augusti {#aug2023}
          + [Frigöra kraften i Bearbetningsregler i Adobe Analytics](analytics/aug2023/processing-rules.md)
       + Februari {#feb2023}
          + [Bygga en datadriven kultur](analytics/feb2023/data-driven-culture.md)
@@ -26,7 +26,7 @@ ht-degree: 2%
       + November {#nov2022}
          + [Tips och tricks](analytics/nov2022/tips-and-tricks.md)
          + [Champion Tips and Tricks - uppföljningsfrågor och svar](analytics/nov2022/tips-and-tricks-q-and-a.md)
-      + Augusti {#aug2022}
+      + augusti {#aug2022}
          + [Datakvalitet och acceptans](analytics/aug2022/data-quality.md)
       + Juni {#jun2022}
          + [Dokumentationsuppdrag möjligt](analytics/june2022/mission-possible.md)
@@ -36,15 +36,19 @@ ht-degree: 2%
    + Februari {#feb2024}
       + [Kommunikation, krav och testning i Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
+   + Juli {#jul2024}
+      + [Låsning lyckades vid skalning](experience-manager/july2024/global-digital-presence.md)
    + November {#nov2023}
       + [Developer Excellence med AEM Core Components](experience-manager/nov2023/core-components.md)
    + September {#sept2023}
       + [En djupdykning i verktygen för AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
    + Juli {#july2023}
       + [Effektiva säkerhetsstrategier i Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
-   + maj{#may2023}
+   + Maj {#may2023}
       + [Mastering av innehålls- och upplevelsefragment](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
+   + Maj 2025 {#may2025}
+      + [Upptäck effekten av interaktiva webbinarier](marketo/may2025/interactive-webinars.md)
    + November 2024 {#nov2024}
       + [Avancerade segmenteringsgranskningar](marketo/nov2024/advanced-segmentation.md)
    + September 2024 {#sept2024}
@@ -79,7 +83,7 @@ ht-degree: 2%
          + [Kommunicera med slutanvändare](workfront/2023/07/communicating-with-end-users.md)
       + Juni {#june}
          + [Skapa ett högklassigt Workfront-center](workfront/2023/06/establishing-a-workfront-center-of-excellence.md)
-      + maj{#may}
+      + Maj {#may}
          + [Foundations of project templates](workfront/2023/05/foundations-of-project-templates.md)
       + April {#april}
          + [öka effektiviteten i Workfront automatisering](workfront/2023/04/finding-efficiencies-in-workfront-automation.md)
@@ -92,17 +96,17 @@ ht-degree: 2%
          + [Navigera i ändringshanteringen i Workfront](workfront/2022/12/navigating-change-management.md)
       + November {#november}
          + [Användaren har anammats](workfront/2022/11/successful-end-user-adoption.md)
-      + Oktober {#october}
+      + oktober {#october}
          + [Arbetsflöde och processdesign](workfront/2022/10/workflow-and-process-design.md)
       + September {#september}
          + [Komma igång med resurshantering](workfront/2022/09/getting-started-with-resource-management.md)
-      + Augusti {#august}
+      + augusti {#august}
          + [Systemunderhåll och -rensning](workfront/2022/08/system-maintenance-and-cleanup.md)
       + Juli {#july}
          + [Allt om begärandeköer](workfront/2022/07/all-about-request-queues.md)
       + Juni {#june}
          + [Grunderna för driftsrapportering](workfront/2022/06/foundations-of-operational-reporting.md)
-      + maj{#may}
+      + Maj {#may}
          + [Utnyttja gruppadministratören](workfront/2022/05/leveraging-the-group-admin.md)
       + April {#april}
          + [Designa en perfekt användarupplevelse](workfront/2022/04/designing-an-ideal-user-experience.md)

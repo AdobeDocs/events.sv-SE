@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success-led webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe lösningar.
-source-git-commit: b0f07b52c50ea008e8d0569ef7c8687a9e806f72
+source-git-commit: 26c495842dbfdc6db8b81fd61ed84a3e3593b396
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,10 @@ ht-degree: 0%
 + [Adobe Customer Success Webinars](overview.md)
 + 2025 {#2025}
    + [Adobe Digital Insights](2025/adobe-digital-insights.md)
+   + [AEM med GenAI](2025/aem-genai.md)
    + [Integrering med AEM och Workfront](2025/aem-workfront-integration.md)
+   + [AI och Adobe Target](2025/ai-adobe-target.md)
+   + [Best Practices and Insights for Modeling XDM Schemas](2025/model-xdm-schemas.md)
    + [Bygga effektiva webbsidor](2025/build-effective-web-pages.md)
    + [Grundläggande om innehållsleveranskedjan](2025/content-supply-chain-basics.md)
    + [Skapa strategier för effektiv mätning](2025/impactful-insights.md)
@@ -26,8 +29,11 @@ ht-degree: 0%
    + [Förbättra Personalization](2025/enhancing-personalization.md)
    + [GenAI-experiment](2025/gen-ai-experimentation.md)
    + [GenStudio for Performance Marketing-operativmodell](2025/genstudio-for-performance-marketing-operating-model.md)
-   + [Mastering Sequential Logic](2025/mastering-sequential-logic.md)
+   + [Mastering Sequential Logic - Visual Framework](2025/mastering-sequential-logic.md)
+   + [Mastering av sekventiell logik - startstopp](2025/sequential-logic-start-stop.md)
    + [Optimera AEM-prestanda](2025/optimize-aem-performance.md)
+   + [Vinnande Executive Sponsorship for AEP Projects](2025/exec-sponsorship-aep-projects.md)
+   + [Workfront Fusion Basics &amp; Best Practices](2025/adobe-workfront-fusion-best-practices.md)
    + [Smartare marknadsföring börjar här - integrering av Google och Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)

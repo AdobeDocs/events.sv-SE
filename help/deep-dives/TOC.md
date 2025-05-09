@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: e1d87cd15d45ea0c9ea94bfe8063e7a5ace97214
+source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '89'
 ht-degree: 2%
 
 ---
@@ -36,5 +36,6 @@ ht-degree: 2%
    + [Maximera e-postleveransen](maximize-email-deliverability.md)
    + [Maximera instansen med ett litet team](small-team-instance.md)
    + [Notera komplexa processer i aktivitetsloggen](activity-log.md)
+   + [Salesforce bakgrundssynkronisering - uppgradering och användningsövervakning](salesforce-background-sync.md)
    + [Låser upp global marknadsföring](global-marketing.md)
    + [Överför data med hjälp av webbhooks](webhooks.md)
