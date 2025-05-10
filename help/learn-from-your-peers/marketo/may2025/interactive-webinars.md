@@ -39,5 +39,5 @@ Adobe Marketo Engage Champion Maria Cruz har utnyttjat Interactive Webinars på 
 
 * Gå med i [diskussionstråden](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260) i Marketing Nation Community, där frågor och svar publiceras.
 * [Läs mer om funktionerna i GenAI i interaktiva webbinarier](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
-* [Grunderna i interaktiva webbinarier](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
-* [Lär dig använda interaktiva webbinarier (omröstningar, frågor och svar, CTA:er)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
+* [Grunderna i interaktiva webbinarier](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [Lär dig använda interaktiva webbinarier (omröstningar, frågor och svar, CTA:er)](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
