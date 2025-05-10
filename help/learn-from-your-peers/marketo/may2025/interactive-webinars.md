@@ -9,13 +9,13 @@ doc-type: Event
 duration: 2559
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18062
-source-git-commit: a12db1c83c836f71c5b0dfe8649596eaf7b90065
+exl-id: 896d90d0-5db1-4c10-88ea-88562929c31d
+source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
-
 
 # Revolutionerar din webbinariupplevelse: Upptäck effekten av interaktiva webbinarier
 
@@ -34,3 +34,10 @@ Adobe Marketo Engage Champion Maria Cruz har utnyttjat Interactive Webinars på 
 * **Automatiska processer sparar tid** Övergången till interaktiva webbinarier möjliggör automatisering av processer som leaddirigering, säljaviseringar och uppföljningar, vilket minskar den manuella ansträngningen och snabbar upp arbetsflödena.
 
 * **Skapa repeterbara spelböcker** Genom att skapa en repeterbar spelbok baserad på insikter och inlärningar från webbinarier kan du tryggt skala satsningarna och förbättra framtida webbinaristrategier.
+
+## Ytterligare resurser
+
+* Gå med i [diskussionstråden](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260) i Marketing Nation Community, där frågor och svar publiceras.
+* [Läs mer om funktionerna i GenAI i interaktiva webbinarier](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
+* [Grunderna i interaktiva webbinarier](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [Lär dig använda interaktiva webbinarier (omröstningar, frågor och svar, CTA:er)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
