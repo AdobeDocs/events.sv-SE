@@ -9,9 +9,9 @@ duration: 2971
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18065
 exl-id: d8814206-7a6d-42a5-845f-232839f9a05c
-source-git-commit: 59fbdc672cf8faee7d18d0922eb90268e7202490
+source-git-commit: db8e0b36dff5abf5665e3a75e9dcda4f9a84e044
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Upptäck hur AEM Forms kan hjälpa företag inom finanssektorn att leverera pers
    * Personlig bearbetning är 42 gånger mer kostsam än digital.
    * Att introducera en kund i verkligheten kostar 55 USD mer än online.
 
-* **AEM Forms Capabilities** AEM Forms är en totallösning som driver driftseffektivitet och enastående användarupplevelser. Viktiga funktioner är flerkanalsformulär, automatiserade arbetsflöden, skräddarsydd kundkommunikation och integrering med Adobe Experience Cloud och AEM Sights. Med dessa funktioner kan man minska avhoppsningen av blanketter med 63 %, öka sin självbetjäning med 113 % och snabba upp ifyllandet av blanketter med 58 %.
+* **AEM Forms Capabilities** AEM Forms är en totallösning som driver driftseffektivitet och enastående användarupplevelser. Viktiga funktioner är flerkanalsblanketter, automatiserade arbetsflöden, skräddarsydd kundkommunikation och integrering med Adobe Experience Cloud ekosystem. Med dessa funktioner kan man minska avhoppsningen av blanketter med 63 %, öka sin självbetjäning med 113 % och snabba upp ifyllandet av blanketter med 58 %.
 
 * **Nyheter i formulärdesign** Introduktionen av en molnbaserad designer förenklar formulärskapandet med dra-och-släpp-funktioner, fragment för återanvändbart innehåll och integrering med datamodeller. Det här moderniserade verktyget minskar beroendet av IT-avdelningen och möjliggör snabbare uppdateringar, vilket löser problemet med åtta veckors handläggningstid för formulärändringar i vissa organisationer.
 
