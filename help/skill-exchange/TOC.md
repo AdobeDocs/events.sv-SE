@@ -3,10 +3,10 @@ user-guide-title: Kunskapsutbyte
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Samling av inspelningar från Experience Makers Kunskapsutbyte
 event-series: The Skill Exchange
-source-git-commit: e3f251f2b3030f4d9fdf072aee05be25f06d89b4
+source-git-commit: 974518ee6e9955f64cfbbd1ac0b4d45a5bf1aebe
 workflow-type: tm+mt
-source-wordcount: '663'
-ht-degree: 4%
+source-wordcount: '659'
+ht-degree: 8%
 
 ---
 
@@ -15,14 +15,14 @@ ht-degree: 4%
 
 + [Översikt](overview.md)
 + Adobe Commerce {#commerce}
-   + aug 2024 {#aug2024}
+   + Aug 2024 {#aug2024}
       + [Öppnar inledningsanförandet](commerce/aug2024/keynote.md)
       + [Öka Adobe Commerce prestanda](commerce/aug2024/commerce-performance.md)
       + [Effektiv utbyggbarhet](commerce/aug2024/extensibility.md)
       + [Maximera SEO i hela migreringsarbetsflöden](commerce/aug2024/seo-migration-workflows.md)
       + [Personalisera kundupplevelsen](commerce/aug2024/personalization.md)
-+ Analyser {#analytics}
-   + aug 2024 {#aug2024}
++ Analytics  {#analytics}
+   + Aug 2024 {#aug2024}
       + [Öppnar inledningsanförandet](analytics/aug2024/keynote.md)
       + [Varningar och anteckningar](analytics/aug2024/alerts-annotations.md)
       + [Experience Makers Spotlight](analytics/aug2024/spotlight-reporting-analysis.md)
@@ -32,7 +32,7 @@ ht-degree: 4%
       + [Identifiera värdefulla insikter](analytics/aug2024/uncover-valuable-insights.md)
       + [Använda beräknade värden](analytics/aug2024/calculated-metrics.md)
       + [Visualiseringar med Analysis Workspace](analytics/aug2024/spotlight-visualizations.md)
-   + aug 2023 {#aug2023}
+   + Aug 2023 {#aug2023}
       + [Alla Om segment](analytics/aug2023/spotlight-segments.md)
       + [Analysera data](analytics/aug2023/analyze-the-data.md)
       + [Utbilda den tillfälliga arbetsytans användare](analytics/aug2023/spotlight-workspace-user.md)
@@ -84,7 +84,7 @@ ht-degree: 4%
       + [Adobe Analytics Tips &amp; Tricks](analytics/sept2021/tips-and-tricks.md)
       + [Analyserar data](analytics/sept2021/analyze-data.md)
       + [Komma igång](analytics/sept2021/getting-started.md)
-      + [Navigera SPA utmaningar i testbyggen och analyser](analytics/sept2021/navigate-spa.md)
+      + [Navigera i SPA-utmaningar i Test Builds &amp; Analysis](analytics/sept2021/navigate-spa.md)
       + [Sammanställ allt](analytics/sept2021/putting-all-together.md)
    + Juni 2021 {#jun2021}
       + [Adobe Analytics Tips &amp; Tricks](analytics/jun2021/tips-and-tricks.md)
@@ -97,28 +97,28 @@ ht-degree: 4%
    + Augusti 2024 {#aug2024}
       + [Öppnar inledningsanförandet](aem/aug2024/keynote.md)
       + [AEM Sites med Universal Editor](aem/aug2024/universal-editor.md)
-      + [Enhetliga upplevelser med AEM anpassning och styrning](aem/aug2024/customize-elements.md)
+      + [Enhetliga upplevelser med AEM Customization and Governance](aem/aug2024/customize-elements.md)
       + [Strategier för hantering av digitala resurser](aem/aug2024/spotlight-dam-strategies.md)
       + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
       + [Förbättra innehållsförsörjningskedjan](aem/aug2024/spotlight-content-supply-chain.md)
-      + [Mallar för Headless och SPA Editor](aem/aug2024/headless-spa-editor.md)
+      + [Huvudheadless och SPA Editor Approves](aem/aug2024/headless-spa-editor.md)
       + [Metadata, innehållsstruktur och taxonomi](aem/aug2024/dam-performance.md)
-      + [Print Production](aem/aug2024/print-production.md)
+      + [Tryckproduktion](aem/aug2024/print-production.md)
    + Augusti 2023 {#aug2023}
-      + Utvecklarspår {#developer-track}
+      + Developer Track {#developer-track}
          + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
          + [Bygga ett effektivt och skalbart stilsystem](aem/aug2023/scalable-style-system.md)
          + [Migrera till AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
          + [Personaliserade e-postmeddelanden](aem/aug2023/personalized-marketing-emails.md)
-      + Webbspår {#webtrack}
+      + Web Track {#webtrack}
          + [Komma igång med AEM Assets](aem/aug2023/getting-started-aem-assets.md)
          + [Utnyttja ett samarbetsbaserat resurshanteringssystem](aem/aug2023/collaborative-dam.md)
          + [Skala för AI-beredskap](aem/aug2023/metadata.md)
          + [Strålkastare](aem/aug2023/spotlight.md)
    + Augusti 2022 {#aug2022}
-      + Utvecklarspår {#developer-track}
+      + Developer Track {#developer-track}
          + [Experience Makers Spotlight](aem/aug2022/spotlight.md)
-         + [AEM Champion Session Multi tenancy](aem/aug2022/multi-tenancy.md)
+         + [AEM Champion Session Multi Tenancy](aem/aug2022/multi-tenancy.md)
          + [AEM Core Components &amp; Style Systems](aem/aug2022/core-components.md)
          + [Utöka AEM Headless med App Builder](aem/aug2022/app-builder.md)
       + Marketer/webbproducent {#marketer}
@@ -157,7 +157,7 @@ ht-degree: 4%
       + [Skapar program i Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
       + [Styrkan hos en smart kampanj](marketo/feb2021/power-of-smart-campaign.md)
       + [Rapporterar inom  [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
-      + [Ultimata tips och tricks för din Forms](marketo/feb2021/forms-tips-and-tricks.md)
+      + [Ultimate tips och tricks för din Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + Augusti 2024 {#aug2024}
       + [Öppnar inledningsanförandet](workfront/aug2024/keynote.md)
@@ -174,7 +174,7 @@ ht-degree: 4%
       + [Experience Makers Spotlight](workfront/aug2023/spotlight.md)
       + [Tillväxt och kontinuerlig effektivitet](workfront/aug2023/growth-continued-efficiencies.md)
       + [Matcha Workfront i hela företaget](workfront/aug2023/workfront-across-enterprise.md)
-      + [Inbyggd integrering med Creative Cloud](workfront/aug2023/native-integtrations.md)
+      + [Integrering med Creative Cloud](workfront/aug2023/native-integtrations.md)
       + [Öppnar inledningsanförandet](workfront/aug2023/opening-keynote.md)
       + [Ändamålsstyrda automatiseringar](workfront/aug2023/automations.md)
       + [Resurshanteringsläckare](workfront/aug2023/resource-management-burnout.md)
@@ -186,9 +186,8 @@ ht-degree: 4%
       + [Framtiden för Adobe Workfront Proof](workfront/apr2022/workfront-proof.md)
       + [Utöka spår för upplevelsemakare i strålkastarljuset](workfront/apr2022/grow-track-spotlight.md)
       + [Lär dig Spåra upplevelsemakare i strålkastarljuset](workfront/apr2022/learn-track-spotlight.md)
-      + [Datum och tidslinjer för masterprojekt](workfront/apr2022/projects-dates-timelines.md)
       + [Förstå objekt i Workfront](workfront/apr2022/understanding-objects.md)
-+ Digitala bitar {#digital-bites}
++ Digital Bites {#digital-bites}
    + [Lås upp driftseffektivitet med en driftmodell i toppklass](digital-bites/operational-model.md)
    + [En färdplan för värdemappning och värderealisering](digital-bites/roadmap.md)
    + [Så här får ni upp affärsvärdet under hela kundresan](digital-bites/business-value.md)
