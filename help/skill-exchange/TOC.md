@@ -3,10 +3,10 @@ user-guide-title: Kunskapsutbyte
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Samling av inspelningar från Experience Makers Kunskapsutbyte
 event-series: The Skill Exchange
-source-git-commit: 974518ee6e9955f64cfbbd1ac0b4d45a5bf1aebe
+source-git-commit: 3df61129609f91640357ef9346f0e82fe0fff7b3
 workflow-type: tm+mt
-source-wordcount: '659'
-ht-degree: 8%
+source-wordcount: '663'
+ht-degree: 7%
 
 ---
 
@@ -186,6 +186,7 @@ ht-degree: 8%
       + [Framtiden för Adobe Workfront Proof](workfront/apr2022/workfront-proof.md)
       + [Utöka spår för upplevelsemakare i strålkastarljuset](workfront/apr2022/grow-track-spotlight.md)
       + [Lär dig Spåra upplevelsemakare i strålkastarljuset](workfront/apr2022/learn-track-spotlight.md)
+      + [Datum och tidslinjer för masterprojekt](workfront/apr2022/projects-dates-timelines.md)
       + [Förstå objekt i Workfront](workfront/apr2022/understanding-objects.md)
 + Digital Bites {#digital-bites}
    + [Lås upp driftseffektivitet med en driftmodell i toppklass](digital-bites/operational-model.md)
