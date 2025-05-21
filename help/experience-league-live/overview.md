@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 724a3fce46a1adc8bfd422a8ed52bd4f14faa82f
+source-git-commit: a5ee0817798a0acba48c48191128c5f0b913213d
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '193'
 ht-degree: 1%
 
 ---
@@ -34,6 +34,19 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
               </a>
               <br/><em>med Shay O'Reilly, Jennifer Werkmeister och Doug Moore</em>
               <br/><em>22 maj 2025</em>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-47-2025-06-05.md">
+              <img alt="Experience League LIVE 22 maj" src="assets/WebBannerExLLive-June05-2025.png">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-47-2025-06-05.md">
+                <strong> Flexibla arbetsflöden för personaliserat innehåll vid skalförändring </strong>
+              </a>
+              <br/><em> med Amarnath Vannarath, Chris Invory och Rohan Bhatt </em>
+              <br/><em>5 juni 2025</em>
             </div>
         </td>
     </tr>
@@ -101,5 +114,5 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 >[!TIP]
 >
->Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/sv#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=sv-SE).
+>Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
