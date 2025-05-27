@@ -7,11 +7,10 @@ feature: Frequency Rules
 event-cta-url-live: https://youtube.com/live/awYa2dU6TDY
 event-start-time: 2025-06-18 09:00-7
 event-guests: Sandra Hausmann, Ariel Sultan, Aaron Forrest, Keara Fausett
-hidefromtoc: true
-hide: true
-source-git-commit: 3fb60f3db95b4e760287da7c538cce7f559e0181
+exl-id: 7041430f-845d-4150-9d2c-d8fafb450b9c
+source-git-commit: 2202e181d4adeb189bdda54c826b657b09de4522
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -24,6 +23,8 @@ Mötet är idealiskt för marknadsförare, verksamhetsteam och reseadministratö
 
 Missa inte detta tillfälle att förändra era marknadsföringsstrategier och engagera era målgrupper som aldrig förr.
 
-**Klicka på bilden nedan för att ställa in en påminnelse från YouTube!**
+[Sätt en påminnelse om YouTube nu](https://www.youtube.com/live/awYa2dU6TDY)!
 
-[![ExL LIVE Jan 17 2024](assets/exl-live-web-banner-20250618.png)](https://www.youtube.com/live/awYa2dU6TDY)
+![webbanner](/help/experience-league-live/episodes/assets/exl-live-web-banner-20250618.png)
+
+Klarar du det inte? Registrera dig i alla fall så skickar vi inspelningen i efterhand. Vi hoppas att se dig där!
