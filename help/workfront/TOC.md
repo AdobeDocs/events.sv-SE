@@ -2,7 +2,8 @@
 user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
-source-git-commit: 02ca017c96958afecfa431513997e22e830f0c4e
+solution: Workfront
+source-git-commit: 2dc76496062fdb4cf7b0c8bd09a1d1afd90fdb08
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -13,17 +14,17 @@ ht-degree: 0%
 # Workfront Events {#workfront-recordings}
 
 + [Workfront användargrupper och webbinarier](overview.md)
-+ Administration {#administration}
++ Administrering {#administration}
    + [Granskningsspår och efterlevnad](user-groups/audit-trails-and-compliance.md)
    + [Automatisera arbetsflöden med Workfront Fusion](user-groups/automating-workflows-with-workfront-fusion.md)
-   + [Kreativa myndigheter: Arbetsflöde och process](user-groups/creative-agencies-workflows-and-process.md)
+   + [Creative: Arbetsflöde och processer](user-groups/creative-agencies-workflows-and-process.md)
    + [Dra nytta av anpassade Forms](user-groups/leveraging-custom-forms.md)
    + [Systemadministratörens bästa praxis](user-groups/system-admin-best-practices.md)
    + [Workfront System Maintenance](user-groups/workfront-system-maintenance.md)
 + Agile {#agile}
    + [Agile in Marketing](user-groups/agile-in-marketing.md)
-+ Rapportering och instrumentpaneler {#reporting-and-dashboards}
-   + [Kreativa myndigheter: Rapporter och kontrollpaneler](user-groups/creative-agencies-reporting-and-dashboards.md)
++ Rapportering och kontrollpaneler {#reporting-and-dashboards}
+   + [Creative-byråer: Rapporter och kontrollpaneler](user-groups/creative-agencies-reporting-and-dashboards.md)
    + [Mätningskvalitet och engagemang](webinars/gauging-quality-and-engagement.md)
    + [Introduktion till textlägesrapportering](webinars/introduction-to-text-mode-reporting.md)
    + [Rapportering och instrumentpaneler](user-groups/reporting-and-dashboards.md)
@@ -41,9 +42,9 @@ ht-degree: 0%
 + Workfront Proof {#workfront-proof}
    + [De bästa sätten att maximera Workfront Proof](webinars/best-practices-to-maximize-workfront-proof.md)
    + [Följ upp Workfront Proof bästa praxis](webinars/follow-up-to-workfront-proof-best-practices.md)
-   + [Reklambyråer: Workfront Proof](user-groups/creative-agencies-workfront-proof.md)
+   + [Creative: Workfront Proof](user-groups/creative-agencies-workfront-proof.md)
    + [Utnyttja Workfront Proof](user-groups/leveraging-workfront-proof.md)
-+ Begär köer och intag {#request-queues-and-intake}
++ Begär köer och indata {#request-queues-and-intake}
    + [Begär köer och ta in Forms](user-groups/request-queues-and-intake-forms.md)
 + Utgåvor {#releases}
    + [24.1 Utgåva](webinars/24-1-release-webinar.md)
