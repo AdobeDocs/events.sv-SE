@@ -26,4 +26,4 @@ Smarta kampanjer är de kraftfulla motorer som driver Marketo Engage automatiser
 * En djupdykning i de fyra logiska nivåerna för att konfigurera och anpassa era målgrupper
 * Tricks för att felsöka logiken och verifiera att du har riktat rätt till den avsedda målgruppen
 
->[!VIDEO](https://video.tv.adobe.com/v/3432943/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457302/?learn=on&captions=swe)
