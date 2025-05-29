@@ -36,4 +36,4 @@ Fortsätt diskutera [Experience League Community-forum](https://experienceleague
 
 ## Ytterligare resurser
 
-[Content Analytics-videor](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)
+[Content Analytics-videor](https://experienceleague.adobe.com/sv/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)
