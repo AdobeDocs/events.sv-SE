@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 3fb60f3db95b4e760287da7c538cce7f559e0181
+source-git-commit: 0ef5c2a6b36f6998b57c99a211b39c19e7fd1c95
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 0%
+source-wordcount: '193'
+ht-degree: 1%
 
 ---
 
@@ -25,17 +25,6 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-22-25.md">
-              <img alt="Experience League LIVE 28 maj" src="episodes/assets/ExL-LIVE-May-28-2025-WebBanner.jpg">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-05-22-25.md">
-                <strong> Content Analytics: Optimera prestanda med AI-insikter </strong>
-              </a>
-              <br/><em>med Shay O'Reilly, Jennifer Werkmeister och Doug Moore</em>
-              <br/><em>28 maj 2025</em>
-            </div>
-        </td>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-47-2025-06-05.md">
               <img alt="Experience League LIVE 5 juni" src="assets/WebBannerExLLive-June05-2025.png">
             </a>
@@ -48,7 +37,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
             </div>
         </td>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-18-25.md">
-              <img alt="Experience League LIVE 18 juni" src="episodes/assets/exl-live-web-banner-20250618.png">
+              <img alt="Experience League LIVE 18 juni" src="episodes/assets/exl-live-web-banner-20250618_v2.jpg">
             </a>
             <div>
               <a href="episodes/exl-live-episode-06-18-25.md">
@@ -124,5 +113,5 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 >[!TIP]
 >
->Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/sv#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=sv-SE).
+>Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
