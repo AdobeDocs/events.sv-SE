@@ -1,7 +1,7 @@
 ---
 title: Marketo & Mochas - Drivande tillväxt med rapportering (mognad Pt 3)
 description: Delta i Adobe Business Advisors, Cynthia Chang och Carly Gaver, för del 3 av Marketo Maturity-webbinariet, där du förklarar hur du kan utnyttja Marketo rapporteringsverktyg för att öka tillväxten, övervaka prestanda och leverera slagkraftiga mätvärden, med live Q&A.
-solution: Marketo
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +9,7 @@ duration: 3505
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16392
 exl-id: 4ad37a4b-8544-4000-8e21-062e3f93909e
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Förfallotid, del 3, är en del 3 av Marketo mognadsserie med fokus på att öka
 ## Presentatörer
 
 * Cynthia Chang och Carly Gaver var presentatörer.
-* Cynthia har varit med Adobe i två år, tidigare konsultfirmor och som Marketo-kund.
+* Cynthia har varit med Adobe i två år och tidigare arbetat med rådgivning och som Marketo-kund.
 * Carly har varit med Adobe i tre år, med en bakgrund inom digital marknadsföring och automatisering av marknadsföring.
 
 ## Viktiga uppgifter
@@ -53,7 +53,7 @@ Förfallotid, del 3, är en del 3 av Marketo mognadsserie med fokus på att öka
 ### Vanliga problem och lösningar
 
 * **Kampanjeftersläpning** Orsakas av att flera processer staplas, för många utlösande kampanjer och ineffektiva smarta listor.
-* **CRM-synkroniseringsproblem** Vanliga problem är behörigheter, fältvalidering, CPU-gräns för apex och ändringar i plocklistevärden.
+* **CRM-synkroniseringsproblem** Vanliga problem är behörigheter, fältvalidering, apex CPU-gräns och ändringar i plocklistevärden.
 * **Användaråtkomst och styrning** Granska regelbundet användaråtkomst och säkerställ att bästa praxis för styrning följs.
 
 ### Avancerade rapporter och analyser

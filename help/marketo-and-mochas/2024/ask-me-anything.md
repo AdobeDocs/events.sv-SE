@@ -1,20 +1,20 @@
 ---
 title: Fråga mig vad som helst
 description: Delta i Adobe slutliga interaktiva webbinarium med Kate Kolbert och James Letham, som handlar om optimering av webbinarium, programuppdateringar, underutnyttjade Marketo-funktioner, bästa praxis för e-postmarknadsföring, databashantering, användarbehörigheter, Marketo-Salesforce-synkronisering, dynamiskt chattengagemang och livscykelfaser.
-solution: Marketo
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3438
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16502
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+exl-id: a842ed22-c6db-4de3-af02-c7363207d00c
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 0%
 
 ---
-
 
 # Fråga mig vad som helst
 

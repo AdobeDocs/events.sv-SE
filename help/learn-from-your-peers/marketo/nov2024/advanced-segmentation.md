@@ -1,7 +1,7 @@
 ---
 title: Avancerade segmenteringsgranskningar - Säkerställ precision och prestanda i Marketo Engage
 description: Delta i Adobe Marketo Engage Champion Darshil Shah för att bemästra avancerade segmenteringsgranskningar, lära er att optimera segmenteringsstrategier, anpassa sig till kundbeteenden, upprätthålla GDPR-efterlevnaden och förbättra marknadsföringsresultatet med hjälp av bästa praxis och uppdateringar i realtid.
-solution: Marketo
+solution: Marketo Engage
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,14 +9,14 @@ duration: 2493
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16525
 exl-id: ee335fea-f158-4b95-930e-273f023cdf04
-source-git-commit: bb67ba728d50f085efd02698517e5c0a9bb073f3
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
 
 ---
 
-# Avancerade segmenteringsgranskningar: Säkerställ precision och prestanda i Marketo Engage
+# Avancerade segmenteringsgranskningar: Säkerställa precision och prestanda i Marketo Engage
 
 Gå med i Adobe Marketo Engage Champion Darshil Shah och lär dig hur ni håller segmenteringen i linje med kundbeteenden, datauppdateringar och affärsförändringar.
 
@@ -73,8 +73,8 @@ I det här webbinariet får du lära dig om
 
 * [Presentationsbilder](https://engage.adobe.com/rs/360-KCI-804/images/AME_Learn%20From%20your%20peers%20Webinar_Advanced%20segmentation%20Audits.pdf?version=0){target="_blank"}
 * Gå med i diskussionen [thread](https://nation.marketo.com/t5/product-discussions/register-now-learn-from-your-peers-advanced-segmentation-audits/td-p/353460){target="_blank"} om Marketing Nation Community
-* [Skapa en segmentering](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
-* [Redigera en segmentering](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"}
+* [Skapa en segmentering](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
+* [Redigera en segmentering](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"}
 * Marketo Engage Success Series - [Segmentering](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
-* [Uppdateringar av segmenteringshälsokontroll](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963){target="_blank"} - Tips och tricks för att behålla segmenteringen uppdaterad
-* [Resultatrapport för e-post](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}
+* [Uppdateringar av segmenteringshälsokontroll](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963){target="_blank"} - Tips och tricks för att hålla segmenteringen uppdaterad
+* [Resultatrapport för e-post](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}
