@@ -1,6 +1,6 @@
 ---
-title: AEM Forms
-description: AEM Forms förbättrar prestandahanteringen genom att erbjuda driftseffektivitet och enastående användarupplevelser. Några viktiga fördelar är bland annat ökad ifyllnad av formulär, konverteringsgrader, bättre användarupplevelser och färre kundfel. Funktionerna omfattar flerkanalsformulär, automatiserade arbetsflöden, interaktiv kundkommunikation och integrering med Adobe Experience Cloud, som stöds av AI för förbättrad personalisering. Verksamhetspåverkan omfattar en 2,5 gånger högre konverteringsgrad för onlineregistrering, 85 % snabbare redigering av formulär och en 50-procentig minskning av antalet kundfel. Molnbaserade prestanda gör att formulären är aktuella, skalbara, säkra och tillgängliga. Innovationerna innefattar dokumentbaserad redigering, konversationsblanketter och stöd för universella redigeringsprogram. AI hjälper till att skapa formulär, automatisera testning och förbättra effektiviteten. Få tillgång till tidiga innovationer genom att kontakta Adobe. Mötessessionerna innehåller tankeledarskap, de viktigaste innovationerna och fallstudier. Få tillgång till resurser, registrera dig för mötet och kontakta kontoansvariga för lösningar för ytterligare hjälp.
+title: Espressos & Experience Manager - AEM Forms
+description: AEM Forms förbättrar prestanda med flerkanalsformulär, AI-driven personalisering och molnbaserad skalbarhet, vilket ger 2,5 gånger fler konverteringar, 85 % snabbare redigeringar och 50 % färre fel.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3297
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17535
 exl-id: cb810398-5e62-4128-8338-71ea1bccc6f9
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---

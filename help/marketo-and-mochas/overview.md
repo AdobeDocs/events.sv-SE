@@ -3,16 +3,16 @@ title: Marketo och Mochas
 description: Marketo On-Demand Events är ett videobibliotek där experter och kollegor har delat med sig av sina tankar och idéer om hur de bäst använder Adobe Marketo.
 exl-id: eab06791-de71-4c26-bbb6-cbdeb9f6f8ec
 duration: 15
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '1172'
+source-wordcount: '1309'
 ht-degree: 0%
 
 ---
 
 # Marketo och Mochas
 
-Välkommen till inspelningar från Marketo och Mochas. Om du använder de här resurserna tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=sv-SE) och [självstudiekurserna](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=sv-SE) för Adobe Marketo får du en bättre förståelse för hur du använder Adobe Marketo för att stödja ditt företag.
+Välkommen till inspelningar från Marketo och Mochas. Om du använder de här resurserna tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/marketo-engage.html) och [självstudiekurserna](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) för Adobe Marketo får du en bättre förståelse för hur du använder Adobe Marketo för att stödja ditt företag.
 
 ## 2025 Inspelningar
 
@@ -20,16 +20,64 @@ Välkommen till inspelningar från Marketo och Mochas. Om du använder de här r
 
 {cta  = Watch}
 
+* 2025/inheriting-bizible-instance.md
+* 2025/auditing-inherited-instance.md
 * 2025/5-features-to-know.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Marketo Measure and Mochas - Inheriting a New or Current Bizible Instance">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/inheriting-bizible-instance.md" title="Marketo Measure och Mochas - ärver en ny eller aktuell bizible-instans" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459038/?format=jpeg&nocache=1749739012261" alt="Marketo Measure och Mochas - ärver en ny eller aktuell bizible-instans"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/inheriting-bizible-instance.md" target="_blank" rel="referrer" title="Marketo Measure och Mochas - ärver en ny eller aktuell bizible-instans">Marketo Measure och Mochas - Ärver en ny eller aktuell bizible-instans</a>
+                    </p>
+                    <p class="is-size-6">Besök Carly Gaver och Kate Colbert i vårt webbinarium Marketo Measure &amp; Mochas och lär dig de bästa sätten att granska och optimera instansinställningar, konfigurationer, kanaler och rapporter för Marketo Measure (Bizible).</p>
+                </div>
+                <a href="2025/inheriting-bizible-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Marketo & Mochas - Auditing an Inherited or Current Instance">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/auditing-inherited-instance.md" title="Marketo &amp; Mochas - Granska en ärvd eller aktuell instans" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459034/?format=jpeg&nocache=1749739012233" alt="Marketo &amp; Mochas - Granska en ärvd eller aktuell instans"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/auditing-inherited-instance.md" target="_blank" rel="referrer" title="Marketo &amp; Mochas - Granska en ärvd eller aktuell instans">Marketo &amp; Mochas - Granskar en ärvd eller aktuell instans</a>
+                    </p>
+                    <p class="is-size-6">Har du ärvt eller vill du granska din Marketo-instans? Delta i Adobe Advisors Cynthia Chang &amp; Carly Gaver och lär dig fem viktiga steg för att granska och optimera din Marketo Engage.</p>
+                </div>
+                <a href="2025/auditing-inherited-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Marketo & Mochas - 5 Marketo Features to Know in 2025">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/5-features-to-know.md" title="Marketo &amp; Mochas - 5 Marketo Features to Know in 2025" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444165/?format=jpeg&nocache=1739487703491" alt="Marketo &amp; Mochas - 5 Marketo Features to Know in 2025"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444165/?format=jpeg&nocache=1749739012247" alt="Marketo &amp; Mochas - 5 Marketo Features to Know in 2025"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -71,7 +119,7 @@ Välkommen till inspelningar från Marketo och Mochas. Om du använder de här r
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ask-me-anything.md" title="Fråga mig vad som helst" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438195/?format=jpeg&nocache=1739487703914" alt="Fråga mig vad som helst"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438195/?format=jpeg&nocache=1749739013183" alt="Fråga mig vad som helst"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,7 +142,7 @@ Välkommen till inspelningar från Marketo och Mochas. Om du använder de här r
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/attribution-dashboard-recording.md" title="Marketo &amp; Mochas - grunderna för Dashboards Recording" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427255/?format=jpeg&nocache=1739487703898" alt="Marketo &amp; Mochas - grunderna för Dashboards Recording"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427255/?format=jpeg&nocache=1749739013155" alt="Marketo &amp; Mochas - grunderna för Dashboards Recording"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,7 +165,7 @@ Välkommen till inspelningar från Marketo och Mochas. Om du använder de här r
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/drive-growth-with-reporting.md" title="Marketo &amp; Mochas - Drivande tillväxt med rapportering (mognad Pt 3)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435407/?format=jpeg&nocache=1739487703946" alt="Marketo &amp; Mochas - Drivande tillväxt med rapportering (mognad Pt 3)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435407/?format=jpeg&nocache=1749739013210" alt="Marketo &amp; Mochas - Drivande tillväxt med rapportering (mognad Pt 3)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,7 +188,7 @@ Välkommen till inspelningar från Marketo och Mochas. Om du använder de här r
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lead-nurture-success.md" title="Marketo &amp; Mochas - En grund för framgångar inom lead Nurture" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429436/?format=jpeg&nocache=1739487703955" alt="Marketo &amp; Mochas - En grund för framgångar inom lead Nurture"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429436/?format=jpeg&nocache=1749739013195" alt="Marketo &amp; Mochas - En grund för framgångar inom lead Nurture"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,7 +211,7 @@ Välkommen till inspelningar från Marketo och Mochas. Om du använder de här r
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/marketo-measure-and-mochas-activities-and-custom-models.md" title="Marketo Measure &amp; Mochas - aktiviteter och anpassade modeller" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432603/?format=jpeg&nocache=1739487703927" alt="Marketo Measure &amp; Mochas - aktiviteter och anpassade modeller"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432603/?format=jpeg&nocache=1749739013169" alt="Marketo Measure &amp; Mochas - aktiviteter och anpassade modeller"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +234,7 @@ Välkommen till inspelningar från Marketo och Mochas. Om du använder de här r
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/maturity-part1-foundation.md" title="Marketo &amp; Mochas - Löptid, del 1 - Stiftelsen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432499/?format=jpeg&nocache=1739487703936" alt="Marketo &amp; Mochas - Löptid, del 1 - Stiftelsen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432499/?format=jpeg&nocache=1749739013247" alt="Marketo &amp; Mochas - Löptid, del 1 - Stiftelsen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +257,7 @@ Välkommen till inspelningar från Marketo och Mochas. Om du använder de här r
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/new-discover-dashboard.md" title="Nya Discover Dashboards" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428405/?format=jpeg&nocache=1739487703972" alt="Nya Discover Dashboards"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428405/?format=jpeg&nocache=1749739013235" alt="Nya Discover Dashboards"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,7 +280,7 @@ Välkommen till inspelningar från Marketo och Mochas. Om du använder de här r
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/optimize-marketo-usage.md" title="Marketo &amp; Mochas - mognadsdel 2 - Optimera din Marketo-användning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434699/?format=jpeg&nocache=1739487703965" alt="Marketo &amp; Mochas - mognadsdel 2 - Optimera din Marketo-användning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434699/?format=jpeg&nocache=1749739013222" alt="Marketo &amp; Mochas - mognadsdel 2 - Optimera din Marketo-användning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -274,7 +322,7 @@ Välkommen till inspelningar från Marketo och Mochas. Om du använder de här r
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/attribution.md" title="Marketo och Mochas - Marketo Measure Attribution" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413506/?format=jpeg&nocache=1739487705172" alt="Marketo och Mochas - Marketo Measure Attribution"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413506/?format=jpeg&nocache=1749739013472" alt="Marketo och Mochas - Marketo Measure Attribution"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -297,7 +345,7 @@ Välkommen till inspelningar från Marketo och Mochas. Om du använder de här r
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/deliverability-part-one.md" title="Marketo and Mochas - Deliverability (Part 1)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416666/?format=jpeg&nocache=1739487705157" alt="Marketo and Mochas - Deliverability (Part 1)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416666/?format=jpeg&nocache=1749739013447" alt="Marketo and Mochas - Deliverability (Part 1)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -320,7 +368,7 @@ Välkommen till inspelningar från Marketo och Mochas. Om du använder de här r
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/deliverability-part-two.md" title="Marketo and Mochas - Deliverability (Part 2)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418668/?format=jpeg&nocache=1739487705183" alt="Marketo and Mochas - Deliverability (Part 2)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418668/?format=jpeg&nocache=1749739013485" alt="Marketo and Mochas - Deliverability (Part 2)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -343,7 +391,7 @@ Välkommen till inspelningar från Marketo och Mochas. Om du använder de här r
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/lead-scoring.md" title="Marketo och Mochas - Leadpoäng" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3412722/?format=jpeg&nocache=1739487705204" alt="Marketo och Mochas - Leadpoäng"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3412722/?format=jpeg&nocache=1749739013460" alt="Marketo och Mochas - Leadpoäng"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -366,7 +414,7 @@ Välkommen till inspelningar från Marketo och Mochas. Om du använder de här r
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/lifecycle-modeling.md" title="Kundresehantering - livscykelmodellering" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420763/?format=jpeg&nocache=1739487705221" alt="Kundresehantering - livscykelmodellering"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420763/?format=jpeg&nocache=1749739013497" alt="Kundresehantering - livscykelmodellering"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -389,7 +437,7 @@ Välkommen till inspelningar från Marketo och Mochas. Om du använder de här r
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/msi-best-practices.md" title="MSI Best Practices och Optimization" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422797?format=jpeg&nocache=1739487705195" alt="MSI Best Practices och Optimization"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422797?format=jpeg&nocache=1749739013521" alt="MSI Best Practices och Optimization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -412,7 +460,7 @@ Välkommen till inspelningar från Marketo och Mochas. Om du använder de här r
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/online-offline.md" title="Online- kontra offlinekanaler" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422363/?format=jpeg&nocache=1739487705213" alt="Online- kontra offlinekanaler"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422363/?format=jpeg&nocache=1749739013534" alt="Online- kontra offlinekanaler"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -435,7 +483,7 @@ Välkommen till inspelningar från Marketo och Mochas. Om du använder de här r
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/program-management.md" title="Marketo och Mochas - bästa praxis inom programhantering" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425070/?format=jpeg&nocache=1739487705229" alt="Marketo och Mochas - bästa praxis inom programhantering"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425070/?format=jpeg&nocache=1749739013509" alt="Marketo och Mochas - bästa praxis inom programhantering"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success-led webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe lösningar.
-source-git-commit: 5168d412d6bba7db7e99d1c2a3e32a794334a161
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,13 @@ ht-degree: 0%
 
 + [Adobe Customer Success Webinars](overview.md)
 + 2025 {#2025}
+   + [AI-Drive-automatisering i Workfront](2025/unlock-efficiency-ai-drive-automation-workfront.md)
+   + [AI - bortom grunderna](2025/ai-beyond-basics.md)
+   + [Optimering av digitala upplevelser med AI-insikter](2025/accelerating-digital-experience-optimization.md)
+   + [Mastering Digital Asset Manager in AEM Content Hub](2025/mastering-dam-aem-content-hub.md)
+   + [Digitala trender och förberedelser inför framtiden](2025/digital-trends-preparing-future.md)
+   + [Northstar Architecture](2025/northstar-architecture.md)
+   + [New Relic Essentials för AEM Cloud](2025/new-relic-essentials-aem-cloud.md)
    + [State of Digital and GenAI Adoption](2025/state-of-digital-and-genai-adoption-webinar.md)
    + [Resultat av semester 2024 och trender 2025](2025/adobe-digital-insights.md)
    + [AEM med GenAI](2025/aem-genai.md)

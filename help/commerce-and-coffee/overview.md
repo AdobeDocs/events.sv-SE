@@ -3,16 +3,74 @@ title: Commerce och kaffe
 description: Adobe Commerce- och Coffee-serien fokuserar på Commerce strategier och taktik, med stöd av statistik som avspeglar evenemanget.
 exl-id: fba820f3-55cf-4cf5-bb0f-6b19870264db
 duration: 81
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
 
 # Commerce och kaffe
 
-Commerce &amp; Coffee-serien riktar sig till befintliga Adobe Commerce-kunder med alla kunskapsnivåer och funktioner som Sr. Commerce Strategy Consultant, Corey Gelato. Serien fokuserar på Commerce strategier och taktik, med stöd av statistik som avspeglar evenemanget. Efter presentationen finns det en live demonstration som visar hur man implementerar de strategier som diskuterats inom en Commerce-plattform. Varje evenemang avslutas med att deltagarna får möjlighet att ställa frågor live och att kontakta Adobe-experterna direkt. Du lämnar varje evenemang med en förnyad förståelse för varför och hur ni kan vara konkurrenskraftiga och uppnå framgång, samtidigt som ni maximerar vad er Adobe Commerce-plattform har att erbjuda.
+Commerce &amp; Coffee-serien riktar sig till befintliga Adobe Commerce-kunder med alla kunskapsnivåer och funktioner som Sr. Commerce Strategy Consultant, Corey Gelato. Serien fokuserar på Commerce strategier och taktik, med stöd av statistik som avspeglar evenemanget. Efter presentationen finns det en live demonstration som visar hur man implementerar de strategier som diskuterats inom en Commerce-plattform. Varje evenemang avslutas med att deltagarna får möjlighet att ställa frågor live och att kontakta Adobe experter direkt. Du lämnar varje evenemang med en förnyad förståelse för varför och hur ni kan vara konkurrenskraftiga och uppnå framgång, samtidigt som ni maximerar vad er Adobe Commerce-plattform har att erbjuda.
+
+
+## Händelser 2025
+
+<!-- CARDS
+* 2025/seo-growth.md
+* 2025/self-service-b2b.md
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Commerce & Coffee - Driving Growth with SEO">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/seo-growth.md" title="Commerce &amp; Coffee - Driving Growth with SEO" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459039/?format=jpeg&nocache=1749738512514" alt="Commerce &amp; Coffee - Driving Growth with SEO"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/seo-growth.md" target="_blank" rel="referrer" title="Commerce &amp; Coffee - Driving Growth with SEO">Commerce &amp; kaffe - tillväxtökning med SEO</a>
+                    </p>
+                    <p class="is-size-6">Under den här sessionen utforskar Corey Gelato och Agbi Bajrushi SEO-typer, viktiga principer och Adobe Commerce-verktyg som Meta Fields, Page Builder och bästa praxis för e-handel i media.</p>
+                </div>
+                <a href="2025/seo-growth.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Commerce & Coffee - The Rise of Self-Service in B2B">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/self-service-b2b.md" title="Commerce &amp; Coffee - The Rise of Self-Service in B2B" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451619/?format=jpeg&nocache=1749738512499" alt="Commerce &amp; Coffee - The Rise of Self-Service in B2B"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/self-service-b2b.md" target="_blank" rel="referrer" title="Commerce &amp; Coffee - The Rise of Self-Service in B2B">Commerce &amp; Coffee - The Rise of Self-Service in B2B</a>
+                    </p>
+                    <p class="is-size-6">Förbättra B2B-upplevelserna med Adobe Commerce! Upptäck funktioner som delade kataloger, företagsledning, offerter och självbetjäningsverktyg. Läs om AI-funktioner och B2B-trender. Implementera metodtips för självbetjäning och förbättra kundupplevelserna. Gå med i Adobe Summit för mer information och resurser.</p>
+                </div>
+                <a href="2025/self-service-b2b.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## Händelser 2024
 
@@ -30,7 +88,7 @@ Commerce &amp; Coffee-serien riktar sig till befintliga Adobe Commerce-kunder me
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ask-me-anything.md" title="Fråga mig vad som helst" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3437034/?format=jpeg&nocache=1732308154244" alt="Fråga mig vad som helst"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3437034/?format=jpeg&nocache=1749738513506" alt="Fråga mig vad som helst"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -53,7 +111,7 @@ Commerce &amp; Coffee-serien riktar sig till befintliga Adobe Commerce-kunder me
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md" title="Commerce &amp; Coffee Strategies for B2B eCommerce" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432604/?format=jpeg&nocache=1732308154235" alt="Commerce &amp; Coffee Strategies for B2B eCommerce"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432604/?format=jpeg&nocache=1749738513489" alt="Commerce &amp; Coffee Strategies for B2B eCommerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -76,7 +134,7 @@ Commerce &amp; Coffee-serien riktar sig till befintliga Adobe Commerce-kunder me
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ecommerce-essentials.md" title="Commerce &amp; Coffee - Mastering Ecommerce Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429437/?format=jpeg&nocache=1732308154232" alt="Commerce &amp; Coffee - Mastering Ecommerce Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429437/?format=jpeg&nocache=1749738513520" alt="Commerce &amp; Coffee - Mastering Ecommerce Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -99,7 +157,7 @@ Commerce &amp; Coffee-serien riktar sig till befintliga Adobe Commerce-kunder me
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/peak-season-prep.md" title="Commerce &amp; kaffe - förberedelse av högsäsong" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434700/?format=jpeg&nocache=1732308154240" alt="Commerce &amp; kaffe - förberedelse av högsäsong"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434700/?format=jpeg&nocache=1749738513544" alt="Commerce &amp; kaffe - förberedelse av högsäsong"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -122,7 +180,7 @@ Commerce &amp; Coffee-serien riktar sig till befintliga Adobe Commerce-kunder me
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/personalize-ecommerce.md" title="Commerce &amp; Coffee - personalisering av e-handelsupplevelser med AI" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427493/?format=jpeg&nocache=1732308154247" alt="Commerce &amp; Coffee - personalisering av e-handelsupplevelser med AI"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427493/?format=jpeg&nocache=1749738513533" alt="Commerce &amp; Coffee - personalisering av e-handelsupplevelser med AI"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -159,7 +217,7 @@ Commerce &amp; Coffee-serien riktar sig till befintliga Adobe Commerce-kunder me
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/ask-me-anything.md" title="Fråga mig vad som helst" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425651/?format=jpeg&nocache=1732308154583" alt="Fråga mig vad som helst"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425651/?format=jpeg&nocache=1749738513895" alt="Fråga mig vad som helst"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -182,7 +240,7 @@ Commerce &amp; Coffee-serien riktar sig till befintliga Adobe Commerce-kunder me
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/b2b.md" title="B2B-samarbete lyckades" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421687/?format=jpeg&nocache=1732308154575" alt="B2B-samarbete lyckades"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421687/?format=jpeg&nocache=1749738513923" alt="B2B-samarbete lyckades"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -205,7 +263,7 @@ Commerce &amp; Coffee-serien riktar sig till befintliga Adobe Commerce-kunder me
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/loyalty-retention.md" title="7 sätt att bygga upp kundlojalitet och kundlojalitet" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419686/?format=jpeg&nocache=1732308154578" alt="7 sätt att bygga upp kundlojalitet och kundlojalitet"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419686/?format=jpeg&nocache=1749738513949" alt="7 sätt att bygga upp kundlojalitet och kundlojalitet"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -215,7 +273,7 @@ Commerce &amp; Coffee-serien riktar sig till befintliga Adobe Commerce-kunder me
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2023/loyalty-retention.md" target="_blank" rel="referrer" title="7 sätt att bygga upp kundlojalitet och kundlojalitet">7 sätt att bygga kundlojalitet och kundlojalitet</a>
                     </p>
-                    <p class="is-size-6">Lär dig 7 strategier för att öka kundlojaliteten och kundlojaliteten med Corey Gelato, som innehåller bästa praxis som personalisering, belöningsprogram och transparens, plus Adobe Commerce verktyg som Product Recommendations, prisregler och kampanjer.</p>
+                    <p class="is-size-6">Lär dig 7 strategier för att öka kundlojaliteten och kundlojaliteten med Corey Gelato, som innehåller bästa praxis som personalisering, belöningsprogram och transparens, plus Adobe Commerce verktyg som produktrekommendationer, prisregler och kampanjer.</p>
                 </div>
                 <a href="2023/loyalty-retention.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
@@ -228,7 +286,7 @@ Commerce &amp; Coffee-serien riktar sig till befintliga Adobe Commerce-kunder me
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/organic-growth.md" title="Commerce &amp; kaffe - organisk tillväxt" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416128/?format=jpeg&nocache=1732308154567" alt="Commerce &amp; kaffe - organisk tillväxt"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416128/?format=jpeg&nocache=1749738513935" alt="Commerce &amp; kaffe - organisk tillväxt"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -251,7 +309,7 @@ Commerce &amp; Coffee-serien riktar sig till befintliga Adobe Commerce-kunder me
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/peak-season-prep.md" title="Förberedelse av högsäsong" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424390/?format=jpeg&nocache=1732308154571" alt="Förberedelse av högsäsong"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424390/?format=jpeg&nocache=1749738513909" alt="Förberedelse av högsäsong"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -278,11 +336,11 @@ Commerce &amp; Coffee-serien riktar sig till befintliga Adobe Commerce-kunder me
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html?lang=sv-SE">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html">
       <img alt="Adobe Commerce Site Wide Analysis Tool" src="./assets/analysis-tool.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html?lang=sv-SE">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html">
         <strong>Adobe Commerce Site Wide Analysis Tool</strong>
       </a>
     </div>
@@ -291,11 +349,11 @@ Commerce &amp; Coffee-serien riktar sig till befintliga Adobe Commerce-kunder me
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html?lang=sv-SE">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
       <img alt="New Relic Masterclass" src="./assets/new-relic.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html?lang=sv-SE">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
         <strong>New Relic Masterclass</strong>
       </a>
     </div>
@@ -304,11 +362,11 @@ Commerce &amp; Coffee-serien riktar sig till befintliga Adobe Commerce-kunder me
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html?lang=sv-SE">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html">
       <img alt="Benefits of upgrading to Adobe Commerce 2.4.4" src="./assets/upgrade.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html?lang=sv-SE">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html">
         <strong>Benefits of upgrading to Adobe Commerce 2.4.4</strong>
       </a>
     </div>
