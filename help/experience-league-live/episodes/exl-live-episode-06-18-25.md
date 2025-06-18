@@ -8,23 +8,20 @@ event-cta-url-live: https://youtube.com/live/awYa2dU6TDY
 event-start-time: 2025-06-18 09:00-7
 event-guests: Sandra Hausmann, Ariel Sultan, Aaron Forrest, Keara Fausett
 exl-id: 7041430f-845d-4150-9d2c-d8fafb450b9c
-source-git-commit: 0ef5c2a6b36f6998b57c99a211b39c19e7fd1c95
+source-git-commit: b775b884ffcbd72360cecb114d61bba9093269f4
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
 # Prioritering av masterfrekvenser och konflikter
 
-Under den här sessionen fördjupar sig Adobe experter Ariel Sultan och Aaron Forrest i nya funktioner i Adobe Journey Optimizer som hjälper er att styra och prioritera kundmeddelanden med precision. Lär dig hur du minskar utmattningen i meddelanden, löser konflikter och levererar slagkraftiga upplevelser som får genklang.
+Under den här sessionen arbetar Adobe experter Ariel Sultan och Aaron Forrest med nya funktioner i Adobe Journey Optimizer som hjälper dig att styra och prioritera kundmeddelanden med precision. De visade hur man minskar meddelandetröttheten, löser konflikter och levererar slagkraftiga upplevelser som får genklang.
 
 Mötet är idealiskt för marknadsförare, verksamhetsteam och reseadministratörer som vill behärska Journey Optimizer funktioner för större kontroll och effektivitet.
 
-Missa inte detta tillfälle att förändra era marknadsföringsstrategier och engagera era målgrupper som aldrig förr.
 
-[Registrera dig nu](https://engage.adobe.com/ExpLeagueLive-250618.html?trackingid=MH16S65T&amp;mv=email)!
+>[!VIDEO](https://video.tv.adobe.com/v/3464052/?quality=12&learn=on)
 
-![webbanner](/help/experience-league-live/episodes/assets/exl-live-web-banner-20250618_v2.jpg)
-
-Klarar du det inte? Registrera dig i alla fall så skickar vi inspelningen i efterhand. Vi hoppas att se dig där!
+Besök oss för [Adobe Journey Optimizer Community Fråga mig vad som helst](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-[...]with-travel-optimizer-product-expert/ev-p/757473) onsdagen den 25 juni från 08:00 PT för att fortsätta konversationen.
