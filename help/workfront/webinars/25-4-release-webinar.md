@@ -22,7 +22,7 @@ Det webbinarium som belyser de senaste funktionsförbättringarna från Workfron
 * [Slide Deck PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040325+-+25.4+Second+Quarter+2025+Release+Webinar.pdf)
 * [Experience League Community-inlägg](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-second-quarter-2025-release/td-p/746716)
 
-Mer information om releasefunktionerna finns på översiktssidan för [andra utgåvan av kvartal 2025](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview).
+Mer information om releasefunktionerna finns på översiktssidan för [andra utgåvan av kvartal 2025](https://experienceleague.adobe.com/sv/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview).
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463798/?learn=on&enablevpops)
