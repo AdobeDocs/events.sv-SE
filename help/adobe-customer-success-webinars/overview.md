@@ -3,7 +3,7 @@ title: Adobe Customer Success Webinars
 description: Adobe Customer Success-led webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe lösningar.
 exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
 duration: 42
-source-git-commit: 780ad36ca10f4c8692ebfed7fc3e0c31ac2d1115
+source-git-commit: 062259db0862dc5fb1624932b40a9a6f43d9f0d0
 workflow-type: tm+mt
 source-wordcount: '3963'
 ht-degree: 0%
@@ -20,6 +20,9 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
 
 {cta = Watch}
 
+* 2025/workfront-and-jira.md
+* 2025/transforming-b2b-commerce.md
+* 2025/journey-optimizer-essentials.md
 * 2025/unlock-efficiency-ai-drive-automation-workfront.md
 * 2025/ai-beyond-basics.md
 * 2025/accelerating-digital-experience-optimization.md
@@ -81,7 +84,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-beyond-basics.md" title="AI Assistant - bortom grunderna" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463362/?format=jpeg&nocache=1749832505279&captions=swe" alt="AI Assistant - bortom grunderna"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1749832505279" alt="AI Assistant - bortom grunderna"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -518,7 +521,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/gen-ai-experimentation.md" title="GenAI Experimentation in AJO and its Relationship with Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444463/?format=jpeg&nocache=1749832505582&captions=swe" alt="GenAI Experimentation in AJO and its Relationship with Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1749832505582" alt="GenAI Experimentation in AJO and its Relationship with Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -865,7 +868,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-marketo-integration.md" title="Grundläggande om integrering mellan Real-Time Customer Data Platform och Marketo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433672/?format=jpeg&nocache=1749832508605&captions=swe" alt="Grundläggande om integrering mellan Real-Time Customer Data Platform och Marketo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433222/?format=jpeg&nocache=1749832508605" alt="Grundläggande om integrering mellan Real-Time Customer Data Platform och Marketo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1026,7 +1029,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/data-stream-prioritization.md" title="Prioritering för dataström" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456809/?format=jpeg&nocache=1749832508615&captions=swe" alt="Prioritering för dataström"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427302/?format=jpeg&nocache=1749832508615" alt="Prioritering för dataström"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1210,7 +1213,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/hyperpersonalization.md" title="Personalization Maturity - Sökvägen till hyperpersonalisering" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457349/?format=jpeg&nocache=1749832508737&captions=swe" alt="Personalization Maturity - Sökvägen till hyperpersonalisering"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429288/?format=jpeg&nocache=1749832508737" alt="Personalization Maturity - Sökvägen till hyperpersonalisering"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1256,7 +1259,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lean-teams-cja.md" title="Maximera effektiviteten - Lean Teams och Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457012/?format=jpeg&nocache=1749832508759&captions=swe" alt="Maximera effektiviteten - Lean Teams och Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432998/?format=jpeg&nocache=1749832508759" alt="Maximera effektiviteten - Lean Teams och Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1371,7 +1374,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/strategic-leadership.md" title="Strategisk ledning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456787/?format=jpeg&nocache=1749832508850&captions=swe" alt="Strategisk ledning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427463/?format=jpeg&nocache=1749832508850" alt="Strategisk ledning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1532,7 +1535,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-lean-teams.md" title="Maximera effektiviteten med Adobe Workfront - Lean Teams Webinar" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456710/?format=jpeg&nocache=1749832508862&captions=swe" alt="Maximera effektiviteten med Adobe Workfront - Lean Teams Webinar"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429287/?format=jpeg&nocache=1749832508862" alt="Maximera effektiviteten med Adobe Workfront - Lean Teams Webinar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
