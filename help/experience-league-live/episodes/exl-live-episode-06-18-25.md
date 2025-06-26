@@ -30,6 +30,6 @@ Besök oss för [Adobe Journey Optimizer Community Fråga mig vad som helst](htt
 
 Titta på dessa självstudiekurser:
 
-* [Identifiera potentiella konflikter](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts)
-* [Tilldela prioritetspoäng till inkommande åtgärder](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score)
-* *[Frekvensbegränsning och prioritering för resor](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization)
+* [Identifiera potentiella konflikter](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts)
+* [Tilldela prioritetspoäng till inkommande åtgärder](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score)
+* *[Frekvensbegränsning och prioritering för resor](https://experienceleague.adobe.com/sv/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization)
