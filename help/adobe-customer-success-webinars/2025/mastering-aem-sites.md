@@ -27,4 +27,4 @@ Denna session ger en grundläggande förståelse för tre viktiga aspekter av at
 * Skapa användarvänlig navigering för optimal webbplatsupplevelse
 * Placera SEO Foundation i AEM Sites
 
->[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464319/?learn=on&enablevpops&captions=swe)
