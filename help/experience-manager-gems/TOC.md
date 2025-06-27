@@ -1,47 +1,48 @@
 ---
 user-guide-title: Adobe Experience Manager GEMS-event
 user-guide-description: Läs om AEM Gems, en serie tekniska djupdykningar från Adobe Experience Manager experter.
-breadcrumb-title: AEM GEM-event
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+breadcrumb-title: AEM GEMs-event
+source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
 workflow-type: tm+mt
-source-wordcount: '759'
-ht-degree: 0%
+source-wordcount: '770'
+ht-degree: 1%
 
 ---
 
 
-# Experience Manager GEMS-händelser {#experience-manager-gems-recordings}
+# Experience Manager GEMS-event {#experience-manager-gems-recordings}
 
 + [Översikt](overview.md)
 + 2025 {#gems2025}
-   + [Komma igång med hanterad CDN från Adobe](gems2025/getting-started-adobe-managed-cdn.md)
+   + [Maximera effekten av webbupplevelsen med AEM Sites Optimizer](gems2025/maximize-impact-with-sites-optimizer.md)
+   + [Komma igång med Adobe Managed CDN](gems2025/getting-started-adobe-managed-cdn.md)
 + 2024 {#gems2024}
    + [Låsa upp kraften i AEM Sites - bemästra API:erna för innehållshantering](gems2024/content-management-apis.md)
-   + [Nyheter i miljöer för snabb utveckling för AEM?](gems2024/rapid-development-environment-news.md)
+   + [Nyheter i Rapid Development Environment för AEM?](gems2024/rapid-development-environment-news.md)
    + [Integrera AEM Assets med Edge Delivery Services](gems2024/edge-delivery-for-aem-assets.md)
    + [Integrera privata GitHub-databaser i AEM Cloud Manager](gems2024/private-github-for-aem-cloud-manager.md)
    + [Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
    + [Komma igång med Edge Delivery Services för AEM Forms](gems2024/edge-delivery-for-aem-forms.md)
-   + [Komma igång med AEM och Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
-   + [Bygger Storefront på Edge Delivery Services på Adobe Commerce](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+   + [Komma igång med AEM Authoring och Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+   + [Building Storefront on Edge Delivery Services on Adobe Commerce](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
    + [New Relic APM för AEM as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
-   + [AEM - teknisk](gems2023/aem-certification-technical.md)
-   + [Snabbare as a Cloud Service utveckling i Experience Manager med snabba utvecklingsmiljöer](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
+   + [AEM-certifiering - teknisk](gems2023/aem-certification-technical.md)
+   + [Snabbare utveckling av Experience Manager as a Cloud Service med miljöer för snabb utveckling](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
    + [AEM Best Practices Analyzer för lokala miljöer och AMS-miljöer](gems2023/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
-   + [Kundexempel och implementering av AEM Headless in Use](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
+   + [Kundexempel och implementering av AEM Headless som används](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [Att titta under huven - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
-   + [Integrera AEM och CIF för att skapa en engagerande e-handelsupplevelse](gems2022/aem-and-cif-framework-integration.md)
-   + [Bygg webbplatser snabbare med AEM Headless och App Builder](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
+   + [Integrera AEM &amp; CIF-ramverket för att skapa en engagerande e-handelsupplevelse](gems2022/aem-and-cif-framework-integration.md)
+   + [Skapa webbplatser snabbare med AEM Headless och App Builder](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
    + [Adobe Experience Manager as a Cloud Service: 2021 års granskning och 2022 års översikt](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020 {#gems2020}
-   + [AEM 6.5 är redo för världen - översättningsintegrering och bästa praxis](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
+   + [AEM 6.5 är redo för världen - integration av översättning och bästa praxis](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
 + 2019 {#gems2019}
    + [Nyheter i Experience Manager 6.5 [!DNL Sites]](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
-   + [AEM RTF-redigerare (Rich Text Editor) - djup duva](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
+   + [AEM Rich Text Editor (RTE) - djup kuva](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
    + [Detaljerad information om implementering av butiker, moduler och segment i ContextHub](gems2019/contexthub-deep-dive.md)
-   + [Skapa hemlösa flerkanalsupplevelser med AEM 6.5](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
+   + [Skapa headless-upplevelser i alla kanaler med AEM 6.5](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
    + [Vi presenterar AEM moderniseringssvit](gems2019/introducing-the-aem-modernization-suite.md)
    + [Utnyttja möjligheten att publicera för AEM Screens](gems2019/leveraging-author-publish-for-aem-screens.md)
 + 2018 {#gems2018}
@@ -49,15 +50,15 @@ ht-degree: 0%
    + [Adobe Experience Platform - hjärtat i Experience Cloud](gems2018/aem-acp.md)
    + [Realtid och lätt: skapa händelsestyrda integreringar med AEM med Adobe I/O Events](gems2018/aem-adobe-io.md)
    + [Adobe Developer (IO) events - Analytics Triggers](gems2018/aem-analytics-triggers.md)
-   + [Experimentera med AEM Author Scalability](gems2018/aem-author-scalability1.md)
+   + [Experimentera med skalbarhet i AEM Author](gems2018/aem-author-scalability1.md)
    + [AEM kärnkomponenter](gems2018/aem-core-components.md)
    + [Den digitala resursexplosionen &amp; [!DNL AEM Assets]](gems2018/aem-digital-asset-explosion.md)
    + [Introduktion till ContextHub i AEM 6.4](gems2018/aem-intro-to-contexthub.md)
-   + [Maskinininlärning i AEM: Förbättrade smarta taggar, smart layout med mera](gems2018/aem-machine-learning.md)
+   + [Maskininlärning i AEM: Förbättrade smarta taggar, smart layout med mera](gems2018/aem-machine-learning.md)
    + [Upprätthålla öppen källkod och bibehåll er lugn](gems2018/aem-maintaining-open-source.md)
-   + [Felsökning av AEM och index (forts.)](gems2018/aem-query-and-index-troubleshooting2.md)
+   + [AEM felsökning av frågor och index (forts.)](gems2018/aem-query-and-index-troubleshooting2.md)
    + [AEM SPA Editor](gems2018/aem-spa-editor.md)
-   + [Solera som ett Oak-index för AEM](gems2018/solr-as-an-oak-index-for-aem.md)
+   + [Solr as an Oak index for AEM](gems2018/solr-as-an-oak-index-for-aem.md)
    + [SPA Editor SDK deep dive - part 1 - reaktion](gems2018/spa-editor-sdk-deep-dive-react.md)
    + [SPA Editor SDK deep dive - part 2 - angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
    + [Använda OSGi R7 i AEM](gems2018/using-osgi-r7-in-aem.md)
@@ -67,15 +68,15 @@ ht-degree: 0%
    + [Utveckla OSGi-paket och -tjänster för AEM](gems2017/aem-developing-osgi-bundles-services-for-aem.md)
    + [AEM Dynamic Media 6.3-arkitektur](gems2017/aem-dynamic-media-architecture.md)
    + [AEM smidiga upplevelser för headless-användning](gems2017/aem-headless-usecases.md)
-   + [AEM och JCR-fråga](gems2017/aem-indexing-jcr-query.md)
-   + [AEM integreringar](gems2017/aem-integrations.md)
-   + [Hantera AEM](gems2017/aem-managing-aem-datastore.md)
-   + [Sökformulär på ett enkelt sätt med AEM querybuilder](gems2017/aem-search-forms-using-querybuilder.md)
-   + [AEM - Bästa tillvägagångssätt för att distribuera AEM underhållsreleaser](gems2017/aem-sustenance-best-practices-deploying-maintenance-releases.md)
+   + [AEM indexering och JCR-fråga](gems2017/aem-indexing-jcr-query.md)
+   + [AEM-integreringar](gems2017/aem-integrations.md)
+   + [Hantera AEM DataStore](gems2017/aem-managing-aem-datastore.md)
+   + [Enkla sökformulär med AEM querybuilder](gems2017/aem-search-forms-using-querybuilder.md)
+   + [AEM support - Bästa tillvägagångssätt för att driftsätta underhållsreleaser från AEM](gems2017/aem-sustenance-best-practices-deploying-maintenance-releases.md)
    + [Into i tjärdepån: en TARMK-djupdykning](gems2017/aem-tarmk-deepdive.md)
    + [Toughday2 - Ett nytt och förbättrat verktyg för stresstestning och riktmärkning](gems2017/aem-toughday2-stress-testing-benchmarking-tool.md)
-   + [AEM 6.3 redo för världen - Översättningsintegrering och bästa praxis](gems2017/aem-translation-best-practices.md)
-   + [Felsöka AEM replikering](gems2017/aem-troubleshooting-aem-replication.md)
+   + [AEM 6.3 är redo för världen - Översättningsintegrering och bästa praxis](gems2017/aem-translation-best-practices.md)
+   + [Felsöka AEM-replikering](gems2017/aem-troubleshooting-aem-replication.md)
    + [Felsöka distribution av säljmaterial](gems2017/aem-troubleshooting-sling.md)
 + 2016 {#gems2016}
    + [Konfigurera DAM för företag](gems2016/aem-configuring-dam-for-enterprise.md)
@@ -83,27 +84,27 @@ ht-degree: 0%
    + [Hantera ditt innehåll med malleditorn i Adobe Experience Manager](gems2016/aem-managing-content-with-template-editor.md)
    + [Oak Lucene-index](gems2016/aem-oak-lucene-indexes.md)
    + [Kör AEM på MongoDB](gems2016/aem-running-aem-on-mongodb.md)
-   + [Konfigurera AEM Dynamic Media](gems2016/aem-setup-and-configure-aem-dynamic-media.md)
+   + [Konfigurera och konfigurera AEM Dynamic Media](gems2016/aem-setup-and-configure-aem-dynamic-media.md)
    + [Teknisk smygtitt](gems2016/aem-technical-sneak-peek.md)
    + [Verktyg som används för att testa Adobe Experience Manager-program](gems2016/aem-testing-tools-for-aem-apps.md)
    + [Utnyttja SAML i Adobe Experience Manager](gems2016/aem-utilizing-saml-in-aem-deployments.md)
    + [AEM webbprestanda](gems2016/aem-web-performance.md)
 + 2015 {#gems2015}
-   + [AEM 6.1-översättningsintegrering och bästa praxis](gems2015/aem-6-1-translation-integration-and-best-practices.md)
+   + [Integrering av AEM 6.1-översättning och metodtips](gems2015/aem-6-1-translation-integration-and-best-practices.md)
    + [Skapa onlinecommunityn med AEM 6.1](gems2015/aem-creating-online-communities-with-aem-6-1.md)
    + [Anpassa dialogrutefält i Touch UI](gems2015/aem-customizing-dialog-fields-in-touch-ui.md)
-   + [Fördjupa dig i AEM uppgraderingsprocess](gems2015/aem-deep-dive-into-aem-upgrade-process.md)
+   + [Fördjupa dig i uppgraderingsprocessen för AEM](gems2015/aem-deep-dive-into-aem-upgrade-process.md)
    + [Dispatcher cachning - nya funktioner och optimeringar](gems2015/aem-dispatcher-caching-new-features-and-optimizations.md)
    + [AEM [!DNL Forms] funktionspaket 1 introduktion och tekniska exempel](gems2015/aem-forms-feature-pack-1-introduction-and-technical-samples.md)
-   + [Integrering av IBM WebSphere Commerce för AEM](gems2015/aem-ibm-websphere-commerce-integration-for-aem.md)
-   + [Inside ACS AEM Commands &amp; tools](gems2015/aem-inside-acs-aem-commons-and-tools.md)
+   + [Integrering med IBM WebSphere Commerce för AEM](gems2015/aem-ibm-websphere-commerce-integration-for-aem.md)
+   + [Inside ACS AEM Commons &amp; tools](gems2015/aem-inside-acs-aem-commons-and-tools.md)
    + [Oak externa inloggningsmodul](gems2015/aem-oak-external-login-module-authenticating-with-ldap-and-beyond.md)
    + [Sonar - Ett nyckelelement som förbättrar produktkvaliteten](gems2015/aem-sonar-a-key-element-to-improve-product-quality.md)
    + [AEM Tech sneak peek](gems2015/aem-tech-sneak-peek.md)
    + [Tips och tricks för  [!DNL AEM Sites] Touch UI](gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
    + [Spåra kvalitetsmätningar för ditt JavaScript-projekt](gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
 + 2014 {#gems2014}
-   + [Distribuera Adobe Analytics på en lokal AEM via molntjänsten DTM](gems2014/aem-adobe-analytics-dynamic-tag-management.md)
+   + [Distribuera Adobe Analytics på en lokal AEM-instans via molntjänsten DTM](gems2014/aem-adobe-analytics-dynamic-tag-management.md)
    + [Så här får du ut mesta möjliga av ditt DAM-funktionspaket](gems2014/aem-dam-feature-pack.md)
    + [Leverera hanterat innehåll till era appar](gems2014/aem-delivering-managed-content-to-your-native-apps.md)
    + [AEM 6.0 Developer Mode](gems2014/aem-developer-mode.md)
@@ -112,25 +113,25 @@ ht-degree: 0%
    + [Skapa återanvändbara komponenter effektivt](gems2014/aem-efficiently-build-reusable-components.md)
    + [Introduktion till HTML](gems2014/aem-introduction-to-htl.md)
    + [Maskinöversättning i AEM](gems2014/aem-machine-translation-in-aem.md)
-   + [AEM 6 Oak: MongoMK och Frågor](gems2014/aem-oak-mongomk-and-queries.md)
+   + [AEM 6 Oak: MongoMK och frågor](gems2014/aem-oak-mongomk-and-queries.md)
    + [OAuth Server-funktionalitet i AEM](gems2014/aem-oauth-server-functionality-in-aem.md)
    + [SharePoint Connector - installation och konfiguration](gems2014/aem-sharepoint-connector-setup-and-configuration.md)
    + [Ramverk för sociala komponenter i AEM 6](gems2014/aem-social-component-framework-in-aem-6.md)
-   + [Technical Deep Dag into the AEM 6 Platform](gems2014/aem-technical-deep-dive-into-the-aem-6-platform.md)
+   + [Technical Deep Dive into the AEM 6 Platform](gems2014/aem-technical-deep-dive-into-the-aem-6-platform.md)
    + [Teknisk översikt av AEM 6 Platform](gems2014/aem-technical-overview-of-the-aem-6-platform.md)
    + [Anpassning av användargränssnitt för AEM 6](gems2014/aem-user-interface-customization-for-aem6.md)
 + 2013 {#gems2013}
-   + [Arkitektur för AEM 5.6 Platform](gems2013/aem-architecture-of-the-aem-5-6-platform.md)
-   + [CQ/AEM 5.6 Felsökning](gems2013/aem-cq-aem-5-6-troubleshooting.md)
+   + [Arkitektur för AEM 5.6-plattformen](gems2013/aem-architecture-of-the-aem-5-6-platform.md)
+   + [CQ/AEM 5.6 - felsökning](gems2013/aem-cq-aem-5-6-troubleshooting.md)
    + [eCommerce Integration Framework](gems2013/aem-ecommerce-integration-framework.md)
-   + [hybris/AEM 5.6 Integrering av e-handelns ramverk](gems2013/aem-hybris-ecommerce-framework-integration.md)
-   + [Introduktion till jobbhantering och avlastning i AEM 5.6.1.](gems2013/aem-job-handling-and-offloading.md)
+   + [hybris/AEM 5.6 Integrering av e-handelsramverket](gems2013/aem-hybris-ecommerce-framework-integration.md)
+   + [Introduktion till hantering och avlastning av jobb i AEM 5.6.1.](gems2013/aem-job-handling-and-offloading.md)
    + [Startar - samtidig förberedelse av flera versioner av en webbplats (AEM 5.6)](gems2013/aem-launches.md)
    + [AEM 5.6 Media Publisher - djupdykning](gems2013/aem-media-publisher-deep-dive.md)
-   + [Metadatahantering AEM DAM](gems2013/aem-metadata-management-in-aem-dam.md)
+   + [Metadatahantering i AEM DAM](gems2013/aem-metadata-management-in-aem-dam.md)
    + [Mobile-First Development with CQ made easy](gems2013/aem-mobile-first-development-with-cq-made-easy.md)
    + [Effektivare flerspråkig innehållsprocess](gems2013/aem-streamlining-multilingual-content-process.md)
-   + [AEM 5.6 uppgraderingsfunktioner](gems2013/aem-upgrade-mechanisms.md)
+   + [AEM 5.6 - uppgraderingsfunktioner](gems2013/aem-upgrade-mechanisms.md)
 
 <!--
 + [Archive] {#archive}

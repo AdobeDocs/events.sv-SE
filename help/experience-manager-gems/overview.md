@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM Sessions
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '923'
 ht-degree: 0%
 
 ---
@@ -36,17 +36,41 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
 
 <!-- CARDS
 
+* gems2025/maximize-impact-with-sites-optimizer.md
 * gems2025/getting-started-adobe-managed-cdn.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AEM GEMs - Maximize the impact of your web experience with AEM Sites Optimizer">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="gems2025/maximize-impact-with-sites-optimizer.md" title="AEM GEM - Maximera effekten av webbupplevelsen med AEM Sites Optimizer" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464069/?format=jpeg&nocache=1751034389257" alt="AEM GEM - Maximera effekten av webbupplevelsen med AEM Sites Optimizer"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="gems2025/maximize-impact-with-sites-optimizer.md" target="_blank" rel="referrer" title="AEM GEM - Maximera effekten av webbupplevelsen med AEM Sites Optimizer">AEM GEM - Maximera effekten av webbupplevelsen med AEM Sites Optimizer</a>
+                    </p>
+                    <p class="is-size-6">Upptäck hur Sites Optimizer använder AI för att förbättra webbplatsens prestanda, SEO och användarinteraktion med realtidsinsikter och rekommendationer för marknadsförings- och utvecklingsteam.</p>
+                </div>
+                <a href="gems2025/maximize-impact-with-sites-optimizer.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AEM GEMs - Getting started with Adobe Managed CDN">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2025/getting-started-adobe-managed-cdn.md" title="AEM GEM - Komma igång med Adobe Managed CDN" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443168/?format=jpeg&nocache=1739484199651" alt="AEM GEM - Komma igång med Adobe Managed CDN"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443168/?format=jpeg&nocache=1751034389279" alt="AEM GEM - Komma igång med Adobe Managed CDN"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,7 +110,7 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/aem-authoring-and-edge-delivery.md" title="Komma igång med AEM Authoring och Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427919/?format=jpeg&nocache=1739484200021" alt="Komma igång med AEM Authoring och Edge Delivery Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427919/?format=jpeg&nocache=1751034389807" alt="Komma igång med AEM Authoring och Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -109,7 +133,7 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/content-management-apis.md" title="AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435036/?format=jpeg&nocache=1739484200038" alt="AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435036/?format=jpeg&nocache=1751034389752" alt="AEM GEMs - Unlocking the Power of AEM Sites - Master the Content Management APIs"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -132,7 +156,7 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/edge-delivery-for-aem-assets.md" title="Integrera AEM Assets med Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433046/?format=jpeg&nocache=1739484200051" alt="Integrera AEM Assets med Edge Delivery Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433046/?format=jpeg&nocache=1751034389820" alt="Integrera AEM Assets med Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -155,7 +179,7 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/edge-delivery-for-aem-forms.md" title="Komma igång med Edge Delivery Services för AEM Forms" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428434/?format=jpeg&nocache=1739484200089" alt="Komma igång med Edge Delivery Services för AEM Forms"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428434/?format=jpeg&nocache=1751034389770" alt="Komma igång med Edge Delivery Services för AEM Forms"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +202,7 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md" title="Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430198?format=jpeg&nocache=1739484200062" alt="Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430198?format=jpeg&nocache=1751034389783" alt="Förbättra utvecklarupplevelsen för AEM Assets med våra nya API:er och händelser"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -201,7 +225,7 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/private-github-for-aem-cloud-manager.md" title="Integrera privata GitHub-databaser i AEM Cloud Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432350?format=jpeg&nocache=1739484200072" alt="Integrera privata GitHub-databaser i AEM Cloud Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432350?format=jpeg&nocache=1751034389832" alt="Integrera privata GitHub-databaser i AEM Cloud Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -224,7 +248,7 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/rapid-development-environment-news.md" title="Nyheter i Rapid Development Environment för AEM?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433337/?format=jpeg&nocache=1739484200081" alt="Nyheter i Rapid Development Environment för AEM?"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433337/?format=jpeg&nocache=1751034389733" alt="Nyheter i Rapid Development Environment för AEM?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -247,7 +271,7 @@ Webbinarierna genomförs regelbundet.  Viktiga tips,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md" title="Building Storefront on Edge Delivery Services with Adobe Commerce" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427729?format=jpeg&nocache=1739484200100" alt="Building Storefront on Edge Delivery Services with Adobe Commerce"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427729?format=jpeg&nocache=1751034389795" alt="Building Storefront on Edge Delivery Services with Adobe Commerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -305,7 +329,7 @@ If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
 
 Our latest AEM GEMs webinar on **Unlocking the Power of AEM Sites - Master the Content Management APIs** has been conducted on *October 9th, 2024*.
 The **recording** can be viewed here:
-[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/sv/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
+[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
