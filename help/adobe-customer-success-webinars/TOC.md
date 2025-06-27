@@ -2,7 +2,7 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success-led webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe lösningar.
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: 4c9f94ad75729c99d650b4fa5d280b6941b374c7
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 + [Adobe Customer Success Webinars](overview.md)
 + 2025 {#2025}
-   + [Mastering AEM Sites](2024/mastering-aem-sites.md)
+   + [Mastering AEM Sites](2025/mastering-aem-sites.md)
    + [Workfront och JIRA](2025/workfront-and-jira.md)
    + [Transformerar B2B och B2B2C Commerce](2025/transforming-b2b-commerce.md)
    + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
