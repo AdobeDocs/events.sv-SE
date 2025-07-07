@@ -3,7 +3,7 @@ title: Experience Cloud Tech Sessions
 description: Förbättra dina färdigheter i Adobe Experience Cloud med live- och on-demand Tech Sessions som leds av Adobe experter. Få användbara tips och strategier när som helst för en smidig inlärningsupplevelse.
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
 duration: 53
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: 52e39cd07f1ccc8cea2fc6f628cce1c84161f491
 workflow-type: tm+mt
 source-wordcount: '1523'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Utnyttja Adobe Experience Cloud fulla potential med livesessioner och on demand-sessioner. Dessa webbinarier är noggrant utformade för att gå utöver traditionell support. Sessionerna leds av erfarna Adobe-experter och ger värdefulla tips, råd och strategier som hjälper dig att navigera i tekniska lösningar utan problem och som undviker vanliga fallgropar. Adobe experter är tekniker som arbetar aktivt med det dagliga arbetet. Med både live- och on-demand-alternativ kan ni få tillgång till informationen när ni behöver den, vilket ger en smidig inlärning.
 
-## Sessioner 2054
+## Sessioner 2025
 
 <!-- CARDS
 {cta = Watch}
