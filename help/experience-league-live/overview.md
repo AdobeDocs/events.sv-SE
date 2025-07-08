@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 0ee7c933d4278a09b3c69373c4bbc21274279ec8
+source-git-commit: 1617cde0fc7e455a4cf9dfb3d1082d9abe79620d
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '156'
 ht-degree: 1%
 
 ---
@@ -28,10 +28,6 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-31-25.md">
               <img alt="Experience League LIVE 31 juli" src="episodes/assets/WebBanner-31July2025.png">
             </a>
-            <div>
-              <a href="episodes/exl-live-episode-07-31-25.md">
-                <strong> Prioritering av huvudfrekvens och konflikter </strong>
-              </a>
             </div>
         </td>
     </tr>
@@ -100,5 +96,5 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 >[!TIP]
 >
->Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/sv#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=sv-SE).
+>Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
