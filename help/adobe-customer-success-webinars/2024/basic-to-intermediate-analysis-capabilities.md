@@ -9,16 +9,16 @@ duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
 exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: a36ab2aa1a741baae0e23a4b8ad8f8418fcdbe59
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
 
 ---
 
-# Adobe Analytics &amp; CJA: Snabbstart för grundläggande till mellanliggande analysfunktioner
+# Adobe Analytics &amp; CJA: Snabbstart för grundläggande och mellanliggande analysfunktioner
 
-Lär dig hur du snabbt kommer igång med Adobe Analytics och Customer Journey Analytics (CJA) för att stödja dina marknadsföringsaktiviteter med datadrivna beslut: Lär dig hur du ställer upp din organisation för stabila analysfunktioner, förstår när du bäst ska använda vilken analyslösning som används samt kartlägga Analytics- och CJA-funktioner för att analysera mognadsnivåer för att skapa viktiga marknadsföringsrapporter.
+Lär dig hur du snabbt kommer igång med Adobe Analytics och Customer Journey Analytics (CJA) för att stödja dina marknadsföringsaktiviteter med datadrivna beslut: Lär dig hur du ställer in din organisation för stabila analysfunktioner, förstår när du bäst ska använda vilken analyslösning som används samt mappa Analytics- och CJA-funktioner till mognadsnivåer för analyser för att skapa viktiga marknadsföringsrapporter.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440933/?learn=on&enablevpops)
 
@@ -30,7 +30,7 @@ Lär dig hur du snabbt kommer igång med Adobe Analytics och Customer Journey An
 
 * **Introduktion av högtalare**
    * Frederick, en Senior Customer Success Manager på Adobe, presenterade sessionen.
-   * Dr Kirsten Schaffer, rektor på Customer Success Manager på Adobe, är presentatör.
+   * Dr Kerstin Schäfer, rektor på Customer Success Strategiist på Adobe, är presentatör.
 
 * **Sessionsinnehåll**
    * Sessionen handlar om att skapa en organisation för stabila analysfunktioner, styrningsaspekter och löpande banor för analyser och kundreseanalyser.
