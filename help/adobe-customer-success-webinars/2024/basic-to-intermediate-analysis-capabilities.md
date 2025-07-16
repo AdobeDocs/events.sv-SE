@@ -9,7 +9,7 @@ duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
 exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
-source-git-commit: a36ab2aa1a741baae0e23a4b8ad8f8418fcdbe59
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Lär dig hur du snabbt kommer igång med Adobe Analytics och Customer Journey An
 ## Huvudpunkter
 
 * **Sessionsöversikt**
-   * Mötet heter&quot;Quickstart for Basic Intermediate Analysis Capabilities&quot; och leds av Dr Kirsten Schaffer.
+   * Mötet heter&quot;Quickstart for Basic Intermediate Analysis Capabilities&quot; och leds av Dr Kerstin Schäfer.
    * Sessionen spelas in och länken till inspelningen skickas till alla registrerade deltagare.
 
 * **Introduktion av högtalare**

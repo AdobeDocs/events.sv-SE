@@ -1,6 +1,7 @@
 ---
 title: Låsa upp kraftfull arbetsflödesautomatisering - praktiska program för Marketo Engage REST API
-description: Utnyttja Marketo Engage REST API:ts potential för att automatisera arbetsflöden för marknadsföring, integrera verktyg som Zapier, utnyttja Python för satsningar och effektivisera uppgifter som sammanslagning av leads, UTM-spårning och extrahering av aktivitetsdata.
+description: Frigör potentialen i Marketo Engage REST API för att automatisera arbetsflöden för marknadsföring, integrera verktyg som Zapier, utnyttja Python för satsningar och effektivisera uppgifter som sammanslagning av leads, UTM-spårning och extrahering av aktivitetsdata.
+solution: Marketo Engage
 feature: REST API
 role: Admin
 level: Beginner, Intermediate
@@ -9,7 +10,7 @@ duration: 2447
 last-substantial-update: 2024-04-19T00:00:00Z
 jira: KT-15347
 exl-id: bdfc3a26-0af1-4f39-b9ed-2842fecea17c
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -18,7 +19,7 @@ ht-degree: 0%
 
 # Låsa upp kraftfull arbetsflödesautomatisering: Praktiska program i Marketo Engage REST API
 
-Upptäck möjligheterna i Marketo Engage REST API, som ger er möjlighet att effektivisera era arbetsflöden för marknadsföringsaktiviteter, minska det manuella arbetet och frigöra tid för intäktsskapande aktiviteter. Med REST API kan ni utnyttja automatiseringsverktyg som Zapier för att aktivera automatiserade arbetsflöden och programmeringsspråk som Python för att utföra satsvis.
+Upptäck styrkan i Marketo Engage REST API, som ger er möjlighet att effektivisera era arbetsflöden för marknadsföringsaktiviteter, minska det manuella arbetet och frigöra tid för intäktsskapande aktiviteter. Med REST API kan ni utnyttja automatiseringsverktyg som Zapier för att aktivera automatiserade arbetsflöden och programmeringsspråk som Python för att utföra satsvis.
 
 I det här webbinariet kommer du att:
 

@@ -2,19 +2,20 @@
 title: Anställa webbinariet Workfront systemadministratör
 description: Lär dig av experter från Dell och Adobe Workfront om systemadministratörernas strategiska betydelse i vårt on-demand-webbinarium. Tips om hur man säkrar heltidsanställda, utnyttjar rollen som gruppadministratör och definierar rollprofiler för effektiv installation och skalbarhet i Adobe Workfront.
 topic: Administration
+solution: Workfront
 role: Admin, Leader
 level: Beginner
 doc-type: Event
 duration: 3638
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15827
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 51619ec3-f5d5-48a9-aa29-fbaa2289a576
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
-
 
 # Anställa rutinen för systemadministratörer i Workfront
 

@@ -3,18 +3,19 @@ title: öka effektiviteten i Workfront med webbinariet för automatisering
 description: Lär dig effektiva underhållsstrategier för Adobe Workfront i vårt on-demand-webbinarium. Tips från Stanley Black & Decker och Workfront experter om hur man automatiserar repetitiva arbetsmoment med hjälp av Fusion-mallar och föränderliga arbetsflödesprocesser för optimal effektivitet.
 feature: Workfront Fusion
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3682
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15822
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: a3fc6790-7ae6-4d6e-b2ee-6d2dcb6129f6
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # öka effektiviteten i Workfront med automatisering
 

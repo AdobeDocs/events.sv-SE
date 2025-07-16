@@ -4,22 +4,23 @@ description: Lär dig av andra användare om Adobe Workfront systemadministratö
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3647
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15818
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: e9f90ac6-2b16-4495-b7d5-ba29237160b7
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-
 # Användaren har anammats
 
 Att vara systemadministratör för Adobe Workfront är mer än att bara förstå programvaran och implementeringsfunktionerna. Systemadministratörer ansvarar för att kommunicera en tydlig anslutning till slutanvändarna för VARFÖR din organisation använder Workfront - OCH, vad finns i den för dem.
 
-I detta on-demand-webbinarium, Cynthia Boon och Leslie Spier, Customer Success Managers (och tidigare kunder!) tillsammans med Workfront kommer Karlton Harrison, VP, Data Platform Engineer från Truist. Tillsammans har de erfarenhet av det här området från flera år, och de kommer att omfatta:
+I detta on-demand-webbinarium kommer Cynthia Boon och Leslie Spier, Customer Success Managers (och tidigare kunder!) med Workfront, att förenas av Karlton Harrison, VP, Data Platform Engineer från Truist. Tillsammans har de erfarenhet av det här området från flera år, och de kommer att omfatta:
 
 * Så här identifierar du orsakerna till att slutanvändaren har valt att använda produkten dåligt
 * Tips för att dokumentera och informera om förväntat antagande

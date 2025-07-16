@@ -4,16 +4,17 @@ description: Lär dig av erfarna proffs hur du tar över en Workfront-instans. F
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3641
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15820
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 742737b9-4177-4a21-a883-ba6b67d67195
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
-
 
 # Tips för att ta över en befintlig Workfront-instans
 
@@ -25,6 +26,6 @@ I det här on-demand-webbinariet Jace Newbold, Manager of Consulting på Workfro
 * Vad alla administratörer bör göra idag för att skapa sig själva (och framtida administratörer) för framgång
 * En nedladdningsbar checklista med frågor, resurser och länkar som hjälper dig genom processen att granska och dokumentera din instans
 
-Se även till att du checkar ut listan Ärvda instanskontroller och utkast: https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
+Se även till att du checkar ut listan Ärvda instanskontroller och utkast: https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431014/?learn=on)

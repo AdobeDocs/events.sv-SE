@@ -4,22 +4,23 @@ description: Lär dig av ändringshanteringsexperter om hur du navigerar överg�
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3634
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15819
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: ed2935e2-007f-4b7b-96e6-2fe0856c32a8
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
-
 # Navigera i ändringshantering
 
 Förändringarna är oundvikliga, men sällan enkla. Alla förändringar - personliga eller yrkesmässiga - kan leda till stress, spänning, ångest med mera. Vi kan inte hjälpa det! Det är så vår hjärna är kopplade. Men... det är möjligt att bli bekväm med förändring.
 
-I detta on-demand-webbinarium, Leigh Burger, Change management guru och Principal Customer Success Manager med Adobe Workfront, kommer att förenas av Julie Simon, Director, Marketing Project Portfolio Management och Lexi McGraw, Project Portfolio Manager från Penn State University. De är unika med att skapa positiva och meningsfulla förändringar, och tillsammans täcker de följande:
+I detta on-demand-webbinarium, Leigh Burger, Change Management Guru och Principal Customer Success Manager med Adobe Workfront, kommer att förenas av Julie Simon, Director, Marketing Project Portfolio Management och Lexi McGraw, Project Portfolio Manager från Penn State University. De är unika med att skapa positiva och meningsfulla förändringar, och tillsammans täcker de följande:
 
 * Ändringens anatomi
 * Hur hjärnan upplever förändring (och VARFÖR)

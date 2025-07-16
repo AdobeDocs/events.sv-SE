@@ -2,7 +2,9 @@
 user-guide-title: Commerce- och Coffee Events
 breadcrumb-title: Commerce- och Coffee Events
 user-guide-description: Adobe Commerce och Coffee är ett videobibliotek där experter och kollegor har delat med sig av sina tankar och idéer om hur man använder Adobe Commerce.
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+solution: Commerce
+type: Event
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 6%
