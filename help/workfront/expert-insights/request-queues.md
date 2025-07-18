@@ -33,9 +33,9 @@ Under vår chatt delade Lyndsy,
 
 Här är de resurser vi diskuterade tillsammans med några extra länkar för frågeköer och köämnen:
 
-* Resurser om hur du [hanterar en ärvd instans](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance), innehåller länken till webbinariet och information om [självstudiekursen om utkast](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
+* Resurser om hur du [hanterar en ärvd instans](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance), innehåller länken till webbinariet och information om [självstudiekursen om utkast](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
 
-* Dokumentation för frågeköer: [Skapa köämnen](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* Dokumentation för frågeköer: [Skapa köämnen](https://experienceleague.adobe.com/sv/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
 * Lyndsys webbseminariepresentation för [Systemadministratörsinformation](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096): Kommunicera med slutanvändare (den här sidan innehåller även en länk till [slutanvändarens kokbok](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439))
 

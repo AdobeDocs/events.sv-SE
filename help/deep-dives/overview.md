@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Djupdykningshändelser
 
-Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resurserna tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/marketo-engage.html) och [självstudiekurserna](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) för Adobe Marketo får du en bättre förståelse för hur du använder Adobe Marketo för att stödja ditt företag.
+Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resurserna tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=sv-SE) och [självstudiekurserna](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=sv-SE) för Adobe Marketo får du en bättre förståelse för hur du använder Adobe Marketo för att stödja ditt företag.
 
 <!-- CARDS
 
