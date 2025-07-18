@@ -27,7 +27,7 @@ Spara tid genom att kopiera och klistra in beräkningarna nedan.
 >[!NOTE]
 >
 >Syntaxen för anpassade fältberäkningar har ändrats sedan presentationen gjordes 2019, men de begrepp och andra instruktioner som ges i presentationen är fortfarande korrekta.
->>**De beräkningar som ingår nedan har uppdaterats för att återspegla de senaste syntaxreglerna.**
+>&#x200B;>**De beräkningar som ingår nedan har uppdaterats för att återspegla de senaste syntaxreglerna.**
 
 **Första implementeringsdatum**
 
