@@ -1,6 +1,7 @@
 ---
-title: Lägga in AI och Personalization i Adobe Experience Manager-Edge Delivery Services
-description: Lär dig integrera AI och personalisering i Adobe Experience Manager-Edge Delivery Services med grundläggande arkitektur, semantisk sökning och avancerade användningsexempel från Andreas Haller, Principal Solution Architect på Cognizant Netcentric.
+title: Gör AI och Personalization till Adobe Experience Manager Edge Delivery Services
+description: Lär dig hur du integrerar AI och personalisering i Adobe Experience Manager Edge Delivery Services med grundläggande arkitektur, semantisk sökning och avancerade användningsexempel från Andreas Haller, Principal Solution Architect på Cognizant Netcentric.
+solution: Experience Manager as a Cloud Service, Experience Manager
 feature: Edge Delivery Services, Search, Generative AI
 topic: Artificial Intelligence, Personalization
 role: Developer
@@ -9,19 +10,19 @@ doc-type: Event
 duration: 1029
 last-substantial-update: 2024-11-25T00:00:00Z
 jira: KT-16578
-source-git-commit: 8770c8172ee90524079efc65aec7e129f1d1d031
+exl-id: d560045b-4404-41f6-b53e-787877faab5b
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
+# Gör AI och Personalization till Adobe Experience Manager Edge Delivery Services
 
-# Lägga in AI och Personalization i Adobe Experience Manager-Edge Delivery Services
+Upptäck grundläggande arkitektur för att integrera personalisering och AI i Adobe Experience Manager Edge Delivery Services. Följ Andreas Haller, Principal Solution Architect på Cognizant Netcentric, som demonstrerar semantisk sökning och avancerade användningsexempel för att förbättra dina projekt.
 
-Upptäck grundläggande arkitektur för att integrera personalisering och AI i Adobe Experience Manager-Edge Delivery Services. Gå med i Andreas Haller, Principal Solution Architect på Cognizant Netcentric, där han demonstrerar semantisk sökning och avancerade användningsexempel för att förbättra dina projekt.
-
->[!VIDEO](https://video.tv.adobe.com/v/3440410/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3440405/?learn=on&enablevpops)
 
 ## Community-diskussion
 

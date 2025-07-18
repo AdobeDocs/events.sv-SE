@@ -1,23 +1,24 @@
 ---
 title: AEM GEM - Komma igång med Adobe Managed CDN
-description: Lär dig hur du konfigurerar hanterad CDN för Adobe i AEM Cloud Service för att förbättra prestanda och säkerhet med nya CDN-konfigurationsfunktioner.
+description: Lär dig hur du konfigurerar Adobe Managed CDN i AEM Cloud-tjänsten för att förbättra prestanda och säkerhet med nya CDN-konfigurationsfunktioner.
 role: Developer, User
 level: Intermediate
+feature: Edge Delivery Services
 doc-type: Event
 duration: 3438
 last-substantial-update: 2025-01-30T00:00:00Z
 jira: KT-17227
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+exl-id: 4cd0332f-95bf-45f4-a765-aba020c0d7b0
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 0%
 
 ---
 
-
 # AEM GEM - Komma igång med Adobe Managed CDN
 
-Lär dig mer om hanterad CDN i AEM Cloud Service och hur den kan konfigureras. Följ oss och utforska de nya CDN-konfigurationsfunktionerna som kan användas för att förbättra både prestanda och säkerhet i dina AEM as a Cloud Service-program. I den här sessionen kommer du att upptäcka
+Lär dig mer om Adobe hanterade CDN i AEM Cloud-tjänsten och hur den kan konfigureras. Följ oss och utforska de nya CDN-konfigurationsfunktionerna som kan användas för att förbättra både prestanda och säkerhet i dina AEM as a Cloud Service-program. I den här sessionen kommer du att upptäcka
 
 * Vad är Adobe CDN?
 * Relevanta topologier för AEMaaCS och Edge Delivery Services
@@ -28,7 +29,7 @@ Lär dig mer om hanterad CDN i AEM Cloud Service och hur den kan konfigureras. F
 
 *Inspelat den 22 januari 2025*
 
-Har du en fråga, kanske en kommentar?  Gå med i diskussionen i [Experience League Communities](https://adobe.ly/4haufPK)!
+Har du en fråga, kanske en kommentar?  Delta i diskussionen i [Experience League Communities](https://adobe.ly/4haufPK)!
 
 ## Viktiga uppgifter
 
@@ -36,7 +37,7 @@ Har du en fråga, kanske en kommentar?  Gå med i diskussionen i [Experience Lea
 
 * **Anpassade domäner och certifikat** Grundläggande för att skapa säkra anslutningar för anpassade domäner och certifikat.
 * **Cachelagring** Att leverera HTTP-svar från cachen är betydligt snabbare (under 10 millisekunder) jämfört med att hämta från ursprungsläget (hundratals millisekunder).
-* **Körklar och anpassad CDN** Adobe ger ett körklart CDN, men användare kan också ta med sitt eget CDN.
+* **Körklar och anpassad CDN** Adobe har ett körklart CDN, men användare kan också ha ett eget CDN.
 
 ### Konfigurationsalternativ
 
@@ -50,7 +51,7 @@ Har du en fråga, kanske en kommentar?  Gå med i diskussionen i [Experience Lea
 
 * **Konfigurationspipeline** Distribuera YAML-filer för att konfigurera CDN-regler.
 * **Trafikskydd** Använd trafikfilterregler för att blockera, logga och avisera trafik baserat på mönster.
-* **Hastighetsbegränsning** Protect mot DDoS-attacker genom att begränsa antalet begäranden per IP.
+* **Hastighetsbegränsning** Skydda dig mot DDoS-attacker genom att begränsa antalet begäranden per IP.
 
 ### Verktyg och analys
 

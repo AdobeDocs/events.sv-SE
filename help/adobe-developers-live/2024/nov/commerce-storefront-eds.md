@@ -1,7 +1,7 @@
 ---
-title: Utveckla exceptionella Commerce Storefront-upplevelser med Edge Delivery Services och Adobe Commerce
+title: Utveckla exceptionella Commerce Storefront-upplevelser med Edge Delivery Services & Adobe Commerce
 description: Genom att integrera marknadsföringstjänster med Adobe Commerce förbättras e-handelns frontlinjer tack vare effektiva upplevelser, snabb kantleverans, anpassningsbara Adobe Commerce-tillägg och en enhetlig teknologi för förbättrad SEO, snabbare sidladdning och smidiga utvecklarupplevelser.
-solution: Commerce, Experience Manager
+solution: Commerce, Experience Manager, Experience Manager as a Cloud Service
 feature: Storefront, Edge Delivery Services
 topic: Commerce
 role: Developer
@@ -10,17 +10,17 @@ doc-type: Event
 duration: 1234
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16544
-source-git-commit: b2d78f813c0b47e240bc4872f1d627651ef8284d
+exl-id: 6447e5df-3a7d-46fc-af43-ba362c1cdd9f
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '311'
 ht-degree: 0%
 
 ---
 
+# Utveckla exceptionella Commerce Storefront-upplevelser med Edge Delivery Services &amp; Adobe Commerce
 
-# Utveckla exceptionella Commerce Storefront-upplevelser med Edge Delivery Services och Adobe Commerce
-
-Vad krävs för att skapa exceptionella e-handelslager? Surya Lamech, Senior Product Marketing Manager och Deck Reyes, Practice Lead for Adobe Experience Manager Expert Solutions, berättar hur innehåll, resurser, nya Commerce &quot;drop-ins&quot; och Edge Delivery Services ökar upplevelsen för e-handelsutvecklare.
+Vad krävs för att skapa exceptionella e-handelslager? Surya Lamech, Senior Product Marketing Manager, and Deck Reyes, Practice Lead for Adobe Experience Manager Expert Solutions, break how content, assets, new Commerce &quot;drop-ins&quot;, and Edge Delivery Services höjer upplevelsen för e-handelsutvecklare.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439471/?learn=on&enablevpops)
 
@@ -35,7 +35,6 @@ Fortsätt konversationen i [diskussionen](https://adobe.ly/3Ccxkja) i Adobe Deve
 * **Adobe Commerce Drop-ins** Dessa är modulära, förbyggda, kostnadseffektiva, anpassningsbara och utökningsbara komponenter som definierar butiksupplevelsen, till exempel produktinformationssidor, kundvagn och utcheckning.
 * **Teknikhög** Integreringen innebär att du använder enkla CSS-, JavaScript- och API:er. Adobe Commerce har ett supersnabb API via Federation Gateway.
 * **Innehållshantering** Användare kan skapa och hantera innehåll med hjälp av olika redigeringsverktyg, bland annat APM-redigering, SharePoint, Google Drive och Microsoft Word.
-* **Integrationsstarter Kit** Adobe tillhandahåller ett startkit som förenklar och snabbar upp integreringsprocessen med fördefinierade dataflöden för vanliga objekt som produkter, kunder, lager, order och leveranser.
-* **Utvecklarupplevelsen** Adobe syftar till att ge en enhetlig utvecklarupplevelse i Adobe Commerce och Adobe Experience Manager (AEM) med samma teknologi och kompetens.
+* **Integrationsstartpaket** Adobe innehåller ett startpaket som förenklar och snabbar upp integreringsprocessen med fördefinierade dataflöden för vanliga objekt som produkter, kunder, lager, order och leveranser.
+* **Utvecklarupplevelse** Adobe syftar till att ge en enhetlig utvecklarupplevelse i Adobe Commerce och Adobe Experience Manager (AEM) med samma teknologi och kompetens.
 * **Resurser** Adobe erbjuder olika utbildningsmaterial, kodexempel och självstudiekurser som hjälper utvecklare att skapa och underhålla exceptionella shoppingupplevelser effektivt.
-
