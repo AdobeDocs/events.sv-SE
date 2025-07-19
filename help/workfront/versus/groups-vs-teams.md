@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Hej Workfront, det är din&quot;On-Demand Workfront CSM&quot;! I den här versus! delar jag några idéer och rekommendationer för att använda grupper jämfört med team.
 
->[!VIDEO](https://video.tv.adobe.com/v/3465273/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3467357/?learn=on&enablevpops&captions=swe)
 
 Vill du veta mer om grupper och team?
 
