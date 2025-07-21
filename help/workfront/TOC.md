@@ -3,9 +3,9 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 6925343d683d029536f93cfedd93ec2290bea78d
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,19 @@ ht-degree: 0%
 
 # Workfront Events {#workfront-recordings}
 
-+ [Workfront användargrupper och webbinarier](overview.md)
++ [Workfront On-demand Workshops](overview.md)
 
++ Versionswebbseminarier {#releases}
+   + [25.7 Utgåva](releases/25-7-release-webinar.md)
+   + [25.4 Utgåva](releases/25-4-release-webinar.md)
+   + [25.1 Utgåva](releases/25-1-release-webinar.md)
+   + [24.1 Utgåva](releases/24-1-release-webinar.md)
 + Överkant 3 {#top3}
    + [Creative-metoder med utkast](top3/blueprints.md)
 + Jämfört! {#versus}
    + [Grupper kontra team](versus/groups-vs-teams.md)
 + Expertinsikter {#expert-insights}
-+[Begär köer med Lyndsy Denk](expert-insights/request-queues.md)
+   + [Begär köer med Lyndsy Denk](expert-insights/request-queues.md)
 + Workshop Rewind {#workshop-rewind}
    + Arbetsflöde {#workflow}
       + [Creative sätt att hantera resurser](classics/creative-ways-of-managing-resources.md)
@@ -63,9 +68,5 @@ ht-degree: 0%
    + Begär köer och indata {#request-queues-and-intake}
       + [Begär köer och ta in Forms](user-groups/request-queues-and-intake-forms.md)
 
-+ Utgåvor {#releases}
-   + [25.7 Utgåva](releases/25-7-release-webinar.md)
-   + [25.4 Utgåva](releases/25-4-release-webinar.md)
-   + [25.1 Utgåva](releases/25-1-release-webinar.md)
-   + [24.1 Utgåva](releases/24-1-release-webinar.md)
+
 
