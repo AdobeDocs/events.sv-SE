@@ -2,10 +2,10 @@
 user-guide-title: Experience Cloud Tech Sessions
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud Tech Sessions är ett förebyggande sätt att hantera alla fall genom att erbjuda kunderna lösningsspecifika webbinarier.
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: 7db60ca1557fb99ae5fb8bd7181317710ed5f90f
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 13%
+source-wordcount: '165'
+ht-degree: 12%
 
 ---
 
@@ -14,13 +14,14 @@ ht-degree: 13%
 
 + [Experience Cloud Tech Sessions](overview.md)
 + 2025 {#2025}
-   + [Migrera Adobe Analytics till AEP Web SDK](2025/migrate-analytics-to-aep-web-sdk.md)
    + [Adobe Campaign Classic Delivery Performance Troubleshooting](2025/acc-delivery-performance.md)
    + [Dispatcher Configurations in AEM as a Cloud Service](2025/dispatcher-configurations.md)
    + [Få ut mesta möjliga av Marketo Measure](2025/getting-most-marketo-measure.md)
+   + [Snabbt och Adobe Commerce](2025/fastly-and-adobe-commerce.md)
    + Marketo migrering till Adobe Admin Console {#marketo-admin-console}
       + [Före migrering](2025/marketo-pre-migration.md)
       + [Efter migrering](2025/marketo-post-migration.md)
+   + [Migrera Adobe Analytics till AEP Web SDK](2025/migrate-analytics-to-aep-web-sdk.md)
 + 2024 {#2024}
    + Plattform för innehållsdata i realtid {#rtcdp-office-hours-2024}
       + [AEP Web SDK - felsökning](2024/aep-web-sdk-troubleshooting.md)
