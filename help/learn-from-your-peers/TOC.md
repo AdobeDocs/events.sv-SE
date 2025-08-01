@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Samling med inspelningar från  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 97016d0d62c2eefca2fd305fedc093c814e3bcc9
+source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 10%
+source-wordcount: '334'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 10%
    + 2023 {#2023}
       + November {#nov2023}
          + [Effektiv datavisualiseringar](analytics/nov2023/impactful-data-visualizations.md)
-      + augusti {#aug2023}
+      + Augusti {#aug2023}
          + [Frigöra kraften i Bearbetningsregler i Adobe Analytics](analytics/aug2023/processing-rules.md)
       + Februari {#feb2023}
          + [Bygga en datadriven kultur](analytics/feb2023/data-driven-culture.md)
@@ -26,7 +26,7 @@ ht-degree: 10%
       + November {#nov2022}
          + [Tips och tricks](analytics/nov2022/tips-and-tricks.md)
          + [Champion Tips and Tricks - uppföljningsfrågor och svar](analytics/nov2022/tips-and-tricks-q-and-a.md)
-      + augusti {#aug2022}
+      + Augusti {#aug2022}
          + [Datakvalitet och acceptans](analytics/aug2022/data-quality.md)
       + Juni {#jun2022}
          + [Dokumentationsuppdrag möjligt](analytics/june2022/mission-possible.md)
@@ -100,7 +100,7 @@ ht-degree: 10%
          + [Arbetsflöde och processdesign](workfront/2022/10/workflow-and-process-design.md)
       + September {#september}
          + [Komma igång med resurshantering](workfront/2022/09/getting-started-with-resource-management.md)
-      + augusti {#august}
+      + Augusti {#august}
          + [Systemunderhåll och -rensning](workfront/2022/08/system-maintenance-and-cleanup.md)
       + Juli {#july}
          + [Allt om begärandeköer](workfront/2022/07/all-about-request-queues.md)
@@ -114,4 +114,5 @@ ht-degree: 10%
          + [Vad är Workfront ledning?](workfront/2022/03/what-is-workfront-governance.md)
       + Februari {#february}
          + [Förstå användarhantering](workfront/2022/02/understanding-user-management.md)
++ [Utforska Adobe användargrupper i Experience Cloud](./adobe-user-groups.md)
 + [Läs om hur du anmäler dig till en Champion](./adobe-champion-application.md)
