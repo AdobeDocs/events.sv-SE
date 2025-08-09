@@ -2,10 +2,10 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success-led webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe lösningar.
-source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
+source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 0%
+source-wordcount: '475'
+ht-degree: 4%
 
 ---
 
@@ -14,44 +14,58 @@ ht-degree: 0%
 
 + [Adobe Customer Success Webinars](overview.md)
 + 2025 {#2025}
-   + [AEM nya teknik](2025/personalized-experiences-aem.md)
-   + [AEM med GenAI](2025/aem-genai.md)
-   + [Integrering med AEM och Workfront](2025/aem-workfront-integration.md)
-   + [AI och Adobe Target](2025/ai-adobe-target.md)
-   + [AI - bortom grunderna](2025/ai-beyond-basics.md)
-   + [AI-Drive-automatisering i Workfront](2025/unlock-efficiency-ai-drive-automation-workfront.md)
-   + [Best Practices and Insights for Modeling XDM Schemas](2025/model-xdm-schemas.md)
-   + [Bygga effektiva webbsidor](2025/build-effective-web-pages.md)
-   + [Grundläggande om innehållsleveranskedjan](2025/content-supply-chain-basics.md)
-   + [Skapa strategier för effektiv mätning](2025/impactful-insights.md)
-   + [Att skapa en flexibel marknadsorganisation](2025/agile-marketing-organization.md)
-   + [Data Distiller 101](2025/data-distiller-101.md)
-   + [Optimering av digitala upplevelser med AI-insikter](2025/accelerating-digital-experience-optimization.md)
-   + [Digitala trender och förberedelser inför framtiden](2025/digital-trends-preparing-future.md)
-   + [Skapa kundengagemang](2025/driving-customer-engagement.md)
-   + [Förbättra lojalitetsprogram via Personalization och data](2025/enhance-loyalty-programs.md)
-   + [Förbättra Personalization](2025/enhancing-personalization.md)
-   + [Foundational Architecture](2025/cja-vision.md)
-   + [GenAI-experiment](2025/gen-ai-experimentation.md)
-   + [GenStudio for Performance Marketing-operativmodell](2025/genstudio-for-performance-marketing-operating-model.md)
-   + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
-   + [Mastering AEM Sites](2025/mastering-aem-sites.md)
-   + [Mastering Digital Asset Manager in AEM Content Hub](2025/mastering-dam-aem-content-hub.md)
-   + [Mastering Sequential Logic - Visual Framework](2025/mastering-sequential-logic.md)
-   + [Mastering av sekventiell logik - startstopp](2025/sequential-logic-start-stop.md)
-   + [Migrera till CJA från Adobe Analytics](2025/analytics-to-cja-migration.md)
-   + [New Relic Essentials för AEM Cloud](2025/new-relic-essentials-aem-cloud.md)
-   + [Northstar Architecture](2025/northstar-architecture.md)
-   + [Optimera AEM-prestanda](2025/optimize-aem-performance.md)
-   + [Personalisera digital kommunikation](2025/personalize-digital-communications.md)
-   + [Vägkarta till värde med CJA](2025/roadmap-to-value-cja.md)
-   + [Vinnande Executive Sponsorship for AEP Projects](2025/exec-sponsorship-aep-projects.md)
-   + [Workfront Fusion Basics &amp; Best Practices](2025/adobe-workfront-fusion-best-practices.md)
-   + [Workfront och JIRA](2025/workfront-and-jira.md)
-   + [Smartare marknadsföring börjar här - integrering av Google och Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
-   + [State of Digital and GenAI Adoption](2025/state-of-digital-and-genai-adoption-webinar.md)
-   + [Transformerar B2B och B2B2C Commerce](2025/transforming-b2b-commerce.md)
-   + [Resultat av semester 2024 och trender 2025](2025/adobe-digital-insights.md)
+   + Commerce {#commerce2025}
+      + [Transformerar B2B och B2B2C Commerce](2025/transforming-b2b-commerce.md)
+   + Customer Journey Analytics {#cja2025}
+      + [Utforma en operativmodell för CJA Success](2025/cja-operating-model.md)
+      + [Foundational Architecture](2025/cja-vision.md)
+      + [Migrera till CJA från Adobe Analytics](2025/analytics-to-cja-migration.md)
+      + [Vägkarta till värde med CJA](2025/roadmap-to-value-cja.md)
+      + [Smartare marknadsföring börjar här - integrering av Google och Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
+   + Experience Manager {#aem2025}
+      + [AEM nya teknik](2025/personalized-experiences-aem.md)
+      + [AEM med GenAI](2025/aem-genai.md)
+      + [Integrering med AEM och Workfront](2025/aem-workfront-integration.md)
+      + [Bygga effektiva webbsidor](2025/build-effective-web-pages.md)
+      + [Skapa kundengagemang](2025/driving-customer-engagement.md)
+      + [Registreringsresa med AEM Forms](2025/payer-enrollment-journey.md)
+      + [Mastering AEM Sites](2025/mastering-aem-sites.md)
+      + [Mastering Digital Asset Manager in AEM Content Hub](2025/mastering-dam-aem-content-hub.md)
+      + [Mastering Dynamic Media with Open API](2025/dynamic-media-open-ai.md)
+      + [New Relic Essentials för AEM Cloud](2025/new-relic-essentials-aem-cloud.md)
+      + [Optimera AEM-prestanda](2025/optimize-aem-performance.md)
+      + [Personalisera digital kommunikation](2025/personalize-digital-communications.md)
+   + Experience Platform {#aep2025}
+      + [AI - bortom grunderna](2025/ai-beyond-basics.md)
+      + [Best Practices and Insights for Modeling XDM Schemas](2025/model-xdm-schemas.md)
+      + [Data Distiller 101](2025/data-distiller-101.md)
+      + [Vinnande Executive Sponsorship for AEP Projects](2025/exec-sponsorship-aep-projects.md)
+   + GenStudio för prestationsbaserad marknadsföring {#genstudio2025}
+      + [GenStudio for Performance Marketing-operativmodell](2025/genstudio-for-performance-marketing-operating-model.md)
+   + Journey Optimizer {#ajo2025}
+      + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
+   + Flera lösningar {#multisolution2025}
+      + [Grundläggande om innehållsleveranskedjan](2025/content-supply-chain-basics.md)
+      + [Optimering av digitala upplevelser med AI-insikter](2025/accelerating-digital-experience-optimization.md)
+      + [Förbättra lojalitetsprogram via Personalization och data](2025/enhance-loyalty-programs.md)
+      + [Förbättra Personalization](2025/enhancing-personalization.md)
+      + [GenAI-experiment](2025/gen-ai-experimentation.md)
+      + [Mastering Sequential Logic - Visual Framework](2025/mastering-sequential-logic.md)
+      + [Mastering av sekventiell logik - startstopp](2025/sequential-logic-start-stop.md)
+   + Target {#target2025}
+      + [AI och Adobe Target](2025/ai-adobe-target.md)
+   + Allmänt {#general2025}
+      + [Resultat av semester 2024 och trender 2025](2025/adobe-digital-insights.md)
+      + [Skapa strategier för effektiv mätning](2025/impactful-insights.md)
+      + [Att skapa en flexibel marknadsorganisation](2025/agile-marketing-organization.md)
+      + [Digitala trender och förberedelser inför framtiden](2025/digital-trends-preparing-future.md)
+      + [Northstar Architecture](2025/northstar-architecture.md)
+      + [State of Digital and GenAI Adoption](2025/state-of-digital-and-genai-adoption-webinar.md)
+   + Workfront {#workfront2025}
+      + [AI-Drive-automatisering i Workfront](2025/unlock-efficiency-ai-drive-automation-workfront.md)
+      + [Workfront Fusion Basics &amp; Best Practices](2025/adobe-workfront-fusion-best-practices.md)
+      + [Workfront och JIRA](2025/workfront-and-jira.md)
+
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Target AI-styrda Personalization](2024/ai-personalization.md)

@@ -1,19 +1,20 @@
 ---
 title: Data Distiller 101
 description: Webbinariet Data Distiller 101 belyser sin kapacitet inom datasegmentering, anrikning och AI/ML-integrering, och erbjuder skalbara lösningar för dataarkitekter och marknadsföringsenheter för att förbättra datadrivet beslutsfattande.
+solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2659
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17375
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: 111724c4-a20b-4b18-b600-c285f54195a8
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
-
 
 # Data Distiller 101
 

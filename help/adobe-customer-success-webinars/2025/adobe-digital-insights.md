@@ -1,19 +1,20 @@
 ---
 title: Adobe Digital Insights - Unwrapping 2024 semesterresultat och i början av 2025 års trender
 description: Delta i Adobe webbinarium för att få insikter om 2024 års helgshoppingtrender och tidiga marknadsprognoser 2025, utforska produktkategorier med hög tillväxt och lär dig de bästa sätten att skapa personaliserade shoppingupplevelser med hjälp av AI och avancerad teknik.
+solution: General
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3049
 last-substantial-update: 2025-02-20T00:00:00Z
 jira: KT-17395
-source-git-commit: f63e6bcb608eb6d03fa2f8b43babf0cb13909f4b
+exl-id: bf20e43a-efc6-4d54-af79-15f89d4fd02b
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Digital Insights: Unwrapping 2024 semesterresultat och i början av 2025 års trender
 

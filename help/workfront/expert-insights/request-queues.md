@@ -4,23 +4,26 @@ description: Workfront experttips om hur du skapar helpdesk-köer, routningsför
 feature: Requests
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
+speaker-name-1: Lyndsy Dent
+speaker-title-1: Marketing Training and Enablement Manager
+speaker-company-1: IDEXX
 doc-type: Event
 duration: 1228
 last-substantial-update: 2025-07-17T00:00:00Z
 jira: KT-18551
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+exl-id: 370e6388-2dc3-4c12-8500-510dac32e867
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
-
 
 # Expertinsikter - Begär köer med Lyndsy Denk
 
 Välkommen till Expert Insights!  Jag är Cynthia Boon, din&quot;On-Demand&quot; Workfront CSM och för det här avsnittet har vi Workfront Celebrity, [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167) ! Vi diskuterar Lyndsys Workfront Story och sedan en djupdykning i hennes kö för helpdesk-frågor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469293/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3465272/?learn=on&enablevpops)
 
 Under vår chatt delade Lyndsy,
 
@@ -33,9 +36,9 @@ Under vår chatt delade Lyndsy,
 
 Här är de resurser vi diskuterade tillsammans med några extra länkar för frågeköer och köämnen:
 
-* Resurser om hur du [hanterar en ärvd instans](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance), innehåller länken till webbinariet och information om [självstudiekursen om utkast](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
+* Resurser om hur du [hanterar en ärvd instans](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance), innehåller länken till webbinariet och information om [självstudiekursen om utkast](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
 
-* Dokumentation för frågeköer: [Skapa köämnen](https://experienceleague.adobe.com/sv/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* Dokumentation för frågeköer: [Skapa köämnen](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
 * Lyndsys webbseminariepresentation för [Systemadministratörsinformation](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096): Kommunicera med slutanvändare (den här sidan innehåller även en länk till [slutanvändarens kokbok](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439))
 
@@ -43,7 +46,7 @@ Här är de resurser vi diskuterade tillsammans med några extra länkar för fr
 
 * Och glöm inte att kolla in [Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798) Fråga mig NÅGOT om Workfront Proof där Lyndsy och Monique Evans och Richard Carlson besvarade dina frågor om korrektur!
 
-### Om Lyndsy
+## Om högtalaren 
 
 Lyndsy är marknadsförings- och aktiveringschef på IDEXX. Förutom Workfront administrerar hon sin DAM och leder intern kommunikation för marknadsföringsavdelningen. Hon har en bakgrund inom tekniskt skrivande, undervisningsdesign, högre utbildning och undervisning i högskolans tävlingsbidrag och debatt.
 
@@ -54,5 +57,3 @@ Du vet aldrig vilka fantastiska idéer kunderna kommer att dela under olika even
 ## Har du något att dela?
 
 Har du en bra historia att dela, antingen under ett evenemang eller i en video med expertinsikter? Kontakta vårt team på [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
-
-
