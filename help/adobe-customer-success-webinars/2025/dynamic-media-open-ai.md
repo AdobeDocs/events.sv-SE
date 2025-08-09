@@ -21,7 +21,7 @@ ht-degree: 1%
 
 # Mastering Dynamic Media with Open API
 
-Det här webbinariet är utformat för proffs som är bekanta med traditionella dynamiska media och som vill förstå och implementera [Dynamic Media Ultimate](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate) med Open API.  Vi kommer att utforska Dynamic Media Ultimate och jämföra det med traditionell Dynamic Media. Vårt mål är att ge en heltäckande bild av skillnaderna mellan dessa två metoder, så att deltagare som är bekanta med Dynamic Media enkelt kan anpassa sig till den öppna API-modellen.
+Det här webbinariet är utformat för proffs som är bekanta med traditionella dynamiska media och som vill förstå och implementera [Dynamic Media Ultimate](https://experienceleague.adobe.com/sv/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate) med Open API.  Vi kommer att utforska Dynamic Media Ultimate och jämföra det med traditionell Dynamic Media. Vårt mål är att ge en heltäckande bild av skillnaderna mellan dessa två metoder, så att deltagare som är bekanta med Dynamic Media enkelt kan anpassa sig till den öppna API-modellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470620/?learn=on&enablevpops)
 

@@ -29,16 +29,16 @@ Detta seminarium spelades in den 29 maj 2025 och innehöll en beskrivning av vå
 
 ## Sammanfattning
 
-* Vad är [Dataanslutning](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/data-lake/data-lake-overview)? En säker och skalbar lösning som ger affärsinsikter genom att koppla Workfront data till visualiseringsverktyg som Tableau, Power BI, Domo och Looker.
+* Vad är [Dataanslutning](https://experienceleague.adobe.com/sv/docs/workfront/using/reporting/data-lake/data-lake-overview)? En säker och skalbar lösning som ger affärsinsikter genom att koppla Workfront data till visualiseringsverktyg som Tableau, Power BI, Domo och Looker.
 * Det ingår i Ultimate-paketet, men finns som tillägg ($) för dem som använder Prime och Select. Kontakta ditt kontoteam för mer information.
 * Även om vi inte kan erbjuda dig en testkörning (åtminstone just nu) att leka runt, kan du alltid kontakta ditt kontoteam för att se om de kan hjälpa dig med en personaliserad demo för att bygga upp ditt ärende för ledningen.
-* **Experience League-dokumentation** innehåller [terminologisk mappningstabeller](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/data-lake/data-dictionary) som kan användas för översättning mellan Workfront gränssnittsnamn, API-referenser och datavinens fältnamn.
+* **Experience League-dokumentation** innehåller [terminologisk mappningstabeller](https://experienceleague.adobe.com/sv/docs/workfront/using/reporting/data-lake/data-dictionary) som kan användas för översättning mellan Workfront gränssnittsnamn, API-referenser och datavinens fältnamn.
 * **Aktuella funktioner** Data Connect har för närvarande stöd för över 110 Workfront-objekt (från 70 vid start i oktober), med data uppdaterade var fjärde timme. Det innehåller tre typer av vyer: aktuellt läge, vardagsögonblicksbilder av händelser och transaktionshändelsedata för historiska analyser.
 * **Användningsexempel** Kunder använder Data Connect för att övervaka användaraktivitet, identifiera flaskhalsar i processen, spåra statustid, kontrollera efterlevnad, SLA-spårning, kapacitetsplanering och koppla Workfront-data till externa datamängder i sina befintliga datalager. 
 
 Om du har frågor till Matt eller vill dela med dig av hur du använder Data Connect kan du svara på det här [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725)!
 
 
-Vi hoppas att vi får träffa dig på våra framtida kundframgångar!  Se till att du checkar ut [Workfront Events](https://experienceleague.adobe.com/events/?filters=Workfront) på Experience League för att få en fullständig lista och för att registrera dig.
+Vi hoppas att vi får träffa dig på våra framtida kundframgångar!  Se till att du checkar ut [Workfront Events](https://experienceleague.adobe.com/events/?lang=sv-SE&filters=Workfront) på Experience League för att få en fullständig lista och för att registrera dig.
 
 

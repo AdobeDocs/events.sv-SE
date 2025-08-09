@@ -39,4 +39,4 @@ Tillsammans med on-demand-inspelningen har vi tagit med bildspelet och tips som 
 
 Ett av de största temana vi såg i chatten var utmaningen att hålla projektmallarna enkla, men samtidigt hålla reda på arbetet och se till att teamen levererar på alla steg som behövs för att slutföra projektet.  
 
- Vi hoppas att vi får träffa dig på våra framtida kundframgångar!  Se till att du checkar ut [Workfront Events](https://experienceleague.adobe.com/events/?filters=Workfront) på Experience League för att få en fullständig lista och för att registrera dig.
+ Vi hoppas att vi får träffa dig på våra framtida kundframgångar!  Se till att du checkar ut [Workfront Events](https://experienceleague.adobe.com/events/?lang=sv-SE&filters=Workfront) på Experience League för att få en fullständig lista och för att registrera dig.

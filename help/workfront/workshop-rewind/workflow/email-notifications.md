@@ -36,4 +36,4 @@ Här är en kort sammanfattning av tips som delades i chatten: 
 * Om användarna inte får e-postmeddelanden har du alltid möjlighet att logga in som de för att bekräfta att meddelandet är aktiverat i deras profil. Kontakta kundsupport även om du fastnar!   
 * Överväg att stänga av e-postmeddelanden som är kopplade till statusförändringar - orsakar de mer brus än informativa åtgärder?  
 
-Vi hoppas att vi får träffa dig på våra framtida kundframgångar!  Se till att du checkar ut [Workfront Events](https://experienceleague.adobe.com/events/?filters=Workfront) på Experience League för att få en fullständig lista och för att registrera dig.
+Vi hoppas att vi får träffa dig på våra framtida kundframgångar!  Se till att du checkar ut [Workfront Events](https://experienceleague.adobe.com/events/?lang=sv-SE&filters=Workfront) på Experience League för att få en fullständig lista och för att registrera dig.

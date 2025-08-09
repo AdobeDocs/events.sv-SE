@@ -33,11 +33,11 @@ Som du lovade i videon har vi Madalyns presentation länkad till hennes steg, be
 
 Under presentationen delade Madalyn sina egna formulär och beräkningsfält, så om du precis har börjat med de funktionerna finns det några länkar som pekar dig i rätt riktning. 
 
-* Självstudievideospelningslista - [Skapa och dela anpassad Forms](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
+* Självstudievideospelningslista - [Skapa och dela anpassad Forms](https://experienceleague.adobe.com/sv/playlists/workfront-create-and-manage-custom-forms)
 
-* Artikel - [Kom igång med beräknade fält och uttryck](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* Artikel - [Kom igång med beräknade fält och uttryck](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* Tips och tricks - [Beräknade fält som alla ska känna till och hur de ska rapporteras!](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* Tips och tricks - [Beräknade fält som alla ska känna till och hur de ska rapporteras!](https://experienceleague.adobe.com/sv/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Intresserad av fler tips från Madalyn? Kolla in hennes serie med tips och tricks i Workfront Community! 
 
