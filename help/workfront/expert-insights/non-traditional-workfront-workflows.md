@@ -33,7 +33,7 @@ Du kommer att bli förvånad över alla fantastiska idéer hon delar, inklusive:
 * Initiera Creative Brief-granskningar för att passa behoven hos användare och projekt. 
 * *BONUS!* Hon delar också med sig av ett exempel på en av hennes favoritfall i Fusion!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469943/?learn=on&enablevpops&captions=swe)
 
 ## Resurser
 

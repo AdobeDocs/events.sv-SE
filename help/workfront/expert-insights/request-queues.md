@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Välkommen till Expert Insights!  Jag är Cynthia Boon, din&quot;On-Demand&quot; Workfront CSM och för det här avsnittet har vi Workfront Celebrity, [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167) ! Vi diskuterar Lyndsys Workfront Story och sedan en djupdykning i hennes kö för helpdesk-frågor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3465272/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469293/?learn=on&enablevpops&captions=swe)
 
 Under vår chatt delade Lyndsy,
 

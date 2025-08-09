@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Välkommen till en annan avbetalning av Expert Insights!  Jag heter Cynthia Boon, din&quot;On-Demand&quot; Workfront CSM och delar gärna med mig av att vi har den enda, Madalyn Destafney, som delar med sig av hennes omfattande erfarenhet av att hjälpa kunderna att implementera och mäta serviceavtal (SLA) med Workfront. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469901/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469982/?learn=on&enablevpops&captions=swe)
 
 Som du lovade i videon har vi Madalyns presentation länkad till hennes steg, beräknade uttryck och rapportexempel. 
 
