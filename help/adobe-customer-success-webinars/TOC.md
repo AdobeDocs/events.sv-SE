@@ -2,10 +2,10 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success-led webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe lösningar.
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
 workflow-type: tm+mt
-source-wordcount: '475'
-ht-degree: 4%
+source-wordcount: '484'
+ht-degree: 3%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 4%
    + Commerce {#commerce2025}
       + [Transformerar B2B och B2B2C Commerce](2025/transforming-b2b-commerce.md)
    + Customer Journey Analytics {#cja2025}
+      + [Building Executive Sponsorship](2025/cja-success.md)
+      + [Ändra hanteringsstrategier](2025/cja-adoption.md)
       + [Utforma en operativmodell för CJA Success](2025/cja-operating-model.md)
       + [Foundational Architecture](2025/cja-vision.md)
       + [Migrera till CJA från Adobe Analytics](2025/analytics-to-cja-migration.md)
@@ -35,6 +37,7 @@ ht-degree: 4%
       + [New Relic Essentials för AEM Cloud](2025/new-relic-essentials-aem-cloud.md)
       + [Optimera AEM-prestanda](2025/optimize-aem-performance.md)
       + [Personalisera digital kommunikation](2025/personalize-digital-communications.md)
+      + [Universal Editor - översikt](2025/modern-aem-authoring.md)
    + Experience Platform {#aep2025}
       + [AI - bortom grunderna](2025/ai-beyond-basics.md)
       + [Best Practices and Insights for Modeling XDM Schemas](2025/model-xdm-schemas.md)

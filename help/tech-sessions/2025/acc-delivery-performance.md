@@ -1,7 +1,6 @@
 ---
 title: Adobe Campaign Classic Delivery Performance - felsökning
 description: Den här sessionen behandlade viktiga strategier för att förbättra e-post- och SMS-leveransen med Adobe Campaign. Här har vi tagit itu med vanliga utmaningar som leveransförseningar, låg genomströmning och transaktionell långsamhet, och erbjuder lösningar som batchoptimering, SQL-loggning och övervakning av serverprestanda. De effektivaste sätten att leverera inkluderar korrekt e-postautentisering (SPF, DKIM, DMARC), svartlistsövervakning och skräppostkontroller. För bättre prestanda rekommenderade experterna rena arbetsflöden, strypningsregler och att delade behållare undviks. SMS-leveranstips fokuserar på korrekt konfiguration av externa konton och logganalys. Sessionen betonade även spårningsvalidering, databasunderhåll med bloatrapporter och tillämpning av tryck-/trötthetsregler för att öka engagemanget. En sessionsinspelning delas via e-post och läggs upp på webbplatsen Adobe Experience.
-version: Classic v7
 solution: Campaign Classic v7
 product: Adobe Campaign
 feature: SMS, Deliverability, Troubleshooting
@@ -11,13 +10,13 @@ doc-type: Event
 duration: 2257
 last-substantial-update: 2025-04-25T00:00:00Z
 jira: KT-17869
-source-git-commit: 373605f79b3122382e221252232a26535ff3109b
+exl-id: a7e1e198-b63b-4a2a-9ffc-7f72bf4c61c1
+source-git-commit: 3b54c46988da18248024d115997704d9881f5e68
 workflow-type: tm+mt
 source-wordcount: '442'
 ht-degree: 0%
 
 ---
-
 
 # Tekniska sessioner: Adobe Campaign Classic Delivery Performance - felsökning
 
