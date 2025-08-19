@@ -31,7 +31,7 @@ Corre är en verkligt strategisk CSM som ger oss kraft att använda Adobe Soluti
 * Börja med att identifiera dina processfärgspunkter och gå vidare därifrån. Låt inte tekniken övervinna målet.
 * Kommunicera med andra kunder som befinner sig på en liknande resa i communityn eller på Evenemanget! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469899/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469998/?learn=on&enablevpops&captions=swe)
 
 ## Resurser
 

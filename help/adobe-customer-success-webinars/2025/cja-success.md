@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Under vår fjärde session tar vi upp hur bristen på stark ledarskap kommer att försena beslutsfattandet, budgettilldelningen och ändringshanteringen. I det här webbinariet utforskar vi den viktiga roll cheferna spelar när det gäller att främja Adobe Customer Journey Analytics-program, skapa enhetliga funktionsövergripande team och få mätbara affärsresultat. Lär dig praktiska strategier för att engagera erfarna intressenter, kommunicera värde effektivt och skapa en kultur av datadrivet beslutsfattande.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470853/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470858/?learn=on&enablevpops&captions=swe)
 
 ## Skapa affärsärenden
 
