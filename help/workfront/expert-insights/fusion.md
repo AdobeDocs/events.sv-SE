@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Välkommen tillbaka till Expert Insights!  Jag heter Cynthia Boon, din&quot;On-Demand&quot; Workfront CSM, och i det här avsnittet är vi förenade med Ewan Hruska! Han är verkligen magisk, &quot;Knight of Fusion&quot; och delar fördelarna med Fusion tillsammans med hans expertråd för att få ut det mesta av verktyget.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469896/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470020/?learn=on&enablevpops&captions=swe)
 
 ## Behöver du hjälp!
 

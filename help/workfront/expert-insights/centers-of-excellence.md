@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Välkommen tillbaka till Expert Insights!  Jag heter Cynthia Boon, din&quot;On-Demand&quot; Workfront CSM, och i det här avsnittet är vi tillsammans med Danielle Johnston!  Hon delar med sig av sina idéer om hur man kommer igång, hur man använder Workfront för att stödja arbetet i Styrning och Center of Excellence och uppmuntrar oss att vara den positiva förändring vi vill se i Workfront! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469897/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470009/?learn=on&enablevpops&captions=swe)
 
 ## Tips
 

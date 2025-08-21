@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Det är din On-Demand Workfront CSM här, och jag är tillbaka med en ny video!  Den här gången har vi en presentation från en av våra fantastiska kunder, Jaime Davidson från Cognizant!  Hon var snäll och erbjöd sin tid och sin expertis under vårt Connect-event i november, och delade med sig av sina erfarenheter och resurser för att genomföra Workfront Adobe Surveys. *Bonus!* Danielle Johnston, Workfront CSM, delar också med sig av sina insikter och rekommendationer!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469895/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469954/?learn=on&enablevpops&captions=swe)
 
 ## Resurser
 
