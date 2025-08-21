@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Summeringen lyckades: Låsa upp det senaste i Workfront Planning
 
-Detta seminarium spelades in den 26 juni 2025 och presenterade Adobe Workfront Product team där de delade de senaste funktionerna i Workfront Planning! Om du vill ha mer information om vad som kommer härnäst för Workfront Planning ska du skapa ett bokmärke för [sidan Adobe Workfront Planning Release Activity](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)på Experience League. 
+Detta seminarium spelades in den 26 juni 2025 och presenterade Adobe Workfront Product team där de delade de senaste funktionerna i Workfront Planning! Om du vill ha mer information om vad som kommer härnäst för Workfront Planning ska du skapa ett bokmärke för [sidan Adobe Workfront Planning Release Activity](https://experienceleague.adobe.com/sv/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)på Experience League. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3469860/?learn=on&enablevpops)
 
@@ -29,4 +29,4 @@ Om du missade vår session har vi länkar till bildbandet och Experience League 
 
 Ska du precis sätta igång?  Ta en titt på [handboken - Din Workfront Planning GPS!](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
 
-Det finns alltid nya händelser tillagda, så kontrollera [eventsidan på Experience League](https://experienceleague.adobe.com/events/?filters=Workfront)regelbundet så att du inte missar något!
+Det finns alltid nya händelser tillagda, så kontrollera [eventsidan på Experience League](https://experienceleague.adobe.com/events/?lang=sv-SE&filters=Workfront)regelbundet så att du inte missar något!

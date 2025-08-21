@@ -34,9 +34,9 @@ Natalie delade sina favoritresurser i Agile under intervjun, så som utlovats ha
 
 Söker du enkla sätt att komma igång? Läs dessa artiklar och korta videodemonstrationer:
 
-* [Anmäl dig till tidiga funktioner för Adobe Workfront Boards](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
-* [Skapa eller redigera en anslagstavla - innehåller beskrivningar av varje anslagstavla](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
-* [Adobe Workfront Boards - korta videodemonstrationer](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)
+* [Anmäl dig till tidiga funktioner för Adobe Workfront Boards](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=sv-SE)
+* [Skapa eller redigera en anslagstavla - innehåller beskrivningar av varje anslagstavla](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=sv-SE)
+* [Adobe Workfront Boards - korta videodemonstrationer](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=sv-SE)
 
 ## Om högtalaren
 
