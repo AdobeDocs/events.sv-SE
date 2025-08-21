@@ -11,19 +11,19 @@ doc-type: Event
 duration: 1616
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18623
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+exl-id: 0d870372-4605-4d42-b539-5de2943a2682
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
-
 # Expertinsikter: SLA Reporting i Workfront med Madalyn Destafney
 
 Välkommen till en annan avbetalning av Expert Insights!  Jag heter Cynthia Boon, din&quot;On-Demand&quot; Workfront CSM och delar gärna med mig av att vi har den enda, Madalyn Destafney, som delar med sig av hennes omfattande erfarenhet av att hjälpa kunderna att implementera och mäta serviceavtal (SLA) med Workfront. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469982/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3469901/?learn=on&enablevpops)
 
 Som du lovade i videon har vi Madalyns presentation länkad till hennes steg, beräknade uttryck och rapportexempel. 
 
@@ -33,11 +33,11 @@ Som du lovade i videon har vi Madalyns presentation länkad till hennes steg, be
 
 Under presentationen delade Madalyn sina egna formulär och beräkningsfält, så om du precis har börjat med de funktionerna finns det några länkar som pekar dig i rätt riktning. 
 
-* Självstudievideospelningslista - [Skapa och dela anpassad Forms](https://experienceleague.adobe.com/sv/playlists/workfront-create-and-manage-custom-forms)
+* Självstudievideospelningslista - [Skapa och dela anpassad Forms](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
 
-* Artikel - [Kom igång med beräknade fält och uttryck](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* Artikel - [Kom igång med beräknade fält och uttryck](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* Tips och tricks - [Beräknade fält som alla ska känna till och hur de ska rapporteras!](https://experienceleague.adobe.com/sv/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* Tips och tricks - [Beräknade fält som alla ska känna till och hur de ska rapporteras!](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Intresserad av fler tips från Madalyn? Kolla in hennes serie med tips och tricks i Workfront Community! 
 

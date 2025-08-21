@@ -11,13 +11,13 @@ doc-type: Event
 duration: 1129
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18622
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+exl-id: a67e7d79-fbfa-4268-9418-98fe977e13f3
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
-
 
 # Expertinsikter: Icke-traditionella Workfront-arbetsflöden med Kiersten Kollins
 
@@ -33,7 +33,7 @@ Du kommer att bli förvånad över alla fantastiska idéer hon delar, inklusive:
 * Initiera Creative Brief-granskningar för att passa behoven hos användare och projekt. 
 * *BONUS!* Hon delar också med sig av ett exempel på en av hennes favoritfall i Fusion!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469943/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
 
 ## Resurser
 
@@ -49,6 +49,4 @@ Kiersten har över tio års erfarenhet av att arbeta i marknadsförings- och ver
 
 ## Har du något att dela?
 
-Har du en bra historia att dela, antingen under ett evenemang eller i en video med expertinsikter? Kontakta vårt team på [CSatScale@adobe.com|mailto:CSatScale@adobe.com].
-
-
+Har du en bra historia att dela, antingen under ett evenemang eller i en video med expertinsikter? Kontakta vårt team på [CSatScale@adobe.com](mailto:CSatScale@adobe.com).

@@ -3,9 +3,9 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -26,8 +26,13 @@ ht-degree: 0%
 + Jämfört! {#versus}
    + [Grupper kontra team](versus/groups-vs-teams.md)
 + Expertinsikter {#expert-insights}
+   + [Antagande](expert-insights/adoption.md)
+   + [Adobeundersökningar](expert-insights/adoption-surveys.md)
    + [Innehållsleveranskedja](expert-insights/content-supply-chain.md)
+   + [Fusion](expert-insights/fusion.md)
+   + [Styrning och kompetenscentrum](expert-insights/centers-of-excellence.md)
    + [Ej traditionella Workfront-arbetsflöden](expert-insights/non-traditional-workfront-workflows.md)
+   + [Rapporteringspraxis](expert-insights/reporting-practices.md)
    + [Begär köer med Lyndsy Denk](expert-insights/request-queues.md)
    + [SLA Reporting i Workfront](expert-insights/sla-reporting.md)
    + [Enterprise Work Management](expert-insights/enterprise-work-management.md)

@@ -11,13 +11,13 @@ doc-type: Event
 duration: 801
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18621
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: f8600288-a19b-440c-b60d-94078014353e
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
-
 
 # Expertinsikter - innehållsleveranskedja med Corre Kombol
 
@@ -31,7 +31,7 @@ Corre är en verkligt strategisk CSM som ger oss kraft att använda Adobe Soluti
 * Börja med att identifiera dina processfärgspunkter och gå vidare därifrån. Låt inte tekniken övervinna målet.
 * Kommunicera med andra kunder som befinner sig på en liknande resa i communityn eller på Evenemanget! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469998/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3469899/?learn=on&enablevpops)
 
 ## Resurser
 
@@ -53,4 +53,4 @@ Hon är skicklig på att identifiera kundernas behov, utveckla anpassade lösnin
 
 ## Har du något att dela?
 
-Har du en bra historia att dela, antingen under ett evenemang eller i en video med expertinsikter? Kontakta vårt team på [CSatScale@adobe.com|mailto:CSatScale@adobe.com].
+Har du en bra historia att dela, antingen under ett evenemang eller i en video med expertinsikter? Kontakta vårt team på [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
