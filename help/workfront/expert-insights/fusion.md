@@ -38,8 +38,8 @@ Som Ewan nämnde i videon arbetar han med en Fusion Best Practice-guide, och han
 
 ## Resurser
 
-* [Lista över tillgängliga Fusion-mallar](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=en)
-* [Adobe Workfront Fusion - videoöversikter](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=en)
+* [Lista över tillgängliga Fusion-mallar](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=sv-SE)
+* [Adobe Workfront Fusion - videoöversikter](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=sv-SE)
 
 ## Om högtalaren
 
