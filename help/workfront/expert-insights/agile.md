@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Välkommen tillbaka till en ny intervju med expertinsikter, den här gången med råd om de bästa sätten att komma igång med Agile i din organisation. Delta i er On-Demand Workfront CSM för en intervju med vår Adobe Workfront Agile-expert Natalie Mitchell, och utforska de vanliga frågorna och rekommendationerna för implementering av Agile-metoden med era team.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469891/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469920/?learn=on&enablevpops&captions=swe)
 
 ## Resurser
 

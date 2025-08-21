@@ -74,7 +74,7 @@ Söker du snabba, åtgärdbara insikter för att effektivisera ditt Adobe Workfr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/blueprints.md" title="De tre viktigaste - Creative-strategier med utkast" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1755810021557" alt="De tre viktigaste - Creative-strategier med utkast"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465314/?format=jpeg&nocache=1755810021557&captions=swe" alt="De tre viktigaste - Creative-strategier med utkast"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,7 +97,7 @@ Söker du snabba, åtgärdbara insikter för att effektivisera ditt Adobe Workfr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/office-hours.md" title="De tre viktigaste sätten att arbeta med kontorstider" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1755810021545" alt="De tre viktigaste sätten att arbeta med kontorstider"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470146/?format=jpeg&nocache=1755810021545&captions=swe" alt="De tre viktigaste sätten att arbeta med kontorstider"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -136,7 +136,7 @@ Vare sig du är Workfront-administratör, projektledare eller daglig användare 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="Jämfört! - Grupper kontra team" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1755810021828" alt="Jämfört! - Grupper kontra team"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467357/?format=jpeg&nocache=1755810021828&captions=swe" alt="Jämfört! - Grupper kontra team"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -185,7 +185,7 @@ Sessionerna innehåller verkliga lösningar, kundexempel och användbara arbetsm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption.md" title="Expertinsikter - användning med Leslie Spier" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469893/?format=jpeg&nocache=1755810022202" alt="Expertinsikter - användning med Leslie Spier"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469931/?format=jpeg&nocache=1755810022202&captions=swe" alt="Expertinsikter - användning med Leslie Spier"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -208,7 +208,7 @@ Sessionerna innehåller verkliga lösningar, kundexempel och användbara arbetsm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption-surveys.md" title="Expertinsikter - Adobeenkäter med Jaime Davidson" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469895/?format=jpeg&nocache=1755810022164" alt="Expertinsikter - Adobeenkäter med Jaime Davidson"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469954/?format=jpeg&nocache=1755810022164&captions=swe" alt="Expertinsikter - Adobeenkäter med Jaime Davidson"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -231,7 +231,7 @@ Sessionerna innehåller verkliga lösningar, kundexempel och användbara arbetsm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/agile.md" title="Expertinsikter - Agile with Natalie Mitchell" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469891/?format=jpeg&nocache=1755810022193" alt="Expertinsikter - Agile with Natalie Mitchell"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469920/?format=jpeg&nocache=1755810022193&captions=swe" alt="Expertinsikter - Agile with Natalie Mitchell"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -254,7 +254,7 @@ Sessionerna innehåller verkliga lösningar, kundexempel och användbara arbetsm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/content-supply-chain.md" title="Expertinsikter - innehållsleveranskedja med Corre Kombol" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1755810022153" alt="Expertinsikter - innehållsleveranskedja med Corre Kombol"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469998/?format=jpeg&nocache=1755810022153&captions=swe" alt="Expertinsikter - innehållsleveranskedja med Corre Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -277,7 +277,7 @@ Sessionerna innehåller verkliga lösningar, kundexempel och användbara arbetsm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/centers-of-excellence.md" title="Expertinsikter - Styrning och kompetenscenter med Danielle Johnston" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469897/?format=jpeg&nocache=1755810022138" alt="Expertinsikter - Styrning och kompetenscenter med Danielle Johnston"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470009/?format=jpeg&nocache=1755810022138&captions=swe" alt="Expertinsikter - Styrning och kompetenscenter med Danielle Johnston"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -300,7 +300,7 @@ Sessionerna innehåller verkliga lösningar, kundexempel och användbara arbetsm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/fusion.md" title="Expertinsikter - Fusion with Ewan Hruska" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469896/?format=jpeg&nocache=1755810022184" alt="Expertinsikter - Fusion with Ewan Hruska"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470020/?format=jpeg&nocache=1755810022184&captions=swe" alt="Expertinsikter - Fusion with Ewan Hruska"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -323,7 +323,7 @@ Sessionerna innehåller verkliga lösningar, kundexempel och användbara arbetsm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/non-traditional-workfront-workflows.md" title="Expertinsikter - icke-traditionella Workfront-arbetsflöden med Kiersten Kollins" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469900/?format=jpeg&nocache=1755810022175" alt="Expertinsikter - icke-traditionella Workfront-arbetsflöden med Kiersten Kollins"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469943/?format=jpeg&nocache=1755810022175&captions=swe" alt="Expertinsikter - icke-traditionella Workfront-arbetsflöden med Kiersten Kollins"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -369,7 +369,7 @@ Sessionerna innehåller verkliga lösningar, kundexempel och användbara arbetsm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/request-queues.md" title="Expertinsikter - Begär köer med Lyndsy Denk" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465272/?format=jpeg&nocache=1755810022234" alt="Expertinsikter - Begär köer med Lyndsy Denk"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469293/?format=jpeg&nocache=1755810022234&captions=swe" alt="Expertinsikter - Begär köer med Lyndsy Denk"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -392,7 +392,7 @@ Sessionerna innehåller verkliga lösningar, kundexempel och användbara arbetsm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/resource-management.md" title="undefined" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469890/?format=jpeg&nocache=1755810022210" alt="undefined"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469907/?format=jpeg&nocache=1755810022210&captions=swe" alt="undefined"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -415,7 +415,7 @@ Sessionerna innehåller verkliga lösningar, kundexempel och användbara arbetsm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/sla-reporting.md" title="SLA Reporting in Workfront with Madalyn Destafney" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1755810022242" alt="SLA Reporting in Workfront with Madalyn Destafney"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469982/?format=jpeg&nocache=1755810022242&captions=swe" alt="SLA Reporting in Workfront with Madalyn Destafney"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

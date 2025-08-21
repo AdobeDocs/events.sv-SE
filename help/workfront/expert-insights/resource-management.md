@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Letar du efter råd om hur du kommer igång med resurshantering? Besök er On-Demand Workfront CSM för en intervju med vår medföljande Adobe Workfront Resource Management-expert, Corinna Jevons, och utforska de vanligaste frågorna och de bästa sätten att implementera den här Workfront-funktionen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469890/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469907/?learn=on&enablevpops&captions=swe)
 
 ## Resurser
 
