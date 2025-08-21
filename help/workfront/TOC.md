@@ -3,10 +3,10 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
+source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 0%
+source-wordcount: '227'
+ht-degree: 1%
 
 ---
 
@@ -26,13 +26,15 @@ ht-degree: 0%
 + Jämfört! {#versus}
    + [Grupper kontra team](versus/groups-vs-teams.md)
 + Expertinsikter {#expert-insights}
-   + [Antagande](expert-insights/adoption.md)
+   + [Implementering](expert-insights/adoption.md)
    + [Adobeundersökningar](expert-insights/adoption-surveys.md)
+   + [Agile](expert-insights/agile.md)
    + [Innehållsleveranskedja](expert-insights/content-supply-chain.md)
    + [Fusion](expert-insights/fusion.md)
    + [Styrning och kompetenscentrum](expert-insights/centers-of-excellence.md)
    + [Ej traditionella Workfront-arbetsflöden](expert-insights/non-traditional-workfront-workflows.md)
    + [Rapporteringspraxis](expert-insights/reporting-practices.md)
+   + [Resurshantering](expert-insights/resource-management.md)
    + [Begär köer med Lyndsy Denk](expert-insights/request-queues.md)
    + [SLA Reporting i Workfront](expert-insights/sla-reporting.md)
    + [Enterprise Work Management](expert-insights/enterprise-work-management.md)
@@ -42,6 +44,7 @@ ht-degree: 0%
       + [Låsa upp kostnader för True Event](workshop-rewind/integrations/event-costs.md)
    + Planering {#planning}
       + [Framgångar på teamnivå med Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
+      + [Senaste i Workfront Planning](workshop-rewind/planning/workfront-planning.md)
    + Arbetsflöde {#workflow}
       + [Creative sätt att hantera resurser](classics/creative-ways-of-managing-resources.md)
       + [Mastering av e-postmeddelanden](workshop-rewind/workflow/email-notifications.md)

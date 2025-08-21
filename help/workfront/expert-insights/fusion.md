@@ -11,19 +11,19 @@ doc-type: Event
 duration: 1458
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18618
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+exl-id: ab61b492-a391-497b-af45-f2d468e3f24f
+source-git-commit: ed7e2914147dbdc2012186c88e50d7313ef8bf7d
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
 
 ---
 
-
 # Expertinsikter - Fusion with Ewan Hruska
 
 Välkommen tillbaka till Expert Insights!  Jag heter Cynthia Boon, din&quot;On-Demand&quot; Workfront CSM, och i det här avsnittet är vi förenade med Ewan Hruska! Han är verkligen magisk, &quot;Knight of Fusion&quot; och delar fördelarna med Fusion tillsammans med hans expertråd för att få ut det mesta av verktyget.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470020/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3469896/?learn=on&enablevpops)
 
 ## Behöver du hjälp!
 
@@ -38,8 +38,8 @@ Som Ewan nämnde i videon arbetar han med en Fusion Best Practice-guide, och han
 
 ## Resurser
 
-* [Lista över tillgängliga Fusion-mallar](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=sv-SE)
-* [Adobe Workfront Fusion - videoöversikter](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=sv-SE)
+* [Lista över tillgängliga Fusion-mallar](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=en)
+* [Adobe Workfront Fusion - videoöversikter](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=en)
 
 ## Om högtalaren
 
