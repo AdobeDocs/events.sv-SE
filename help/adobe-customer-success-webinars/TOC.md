@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success-led webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe lösningar.
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+source-git-commit: c3e2710187832f1f67a1e73c11b7262b32ed1f8a
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '490'
 ht-degree: 3%
 
 ---
@@ -63,6 +63,7 @@ ht-degree: 3%
       + [Att skapa en flexibel marknadsorganisation](2025/agile-marketing-organization.md)
       + [Digitala trender och förberedelser inför framtiden](2025/digital-trends-preparing-future.md)
       + [Northstar Architecture](2025/northstar-architecture.md)
+      + [AI-styrd tillväxt och spelböcker med höga prestanda](2025/ai-driven-growth.md)
       + [State of Digital and GenAI Adoption](2025/state-of-digital-and-genai-adoption-webinar.md)
    + Workfront {#workfront2025}
       + [AI-Drive-automatisering i Workfront](2025/unlock-efficiency-ai-drive-automation-workfront.md)
