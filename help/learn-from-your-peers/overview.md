@@ -304,7 +304,7 @@ Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina Adobe-l
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/jan2024/person-scoring-mastery.md" title="Person Scoring Mastery with Marketo Engage - Localized Nuances in a Global Framework" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1756413992875" alt="Person Scoring Mastery with Marketo Engage - Localized Nuances in a Global Framework"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457443/?format=jpeg&nocache=1756413992875&captions=swe" alt="Person Scoring Mastery with Marketo Engage - Localized Nuances in a Global Framework"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

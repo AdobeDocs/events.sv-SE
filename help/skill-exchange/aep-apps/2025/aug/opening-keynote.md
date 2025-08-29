@@ -31,4 +31,4 @@ Upptäck hur Adobe Experience Platform och AI omformar skapandet av digitala upp
 Utnyttja dessa insikter för att effektivisera arbetsflödena, förbättra personaliseringen och framtidssäkra er expertis inom digital upplevelsehantering.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3471327/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471359/?learn=on&enablevpops&captions=swe)

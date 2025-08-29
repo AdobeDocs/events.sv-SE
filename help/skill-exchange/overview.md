@@ -50,7 +50,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Anteckning om kunskapsutbyte - framtiden för upplevelseskapande med AI, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1756421492411" alt="Anteckning om kunskapsutbyte - framtiden för upplevelseskapande med AI, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471359/?format=jpeg&nocache=1756421492411&captions=swe" alt="Anteckning om kunskapsutbyte - framtiden för upplevelseskapande med AI, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
