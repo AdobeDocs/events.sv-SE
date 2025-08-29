@@ -3,9 +3,9 @@ user-guide-title: Kunskapsutbyte
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Samling av inspelningar från Experience Makers Kunskapsutbyte
 event-series: The Skill Exchange
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
 workflow-type: tm+mt
-source-wordcount: '695'
+source-wordcount: '722'
 ht-degree: 8%
 
 ---
@@ -133,6 +133,9 @@ ht-degree: 8%
       + [Tips för att hantera komplexa resor i Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
       + [Resor bortom e-post](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
+   + Augusti 2025 {#aug2025}
+      + [Förbättra datakategorisering](marketo/2025/aug/data-categorization-with-ai.md)
+      + [Effektivisera uppföljningsåtgärder](marketo/2025/aug/follow-ups-customer-lifecycle.md)
    + Augusti 2024 {#aug2024}
       + [Öppnar inledningsanförandet](marketo/aug2024/keynote.md)
       + [Avancerade program i engagemangsprogram](marketo/aug2024/advanced-applications-engagment-programs.md)
@@ -166,6 +169,12 @@ ht-degree: 8%
       + [Rapporterar inom  [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Ultimate tips och tricks för din Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+   + Augusti 2025 {#aug2025}
+      + [Öppnar inledningsanförandet](workfront/2025/aug/keynote.md)
+      + [Avancerat textläge](workfront/2025/aug/advanced-text-mode.md)
+      + [Automatisera framtagning av användarkonton med Fusion](workfront/2025/aug/fusion-user-account-creation.md)
+      + [Center of Excellence](workfront/2025/aug/center-of-excellence.md)
+      + [Mastering Workfront AI Tools](workfront/2025/aug/workfront-ai-tools.md)
    + Augusti 2024 {#aug2024}
       + [Öppnar inledningsanförandet](workfront/aug2024/keynote.md)
       + [Anpassa arbetsbelastningsutjämnaren](workfront/aug2024/workload-balancer.md)

@@ -3,9 +3,9 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
+source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 1%
 
 ---
@@ -20,11 +20,12 @@ ht-degree: 1%
    + [25.4 Utgåva](releases/25-4-release-webinar.md)
    + [25.1 Utgåva](releases/25-1-release-webinar.md)
    + [24.1 Utgåva](releases/24-1-release-webinar.md)
-+ Överkant 3 {#top3}
-   + [Creative-metoder med utkast](top3/blueprints.md)
-   + [De tre viktigaste sätten att arbeta med kontorstider](top3/office-hours.md)
-+ Jämfört! {#versus}
-   + [Grupper kontra team](versus/groups-vs-teams.md)
++ Snabbtagningar {#quicktakes}
+   + Överkant 3 {#top3}
+      + [Creative-metoder med utkast](top3/blueprints.md)
+      + [De tre viktigaste sätten att arbeta med kontorstider](top3/office-hours.md)
+   + Jämfört! {#versus}
+      + [Grupper kontra team](versus/groups-vs-teams.md)
 + Expertinsikter {#expert-insights}
    + [Implementering](expert-insights/adoption.md)
    + [Adobeundersökningar](expert-insights/adoption-surveys.md)

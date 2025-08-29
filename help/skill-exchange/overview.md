@@ -3,16 +3,16 @@ title: Upplevelsemakare i kunskapsutbyte
 description: Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som fokuserar på att fördjupa sig i Adobe Experience Cloud lösningar.
 exl-id: 6d0f26c7-d5d2-4993-b2a1-58d5880f8f96
 duration: 57
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '743'
 ht-degree: 0%
 
 ---
 
 # Upplevelsemakare i kunskapsutbyte {#overview}
 
-<img alt="Upplevelsemakare i kunskapsutbyte" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png?lang=sv-SE" />
+<img alt="Upplevelsemakare i kunskapsutbyte" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
 
 Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som fokuserar på att fördjupa sig i Adobe Experience Cloud lösningar. Programmet ger möjlighet att lära sig av Adobe produktexperter och expertkollegor genom att dela med sig av bästa praxis och tips och tricks.
 
@@ -50,7 +50,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Anteckning om kunskapsutbyte - framtiden för upplevelseskapande med AI, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471359/?format=jpeg&nocache=1756421492411&captions=swe" alt="Anteckning om kunskapsutbyte - framtiden för upplevelseskapande med AI, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1756505537148" alt="Anteckning om kunskapsutbyte - framtiden för upplevelseskapande med AI, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -73,7 +73,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/personalization-privacy-data-security.md" title="Navigera i nya Norm - Balancing Personalization, Privacy and Data Security" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471328/?format=jpeg&nocache=1756421492452" alt="Navigera i nya Norm - Balancing Personalization, Privacy and Data Security"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471328/?format=jpeg&nocache=1756505537193" alt="Navigera i nya Norm - Balancing Personalization, Privacy and Data Security"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -96,7 +96,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/real-time-cdp-collaboration.md" title="Få ut mesta möjliga av medieinvesteringarna med Adobe Real-Time CDP Collaboration" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471329/?format=jpeg&nocache=1756421492441" alt="Få ut mesta möjliga av medieinvesteringarna med Adobe Real-Time CDP Collaboration"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471329/?format=jpeg&nocache=1756505537172" alt="Få ut mesta möjliga av medieinvesteringarna med Adobe Real-Time CDP Collaboration"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -119,7 +119,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/tips-for-tackling-journeys.md" title="Calming Customer Chaos - Tips for Tackling Complex Journeys in Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471330/?format=jpeg&nocache=1756421492465" alt="Calming Customer Chaos - Tips for Tackling Complex Journeys in Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471330/?format=jpeg&nocache=1756505537182" alt="Calming Customer Chaos - Tips for Tackling Complex Journeys in Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -142,7 +142,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/journeys-beyond-email.md" title="Lösa Adobe Journeys Beyond Email" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471331/?format=jpeg&nocache=1756421492426" alt="Lösa Adobe Journeys Beyond Email"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471331/?format=jpeg&nocache=1756505537161" alt="Lösa Adobe Journeys Beyond Email"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -162,3 +162,198 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## Marketo
+
+<!-- CARDS
+
+{cta  = Watch event}
+
+* marketo/2025/aug/data-categorization-with-ai.md
+* marketo/2025/aug/follow-ups-customer-lifecycle.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Improving Data Categorization in Marketo Engage Using Fine-Tuned AI Models">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="marketo/2025/aug/data-categorization-with-ai.md" title="Förbättra datakategoriseringen i Marketo Engage med finjusterade AI-modeller" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471388/?format=jpeg&nocache=1756505537499" alt="Förbättra datakategoriseringen i Marketo Engage med finjusterade AI-modeller"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="marketo/2025/aug/data-categorization-with-ai.md" target="_blank" rel="referrer" title="Förbättra datakategoriseringen i Marketo Engage med finjusterade AI-modeller">Förbättrar datakategoriseringen i Marketo Engage med finjusterade AI-modeller</a>
+                    </p>
+                    <p class="is-size-6">Upptäck hur du använder finjusterade AI-modeller i Marketo Engage för att upptäcka skräppost, matcha jobbtitlar mot personifiering och kategorisera öppna textfält med webbhooks.</p>
+                </div>
+                <a href="marketo/2025/aug/data-categorization-with-ai.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="undefined">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" title="undefined" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471390/?format=jpeg&nocache=1756505537513" alt="undefined"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" target="_blank" rel="referrer" title="undefined">undefined</a>
+                    </p>
+                    <p class="is-size-6">undefined</p>
+                </div>
+                <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## Workfront
+
+<!-- CARDS
+
+{cta  = Watch event}
+
+* workfront/2025/aug/keynote.md
+* workfront/2025/aug/advanced-text-mode.md
+* workfront/2025/aug/center-of-excellence.md
+* workfront/2025/aug/fusion-user-account-creation.md
+* workfront/2025/aug/workfront-ai-tools.md
+ 
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Opening Keynote">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workfront/2025/aug/keynote.md" title="Öppnar inledningsanförandet" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471499/?format=jpeg&nocache=1756505537827" alt="Öppnar inledningsanförandet"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workfront/2025/aug/keynote.md" target="_blank" rel="referrer" title="Öppnar inledningsanförandet">Öppnar inledningsanförandet</a>
+                    </p>
+                    <p class="is-size-6">AI-driven Workfront - The Future of Marketing Systems - Adobe Workfront</p>
+                </div>
+                <a href="workfront/2025/aug/keynote.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Elevate Workfront Reporting with Advanced Text Mode">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workfront/2025/aug/advanced-text-mode.md" title="Förbättra Workfront Reporting med avancerat textläge" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471498/?format=jpeg&nocache=1756505537866" alt="Förbättra Workfront Reporting med avancerat textläge"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workfront/2025/aug/advanced-text-mode.md" target="_blank" rel="referrer" title="Förbättra Workfront Reporting med avancerat textläge">Utöka Workfront-rapportering med avancerat textläge</a>
+                    </p>
+                    <p class="is-size-6">Lär dig hur du använder Adobe Workfront Text Mode för att sammanfoga kolumner, skapa anpassade värdesuttryck och skapa dynamiska uppmaningar för smartare rapportering.</p>
+                </div>
+                <a href="workfront/2025/aug/advanced-text-mode.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preparing your Workfront organization for a center of excellence">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workfront/2025/aug/center-of-excellence.md" title="Förbereda en högklassig Workfront-organisation" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1756505537856" alt="Förbereda en högklassig Workfront-organisation"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workfront/2025/aug/center-of-excellence.md" target="_blank" rel="referrer" title="Förbereda en högklassig Workfront-organisation">Förbereder din Workfront-organisation för ett högklassigt center</a>
+                    </p>
+                    <p class="is-size-6">Lär dig hur du lanserar och skalar ett Workfront Center of Excellence med styrningsstrategier, sponsring av chefer och vedertagna standarder.</p>
+                </div>
+                <a href="workfront/2025/aug/center-of-excellence.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Automate Workfront user account creation with Fusion">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workfront/2025/aug/fusion-user-account-creation.md" title="Automatisera framtagning av Workfront-användarkonton med Fusion" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1756505537844" alt="Automatisera framtagning av Workfront-användarkonton med Fusion"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workfront/2025/aug/fusion-user-account-creation.md" target="_blank" rel="referrer" title="Automatisera framtagning av Workfront-användarkonton med Fusion">Automatisera skapandet av Workfront-användarkonton med Fusion</a>
+                    </p>
+                    <p class="is-size-6">Upptäck hur du kan använda Adobe Workfront Fusion och API:er för att automatisera framtagning av användarkonton, minska konfigurationstiden från 22 minuter till under 60 sekunder och öka effektiviteten.</p>
+                </div>
+                <a href="workfront/2025/aug/fusion-user-account-creation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Maximize Efficiency with AI - Mastering Workfront's AI Tools">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workfront/2025/aug/workfront-ai-tools.md" title="Maximera effektiviteten med AI - Mastering Workfront AI Tools" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471393/?format=jpeg&nocache=1756505537875" alt="Maximera effektiviteten med AI - Mastering Workfront AI Tools"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workfront/2025/aug/workfront-ai-tools.md" target="_blank" rel="referrer" title="Maximera effektiviteten med AI - Mastering Workfront AI Tools">Maximera effektiviteten med AI - Mastering av Workfront AI-verktyg</a>
+                    </p>
+                    <p class="is-size-6">Upptäck hur Adobe Workfront AI-funktioner som Fånga mig på kartan, sammanfattning och formelgenerering kan automatisera uppgifter, optimera arbetsflöden och öka produktiviteten.</p>
+                </div>
+                <a href="workfront/2025/aug/workfront-ai-tools.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
