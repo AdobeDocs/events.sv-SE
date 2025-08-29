@@ -3,10 +3,10 @@ user-guide-title: Kunskapsutbyte
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Samling av inspelningar från Experience Makers Kunskapsutbyte
 event-series: The Skill Exchange
-source-git-commit: 3df61129609f91640357ef9346f0e82fe0fff7b3
+source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
 workflow-type: tm+mt
-source-wordcount: '663'
-ht-degree: 7%
+source-wordcount: '695'
+ht-degree: 8%
 
 ---
 
@@ -125,6 +125,13 @@ ht-degree: 7%
          + [Kraftfull återanvändbarhet](aem/aug2022/reusability.md)
          + [Öka affärsvärdet med innehållspersonalisering i AEM](aem/aug2022/personalization.md)
          + [Maximera implementeringen av AEM](aem/aug2022/implementation.md)
++ Adobe Experience Platform {#aep}
+   + Augusti 2025 {#aug2025}
+      + [Öppnar inledningsanförandet](aep-apps/2025/aug/opening-keynote.md)
+      + [Balancing Personalization, Privacy and Data Security](aep-apps/2025/aug/personalization-privacy-data-security.md)
+      + [Medieinvesteringar och Adobe Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
+      + [Tips för att hantera komplexa resor i Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
+      + [Resor bortom e-post](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
    + Augusti 2024 {#aug2024}
       + [Öppnar inledningsanförandet](marketo/aug2024/keynote.md)

@@ -3,9 +3,9 @@ title: '[!DNL Experience Makers - Learn from your peers]'
 description: Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina Adobe-lösningar. [!DNL Experience Makers - Learn from your peers]  är en global serie med virtuella kundutbildningsevenemang som fokuserar på att fördjupa sig i  [!DNL Adobe Experience Cloud] lösningar.
 exl-id: 006da2ec-77f0-43fb-a653-1b5f4942d692
 duration: 20
-source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
+source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
 workflow-type: tm+mt
-source-wordcount: '977'
+source-wordcount: '1021'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina Adobe-l
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./adobe-user-groups.md" title="Utforska Adobe användargrupper i Experience Cloud" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470396/?format=jpeg&nocache=1754072728941" alt="Utforska Adobe användargrupper i Experience Cloud"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470396/?format=jpeg&nocache=1756413991529" alt="Utforska Adobe användargrupper i Experience Cloud"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -40,7 +40,7 @@ Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina Adobe-l
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./adobe-user-groups.md" target="_blank" rel="referrer" title="Utforska Adobe användargrupper i Experience Cloud">Utforska Adobe användargrupper i hela Experience Cloud</a>
                     </p>
-                    <p class="is-size-6">Kontakta Adobe Experience Cloud-kollegor via användargrupper och upptäck hur ni kan utöka era kunskaper, lösa utmaningar i verkligheten och bli ledande i MarTech-communityn.</p>
+                    <p class="is-size-6">Upptäck hur Adobe användargrupper främjar samarbete, erbjuder problemlösning som leds av kollegor och ger goda möjligheter att leda arbetet i AEM, Analytics, Marketo Engage och Workfront.</p>
                 </div>
                 <a href="./adobe-user-groups.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
@@ -53,7 +53,7 @@ Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina Adobe-l
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./adobe-champion-application.md" title="Läs om hur du anmäler dig till en Champion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458989/?format=jpeg&nocache=1754072728955" alt="Läs om hur du anmäler dig till en Champion"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458989/?format=jpeg&nocache=1756413991535" alt="Läs om hur du anmäler dig till en Champion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -87,7 +87,7 @@ Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina Adobe-l
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="commerce/2024/agile-sdlc.md" title="En fokuserad strategi för kommunikation, krav och testning i Agile SDLC" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1754072729417" alt="En fokuserad strategi för kommunikation, krav och testning i Agile SDLC"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1756413991911" alt="En fokuserad strategi för kommunikation, krav och testning i Agile SDLC"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -114,17 +114,41 @@ Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina Adobe-l
 
 {cta  = Watch event}
 
+* experience-manager/aug2025/smart-tags.md
 * experience-manager/july2024/global-digital-presence.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AEM Smart Tags - Streamlining Content & Enhancing Discoverability">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="experience-manager/aug2025/smart-tags.md" title="AEM smarta taggar - Effektivisera innehållet och förbättra upptäckten" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471511/?format=jpeg&nocache=1756413992243" alt="AEM smarta taggar - Effektivisera innehållet och förbättra upptäckten"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="experience-manager/aug2025/smart-tags.md" target="_blank" rel="referrer" title="AEM smarta taggar - Effektivisera innehållet och förbättra upptäckten">Smarta taggar för AEM - Effektivisera innehåll och förbättra identifierbarheten</a>
+                    </p>
+                    <p class="is-size-6">Läs om hur smarta taggar förbättrar innehållsidentifiering, metadata och DAM-skalbarhet med hjälp av AI-drivna taggningsstrategier i det här AEM-webbinariet.</p>
+                </div>
+                <a href="experience-manager/aug2025/smart-tags.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlocking Success at Scale with a Global Combination">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="experience-manager/july2024/global-digital-presence.md" title="Låsning lyckades vid skalförändring med en global kombination" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457918/?format=jpeg&nocache=1754072729756" alt="Låsning lyckades vid skalförändring med en global kombination"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457918/?format=jpeg&nocache=1756413992257" alt="Låsning lyckades vid skalförändring med en global kombination"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -165,7 +189,7 @@ Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina Adobe-l
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/may2025/interactive-webinars.md" title="Revolutionerar webbseminarierna - Upptäck effekten av interaktiva webbinarier" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458099/?format=jpeg&nocache=1754072730267" alt="Revolutionerar webbseminarierna - Upptäck effekten av interaktiva webbinarier"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458099/?format=jpeg&nocache=1756413992825" alt="Revolutionerar webbseminarierna - Upptäck effekten av interaktiva webbinarier"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -188,7 +212,7 @@ Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina Adobe-l
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/nov2024/advanced-segmentation.md" title="Avancerade segmenteringsgranskningar - Säkerställ precision och prestanda i Marketo Engage" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1754072730316" alt="Avancerade segmenteringsgranskningar - Säkerställ precision och prestanda i Marketo Engage"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1756413992857" alt="Avancerade segmenteringsgranskningar - Säkerställ precision och prestanda i Marketo Engage"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -211,7 +235,7 @@ Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina Adobe-l
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/sept2024/multi-stream-engagement-programs.md" title="Hantera komplexa kundresor med Multi-Stream Engagement-program" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1754072730284" alt="Hantera komplexa kundresor med Multi-Stream Engagement-program"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1756413992847" alt="Hantera komplexa kundresor med Multi-Stream Engagement-program"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -234,7 +258,7 @@ Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina Adobe-l
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/july2024/marketers-map-marketo-campaigns.md" title="Marketers karta - en omfattande guide för att utforma, bygga och analysera Marketo-kampanjer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1754072730294" alt="Marketers karta - en omfattande guide för att utforma, bygga och analysera Marketo-kampanjer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1756413992837" alt="Marketers karta - en omfattande guide för att utforma, bygga och analysera Marketo-kampanjer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -257,7 +281,7 @@ Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina Adobe-l
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/april2024/practical-applications-of-marketo-engage-rest-api.md" title="Låsa upp kraftfull arbetsflödesautomatisering - praktiska program för Marketo Engage REST API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1754072730324" alt="Låsa upp kraftfull arbetsflödesautomatisering - praktiska program för Marketo Engage REST API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1756413992867" alt="Låsa upp kraftfull arbetsflödesautomatisering - praktiska program för Marketo Engage REST API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -280,7 +304,7 @@ Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina Adobe-l
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/jan2024/person-scoring-mastery.md" title="Person Scoring Mastery with Marketo Engage - Localized Nuances in a Global Framework" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457443/?format=jpeg&nocache=1754072730305&captions=swe" alt="Person Scoring Mastery with Marketo Engage - Localized Nuances in a Global Framework"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1756413992875" alt="Person Scoring Mastery with Marketo Engage - Localized Nuances in a Global Framework"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -317,7 +341,7 @@ Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina Adobe-l
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/how-to-measure-and-share-workfront-value.md" title="Ledande effekt - Mät och dela Workfront-värde" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447501/?format=jpeg&nocache=1754072730653" alt="Ledande effekt - Mät och dela Workfront-värde"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447501/?format=jpeg&nocache=1756413993215" alt="Ledande effekt - Mät och dela Workfront-värde"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -340,7 +364,7 @@ Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina Adobe-l
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2024/04/staffing-your-workfront-system-admin-practice.md" title="Anställa webbinariet Workfront systemadministratör" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1754072730669" alt="Anställa webbinariet Workfront systemadministratör"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1756413993200" alt="Anställa webbinariet Workfront systemadministratör"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
