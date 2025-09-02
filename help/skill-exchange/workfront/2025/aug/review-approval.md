@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Är du trött på e-postfeedback-slingan när du försöker få ett godkännande av en mediefil? Workfront gransknings- och godkännandefunktion är ett ovärderligt verktyg för att minska cyklerna, få en enhetlig kontakt mellan olika intressenter och säkerställa att efterlevnadsstandarder uppfylls. Lär dig hur du kommer igång med de nya funktionerna för granskning och godkännande i Workfront. Vi kommer även att titta på rekommendationer om hur du ska gå över till den nya gransknings- och godkännandefunktionen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471493/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471564/?learn=on&enablevpops&captions=swe)
 
 ## Transformera granskning och godkännande med Workfront
 

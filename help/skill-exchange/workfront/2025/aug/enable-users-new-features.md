@@ -21,7 +21,7 @@ ht-degree: 0%
 
 &quot;Agitation är motsatsen till stagnation - det ena är livet, det andra är döden&quot; ~Ernestine Rose Som systemadministratör kan versionsinformationen ses som nästa steg i utvecklingen av hur vi kan fortsätta att förbättra våra system och lösa fler problem, men för många av våra användare är förändringen inte alltid så lätt accepterad. Delta i det vi gör och kommer till några framgångsrika sätt att skapa en ändringskultur, presentera lösningar för rätt intressenter och kontinuerligt förbättra våra system så att vi fortsätter att tillföra värde oavsett om systemet är helt nytt eller kör full fart framåt. System (styrning) för delning av allmänna systemuppdateringar Tips för att bygga upp en ändringskultur - som gör det möjligt för användarna att börja identifiera den bästa avkastningen för förändring - högt värde, låg insats först rapportering utifrån baslinjer och påverkan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471494/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471542/?learn=on&enablevpops&captions=swe)
 
 ## Driving Innovation and Adoption in Workfront
 

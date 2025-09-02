@@ -29,7 +29,7 @@ Du kommer att lära dig mer om
 * Genom att utnyttja smarta kodningsmetoder i Design Studio kan ni i framtiden bevisa att era marknadsföringsverktyg är korrekta.
 * Hur integreringen med Adobe Experience Manager (AEM) fyller luckorna i Design Studio och utökar möjligheterna i Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471389/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471425/?learn=on&enablevpops&captions=swe)
 
 ## Låsa upp effektiva Marketo-åtgärder
 

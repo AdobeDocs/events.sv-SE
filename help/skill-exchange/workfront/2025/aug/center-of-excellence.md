@@ -27,7 +27,7 @@ Inrättandet av ett expertcentrum (CoE) är avgörande för att driva på innova
 * **Fundera på personal** Utforska de kritiska aspekterna av att bemästra din medarbetare genom att identifiera viktiga roller och ansvarsområden för din administratörsrutin. Förstå hur ni skapar ett team som effektivt kan stödja och driva era CoE-satsningar.
 * **Tips och tricks** Få praktiska insikter och metodtips för att hantera och underhålla din CoE. Upptäck strategier för att övervinna vanliga utmaningar, främja samarbete och säkerställa kontinuerlig förbättring. Följ oss och förse dig med de kunskaper och verktyg du behöver för att skapa ett livskraftigt centrum för spetskompetens inom din Workfront-organisation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471495/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471588/?learn=on&enablevpops&captions=swe)
 
 ## Viktiga steg för att starta COE
 
