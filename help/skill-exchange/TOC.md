@@ -3,9 +3,9 @@ user-guide-title: Kunskapsutbyte
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Samling av inspelningar från Experience Makers Kunskapsutbyte
 event-series: The Skill Exchange
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 85cd991ce4cce6e25f31df39400b21702c2a43cf
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '760'
 ht-degree: 8%
 
 ---
@@ -94,6 +94,10 @@ ht-degree: 8%
       + [Marknadsföringskanaler, använd ansvarsfullt](analytics/jun2021/marketing-channels.md)
       + [Sammanfoga allt](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+   + Augusti 2025 {#aug2025}
+      + [Öppnar inledningsanförandet](aem/2025/aug/opening-keynote.md)
+      + [Framtidsklart innehållsramverk](aem/2025/aug/content-framework.md)
+      + [Skalbar tillgångshantering](aem/2025/aug/scalable-asset-management.md)
    + Augusti 2024 {#aug2024}
       + [Öppnar inledningsanförandet](aem/aug2024/keynote.md)
       + [AEM Sites med Universal Editor](aem/aug2024/universal-editor.md)
