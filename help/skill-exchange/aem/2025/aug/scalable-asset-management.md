@@ -27,7 +27,7 @@ I det här seminariet kommer Katie Junge och Melanie Bartlett att dela med sig a
 * Skalbarhet och framtidssäkra din DAM
 * Optimerad tillgångsidentifiering
 
->[!VIDEO](https://video.tv.adobe.com/v/3471385/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471428/?learn=on&enablevpops&captions=swe)
 
 ## Låsa upp Scalable Digital Asset Management
 
