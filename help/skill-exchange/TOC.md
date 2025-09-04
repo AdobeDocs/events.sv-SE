@@ -3,9 +3,9 @@ user-guide-title: Kunskapsutbyte
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Samling av inspelningar från Experience Makers Kunskapsutbyte
 event-series: The Skill Exchange
-source-git-commit: 85cd991ce4cce6e25f31df39400b21702c2a43cf
+source-git-commit: d942871683ff1319d5f7b16e6f114c23825530b4
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '797'
 ht-degree: 8%
 
 ---
@@ -21,7 +21,21 @@ ht-degree: 8%
       + [Effektiv utbyggbarhet](commerce/aug2024/extensibility.md)
       + [Maximera SEO i hela migreringsarbetsflöden](commerce/aug2024/seo-migration-workflows.md)
       + [Personalisera kundupplevelsen](commerce/aug2024/personalization.md)
++ Adobe Experience Platform {#aep}
+   + Augusti 2025 {#aug2025}
+      + [Öppnar inledningsanförandet](aep-apps/2025/aug/opening-keynote.md)
+      + [Balancing Personalization, Privacy and Data Security](aep-apps/2025/aug/personalization-privacy-data-security.md)
+      + [Demystifiera gemensamma mätvärden](analytics/2025/aug/demystifying-common-metrics.md)
+      + [Medieinvesteringar och Adobe Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
+      + [Tips för att hantera komplexa resor i Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
+      + [Resor bortom e-post](aep-apps/2025/aug/journeys-beyond-email.md)
 + Analytics  {#analytics}
+   + Aug 2025 {#aug2025}
+      + [Anpassningar i Adobe Analytics Workspace](analytics/2025/aug/analysis-workspace-customizations.md)
+      + [Instrumentpaneler ger inte insikter](analytics/2025/aug/dashboards-insights.md)
+      + [Skalbara analysarbetsflöden](analytics/2025/aug/scalable-workflows.md)
+      + [Segmentering och personalisering](analytics/2025/aug/segmentation-personalization.md)
+      + [Workspace-funktioner som du bör använda](analytics/2025/aug/workspace-features.md)
    + Aug 2024 {#aug2024}
       + [Öppnar inledningsanförandet](analytics/aug2024/keynote.md)
       + [Varningar och anteckningar](analytics/aug2024/alerts-annotations.md)
@@ -129,13 +143,9 @@ ht-degree: 8%
          + [Kraftfull återanvändbarhet](aem/aug2022/reusability.md)
          + [Öka affärsvärdet med innehållspersonalisering i AEM](aem/aug2022/personalization.md)
          + [Maximera implementeringen av AEM](aem/aug2022/implementation.md)
-+ Adobe Experience Platform {#aep}
++ Customer Journey Analytics {#cja}
    + Augusti 2025 {#aug2025}
-      + [Öppnar inledningsanförandet](aep-apps/2025/aug/opening-keynote.md)
-      + [Balancing Personalization, Privacy and Data Security](aep-apps/2025/aug/personalization-privacy-data-security.md)
-      + [Medieinvesteringar och Adobe Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
-      + [Tips för att hantera komplexa resor i Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
-      + [Resor bortom e-post](aep-apps/2025/aug/journeys-beyond-email.md)
+      + [Modern Take on Classic AA Recipes](cja/2025/aug/modern-takes-classic-aa.md)
 + Marketo {#marketo}
    + Augusti 2025 {#aug2025}
       + [Öppnar inledningsanförandet](marketo/2025/aug/opening-keynote.md)
