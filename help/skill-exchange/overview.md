@@ -3,16 +3,16 @@ title: Upplevelsemakare i kunskapsutbyte
 description: Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som fokuserar på att fördjupa sig i Adobe Experience Cloud lösningar.
 exl-id: 6d0f26c7-d5d2-4993-b2a1-58d5880f8f96
 duration: 57
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
 workflow-type: tm+mt
-source-wordcount: '1643'
+source-wordcount: '2127'
 ht-degree: 0%
 
 ---
 
 # Upplevelsemakare i kunskapsutbyte {#overview}
 
-<img alt="Upplevelsemakare i kunskapsutbyte" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png?lang=sv-SE" />
+<img alt="Upplevelsemakare i kunskapsutbyte" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
 
 Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som fokuserar på att fördjupa sig i Adobe Experience Cloud lösningar. Programmet ger möjlighet att lära sig av Adobe produktexperter och expertkollegor genom att dela med sig av bästa praxis och tips och tricks.
 
@@ -30,30 +30,54 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
 
 ## Händelser 2025
 
-### Analytics och Customer Journey Analytics
+### Analytics 
 
 <!-- CARDS
 
 {cta  = Watch event}
 
+* analytics/2025/aug/opening-keynote.md
 * analytics/2025/aug/dashboards-insights.md
+* analytics/2025/aug/data-storytelling.md
 * analytics/2025/aug/demystifying-common-metrics.md
-* cja/2025/aug/modern-takes-classic-aa.md
+* analytics/2025/aug/data-to-powerpoint.md
 * analytics/2025/aug/analysis-workspace-customizations.md
 * analytics/2025/aug/scalable-workflows.md
 * analytics/2025/aug/segmentation-personalization.md
 * analytics/2025/aug/workspace-features.md
 
-
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Analytics Opening Keynote">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="analytics/2025/aug/opening-keynote.md" title="Adobe Analytics inledningsanförande" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471124/?format=jpeg&nocache=1757028842727" alt="Adobe Analytics inledningsanförande"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="analytics/2025/aug/opening-keynote.md" target="_blank" rel="referrer" title="Adobe Analytics inledningsanförande">Adobe Analytics öppningsanförande</a>
+                    </p>
+                    <p class="is-size-6">Utforska viktiga analysfärdigheter - historieberättande, etik och empati - plus hur AI och mänskliga insikter kombinerar för att skapa meningsfulla affärsresultat.</p>
+                </div>
+                <a href="analytics/2025/aug/opening-keynote.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Why Dashboards Don’t Deliver Insights (And What Actually Does)">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/dashboards-insights.md" title="Varför instrumentpaneler inte ger insikter (och vad som faktiskt gör det)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471120/?format=jpeg&nocache=1757003827094" alt="Varför instrumentpaneler inte ger insikter (och vad som faktiskt gör det)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471120/?format=jpeg&nocache=1757028842778" alt="Varför instrumentpaneler inte ger insikter (och vad som faktiskt gör det)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -71,12 +95,35 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Data Storytelling With Analysis Workspace">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="analytics/2025/aug/data-storytelling.md" title="Data Storytelling with Analysis Workspace" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471116/?format=jpeg&nocache=1757028842732" alt="Data Storytelling with Analysis Workspace"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="analytics/2025/aug/data-storytelling.md" target="_blank" rel="referrer" title="Data Storytelling with Analysis Workspace">Data Storytelling with Analysis Workspace</a>
+                    </p>
+                    <p class="is-size-6">Lär dig fem strategier för att förvandla Adobe Analysis Workspace-paneler till övertygande datarubriker som skapar genomslag, insikter och åtgärder från intressenter.</p>
+                </div>
+                <a href="analytics/2025/aug/data-storytelling.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Demystifying Common Metrics">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/demystifying-common-metrics.md" title="Demystifiera gemensamma mätvärden" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471114/?format=jpeg&nocache=1757003827064" alt="Demystifiera gemensamma mätvärden"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471114/?format=jpeg&nocache=1757028842766" alt="Demystifiera gemensamma mätvärden"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,12 +141,12 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Cooking with CJA - Modern Takes on Classic AA Recipes">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Shortcut Across the Data-Verse - Get Your Data to PowerPoint at Warp Speed">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="cja/2025/aug/modern-takes-classic-aa.md" title="Matlagning med CJA - Modern Take on Classic Recept" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471110/?format=jpeg&nocache=1757003827084" alt="Matlagning med CJA - Modern Take on Classic Recept"
+                    <a href="analytics/2025/aug/data-to-powerpoint.md" title="Kortkommando tvärs över dataversionen - Hämta dina data till PowerPoint med tänjningshastighet" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471119/?format=jpeg&nocache=1757028842737" alt="Kortkommando tvärs över dataversionen - Hämta dina data till PowerPoint med tänjningshastighet"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -107,11 +154,11 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="cja/2025/aug/modern-takes-classic-aa.md" target="_blank" rel="referrer" title="Matlagning med CJA - Modern Take on Classic Recept">Matcha med CJA - Modern tar klassiska fragment</a>
+                        <a href="analytics/2025/aug/data-to-powerpoint.md" target="_blank" rel="referrer" title="Kortkommando tvärs över dataversionen - Hämta dina data till PowerPoint med tänjningshastighet">Kortkommando tvärs över dataversionen - Hämta dina data till PowerPoint med tänjningshastighet</a>
                     </p>
-                    <p class="is-size-6">Upptäck hur du kan använda härledda fält, klassificeringar och listaktiverade dimensioner i Customer Journey Analytics för att låsa upp flexibla, retroaktiva insikter.</p>
+                    <p class="is-size-6">Snabba upp PowerPoint-rapporter med tips om hur du kan rensa upp komponenterna, förbättra prestandan och effektivisera dataexporten från Adobe Workspace.</p>
                 </div>
-                <a href="cja/2025/aug/modern-takes-classic-aa.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="analytics/2025/aug/data-to-powerpoint.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
                 </a>
             </div>
@@ -122,7 +169,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/analysis-workspace-customizations.md" title="Tre anpassningsbara spel i Adobe Analytics Workspace" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471123/?format=jpeg&nocache=1757003827039" alt="Tre anpassningsbara spel i Adobe Analytics Workspace"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471123/?format=jpeg&nocache=1757028842745" alt="Tre anpassningsbara spel i Adobe Analytics Workspace"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -145,7 +192,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/scalable-workflows.md" title="Data in Motion - Scalable Analytics Workflows for Insight-driven Teams" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471118/?format=jpeg&nocache=1757003827053" alt="Data in Motion - Scalable Analytics Workflows for Insight-driven Teams"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471118/?format=jpeg&nocache=1757028842826" alt="Data in Motion - Scalable Analytics Workflows for Insight-driven Teams"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -168,7 +215,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/segmentation-personalization.md" title="Ökad effekt med segmentering och personalisering i Adobe Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471113/?format=jpeg&nocache=1757003827103" alt="Ökad effekt med segmentering och personalisering i Adobe Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471113/?format=jpeg&nocache=1757028842791" alt="Ökad effekt med segmentering och personalisering i Adobe Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -191,7 +238,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/workspace-features.md" title="Workspace-funktioner som du bör använda" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471117/?format=jpeg&nocache=1757003827074" alt="Workspace-funktioner som du bör använda"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471117/?format=jpeg&nocache=1757028842803" alt="Workspace-funktioner som du bör använda"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -212,6 +259,139 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+### Customer Journey Analytics
+
+<!-- CARDS
+
+{cta  = Watch event}
+
+* cja/2025/aug/opening-keynote.md
+* cja/2025/aug/modern-takes-classic-aa.md
+* cja/2025/aug/cja-data-model.md
+* cja/2025/aug/journey-canvas.md
+* cja/2025/aug/story-behind-journey.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Customer Journey Analytics Opening Keynote">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="cja/2025/aug/opening-keynote.md" title="Customer Journey Analytics inledningsanförande" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471108/?format=jpeg&nocache=1757028843735" alt="Customer Journey Analytics inledningsanförande"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="cja/2025/aug/opening-keynote.md" target="_blank" rel="referrer" title="Customer Journey Analytics inledningsanförande">Customer Journey Analytics öppningsanförande</a>
+                    </p>
+                    <p class="is-size-6">Upptäck viktiga färdigheter som kontextuell fluens, empati och berättande för att lyfta fram dina idéer med Adobe Customer Journey Analytics.</p>
+                </div>
+                <a href="cja/2025/aug/opening-keynote.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Cooking with CJA - Modern Takes on Classic AA Recipes">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="cja/2025/aug/modern-takes-classic-aa.md" title="Matlagning med CJA - Modern Take on Classic Recept" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471110/?format=jpeg&nocache=1757028843755" alt="Matlagning med CJA - Modern Take on Classic Recept"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="cja/2025/aug/modern-takes-classic-aa.md" target="_blank" rel="referrer" title="Matlagning med CJA - Modern Take on Classic Recept">Matcha med CJA - Modern tar klassiska fragment</a>
+                    </p>
+                    <p class="is-size-6">Upptäck hur du kan använda härledda fält, klassificeringar och listaktiverade dimensioner i Customer Journey Analytics för att låsa upp flexibla, retroaktiva insikter.</p>
+                </div>
+                <a href="cja/2025/aug/modern-takes-classic-aa.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="The Architecture of Analysis - How to Approach Your Customer Journey Analytics Data Model">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="cja/2025/aug/cja-data-model.md" title="Analysarkitekturen - Hur ni använder er Customer Journey Analytics datamodell" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471111/?format=jpeg&nocache=1757028843714" alt="Analysarkitekturen - Hur ni använder er Customer Journey Analytics datamodell"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="cja/2025/aug/cja-data-model.md" target="_blank" rel="referrer" title="Analysarkitekturen - Hur ni använder er Customer Journey Analytics datamodell">Analysarkitekturen - Hur du använder din Customer Journey Analytics-datamodell</a>
+                    </p>
+                    <p class="is-size-6">Lär dig strukturera CJA datamodeller med händelsehierarkier, attribuering och nyckeltal för att få djupare insikter om kundresan.</p>
+                </div>
+                <a href="cja/2025/aug/cja-data-model.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Driving CX Success with Adobe Customer Journey Analytics Journey Canvas">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="cja/2025/aug/journey-canvas.md" title="Skapa kundupplevelser med Adobe Customer Journey Analytics Journey Canvas" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471112/?format=jpeg&nocache=1757028843744" alt="Skapa kundupplevelser med Adobe Customer Journey Analytics Journey Canvas"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="cja/2025/aug/journey-canvas.md" target="_blank" rel="referrer" title="Skapa kundupplevelser med Adobe Customer Journey Analytics Journey Canvas">Körning av kundupplevelse lyckades med Adobe Customer Journey Analytics Journey Canvas</a>
+                    </p>
+                    <p class="is-size-6">Upptäck hur Journey Canvas kan kartlägga idealiska kontra faktiska användarsökvägar, upptäcka friktionen och få mätbara kundupplevelseförbättringar med Adobe Customer Journey Analytics</p>
+                </div>
+                <a href="cja/2025/aug/journey-canvas.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Lights, Data, Insight - Uncovering the Story Behind Every Journey">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="cja/2025/aug/story-behind-journey.md" title="Ljus, data, insikt - avslöjar berättelsen bakom varje resa" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471109/?format=jpeg&nocache=1757028843726" alt="Ljus, data, insikt - avslöjar berättelsen bakom varje resa"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="cja/2025/aug/story-behind-journey.md" target="_blank" rel="referrer" title="Ljus, data, insikt - avslöjar berättelsen bakom varje resa">Ljus, data, insikt - Identifiera berättelsen bakom varje resa</a>
+                    </p>
+                    <p class="is-size-6">Läs om hur AEP och CJA kan kombinera data, sätta ihop identiteter och aktivera insikter för personalisering i realtid och smartare kundresor.</p>
+                </div>
+                <a href="cja/2025/aug/story-behind-journey.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
 ### Experience Manager
 
 <!-- CARDS
@@ -219,6 +399,8 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
 {cta  = Watch event}
 
 * aem/2025/aug/opening-keynote.md
+* aem/2025/aug/asset-workflows-permissions-integration.md
+* aem/2025/aug/reports-roi-metrics.md
 * aem/2025/aug/content-framework.md
 * aem/2025/aug/scalable-asset-management.md
 
@@ -230,7 +412,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/opening-keynote.md" title="Adobe Experience Manager inledningsanförande" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1757003827758" alt="Adobe Experience Manager inledningsanförande"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1757028844199" alt="Adobe Experience Manager inledningsanförande"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -248,12 +430,58 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AEM Masterclass - Asset Workflows, Permissions & Integration">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="aem/2025/aug/asset-workflows-permissions-integration.md" title="AEM MasterClass - Asset Workflows, Permissions &amp; Integration" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471383/?format=jpeg&nocache=1757028844177" alt="AEM MasterClass - Asset Workflows, Permissions &amp; Integration"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="aem/2025/aug/asset-workflows-permissions-integration.md" target="_blank" rel="referrer" title="AEM MasterClass - Asset Workflows, Permissions &amp; Integration">AEM Masterclass - Resursarbetsflöden, behörigheter och integrering</a>
+                    </p>
+                    <p class="is-size-6">Lär dig AEM resursarbetsflöden, DAM-behörigheter och integreringsstrategier. Idealiskt för administratörer och DAM-bibliotekarier som vill ha bästa praxis och automatiseringstips.</p>
+                </div>
+                <a href="aem/2025/aug/asset-workflows-permissions-integration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Developing Reports and ROI Metrics for AEM Assets">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="aem/2025/aug/reports-roi-metrics.md" title="Utveckla rapporter och avkastningsstatistik för AEM Assets" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471384/?format=jpeg&nocache=1757028844162" alt="Utveckla rapporter och avkastningsstatistik för AEM Assets"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="aem/2025/aug/reports-roi-metrics.md" target="_blank" rel="referrer" title="Utveckla rapporter och avkastningsstatistik för AEM Assets">Utveckla rapporter och avkastningsstatistik för AEM Assets</a>
+                    </p>
+                    <p class="is-size-6">Lär dig att skapa anpassade rapporter och avkastningsstatistik i AEM Assets. Upptäck de bästa sätten att följa upp tillgångarnas prestanda och deras inverkan på verksamheten.</p>
+                </div>
+                <a href="aem/2025/aug/reports-roi-metrics.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Smart, Scalable, and Structured - Building a Future-Ready Content Framework">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/content-framework.md" title="Smart, skalbar och strukturerad - Bygg ett framtidsklart innehållsramverk" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471382/?format=jpeg&nocache=1757003827742" alt="Smart, skalbar och strukturerad - Bygg ett framtidsklart innehållsramverk"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471382/?format=jpeg&nocache=1757028844189" alt="Smart, skalbar och strukturerad - Bygg ett framtidsklart innehållsramverk"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -276,7 +504,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/scalable-asset-management.md" title="Taxonomi och struktur - AEM hemlighet för hantering av skalbara tillgångar" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471385/?format=jpeg&nocache=1757003827770" alt="Taxonomi och struktur - AEM hemlighet för hantering av skalbara tillgångar"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471385/?format=jpeg&nocache=1757028844208" alt="Taxonomi och struktur - AEM hemlighet för hantering av skalbara tillgångar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -317,7 +545,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Anteckning om kunskapsutbyte - framtiden för upplevelseskapande med AI, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1757003828090" alt="Anteckning om kunskapsutbyte - framtiden för upplevelseskapande med AI, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1757028844632" alt="Anteckning om kunskapsutbyte - framtiden för upplevelseskapande med AI, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -340,7 +568,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/personalization-privacy-data-security.md" title="Navigera i nya Norm - Balancing Personalization, Privacy and Data Security" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471328/?format=jpeg&nocache=1757003828063" alt="Navigera i nya Norm - Balancing Personalization, Privacy and Data Security"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471328/?format=jpeg&nocache=1757028844666" alt="Navigera i nya Norm - Balancing Personalization, Privacy and Data Security"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -363,7 +591,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/real-time-cdp-collaboration.md" title="Få ut mesta möjliga av medieinvesteringarna med Adobe Real-Time CDP Collaboration" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471329/?format=jpeg&nocache=1757003828079" alt="Få ut mesta möjliga av medieinvesteringarna med Adobe Real-Time CDP Collaboration"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471329/?format=jpeg&nocache=1757028844656" alt="Få ut mesta möjliga av medieinvesteringarna med Adobe Real-Time CDP Collaboration"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -386,7 +614,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/tips-for-tackling-journeys.md" title="Calming Customer Chaos - Tips for Tackling Complex Journeys in Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471330/?format=jpeg&nocache=1757003828102" alt="Calming Customer Chaos - Tips for Tackling Complex Journeys in Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471330/?format=jpeg&nocache=1757028844676" alt="Calming Customer Chaos - Tips for Tackling Complex Journeys in Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -409,7 +637,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/journeys-beyond-email.md" title="Lösa Adobe Journeys Beyond Email" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471331/?format=jpeg&nocache=1757003828112" alt="Lösa Adobe Journeys Beyond Email"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471331/?format=jpeg&nocache=1757028844646" alt="Lösa Adobe Journeys Beyond Email"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -450,7 +678,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/opening-keynote.md" title="Öppnar inledningsanförandet" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1757003828494" alt="Öppnar inledningsanförandet"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1757028844943" alt="Öppnar inledningsanförandet"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -473,7 +701,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/ai-lifecycle-engine.md" title="Från MQL till AIQL - Bygga en AI-driven livscykelmotor i Marketo Engage" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471387/?format=jpeg&nocache=1757003828462" alt="Från MQL till AIQL - Bygga en AI-driven livscykelmotor i Marketo Engage"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471387/?format=jpeg&nocache=1757028844931" alt="Från MQL till AIQL - Bygga en AI-driven livscykelmotor i Marketo Engage"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -496,7 +724,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/design-studio.md" title="Frigör kraften i Design Studio för Global Marketing Operations" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1757003828474" alt="Frigör kraften i Design Studio för Global Marketing Operations"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1757028844920" alt="Frigör kraften i Design Studio för Global Marketing Operations"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -519,7 +747,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/data-categorization-with-ai.md" title="Förbättra datakategoriseringen i Marketo Engage med finjusterade AI-modeller" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471388/?format=jpeg&nocache=1757003828484" alt="Förbättra datakategoriseringen i Marketo Engage med finjusterade AI-modeller"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471388/?format=jpeg&nocache=1757028844957" alt="Förbättra datakategoriseringen i Marketo Engage med finjusterade AI-modeller"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -542,7 +770,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" title="Experience Makers Spotlight - Effektivisera uppföljningar under kundens livscykel" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471390/?format=jpeg&nocache=1757003828446" alt="Experience Makers Spotlight - Effektivisera uppföljningar under kundens livscykel"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471390/?format=jpeg&nocache=1757028844967" alt="Experience Makers Spotlight - Effektivisera uppföljningar under kundens livscykel"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -586,7 +814,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/keynote.md" title="Öppnar inledningsanförandet" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471499/?format=jpeg&nocache=1757003828856" alt="Öppnar inledningsanförandet"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471499/?format=jpeg&nocache=1757028845205" alt="Öppnar inledningsanförandet"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -609,7 +837,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/advanced-text-mode.md" title="Förbättra Workfront Reporting med avancerat textläge" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471498/?format=jpeg&nocache=1757003828871" alt="Förbättra Workfront Reporting med avancerat textläge"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471498/?format=jpeg&nocache=1757028845221" alt="Förbättra Workfront Reporting med avancerat textläge"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -632,7 +860,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="Förbereda en högklassig Workfront-organisation" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1757003828883" alt="Förbereda en högklassig Workfront-organisation"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1757028845242" alt="Förbereda en högklassig Workfront-organisation"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -655,7 +883,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/enable-users-new-features.md" title="Möjliggöra användare med nya funktioner - Agitation is Life" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471494/?format=jpeg&nocache=1757003828924" alt="Möjliggöra användare med nya funktioner - Agitation is Life"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471494/?format=jpeg&nocache=1757028845277" alt="Möjliggöra användare med nya funktioner - Agitation is Life"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -678,7 +906,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="Automatisera framtagning av Workfront-användarkonton med Fusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1757003828895" alt="Automatisera framtagning av Workfront-användarkonton med Fusion"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1757028845252" alt="Automatisera framtagning av Workfront-användarkonton med Fusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -701,7 +929,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/review-approval.md" title="Komma igång med granskning och godkännande" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1757003828916" alt="Komma igång med granskning och godkännande"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1757028845232" alt="Komma igång med granskning och godkännande"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -724,7 +952,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/workfront-ai-tools.md" title="Maximera effektiviteten med AI - Mastering Workfront AI Tools" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471393/?format=jpeg&nocache=1757003828904" alt="Maximera effektiviteten med AI - Mastering Workfront AI Tools"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471393/?format=jpeg&nocache=1757028845261" alt="Maximera effektiviteten med AI - Mastering Workfront AI Tools"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -747,7 +975,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/workflows-workfront-aem.md" title="Effektivisera Creative arbetsflöden med Workfront + Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471497/?format=jpeg&nocache=1757003828932" alt="Effektivisera Creative arbetsflöden med Workfront + Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471497/?format=jpeg&nocache=1757028845269" alt="Effektivisera Creative arbetsflöden med Workfront + Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

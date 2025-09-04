@@ -3,9 +3,9 @@ user-guide-title: Kunskapsutbyte
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Samling av inspelningar från Experience Makers Kunskapsutbyte
 event-series: The Skill Exchange
-source-git-commit: d942871683ff1319d5f7b16e6f114c23825530b4
+source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '837'
 ht-degree: 8%
 
 ---
@@ -31,8 +31,11 @@ ht-degree: 8%
       + [Resor bortom e-post](aep-apps/2025/aug/journeys-beyond-email.md)
 + Analytics  {#analytics}
    + Aug 2025 {#aug2025}
+      + [Öppnar inledningsanförandet](analytics/2025/aug/opening-keynote.md)
       + [Anpassningar i Adobe Analytics Workspace](analytics/2025/aug/analysis-workspace-customizations.md)
       + [Instrumentpaneler ger inte insikter](analytics/2025/aug/dashboards-insights.md)
+      + [Data Storytelling with Analysis Workspace](analytics/2025/aug/data-storytelling.md)
+      + [Data till PowerPoint](analytics/2025/aug/data-to-powerpoint.md)
       + [Skalbara analysarbetsflöden](analytics/2025/aug/scalable-workflows.md)
       + [Segmentering och personalisering](analytics/2025/aug/segmentation-personalization.md)
       + [Workspace-funktioner som du bör använda](analytics/2025/aug/workspace-features.md)
@@ -107,9 +110,18 @@ ht-degree: 8%
       + [Komma igång](analytics/jun2021/getting-started.md)
       + [Marknadsföringskanaler, använd ansvarsfullt](analytics/jun2021/marketing-channels.md)
       + [Sammanfoga allt](analytics/jun2021/putting-all-together.md)
++ Customer Journey Analytics {#cja}
+   + Augusti 2025 {#aug2025}
+      + [Öppnar inledningsanförandet](cja/2025/aug/opening-keynote.md)
+      + [Customer Journey Analytics Journey Canvas](cja/2025/aug/journey-canvas.md)
+      + [Customer Journey Analytics datamodell](cja/2025/aug/cja-data-model.md)
+      + [Modern Take on Classic AA Recipes](cja/2025/aug/modern-takes-classic-aa.md)
+      + [Upptäcka berättelsen bakom varje resa](cja/2025/aug/story-behind-journey.md)
 + Experience Manager {#aem}
    + Augusti 2025 {#aug2025}
       + [Öppnar inledningsanförandet](aem/2025/aug/opening-keynote.md)
+      + [Resursarbetsflöden, behörigheter och integrering](aem/2025/aug/asset-workflows-permissions-integration.md)
+      + [Utveckla rapporter och avkastningsstatistik för AEM Assets](aem/2025/aug/reports-roi-metrics.md)
       + [Framtidsklart innehållsramverk](aem/2025/aug/content-framework.md)
       + [Skalbar tillgångshantering](aem/2025/aug/scalable-asset-management.md)
    + Augusti 2024 {#aug2024}
@@ -143,9 +155,6 @@ ht-degree: 8%
          + [Kraftfull återanvändbarhet](aem/aug2022/reusability.md)
          + [Öka affärsvärdet med innehållspersonalisering i AEM](aem/aug2022/personalization.md)
          + [Maximera implementeringen av AEM](aem/aug2022/implementation.md)
-+ Customer Journey Analytics {#cja}
-   + Augusti 2025 {#aug2025}
-      + [Modern Take on Classic AA Recipes](cja/2025/aug/modern-takes-classic-aa.md)
 + Marketo {#marketo}
    + Augusti 2025 {#aug2025}
       + [Öppnar inledningsanförandet](marketo/2025/aug/opening-keynote.md)
