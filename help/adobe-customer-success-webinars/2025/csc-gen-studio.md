@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Det här webbinariet ger en översikt på hög nivå över den moderna innehållsförsörjningskedjan som visar hur organisationer kan snabba upp, förenkla och styra framtagning och distribution av innehåll i alla kanaler och på alla målgrupper. Tittarna får lära sig om Adobe GenStudio integrerade funktioner som en produktsvit - med AEM Sites, AEM Assets, Workfront och Creative Cloud - för att låsa upp samarbete i realtid, automatisera arbetsflöden och möjliggöra skalbart, kreativt utförande. Sessionen är utformad för att utbilda företag och IT-chefer i hur en enhetlig plattform för innehållsleverantörer kan öka marknadsföringens flexibilitet, kreativa genomslag och mätbar tillväxt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472978/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3472983/?learn=on&enablevpops&captions=swe)
 
 ## Frigöra sömlöst innehåll med Adobe
 
