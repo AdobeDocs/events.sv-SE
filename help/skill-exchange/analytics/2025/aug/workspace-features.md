@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Upptäck kraftfulla men ofta förbisedda funktioner i Adobe Analytics Workspace som kan lyfta fram era analyser och skapa verklig genomslagskraft. Under den här sessionen kommer vi att utforska praktiska användningsexempel och enkla tekniker som förvandlar vardagliga verktyg till insiktsmotorer, vilket hjälper dig att identifiera vad som verkligen betyder något för ditt företag. Oavsett om du är en erfaren analytiker eller bara har kommit igång kan du gå vidare med användbara idéer för att maximera värdet av dina data.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471117/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471255/?learn=on&enablevpops&captions=swe)
 
 ## Låsa upp avancerade analystekniker
 

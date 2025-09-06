@@ -26,7 +26,7 @@ Under den här sessionen kommer administratörer och DAM-bibliotek att lära sig
 * Förstå och tillämpa behörigheter och åtkomstkontroll inom DAM
 * Funktioner för DAM, bästa praxis och integreringsstrategier med DAM
 
->[!VIDEO](https://video.tv.adobe.com/v/3471383/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471456/?learn=on&enablevpops&captions=swe)
 
 ## Låsa upp effektiv hantering av digitala resurser
 

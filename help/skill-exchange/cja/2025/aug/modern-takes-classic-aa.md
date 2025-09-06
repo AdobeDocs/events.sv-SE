@@ -25,7 +25,7 @@ ht-degree: 0%
 Oavsett om du saknar dina bearbetningsregler eller försöker hitta den perfekta panoreringen (datavyn) för nästa analys kommer den här sessionen att vägleda dig genom köket med moderna analyser - steg för steg.
 Experimentera med insikter - och gå härifrån med en komplett meny med tekniker som är redo för CJA
 
->[!VIDEO](https://video.tv.adobe.com/v/3471110/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471244/?learn=on&enablevpops&captions=swe)
 
 ## Transforming Analytics with CJA: Key Takeaways
 

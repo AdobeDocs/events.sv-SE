@@ -24,7 +24,7 @@ Deltagarna kommer att lära sig att använda analys på resenivå för att ident
 
 Slutligen kommer vi att fördjupa oss i strategier för att skala dessa insikter i hela organisationen genom att koppla Journey Canvas-resultaten till detaljerade dashboards, vilket möjliggör kontinuerlig optimering vid varje kontaktyta. Vare sig du är nybörjare i CJA eller erfaren yrkesfotograf kommer den här sessionen att ge dig en tydlig metod för att använda Journey Canvas för att lyfta upp era kundupplevelseprogram och få konkreta resultat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471218/?learn=on&enablevpops&captions=swe)
 
 ## Resa - arbetsyta: Från analys till aktivering
 
