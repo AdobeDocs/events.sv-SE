@@ -3,7 +3,7 @@ user-guide-title: Kunskapsutbyte
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Samling av inspelningar från Experience Makers Kunskapsutbyte
 event-series: The Skill Exchange
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+source-git-commit: b28e983603f63980fa53b9311d54244c0ee5228a
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 8%
@@ -25,7 +25,6 @@ ht-degree: 8%
    + Augusti 2025 {#aug2025}
       + [Öppnar inledningsanförandet](aep-apps/2025/aug/opening-keynote.md)
       + [Balancing Personalization, Privacy and Data Security](aep-apps/2025/aug/personalization-privacy-data-security.md)
-      + [Demystifiera gemensamma mätvärden](analytics/2025/aug/demystifying-common-metrics.md)
       + [Medieinvesteringar och Adobe Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
       + [Tips för att hantera komplexa resor i Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
       + [Resor bortom e-post](aep-apps/2025/aug/journeys-beyond-email.md)
@@ -36,6 +35,7 @@ ht-degree: 8%
       + [Instrumentpaneler ger inte insikter](analytics/2025/aug/dashboards-insights.md)
       + [Data Storytelling with Analysis Workspace](analytics/2025/aug/data-storytelling.md)
       + [Data till PowerPoint](analytics/2025/aug/data-to-powerpoint.md)
+      + [Demystifiera gemensamma mätvärden](analytics/2025/aug/demystifying-common-metrics.md)
       + [Skalbara analysarbetsflöden](analytics/2025/aug/scalable-workflows.md)
       + [Segmentering och personalisering](analytics/2025/aug/segmentation-personalization.md)
       + [Workspace-funktioner som du bör använda](analytics/2025/aug/workspace-features.md)
