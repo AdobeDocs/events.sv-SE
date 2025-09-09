@@ -9,9 +9,9 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02T00:00:00Z
 jira: KT-18868
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 6c9493a52200986d77efba0737b03d15db539845
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Öppnar inledningsanförandet
 
-The Adobe Experience Makers: The SKill Exchange (Marketo Engage track) event presenterade Bhatstra Mukherjee, Adobe produktchef, och diskuterar hur B2B-marknadsföring utvecklas till&quot;B2B 3.0&quot;. Denna nya fas fokuserar på AI-drivna kundupplevelser, med betoning på personaliserat engagemang och målgruppsinriktning för inköpsgrupper inom konton. Mukherjee betonade AI-agentens omvandlingsroll när det gäller att automatisera uppgifter, öka effektiviteten och göra det möjligt för marknadsförare att fokusera på strategiska roller. Vikten av samarbete mellan människor och AI underströks, och AI förstärker kreativiteten i stället för att ersätta den. Viktiga färdigheter för framgång i detta landskap är snabb konstruktion, dataflöde och agentkonfiguration. Adobe integrerar AI-agenter i verktyg som Marketo Engage för att automatisera kundens livscykelhantering och säkerställa att marknadsförare som anammar AI kommer att utvecklas i framtiden för B2B-marknadsföring.
+The Adobe Experience Makers: The SKill Exchange (Marketo Engage track) event presenterade Badsah Mukherji, Adobe Senior Group Product Manager, som diskuterar hur B2B-marknadsföring utvecklas till&quot;B2B 3.0&quot;. Denna nya fas fokuserar på AI-drivna kundupplevelser, med betoning på personaliserat engagemang och målgruppsinriktning för inköpsgrupper inom konton. Mukherjee betonade AI-agentens omvandlingsroll när det gäller att automatisera uppgifter, öka effektiviteten och göra det möjligt för marknadsförare att fokusera på strategiska roller. Vikten av samarbete mellan människor och AI underströks, och AI förstärker kreativiteten i stället för att ersätta den. Viktiga färdigheter för framgång i detta landskap är snabb konstruktion, dataflöde och agentkonfiguration. Adobe integrerar AI-agenter i verktyg som Marketo Engage för att automatisera kundens livscykelhantering och säkerställa att marknadsförare som anammar AI kommer att utvecklas i framtiden för B2B-marknadsföring.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471392/?learn=on&enablevpops)
 
