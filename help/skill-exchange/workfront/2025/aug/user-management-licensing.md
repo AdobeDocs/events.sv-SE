@@ -22,4 +22,4 @@ Fungerar era Workfront-licenser lika hårt som ni? Besök Monique Evans från St
 
 Se hur Monique ser till att rätt personer har rätt åtkomst - använd roller, grupper, team och anpassade formulär för att förenkla skalan och minska administrationskostnaderna. Den här sessionen ger dig praktiska sätt att rensa upp instansen, förbättra styrningen och optimera konfigurationen av Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473945/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3473962/?learn=on&enablevpops&captions=swe)

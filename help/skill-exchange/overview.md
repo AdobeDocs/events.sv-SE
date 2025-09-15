@@ -412,7 +412,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/opening-keynote.md" title="Adobe Experience Manager inledningsanförande" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1757465010566" alt="Adobe Experience Manager inledningsanförande"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471400/?format=jpeg&nocache=1757465010566&captions=swe" alt="Adobe Experience Manager inledningsanförande"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -976,7 +976,7 @@ Experience Makers Kunskapsutbytet är en global serie virtuella kundkurser som f
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/user-management-licensing.md" title="Maximera din Workfront-licens - tips för användarhantering och licensiering" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473945/?format=jpeg&nocache=1757465013296" alt="Maximera din Workfront-licens - tips för användarhantering och licensiering"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473962/?format=jpeg&nocache=1757465013296&captions=swe" alt="Maximera din Workfront-licens - tips för användarhantering och licensiering"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
