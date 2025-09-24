@@ -8,14 +8,14 @@ event-cta-url-live: https://www.youtube.com/live/Pf5O5b0Ehig
 event-start-time: 2025-09-30 09:00-7
 event-guests: Sandra Hausmann, Travis Jordan, Nikhil Sharma
 exl-id: 963b69d7-8ffa-4bb4-9b1b-980d6d94821f
-source-git-commit: d403b748907dcc941a9877028f472bdab452bf02
+source-git-commit: d8a0caa950896397a6f8f4bd572959e8fbc3e842
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
-# Bränna personaliserat innehåll i Journey Optimizer med AEM Content Fragments och Dynamic Media
+# Nå ut bättre med RCS och WhatsApp i Journey Optimizer
 
 I detta Experience League Live-program kommer Travis Jordan och Nikhil Sharma att visa hur Adobe Journey Optimizer nyligen har utökat mobilengagemanget med kraftfulla nya kanaltillägg och funktioner, inklusive WhatsApp, RCS och Custom SMS Provider.
 
