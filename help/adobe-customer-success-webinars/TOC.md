@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success-led webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe lösningar.
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '502'
 ht-degree: 3%
 
 ---
@@ -42,6 +42,7 @@ ht-degree: 3%
       + [AI - bortom grunderna](2025/ai-beyond-basics.md)
       + [Best Practices and Insights for Modeling XDM Schemas](2025/model-xdm-schemas.md)
       + [Data Distiller 101](2025/data-distiller-101.md)
+      + [Användningsexempel för identitetsdiagram och felsökning](2025/identity-graph.md)
       + [Vinnande Executive Sponsorship for AEP Projects](2025/exec-sponsorship-aep-projects.md)
    + GenStudio för prestationsbaserad marknadsföring {#genstudio2025}
       + [Content Supply Chain and Adobe GenStudio](2025/csc-gen-studio.md)
