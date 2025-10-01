@@ -3,9 +3,9 @@ title: '[!DNL Experience Makers - Learn from your peers]'
 description: Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina Adobe-lösningar. [!DNL Experience Makers - Learn from your peers]  är en global serie med virtuella kundutbildningsevenemang som fokuserar på att fördjupa sig i  [!DNL Adobe Experience Cloud] lösningar.
 exl-id: 006da2ec-77f0-43fb-a653-1b5f4942d692
 duration: 20
-source-git-commit: 2e57d6ee984b1537172fe5c6652ff110d9e3416b
+source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
 workflow-type: tm+mt
-source-wordcount: '1126'
+source-wordcount: '1073'
 ht-degree: 0%
 
 ---
@@ -204,45 +204,6 @@ Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina Adobe-l
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Experience Platform
-
-<!-- CARDS
-
-{cta  = Watch event}
-
-* platform/ai-agents.md
- 
--->
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AI Agents in AEP - An Overview">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="platform/ai-agents.md" title="AI-agenter i AEP - en översikt" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1759344548123" alt="AI-agenter i AEP - en översikt"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="platform/ai-agents.md" target="_blank" rel="referrer" title="AI-agenter i AEP - en översikt">AI-agenter i AEP - en översikt</a>
-                    </p>
-                    <p class="is-size-6">Läs om hur AI-agenter i Adobe Experience Platform ökar effektiviteten, stöder verkliga användningsfall och levererar tillämpat värde. Utforska visioner, färdplaner och hur ni börjar.</p>
-                </div>
-                <a href="platform/ai-agents.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
-
 ## Marketo
 
 <!-- CARDS
@@ -378,7 +339,7 @@ Lär dig av Adobe experter och kollegor hur du får ut det mesta av dina Adobe-l
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/jan2024/person-scoring-mastery.md" title="Person Scoring Mastery with Marketo Engage - Localized Nuances in a Global Framework" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457443/?format=jpeg&nocache=1759344548614&captions=swe" alt="Person Scoring Mastery with Marketo Engage - Localized Nuances in a Global Framework"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1759344548614" alt="Person Scoring Mastery with Marketo Engage - Localized Nuances in a Global Framework"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

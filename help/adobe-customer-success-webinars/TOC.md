@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success-led webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe lösningar.
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '511'
 ht-degree: 3%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 3%
 + [Adobe Customer Success Webinars](overview.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
+      + [Förbättra Adobe Commerce med Adobe Experience Platform](2025/enriching-adobe-commerce.md)
       + [Transformerar B2B och B2B2C Commerce](2025/transforming-b2b-commerce.md)
    + Customer Journey Analytics {#cja2025}
       + [Building Executive Sponsorship](2025/cja-success.md)
@@ -39,6 +40,7 @@ ht-degree: 3%
       + [Personalisera digital kommunikation](2025/personalize-digital-communications.md)
       + [Universal Editor - översikt](2025/modern-aem-authoring.md)
    + Experience Platform {#aep2025}
+      + [AI-agenter](2025/ai-agents.md)
       + [AI - bortom grunderna](2025/ai-beyond-basics.md)
       + [Best Practices and Insights for Modeling XDM Schemas](2025/model-xdm-schemas.md)
       + [Data Distiller 101](2025/data-distiller-101.md)
