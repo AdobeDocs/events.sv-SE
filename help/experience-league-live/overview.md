@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: d8a0caa950896397a6f8f4bd572959e8fbc3e842
+source-git-commit: c548ffe15a8b19f9ad8790ef23219ad0376bf946
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -25,17 +25,6 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-30-25.md">
-              <img alt="Experience League LIVE 30 september 2025" src="../experience-league-live/assets/30Sept2025_WebBanner.png">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-09-30-25.md">
-                <strong> Utöka er mobilräckvidd med RCS och WhatsApp i Journey Optimizer </strong>
-              </a>
-              <br/><em> med Sandra Hausmann, Travis Jordan och Nikhil Sharma </em>
-              <br/><em>30 september 2025</em>
-            </div>
-        </td>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-16-25.md">
               <img alt="Experience League LIVE 16 oktober 2025" src="assets/exl-live-episode-10-16-25-web-banner.png">
             </a>
@@ -124,5 +113,5 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 >[!TIP]
 >
->Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/sv#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=sv-SE).
+>Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
