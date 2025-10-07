@@ -122,7 +122,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-success.md" title="Building Executive Sponsorship for support of Adobe Customer Journey Analytics Success" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470853/?format=jpeg&nocache=1759852565033" alt="Building Executive Sponsorship for support of Adobe Customer Journey Analytics Success"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470858/?format=jpeg&nocache=1759852565033&captions=swe" alt="Building Executive Sponsorship for support of Adobe Customer Journey Analytics Success"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -424,7 +424,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/mastering-aem-sites.md" title="Mastering AEM Sites - Mallar, Navigation och SEO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464298/?format=jpeg&nocache=1759852569521" alt="Mastering AEM Sites - Mallar, Navigation och SEO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464319/?format=jpeg&nocache=1759852569521&captions=swe" alt="Mastering AEM Sites - Mallar, Navigation och SEO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -627,7 +627,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-beyond-basics.md" title="AI Assistant - bortom grunderna" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1759852573402" alt="AI Assistant - bortom grunderna"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463362/?format=jpeg&nocache=1759852573402&captions=swe" alt="AI Assistant - bortom grunderna"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -756,7 +756,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/csc-gen-studio.md" title="Demystifying the Content Supply Chain and Adobe GenStudio as a Product Suite" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472978/?format=jpeg&nocache=1759852576825" alt="Demystifying the Content Supply Chain and Adobe GenStudio as a Product Suite"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472983/?format=jpeg&nocache=1759852576825&captions=swe" alt="Demystifying the Content Supply Chain and Adobe GenStudio as a Product Suite"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -951,7 +951,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/gen-ai-experimentation.md" title="GenAI Experimentation in AJO and its Relationship with Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1759852580906" alt="GenAI Experimentation in AJO and its Relationship with Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444463/?format=jpeg&nocache=1759852580906&captions=swe" alt="GenAI Experimentation in AJO and its Relationship with Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
