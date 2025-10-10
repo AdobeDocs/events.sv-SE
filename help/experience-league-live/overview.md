@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: a3f2daa37a2fb1896ed4e3b1d640b82715319178
+source-git-commit: facacb2fe59edc77e5add50d4b02b08e14030184
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -37,13 +37,13 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
             </div>
         </td>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-22-25.md">
-              <img alt="Experience League LIVE 22 oktober 2025" src="episodes/assets/WebBanner-Oct22-2025.jpg">
+              <img alt="Experience League LIVE 22 oktober 2025" src="episodes/assets/WebBanner-v2-Oct22-2025.jpg">
             </a>
             <div>
               <a href="episodes/exl-live-episode-10-22-25.md">
                 <strong>Nästa generations kundupplevelser och effektivitet med Adobe Experience Platform Agent Orchestrator</strong>
               </a>
-              <br/><em>med Daniel Wright, Namita Krishnan och Huong Vu</em>
+              <br/><em>med Daniel Wright, Namita Krishnan, Huong Vu och Cole Connelly</em>
               <br/><em>22 okt 2025</em>
             </div>
         </td>
@@ -124,5 +124,5 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 >[!TIP]
 >
->Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/sv#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=sv-SE).
+>Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
