@@ -31,7 +31,7 @@ Se årets första Marketo &amp; Mochas-session med våra Marketo Engage-experter
 
 * **Hantering av målkonto**
    * [Översikt](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
-   * [Vanliga frågor och svar ](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
+   * [Vanliga frågor och svar &#x200B;](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
    * [Video om tips och tricks](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
 
 * **Predictive Audiences**

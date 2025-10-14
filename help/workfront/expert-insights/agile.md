@@ -30,7 +30,7 @@ Välkommen tillbaka till en ny intervju med expertinsikter, den här gången med
 
 Natalie delade sina favoritresurser i Agile under intervjun, så som utlovats har vi gett några snabblänkar till de böckerna nedan:
 * [Lean Product Playbook](https://leanproductplaybook.com/)
-* [Mastermarknadsföring ](https://masteringmarketingagility.com/)
+* [Mastermarknadsföring &#x200B;](https://masteringmarketingagility.com/)
 
 Söker du enkla sätt att komma igång? Läs dessa artiklar och korta videodemonstrationer:
 

@@ -30,7 +30,7 @@ De flesta utvecklare har upptäckt AEM querybuilder som ett frågespråk på hö
 
 Demo
 
-* [AEM Querybuilder](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave) från Alexander Klimetschek
+* [AEM Querybuilder](https://www.youtube.com/watch?v=yR9mcp9_MtY&list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave) från Alexander Klimetschek
 
 AEM
 
