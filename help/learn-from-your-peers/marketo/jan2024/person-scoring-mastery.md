@@ -38,5 +38,5 @@ På det här webbinariet får du lära dig:
 * Person/lead-poäng med lokala influensaövningar - [Hämta kalkylblad](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
 * Den stora listan med poängregler för leads - [Visa kalkylblad](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
 * Marketo Engage Program Import Library - [Documentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html?lang=sv-SE){target="_blank"}
-* Leadpoäng för allt du behöver veta om processen före, under och efter - [On demand webbinarium](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
+* Leadpoäng för allt du behöver veta om processen före, under och efter - [On demand webbinarium](https://business.adobe.com/se/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
 * Champion beter sig som ledare - [Blog](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
