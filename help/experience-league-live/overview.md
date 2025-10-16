@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: facacb2fe59edc77e5add50d4b02b08e14030184
+source-git-commit: 3e5578b6b4262a90def9b3f5a3bb950013c9f56e
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -48,7 +48,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
             </div>
         </td>
          <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-25.md">
-              <img alt="Experience League LIVE 30 oktober 2025" src="assets/exl-live-episode-10-30-25-web-banner.png">
+              <img alt="Experience League LIVE 30 oktober 2025" src="assets/exl-live-episode-10-30-25-web-banner-v2.png">
             </a>
             <div>
               <a href="episodes/exl-live-episode-10-30-25.md">
@@ -124,5 +124,5 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 >[!TIP]
 >
->Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/sv#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=sv-SE).
+>Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
