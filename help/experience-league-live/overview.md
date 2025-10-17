@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 3e5578b6b4262a90def9b3f5a3bb950013c9f56e
+source-git-commit: 1a45f3ef18803495f5bc77b0eb0d626ff7e558fe
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -25,17 +25,6 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-16-25.md">
-              <img alt="Experience League LIVE 16 oktober 2025" src="assets/exl-live-episode-10-16-25-web-banner.png">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-10-16-25.md">
-                <strong> Lås upp kraften i Customer Journey Analytics B2B edition </strong>
-              </a>
-              <br/><em>med Doug Moore, Kari Olson, Caitlin Baunach</em>
-              <br/><em>16 okt 2025</em>
-            </div>
-        </td>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-22-25.md">
               <img alt="Experience League LIVE 22 oktober 2025" src="episodes/assets/WebBanner-v2-Oct22-2025.jpg">
             </a>
@@ -124,5 +113,5 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 >[!TIP]
 >
->Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/sv#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=sv-SE).
+>Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
