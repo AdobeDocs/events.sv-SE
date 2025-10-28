@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Samling med inspelningar från  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 92e2db2c13888d036dce70e07cd0ac0b6bdc111b
+source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '361'
 ht-degree: 11%
 
 ---
@@ -52,6 +52,8 @@ ht-degree: 11%
    + September 2025 {#sept2025}
       + [Skala AI-användning - En spelbok för godkännanden](genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md)
 + Marketo {#marketo}
+   + Oktober 2025 {#oct2025}
+      + [Bygga en strategi för datahygien](marketo/oct2025/data-hygiene-strategy.md)
    + Maj 2025 {#may2025}
       + [Upptäck effekten av interaktiva webbinarier](marketo/may2025/interactive-webinars.md)
    + November 2024 {#nov2024}
