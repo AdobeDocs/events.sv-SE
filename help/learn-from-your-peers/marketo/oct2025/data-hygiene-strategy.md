@@ -34,6 +34,6 @@ Lyssna på Adobe Marketo Engage Champion, Miray Vu, för att få en förståelse
 ## Ytterligare resurser
 
 * Gå med i [diskussionen](https://nation.marketo.com/t5/product-blogs/learn-from-your-peers-webinar-building-a-data-hygiene-strategy/ba-p/358425) om Marketing Nation Community, där frågor och svar publiceras.
-* [Marketo Engage datahygien med körbara kampanjer](https://business.adobe.com/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
-* [Mastering av datahygien för Salesforce CRM-synkronisering med Marketo Engage](https://experienceleague.adobe.com/en/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
+* [Marketo Engage datahygien med körbara kampanjer](https://business.adobe.com/se/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
+* [Mastering av datahygien för Salesforce CRM-synkronisering med Marketo Engage](https://experienceleague.adobe.com/sv/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
 * [Så här utför du deduplicering med Marketo Engage REST API](https://www.revenuepulse.com/blog/how-to-perform-deduplication-using-the-marketo-api/)
