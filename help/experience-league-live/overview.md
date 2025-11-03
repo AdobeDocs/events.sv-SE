@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: f88fa329951a93f53cbbf47e55d51f02d1fc5877
+source-git-commit: 7f05dd98e19fd3e88ca3af32bfbef89fda2d4b39
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '146'
 ht-degree: 1%
 
 ---
@@ -19,29 +19,30 @@ ht-degree: 1%
 
 Experience League LIVE är ett direktuppspelningsprogram som producerats av Experience League team.  Det är en chans att få kontakt med Adobe produktexperter och lära dig praktiska tips, tricks och strategier som du kan tillämpa med Adobe Experience Cloud-programmen.
 
+<!--
 <div id="upcoming-events">
 
-## Kommande Experience League LIVE-event
+## Upcoming Experience League LIVE events
 
 <table>
     <tr>
          <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-25.md">
-              <img alt="Experience League LIVE 30 oktober 2025" src="assets/exl-live-episode-10-30-25-web-banner-v2.png">
+              <img alt="Experience League LIVE 30 October 2025" src="assets/exl-live-episode-10-30-25-web-banner-v2.png">
             </a>
             <div>
               <a href="episodes/exl-live-episode-10-30-25.md">
-                <strong> Nästa tids experiment: Hur AI används för smartare testning och tillväxt </strong>
+                <strong>The Next Era of Experimentation: How Agentic AI is Fueling Smarter Testing and Growth</strong>
               </a>
-              <br/><em> med Sandra Hausmann, Brent Kostak, Justin Grover och David Arbor </em>
-              <br/><em>30 okt 2025</em>
+              <br/><em>with Sandra Hausmann, Brent Kostak, Justin Grover and David Arbour</em>
+              <br/><em>Oct 30, 2025</em>
             </div>
         </td>
     </tr>
-
-</table>
-
+    
+</table>    
+  
 </div>
-
+-->
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -102,5 +103,5 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 >[!TIP]
 >
->Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/sv#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=sv-SE).
+>Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
