@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Samling med inspelningar från  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '371'
 ht-degree: 11%
 
 ---
@@ -33,7 +33,8 @@ ht-degree: 11%
       + Mars {#mar2022}
          + [Telling Impact Stories with Data](analytics/mar2022/stories-with-data.md)
 + Commerce {#commerce}
-   + Februari {#feb2024}
+   + 2025 {#2025}
+      + [Adobe Commerce och App Builder Essentials - från Basics till Impact](commerce/2025/commerce-and-app-builder.md)
       + [Kommunikation, krav och testning i Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + Augusti {#aug2025}
