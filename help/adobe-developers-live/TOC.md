@@ -2,10 +2,10 @@
 user-guide-title: Adobe Developers Live Events
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Samling med inspelningar från Adobe Developer Live Content event
-source-git-commit: a27c81e245b1dae18bb62135ed2c9e4a60bc0694
+source-git-commit: c069bbf422ed534b7459bf740c3c4df5f1f8cc3a
 workflow-type: tm+mt
-source-wordcount: '911'
-ht-degree: 1%
+source-wordcount: '906'
+ht-degree: 3%
 
 ---
 
@@ -16,15 +16,15 @@ ht-degree: 1%
 + 2024 {#2024}
    + November {#nov2024}
       + [Anteckning](2024/nov/keynote.md)
-      + AEM Cloud Service {#aem-cloud-service}
-         + [AEM-API:er och -händelser](2024/nov/apis-eventing.md)
-         + [Förse AI och Personalization med AEM EDS](2024/nov/ai-and-personalization.md)
-         + [CDN &amp; WAF Configuration i AEM CS](2024/nov/cdn-waf-aemcs.md)
+      + AEM Cloud-tjänst {#aem-cloud-service}
+         + [AEM API:er och Eventing](2024/nov/apis-eventing.md)
+         + [Lägga in AI och Personalization i AEM EDS](2024/nov/ai-and-personalization.md)
+         + [Konfiguration av CDN och WAF i AEM CS](2024/nov/cdn-waf-aemcs.md)
          + [Magic Buttons and How to Build Them](2024/nov/magic-buttons.md)
          + [Snabba utvecklingsmiljöer](2024/nov/rapid-development-environments.md)
       + AEM Sites {#aem-sites}
-         + [En riktig resa till Edge Delivery Services](2024/nov/journey-to-edge-delivery-services.md)
-         + [Edge Delivery Services -Ett år in, sex sätt bättre](2024/nov/edge-delivery-services.md)
+         + [Real-World Journey till Edge Delivery Services](2024/nov/journey-to-edge-delivery-services.md)
+         + [Edge Delivery Services - ett år in, sex sätt bättre](2024/nov/edge-delivery-services.md)
          + [Extension Manager för AEM Sites](2024/nov/extension-manager.md)
          + [Hur Adobe Experience Manager Sites utnyttjar GenAI](2024/nov/aem-sites-gen-ai.md)
          + [HTML med webbkomponenter](2024/nov/html-and-web-components.md)
@@ -50,7 +50,7 @@ ht-degree: 1%
       + [Automatisera arbetsflöden för innehåll med App Builder](2023/november/content-workflows.md)
       + [Komponentutveckling och driftsättning på framsidan](2023/november/component-development.md)
       + [Leverans av flerkanalsinnehåll](2023/november/omnichannel.md)
-      + Edge Delivery Services {#nov-edgedeliveryservices}
+      + Edge-leveranstjänster {#nov-edgedeliveryservices}
          + [Bygg en webbplats](2023/november/edge-breakout-1.md)
          + [Webbplatsprestanda](2023/november/edge-breakout-2.md)
          + [En kunddistribution](2023/november/edge-breakout-3.md)
@@ -74,14 +74,14 @@ ht-degree: 1%
          + [Sök- och katalogtjänst](2023/november/commerce-search-and-catalog-service.md)
          + [Strategier för optimering av prestanda på Commerce webbplats](2023/november/commerce-site-performance.md)
          + [Spåra ändringar i Adobe Commerce Cloud](2023/november/commerce-cloud-track-changes.md)
-   + maj{#may2023}
+   + Maj {#may2023}
       + [Öppnar inledningsanförandet](2023/may/keynote.md)
       + [API-demo](2023/may/new-apis.md)
-      + [Fördjupa dig i AEM kärnkomponenter för e-post och Forms](2023/may/core-components.md)
+      + [Fördjupa dig i AEM Core Components för e-post och Forms](2023/may/core-components.md)
       + [Bädda in Assets-väljare](2023/may/asset-picker.md)
       + [Redigera med Microsoft 365/Google Workspace](2023/may/microsoft-365.md)
       + [Snabbare driftsättning](2023/may/workflows.md)
-      + [Fireside chat med AEM produktledare](2023/may/fireside.md)
+      + [Fireside chat med AEM Product Leaders](2023/may/fireside.md)
       + [JavaScript Block](2023/may/javascript-blocks.md)
       + [Smidig integrering av AEM Assets med tillämpningar](2023/may/seamless-intergration.md)
       + [Förstå GraphQL API](2023/may/graphql.md)
@@ -102,7 +102,7 @@ ht-degree: 1%
       + [AEM Rockstar Headless](2022/november/rockstar.md)
       + [Lägg in kontext och Headless-redigering i Next.JS-appen](2022/november/next-js.md)
       + [Bygg din första React-app](2022/november/react-app.md)
-      + [Effektiv utveckling för AEM CS](2022/november/efficient-development.md)
+      + [Effektiv utveckling med AEM CS](2022/november/efficient-development.md)
       + [Utnyttja Client Libraries &amp; Headless Forms](2022/november/client-libararies.md)
       + [Senaste Adobe Experience Manager Headless Innovations för utvecklare](2022/november/innovations.md)
       + [Öppnar inledningsanförandet](2022/november/keynote.md)
@@ -113,14 +113,14 @@ ht-degree: 1%
 + 2021 {#2021}
    + Februari - Innehåll {#feb2021}
       + [Översikt](2021/february/overview.md)
-      + [Adobe-klientdatalager](2021/february/adobe-client-data-layer.md)
+      + [Adobe Client Data Layer](2021/february/adobe-client-data-layer.md)
       + [Adobe Experience Platform SDKs](2021/february/experience-platform-sdk-launch.md)
       + [API-autentisering med Experience Manager Cloud Service](2021/february/api-authentication.md)
       + [Massinmatning av tillgångar](2021/february/asset-bulk-ingestion.md)
-      + [Utbyggbarhet för tjänsten asset compute](2021/february/asset-compute-service-extensibility.md)
-      + [CIF utbyggbarhet via GraphQL](2021/february/cif-extensibility-graphql.md)
+      + [Asset Compute Service Extensibility](2021/february/asset-compute-service-extensibility.md)
+      + [CIF Extensibility via GraphQL](2021/february/cif-extensibility-graphql.md)
       + [Innehåll och Commerce med Experience Manager](2021/february/content-commerce.md)
-      + [Innehållsleverans med Experience Manager Cloud Service](2021/february/content-delivery.md)
+      + [Content Delivery with Experience Manager Cloud Service](2021/february/content-delivery.md)
       + [Egna funktionstester](2021/february/custom-functional-tests-cicd.md)
       + [Developer Experience](2021/february/developer-experience.md)
       + [Utveckla med AEM Forms Cloud](2021/february/developing-aem-forms-cloud.md)
@@ -128,8 +128,8 @@ ht-degree: 1%
       + [Miljövariabler](2021/february/environment-variables-aemcs.md)
       + [Experience Manager Cloud Service](2021/february/experience-manager-as-cloud-service.md)
       + [Experience Manager Screens Cloud Service](2021/february/screens-as-a-cloud-service.md)
-      + [Experience Manager-uppdateringar](2021/february/experience-manager-updates.md)
-      + [Experience Platform Launch Demo](2021/february/experience-platform-launch-demo.md)
+      + [Experience Manager Updates](2021/february/experience-manager-updates.md)
+      + [Demo av Experience Platform Launch](2021/february/experience-platform-launch-demo.md)
       + [Utöka Experience Cloud](2021/february/extend-experience-cloud.md)
       + [Snabb time to Value med Experience Manager Sites](2021/february/time-to-value-aem-sites.md)
       + [GraphQL med innehållsfragment](2021/february/headless-graphql-content-fragments.md)
@@ -142,27 +142,26 @@ ht-degree: 1%
       + [Snabb utveckling av frontend](2021/february/rapid-frontend-devlopment.md)
       + [SPA Editor 2.0](2021/february/spa-editor-2-0.md)
       + [Omvandla en webbplats till en progressiv webbapp](2021/february/any-site-into-pwa.md)
-   + Oktober {#oct2021}
+   + oktober {#oct2021}
       + [Översikt](2021/october/overview.md)
       + [Öppnar inledningsanförandet](2021/october/keynote.md)
       + [Accelerating Transition to Experience Manager CS](2021/october/accelerate-transistion.md)
-      + [Adobe [!DNL Analytics] API:er du behöver veta under 2021](2021/october/analytics-api.md)
-      + [Adobe-klientdatalager](2021/october/adobe-client-data-layer.md)
+      + [Adobe [!DNL Analytics] API:er du behöver veta 2021](2021/october/analytics-api.md)
+      + [Adobe Client Data Layer](2021/october/adobe-client-data-layer.md)
       + [Adobe Commerce och gemenskapens bidragsmodell](2021/october/community-contribution-model.md)
-      + [Adobe Commerce Live Search - resultat](2021/october/adobe-commerce-search.md)
       + [Adobe Exchange - Marknadsplats för tredjepartsutvecklare](2021/october/app-builder-exchange.md)
       + [Adobe I/O Open Source-projekt och bidrag](2021/october/app-builder-adobeio.md)
       + [Experience Manager Assets-export med Adobe I/O](2021/october/app-builder-asset-export.md)
-      + [Avancerat nätverk med Experience Manager CS](2021/october/advanced-networking.md)
+      + [Avancerade nätverk med Experience Manager CS](2021/october/advanced-networking.md)
       + [Anomaly Detection Tool built on App Builder](2021/october/data-anomaly-detection.md)
       + [App Builder arkitektur och tekniska djupdykning](2021/october/app-builder-architecture.md)
-      + [Automatisera framtagning och hantering av PDF med hjälp av PDF Services API](2021/october/automate-pdf-services-api.md)
+      + [Automatisera framtagning och redigering av PDF-filer med PDF Services API](2021/october/automate-pdf-services-api.md)
       + [Bästa tillvägagångssätt för utveckling av komponentskript](2021/october/component-script-development.md)
-      + [Skapa plugin-program för Creative Cloud](2021/october/cc-extensibility.md)
-      + [Förbruka Experience Manager-händelser](2021/october/consume-aem-events.md)
+      + [Skapa Creative Cloud-plugin-program](2021/october/cc-extensibility.md)
+      + [Förbruka Experience Manager-event](2021/october/consume-aem-events.md)
       + [Behåll innehåll](2021/october/content-upkeep.md)
-      + [Native Extensibility for Experience Manager i molnet](2021/october/aem-cloud-native.md)
-      + [Samverkande PWA Storefront-design med XD](2021/october/commerce-storefront-xd.md)
+      + [Utbyggbarhet för Experience Manager i molnet](2021/october/aem-cloud-native.md)
+      + [PWA Storefront Design i samarbete med XD](2021/october/commerce-storefront-xd.md)
       + [API:er för Creative Cloud-appmotor](2021/october/cc-app-api.md)
       + [Datainsamling](2021/october/data-collection.md)
       + [Leverera Commerce Experience](2021/october/delivering-commerce-experiences.md)
@@ -172,9 +171,9 @@ ht-degree: 1%
       + [Adobe Commerce utveckling för att minska den totala ägandekostnaden](2021/october/reduce-tco.md)
       + [Experience Manager Assets What&#39;s New](2021/october/aem-assets-whats-new.md)
       + [Experience Manager Assets Compute Worker med API:er från App Builder och Photoshop](2021/october/app-builder-asset-compute.md)
-      + [Experience Manager bakom scenen](2021/october/aem-behind-scenes.md)
+      + [Experience Manager bakom scenerna](2021/october/aem-behind-scenes.md)
       + [Experience Manager Continuous Delivery Model](2021/october/continuous-delivery.md)
-      + [Experience Manager-tillägg för PWA Studio](2021/october/aem-pwa-studio.md)
+      + [Experience Manager Extension for PWA Studio](2021/october/aem-pwa-studio.md)
       + [Experience Manager Forms CS - Snabbspola utvecklingen med API:er](2021/october/aem-forms-cs-apis.md)
       + [Experience Manager Forms CS - Säker digital registrering i flera kanaler](2021/october/multichannel-digital-enrollment.md)
       + [Experience Platform Destination SDK](2021/october/destination-sdk.md)
@@ -186,7 +185,7 @@ ht-degree: 1%
       + [Generera dokument och samla in e-signaturer med Adobe Sign API](2021/october/esignatures-sign-api.md)
       + [Generera dokument och samla in e-signaturer med API:er för dokumentgenerering](2021/october/esignatures-document-generation-api.md)
       + [Headless Experience Manager Sites](2021/october/headless.md)
-      + [Hur man undviker vanliga fallfall i Experience Manager](2021/october/common-pitfalls-aem.md)
+      + [Så här undviker du vanliga fallgropar i Experience Manager](2021/october/common-pitfalls-aem.md)
       + [Så här importerar och bearbetar du material till Experience Manager Assets](2021/october/ingest-process-assets.md)
       + [Integrera Experience Manager CS med Adobe IO Events](2021/october/integrate-aem-io-events.md)
       + [Nu kommer App Builder](2021/october/introduction-app-builder.md)
@@ -199,10 +198,10 @@ ht-degree: 1%
       + [PDF Embed API](2021/october/pdf-embed-api.md)
       + [PDF Extract API](2021/october/pdf-extract-api.md)
       + [Introduktion till Adobe PDF Services API](2021/october/pdf-services-api.md)
-      + [PWA Studio Best Practices for Beginners](2021/october/pwa-studio-best-practices.md)
+      + [PWA Studio bästa praxis för nybörjare](2021/october/pwa-studio-best-practices.md)
       + [Skapa snabbt webbplatser](2021/october/quick-site-creation.md)
       + [Relevant sökning och e-handel](2021/october/relevant-search-ecommerce.md)
       + [Screens Cloud Service](2021/october/aem-screens-cs.md)
-      + [Storleksanpassa Adobe Commerce Cloud i en headlessimplementering](2021/october/commerce-headless.md)
+      + [Storleksändra Adobe Commerce Cloud i en headless-implementering](2021/october/commerce-headless.md)
       + [Omforma, anpassa och optimera bilder via webbadresser](2021/october/smart-imaging.md)
       + [Workfront och Experience Manager Assets](2021/october/workfront-aem-assets.md)
