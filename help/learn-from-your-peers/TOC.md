@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Samling med inspelningar från  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+source-git-commit: a2880622b706440262b91279a69eadda493cbe81
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '376'
 ht-degree: 11%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 11%
       + [Adobe Commerce och App Builder Essentials - från Basics till Impact](commerce/2025/commerce-and-app-builder.md)
       + [Kommunikation, krav och testning i Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
+   + November {#nov2025}
+      + [Metadata Mayhem till Mastery](experience-manager/nov2025/metadata-mayhem.md)
    + Augusti {#aug2025}
       + [Smarta taggar för AEM](experience-manager/aug2025/smart-tags.md)
    + Juli {#jul2024}
