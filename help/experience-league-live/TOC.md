@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: d0059bf86d27b492e8a5eef175977d3be49738d0
+source-git-commit: 304550e7c5eef8956dccef1ca9951d3091092e8d
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '613'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 0%
 
 + [Översikt](overview.md)
 + Avsnitten {#episodes}
+   + [EP. 54: Förenkla felsökning och ärendehantering med Product Support Agent](episodes/exl-live-episode-12-16-25.md)
    + [EP. 53: The Next Era of Experimentation: How Agentic AI is Fueling Smarter Testing and Growth](episodes/exl-live-episode-10-30-25.md)
    + [EP. 52: Adobe Experience Platform Agent Orchestrator](episodes/exl-live-episode-10-22-25.md)
    + [EP. 51: Lås upp kraften i Customer Journey Analytics B2B edition](episodes/exl-live-episode-10-16-25.md)
