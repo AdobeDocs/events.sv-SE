@@ -29,8 +29,8 @@ Tillsammans med on-demand-inspelningen har vi tagit med de bildspel och tips som
 * [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-the-workfront-fusion-fix-ericsson-s-smarter-way/td-p/759188)
 
 Kommer du precis igång med Fusion? Kolla in de här resurserna! 
-* [Workfront Fusion-utbildning i Experience League](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)
-* [Ta en titt på listan över tillgängliga Fusion-mallar här](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)- en handfull nya mallar har nyligen publicerats!  
+* [Workfront Fusion-utbildning i Experience League](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)
+* [Ta en titt på listan över tillgängliga Fusion-mallar här](https://experienceleague.adobe.com/sv/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)- en handfull nya mallar har nyligen publicerats!  
 * **Proffstips från kunder i chatten** När du lär dig Fusion kan du börja smått med automatisering från Workfront till Workfront 
 
-Vi hoppas att vi får träffa dig på våra framtida kundframgångar!  Se till att du checkar ut [Workfront Events](https://experienceleague.adobe.com/events/?filters=Workfront) på Experience League för att få en fullständig lista och för att registrera dig.
+Vi hoppas att vi får träffa dig på våra framtida kundframgångar!  Se till att du checkar ut [Workfront Events](https://experienceleague.adobe.com/events/?lang=sv-SE&filters=Workfront) på Experience League för att få en fullständig lista och för att registrera dig.

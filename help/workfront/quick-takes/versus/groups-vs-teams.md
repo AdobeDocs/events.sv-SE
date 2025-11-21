@@ -24,14 +24,14 @@ Hej Workfront, det är din&quot;On-Demand Workfront CSM&quot;! I den här versus
 
 Vill du veta mer om grupper och team?
 
-* [Grupper kontra team - funktionsjämförelse](https://experienceleague.adobe.com/en/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams)
-* [Gruppöversikt](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/manage-groups/groups/groups)
-* [Teams Overview](https://experienceleague.adobe.com/en/docs/workfront/using/teams-groups/create-manage-teams/teams-overview)
+* [Grupper kontra team - funktionsjämförelse](https://experienceleague.adobe.com/sv/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams)
+* [Gruppöversikt](https://experienceleague.adobe.com/sv/docs/workfront/using/administration-and-setup/manage-groups/groups/groups)
+* [Teams Overview](https://experienceleague.adobe.com/sv/docs/workfront/using/teams-groups/create-manage-teams/teams-overview)
 
 Nedan följer några bonusartiklar om delning av objekt, åtkomstnivåer och behörigheter:
 
-* [Visa ärvda behörigheter för objekt](https://experienceleague.adobe.com/en/docs/workfront/using/basics/grant-request-object-permissions/view-inherited-permissions-on-objects)
-* [Hur åtkomstnivåer och behörigheter fungerar tillsammans](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/access-levels/access-level-overview#how-access-levels-and-permissions-work-together)
-* [Ange ytterligare begränsningar på åtkomstnivå](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/configure-access/create-modify-access-levels#planner-users:~:text=Click%20Set%20additional%20restrictions%2C%20then%20set%20any%20of%20the%20following%20restrictions%20for%20the%20access%20level)
+* [Visa ärvda behörigheter för objekt](https://experienceleague.adobe.com/sv/docs/workfront/using/basics/grant-request-object-permissions/view-inherited-permissions-on-objects)
+* [Hur åtkomstnivåer och behörigheter fungerar tillsammans](https://experienceleague.adobe.com/sv/docs/workfront/using/administration-and-setup/add-users/access-levels/access-level-overview#how-access-levels-and-permissions-work-together)
+* [Ange ytterligare begränsningar på åtkomstnivå](https://experienceleague.adobe.com/sv/docs/workfront/using/administration-and-setup/add-users/configure-access/create-modify-access-levels#planner-users:~:text=Click%20Set%20additional%20restrictions%2C%20then%20set%20any%20of%20the%20following%20restrictions%20for%20the%20access%20level)
 
-Intresserad av nya idéer och metoder? Anmäl dig till våra kommande workshops på [Experience League Events-sidan](https://experienceleague.adobe.com/en/events?filters=Workfront). Vi hoppas att vi ses snart!
+Intresserad av nya idéer och metoder? Anmäl dig till våra kommande workshops på [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events?filters=Workfront). Vi hoppas att vi ses snart!
