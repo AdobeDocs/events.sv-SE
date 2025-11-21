@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Hej allihopa! Det är jag, din&quot;On-Demand Workfront CSM&quot; och jag är tillbaka med en annan Top 3 Video!  Den här gången ska vi prata om [utkast](https://experienceleague.adobe.com/sv/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview). Du har säkert hört mig säga att Blueprints är genvägen till ditt&quot;Workfront-arbete&quot;, men vilka andra sätt har du att använda Blueprints för att snabbt spåra företagets behov?
 
->[!VIDEO](https://video.tv.adobe.com/v/3465271/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3465314/?captions=swe&learn=on&enablevpops)
 
 Om du först vill experimentera innan du installerar något i Production behöver du inte oroa dig!  Du behöver bara spela med dem i [förhandsvisningsmiljön för sandlådan](https://experienceleague.adobe.com/sv/docs/workfront/using/administration-and-setup/set-up-wf/testing-environments/wf-preview-sandbox-environment) först.
 

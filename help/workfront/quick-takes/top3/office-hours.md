@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Det är jag igen, din&quot;On-Demand Workfront CSM&quot; Cynthia Boon och jag har ett ämne för dig som alltid dyker upp under olika händelser.  Om du precis har börjat med kontorstid eller bara vill fräscha upp dem kan du titta i videon nedan! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470053/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470146/?captions=swe&learn=on&enablevpops)
 
 Kontorstid är bara en viktig del av Workfront övergripande kommunikationsplan. Letar du efter fler idéer om hur du kommunicerar med dina användare? Ta en titt på [slutanvändarens kommunikationsbok](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)!
 
