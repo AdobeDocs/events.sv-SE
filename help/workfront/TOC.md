@@ -3,10 +3,10 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 7d95beac5ae2af5f520f7e3a47b16403c9374b5b
+source-git-commit: 42c0401d1ef307fd4e4d93245f472f75259d6d21
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 1%
+source-wordcount: '239'
+ht-degree: 0%
 
 ---
 
@@ -20,12 +20,27 @@ ht-degree: 1%
    + [25.4 Utgåva](releases/25-4-release-webinar.md)
    + [25.1 Utgåva](releases/25-1-release-webinar.md)
    + [24.1 Utgåva](releases/24-1-release-webinar.md)
++ Workshop Rewind {#workshop-rewind}
+   + Fusion {#fusion}
+      + [Automatisera namnkonventioner](workshop-rewind/fusion/automating-naming-conventions.md)
+      + [Navigera enkelt mellan ändringar för flermarkerade fält](workshop-rewind/fusion/mulit-select-fields.md)
+      + [Låsa upp kostnader för True Event](workshop-rewind/fusion/event-costs.md)
+   + Planering {#planning}
+      + [Senaste i Workfront Planning](workshop-rewind/planning/workfront-planning.md)
+      + [Framgångar på teamnivå med Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
+      + [Workfront Planning Release &amp; Roadmap](workshop-rewind/planning/planning-release-roadmap.md)
+   + Arbetsflöde {#workflow}
+      + [Creative sätt att hantera resurser](classics/creative-ways-of-managing-resources.md)
+      + [Mastering av e-postmeddelanden](workshop-rewind/workflow/email-notifications.md)
+      + [Projektmallar](workshop-rewind/workflow/project-templates.md)
+      + [Självstudiekurs för framgång](workshop-rewind/workflow/self-taught-to-success.md)
+      + [Lås upp kraften i Workfront Data Connect](workshop-rewind/workflow/data-connect.md)
 + Snabbtagningar {#quicktakes}
    + Överkant 3 {#top3}
-      + [Creative-metoder med utkast](top3/blueprints.md)
-      + [De tre viktigaste sätten att arbeta med kontorstider](top3/office-hours.md)
+      + [Creative-metoder med utkast](quick-takes/top3/blueprints.md)
+      + [De tre viktigaste sätten att arbeta med kontorstider](quick-takes/top3/office-hours.md)
    + Jämfört! {#versus}
-      + [Grupper kontra team](versus/groups-vs-teams.md)
+      + [Grupper kontra team](quick-takes/versus/groups-vs-teams.md)
 + Expertinsikter {#expert-insights}
    + [Implementering](expert-insights/adoption.md)
    + [Adobeundersökningar](expert-insights/adoption-surveys.md)
@@ -39,19 +54,6 @@ ht-degree: 1%
    + [Begär köer med Lyndsy Denk](expert-insights/request-queues.md)
    + [SLA Reporting i Workfront](expert-insights/sla-reporting.md)
    + [Enterprise Work Management](expert-insights/enterprise-work-management.md)
-+ Workshop Rewind {#workshop-rewind}
-   + Integreringar {#integrations}
-      + [Navigera enkelt mellan ändringar för flermarkerade fält](workshop-rewind/integrations/mulit-select-fields.md)
-      + [Låsa upp kostnader för True Event](workshop-rewind/integrations/event-costs.md)
-   + Planering {#planning}
-      + [Framgångar på teamnivå med Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
-      + [Senaste i Workfront Planning](workshop-rewind/planning/workfront-planning.md)
-   + Arbetsflöde {#workflow}
-      + [Creative sätt att hantera resurser](classics/creative-ways-of-managing-resources.md)
-      + [Mastering av e-postmeddelanden](workshop-rewind/workflow/email-notifications.md)
-      + [Projektmallar](workshop-rewind/workflow/project-templates.md)
-      + [Lås upp kraften i Workfront Data Connect](workshop-rewind/workflow/data-connect.md)
-
 + Klassiska {#classics}
    + Administrering {#administration}
       + [Granskningsspår och efterlevnad](user-groups/audit-trails-and-compliance.md)
