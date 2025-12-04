@@ -3,10 +3,10 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 42c0401d1ef307fd4e4d93245f472f75259d6d21
+source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 0%
+source-wordcount: '280'
+ht-degree: 1%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [Workfront On-demand Workshops](overview.md)
 
 + Versionswebbseminarier {#releases}
+   + [Fjärde kvartalet 2025, versionswebbseminarium](releases/25-q4-release-webinar.md)
    + [25.7 Utgåva](releases/25-7-release-webinar.md)
    + [25.4 Utgåva](releases/25-4-release-webinar.md)
    + [25.1 Utgåva](releases/25-1-release-webinar.md)
@@ -23,18 +24,28 @@ ht-degree: 0%
 + Workshop Rewind {#workshop-rewind}
    + Fusion {#fusion}
       + [Automatisera namnkonventioner](workshop-rewind/fusion/automating-naming-conventions.md)
+      + [Dataimport](workshop-rewind/fusion/data-imports.md)
+      + [Fusion avkodad](workshop-rewind/fusion/fusion-decoded.md)
+      + [Hur Workfront Fusion kan hjälpa människor](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [Navigera enkelt mellan ändringar för flermarkerade fält](workshop-rewind/fusion/mulit-select-fields.md)
       + [Låsa upp kostnader för True Event](workshop-rewind/fusion/event-costs.md)
+      + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + Planering {#planning}
       + [Senaste i Workfront Planning](workshop-rewind/planning/workfront-planning.md)
+      + [SNHU:s Creative-användningsexempel](workshop-rewind/planning/planning-reimagined.md)
       + [Framgångar på teamnivå med Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Workfront Planning Release &amp; Roadmap](workshop-rewind/planning/planning-release-roadmap.md)
    + Arbetsflöde {#workflow}
-      + [Creative sätt att hantera resurser](classics/creative-ways-of-managing-resources.md)
+      + [Utkast](workshop-rewind/workflow/blueprints.md)
+      + [Definiera och förmedla Workfront-värde](workshop-rewind/workflow/workfront-value.md)
+      + [Tips för styrning, genomförande och användning](workshop-rewind/workflow/governance-execution-adoption.md)
       + [Mastering av e-postmeddelanden](workshop-rewind/workflow/email-notifications.md)
+      + [Mastering EXISTS-satser](workshop-rewind/workflow/master-exists-statements.md)
+      + [Energimallar](workshop-rewind/workflow/power-templates.md)
       + [Projektmallar](workshop-rewind/workflow/project-templates.md)
       + [Självstudiekurs för framgång](workshop-rewind/workflow/self-taught-to-success.md)
       + [Lås upp kraften i Workfront Data Connect](workshop-rewind/workflow/data-connect.md)
+      + [Workfront + AEM Native Integration](workshop-rewind/workflow/aem-native-integration.md)
 + Snabbtagningar {#quicktakes}
    + Överkant 3 {#top3}
       + [Creative-metoder med utkast](quick-takes/top3/blueprints.md)
@@ -73,6 +84,7 @@ ht-degree: 0%
       + [Utnyttja grundläggande textlägesrapportering med API-utforskaren](classics/supercharge-basic-text-mode-reporting-using-the-api-explorer.md)
       + [Förstå blandning och kapacitet](classics/understanding-mix-and-capacity.md)
    + Resurshantering {#resource-management}
+      + [Creative sätt att hantera resurser](classics/creative-ways-of-managing-resources.md)
       + [Resurs- och kapacitetsplanering](user-groups/resource-and-capacity-planning.md)
       + [Resurshantering](user-groups/resource-management.md)
    + Granska och godkänn arbete {#review-and-approve-work}
@@ -87,10 +99,3 @@ ht-degree: 0%
       + [Utnyttja Workfront Proof](user-groups/leveraging-workfront-proof.md)
    + Begär köer och indata {#request-queues-and-intake}
       + [Begär köer och ta in Forms](user-groups/request-queues-and-intake-forms.md)
-
-
-
-
-<!--  + Planning {#planning}
-  + Integrations {#integrations}
--->
