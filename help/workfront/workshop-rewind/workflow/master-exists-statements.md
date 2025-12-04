@@ -27,5 +27,5 @@ Missade du livesessionen? Inga problem! Granska Skye &amp; Nathan&#39;s [present
 
 Har du idéer att dela eller har du frågor från evenemanget? Du kan släppa dem i kommentarerna på [Experience League Community-inlägget](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/10.28.25+EXISTS+Class.pdf)!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 

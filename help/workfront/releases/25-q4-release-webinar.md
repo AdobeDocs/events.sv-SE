@@ -22,11 +22,11 @@ Workfront fjärde kvartsutgåvan distribuerades den 16 oktober 2025.   Det här 
 
 Om du inte kunde delta i live-sessionen - inga bekymmer! Granska [bildbandet](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/100925+-+Fourth+Quarter+Release+Webinar.pdf) och se hur on-demand-inspelningen följer med.
 
-Se även till att granska [versionsinformationen](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview) på Experience League eftersom inte alla funktioner fanns med i webbinariet.
+Se även till att granska [versionsinformationen](https://experienceleague.adobe.com/sv/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview) på Experience League eftersom inte alla funktioner fanns med i webbinariet.
 
 Söker du svar på frågor och svar och transkriberingar från sessionen? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-fourth-quarter-2025-release/td-p/780946)!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 
 
 

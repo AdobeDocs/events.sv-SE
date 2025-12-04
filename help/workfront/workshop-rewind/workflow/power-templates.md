@@ -25,6 +25,6 @@ Titta på on-demand-inspelningen och ta en titt under huven på hennes verkliga 
 
 Letar du efter fler resurser som delades under evenemanget?  Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-power-templates-how-idexx-reconfigured-project/td-p/768981)!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 
 

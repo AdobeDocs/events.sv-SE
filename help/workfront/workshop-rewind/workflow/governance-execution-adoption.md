@@ -27,7 +27,7 @@ Om du inte kunde närvara live, inga bekymmer. Granska [bildbandet](https://work
 
 Söker du en sammanfattning av evenemanget och resurserna från chatten? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-pro-tips-for-governance-execution-and/td-p/780766)!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 
 
 

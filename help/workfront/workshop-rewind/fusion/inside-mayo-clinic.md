@@ -23,9 +23,9 @@ Sessionen leds i samarbete med Tia Calvert och Matt Lien på Mayo Clinic och gav
 
 Granska [bildbandet](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Inside+Mayo+Clinic+-+How+Workfront+Fusion+Helps+the+Humans+Slide+Deck.pdf) och se hur on-demand-inspelningen följer med.
 
-Fusion tar tid och övar, så om du precis har kommit igång, lär dig mer om (kostnadsfritt!) [Fusion Training på Experience League](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview) och tveka inte att få hjälp från andra kunder i [Workfront Fusion Community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion/ct-p/workfront-fusion-2).
+Fusion tar tid och övar, så om du precis har kommit igång, lär dig mer om (kostnadsfritt!) [Fusion Training på Experience League](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview) och tveka inte att få hjälp från andra kunder i [Workfront Fusion Community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion/ct-p/workfront-fusion-2).
 
 Mer resurser och en inblick i användningsexemplen finns i [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-inside-mayo-clinic-how-workfront-fusion-helps/td-p/781981)!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 

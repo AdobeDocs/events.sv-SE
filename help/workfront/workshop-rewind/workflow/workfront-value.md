@@ -27,6 +27,6 @@ Granska [presentationsbildbandet](https://workfront-experience.s3.us-west-2.amaz
 
 Vill du ha ett anpassbart bildspel med anteckningar och vedertagna rutiner under sessionen?  Se [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706) för mer resurser!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 
 
