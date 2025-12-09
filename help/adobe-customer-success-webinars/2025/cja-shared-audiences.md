@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Customer Journey Analytics hjälper er att koppla samman insikter över olika plattformar, så att marknadsförarna kan skapa segmenterade målgrupper baserat på beteendedata. Lär dig utnyttja delade målgrupper för personalisering i flera kanaler, effektivisera kampanjer och maximera kundinsikterna med Adobe Real-Time Customer Data Platform och Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477449/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477461/?captions=swe&learn=on&enablevpops)
