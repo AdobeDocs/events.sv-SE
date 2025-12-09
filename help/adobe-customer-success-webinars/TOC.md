@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success-led webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe lösningar.
-source-git-commit: 76919cb28c46b76ad2aace48fbc4fc95ec3fa750
+source-git-commit: d17c517cdcdeddb2ba8d7db4c244f16d678bab96
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '563'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
       + [Building Executive Sponsorship](2025/cja-success.md)
       + [Ändra hanteringsstrategier](2025/cja-adoption.md)
       + [CJA Data Insights Agent](2025/cja-data-insights-agent.md)
+      + [Skapa erbjudanden på 30 minuter med CJA](2025/cja-shared-audiences.md)
       + [Utforma en operativmodell för CJA Success](2025/cja-operating-model.md)
       + [Foundational Architecture](2025/cja-vision.md)
       + [Migrera till CJA från Adobe Analytics](2025/analytics-to-cja-migration.md)
