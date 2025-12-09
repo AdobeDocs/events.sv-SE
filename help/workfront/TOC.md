@@ -3,9 +3,9 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+source-git-commit: 8762eada888ea3ed55ddefe70d587c76ae6bfa16
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '283'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 1%
       + [Workfront Planning Release &amp; Roadmap](workshop-rewind/planning/planning-release-roadmap.md)
    + Arbetsflöde {#workflow}
       + [Utkast](workshop-rewind/workflow/blueprints.md)
+      + [Nya Creative Brief](workshop-rewind/workflow/creative-briefs.md)
       + [Definiera och förmedla Workfront-värde](workshop-rewind/workflow/workfront-value.md)
       + [Tips för styrning, genomförande och användning](workshop-rewind/workflow/governance-execution-adoption.md)
       + [Mastering av e-postmeddelanden](workshop-rewind/workflow/email-notifications.md)
