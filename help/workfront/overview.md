@@ -51,7 +51,7 @@ Denna pågående videoserie ger en tydlig och kortfattad översikt över varje k
 
 ## Workshop Rewind
 
-Utforska det senaste från er Adobe Workfront-community genom vårt urval av aktuella event. Varje månad håller vi kostnadsfria live-sessioner med en mängd olika ämnen som hjälper dig att få ut mesta möjliga av Workfront. Missade du en live-händelse? Inga problem! Kom ifatt med on-demand-inspelningar som visar upp kundernas berättelser, beprövade bästa metoder och värdefulla lärdomar. Vill du ansluta i realtid? Delta i kommande live-event för att ställa frågor, dela insikter och samarbeta med kollegor. Besök [Experience League Workfront Events-sidan](https://experienceleague.adobe.com/en/events?filters=Workfront) regelbundet för att se vad som kommer härnäst!
+Utforska det senaste från er Adobe Workfront-community genom vårt urval av aktuella event. Varje månad håller vi kostnadsfria live-sessioner med en mängd olika ämnen som hjälper dig att få ut mesta möjliga av Workfront. Missade du en live-händelse? Inga problem! Kom ifatt med on-demand-inspelningar som visar upp kundernas berättelser, beprövade bästa metoder och värdefulla lärdomar. Vill du ansluta i realtid? Delta i kommande live-event för att ställa frågor, dela insikter och samarbeta med kollegor. Besök [Experience League Workfront Events-sidan](https://experienceleague.adobe.com/sv/events?filters=Workfront) regelbundet för att se vad som kommer härnäst!
 
 <!-- CARDS 
 
