@@ -3,10 +3,10 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 8762eada888ea3ed55ddefe70d587c76ae6bfa16
+source-git-commit: df552b4f2b2fa1d8e4e8941aa9d58acecc60dd2b
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 1%
+source-wordcount: '312'
+ht-degree: 0%
 
 ---
 
@@ -51,6 +51,11 @@ ht-degree: 1%
    + Överkant 3 {#top3}
       + [Creative-metoder med utkast](quick-takes/top3/blueprints.md)
       + [De tre viktigaste sätten att arbeta med kontorstider](quick-takes/top3/office-hours.md)
+      + [De tre viktigaste kalenderhögarna](quick-takes/top3/calendar-hacks.md)
+      + [Använd bilder i anpassad Forms](quick-takes/top3/add-image-custom-forms.md)
+      + [De viktigaste skälen att använda layoutmallar](quick-takes/top3/layout-templates.md)
+      + [De viktigaste skälen att delta i Workfront Workshops](quick-takes/top3/reason-attend-workshop.md)
+      + [Maximera rapportschemaläggning i Workfront](quick-takes/top3/report-scheduling.md)
    + Jämfört! {#versus}
       + [Grupper kontra team](quick-takes/versus/groups-vs-teams.md)
 + Expertinsikter {#expert-insights}
@@ -60,6 +65,7 @@ ht-degree: 1%
    + [Innehållsleveranskedja](expert-insights/content-supply-chain.md)
    + [Fusion](expert-insights/fusion.md)
    + [Styrning och kompetenscentrum](expert-insights/centers-of-excellence.md)
+   + [Huvudtextläge](expert-insights/text-mode.md)
    + [Ej traditionella Workfront-arbetsflöden](expert-insights/non-traditional-workfront-workflows.md)
    + [Rapporteringspraxis](expert-insights/reporting-practices.md)
    + [Resurshantering](expert-insights/resource-management.md)
