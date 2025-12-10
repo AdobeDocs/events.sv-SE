@@ -29,7 +29,7 @@ Textläge kan vara en utmaning, men belöningarna är enastående.  Kom ihåg Ka
 * Utnyttja communityn. - Använd Experience League, cookbooks, API Explorer och andra. Uppfinna inte hjulet på nytt.
 * Behåll, men ta pauser. - Om du sitter fast stänger du den bärbara datorn, tar en promenad och återvänder med nya ögon.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477024/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477138/?captions=swe&learn=on&enablevpops)
 
 
 ## Resurser

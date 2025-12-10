@@ -21,7 +21,7 @@ Läs om de tre viktigaste skälen till varför du bör inkludera bilder, videor 
 
 Detta inkluderar både roliga och funktionella tips som förbättrar kommunikationen och gör det intressantare för slutanvändarna att fylla i förfrågningar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477027/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477056/?captions=swe&learn=on&enablevpops)
 
 Mer resurser finns i [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-add-an-image-to-custom-forms/m-p/576903#M374)!
 

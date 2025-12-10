@@ -24,7 +24,7 @@ Det är din&quot;On-Demand Workfront CSM&quot; igen med exempel på mina personl
 * Förfrågningar som visas direkt i en kalender (Exempel på nyanställda som introduceras)
 * Och en Bonus Tip!
 
->[!VIDEO](https://video.tv.adobe.com/v/3477039/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477067/?captions=swe&learn=on&enablevpops)
 
 Mer resurser finns i [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-fave-calendar-hacks/td-p/591047)!
 

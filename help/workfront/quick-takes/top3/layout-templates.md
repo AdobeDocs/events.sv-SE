@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Det är ingen överraskning! Layoutmallar gör dina Adobe Workfront-instanser mer anpassade efter dina specifika behov som systemadministratör, så ta en titt på de tre viktigaste skälen till varför du bör använda layoutmallar!
 
->[!VIDEO](https://video.tv.adobe.com/v/3477026/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477044/?captions=swe&learn=on&enablevpops)
 
 Mer resurser finns i [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531#M313)!
 

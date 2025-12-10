@@ -21,7 +21,7 @@ Nu är det jag igen, din&quot;On-Demand Workfront CSM&quot; Cynthia Boon med en 
 
 Den här gången delar jag med mig av mina favoritsätt att få ut det mesta av Schemaläggningsrapporter. I videon visar jag exempel på hur man använder den här funktionen för att få ut ännu mer av alla fantastiska rapporter som du bygger.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477040/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477078/?captions=swe&learn=on&enablevpops)
 
 Mer resurser finns i [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285)!
 
