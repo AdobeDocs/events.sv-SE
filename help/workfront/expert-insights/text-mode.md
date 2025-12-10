@@ -36,10 +36,10 @@ Textläge kan vara en utmaning, men belöningarna är enastående.  Kom ihåg Ka
 
 Söker du ytterligare resurser? Vi har dem!
 * [Kundpanel: Lektioner från veteranska Workfront-administratörer](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861#M3487) - Katherine delade fler insikter!
-* [Referenssamlingar i en rapport](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
-* [API Explorer](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
+* [Referenssamlingar i en rapport](https://experienceleague.adobe.com/sv/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
+* [API Explorer](https://experienceleague.adobe.com/sv/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
 * [Rapporterar kokbok](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
-* Och om du inte har använt Reporting tidigare kan du komma igång med Nichols Perspective-artikel, [8 steg för att skapa enkla, effektiva rapporter i Adobe Workfront](https://experienceleague.adobe.com/en/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront).
+* Och om du inte har använt Reporting tidigare kan du komma igång med Nichols Perspective-artikel, [8 steg för att skapa enkla, effektiva rapporter i Adobe Workfront](https://experienceleague.adobe.com/sv/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront).
 
 Mer resurser, inklusive kopiera/klistra in textläge, finns i [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848)!
 
@@ -57,4 +57,4 @@ Hon bor i sydvästra Ohio med sin oavsiktliga man, sin hund Bettis, två motorcy
 
 Har du en bra historia att dela, antingen under ett evenemang eller i en video med expertinsikter? Kontakta vårt team på [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
 
-Och om du gillar att lära dig mer om nya idéer och kreativa strategier, glöm inte att registrera dig för kommande workshops på [Experience League Events-sidan](https://experienceleague.adobe.com/en/events).
+Och om du gillar att lära dig mer om nya idéer och kreativa strategier, glöm inte att registrera dig för kommande workshops på [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events).

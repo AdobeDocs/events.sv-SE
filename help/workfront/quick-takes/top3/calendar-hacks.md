@@ -28,4 +28,4 @@ Det är din&quot;On-Demand Workfront CSM&quot; igen med exempel på mina personl
 
 Mer resurser finns i [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-fave-calendar-hacks/td-p/591047)!
 
-Om du gillar att lära dig nya idéer och kreativa strategier, glöm inte att registrera dig för kommande workshops på [Experience League Events-sidan](https://experienceleague.adobe.com/en/events).
+Om du gillar att lära dig nya idéer och kreativa strategier, glöm inte att registrera dig för kommande workshops på [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events).

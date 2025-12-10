@@ -25,4 +25,4 @@ Den här gången delar jag med mig av mina favoritsätt att få ut det mesta av 
 
 Mer resurser finns i [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285)!
 
-Om du gillar att lära dig nya idéer och kreativa strategier, glöm inte att registrera dig för kommande workshops på [Experience League Events-sidan](https://experienceleague.adobe.com/en/events).
+Om du gillar att lära dig nya idéer och kreativa strategier, glöm inte att registrera dig för kommande workshops på [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events).
