@@ -2,9 +2,9 @@
 user-guide-title: Adobe Developers Live Events
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Samling med inspelningar från Adobe Developer Live Content event
-source-git-commit: c069bbf422ed534b7459bf740c3c4df5f1f8cc3a
+source-git-commit: ea82ddf49a9cddc4292b46a1070200083135ca3d
 workflow-type: tm+mt
-source-wordcount: '906'
+source-wordcount: '929'
 ht-degree: 3%
 
 ---
@@ -13,6 +13,12 @@ ht-degree: 3%
 # Adobe Developers Live Events {#adobe-developers-live-recordings}
 
 + [Översikt](overview.md)
++ 2025 {#2025}
+   + [Keynote - Building the Agentic Web Keynote](2025/keynote.md)
+   + [AEM agensutveckling](2025/agentic-evolution-aem.md)
+   + [AI i Adobe Projects](2025/ai-in-projects.md)
+   + [AI Coding Showdown](2025/coding-agent.md)
+   + [Utforska Adobe Experience Manager Agents](2025/aem-agents.md)
 + 2024 {#2024}
    + November {#nov2024}
       + [Anteckning](2024/nov/keynote.md)
