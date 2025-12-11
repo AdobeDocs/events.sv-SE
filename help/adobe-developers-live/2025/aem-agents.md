@@ -21,7 +21,7 @@ Adobe Developers Live 2025: Building the Agentic Web sammanför utvecklare, arki
 
 Den här sessionen spelas in live från San Jose och presenterar Adobe Experience Manager Agents, en AI-funktion som omvandlar webbplatsmigreringen. Med smidig GitHub-integrering kan AEM Agents automatisera blockmappning, innehållsimport och formatering till ren, praktisk kod, vilket snabbar upp introduktionen till Edge Delivery Services. Se hur utvecklare kan förenkla migreringar, minska leveranstiden och lansera webbplatser som är optimerade för sökmotorer och generativa motorer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477620/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477664/?captions=swe&learn=on&enablevpops)
 
 Ett särskilt tack till våra sponsorer Algolia och Ensemble för att de stöder Adobe Developers Live 2025.
 

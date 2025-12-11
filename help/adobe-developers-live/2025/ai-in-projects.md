@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Upptäck hur AI omvandlar digitala upplevelser i Adobe-projekt via verkliga program. Se hur AI förbättrar framtagning av innehåll, validering av webbplatser och projektplanering, vilket ökar effektiviteten och minskar kostnaderna. Möt olika berättelser om innovativ användning av AI-verktyg i Adobe Experience Manager, Adobe Commerce och Edge Delivery Services.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477606/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477629/?captions=swe&learn=on&enablevpops)
