@@ -2,9 +2,9 @@
 user-guide-title: Adobe Developers Live Events
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Samling med inspelningar från Adobe Developer Live Content event
-source-git-commit: ea82ddf49a9cddc4292b46a1070200083135ca3d
+source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '984'
 ht-degree: 3%
 
 ---
@@ -16,9 +16,22 @@ ht-degree: 3%
 + 2025 {#2025}
    + [Keynote - Building the Agentic Web Keynote](2025/keynote.md)
    + [AEM agensutveckling](2025/agentic-evolution-aem.md)
+   + [AI-agenter med LLM Optimizer](2025/llm-optimizer.md)
    + [AI i Adobe Projects](2025/ai-in-projects.md)
    + [AI Coding Showdown](2025/coding-agent.md)
+   + [AI Commerce Development Innovations](2025/app-builder-extensions.md)
+   + [AI Content Discovery med AEM](2025/ai-content-discovery.md)
+   + [Brand Concierge](2025/brand-concierge.md)
+   + [Innehåll-AI i AEM](2025/content-ai.md)
+   + [Dokumentredigering i skala](2025/document-authoring-at-scale.md)
+   + [Dynamisk publicering](2025/dynamic-publishing.md)
    + [Utforska Adobe Experience Manager Agents](2025/aem-agents.md)
+   + [Migrera och moderera upplevelser](2025/modernize-experiences.md)
+   + [Modernisera Qantas med Edge Delivery Services](2025/modernizing-qantas.md)
+   + [Optimera kod med AEM Sites Optimizer](2025/code-optimization.md)
+   + [Snapshots för utvecklingsmiljö](2025/rapid-development-snapshots.md)
+   + [Effektivisera offentlig sektor med AI](2025/government-digital-services.md)
+   + [Lås upp AI i AEM](2025/transform-aem-with-agents.md)
 + 2024 {#2024}
    + November {#nov2024}
       + [Anteckning](2024/nov/keynote.md)

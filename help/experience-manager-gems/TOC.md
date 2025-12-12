@@ -3,9 +3,9 @@ user-guide-title: Adobe Experience Manager GEMS-event
 user-guide-description: Läs om AEM Gems, en serie tekniska djupdykningar från Adobe Experience Manager experter.
 breadcrumb-title: AEM GEMs-event
 solution: Experience Manager
-source-git-commit: 78e56de853566bed74975bb7ef44f2cbd53cde8d
+source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---
@@ -34,14 +34,11 @@ ht-degree: 2%
    + [AEM Best Practices Analyzer för lokala miljöer och AMS-miljöer](gems2023/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
    + [Kundexempel och implementering av AEM Headless som används](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
-   + [Att titta under huven - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
    + [Integrera AEM &amp; CIF-ramverket för att skapa en engagerande e-handelsupplevelse](gems2022/aem-and-cif-framework-integration.md)
    + [Skapa webbplatser snabbare med AEM Headless och App Builder](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
-   + [Adobe Experience Manager as a Cloud Service: 2021 års granskning och 2022 års översikt](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020 {#gems2020}
    + [AEM 6.5 är redo för världen - integration av översättning och bästa praxis](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
 + 2019 {#gems2019}
-   + [Nyheter i Experience Manager 6.5 [!DNL Sites]](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
    + [AEM Rich Text Editor (RTE) - djup kuva](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
    + [Detaljerad information om implementering av butiker, moduler och segment i ContextHub](gems2019/contexthub-deep-dive.md)
    + [Skapa headless-upplevelser i alla kanaler med AEM 6.5](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
