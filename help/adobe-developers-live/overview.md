@@ -94,7 +94,7 @@ Adobe produktteam i Adobe Experience Cloud, Document Cloud och Creative Cloud ko
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-in-projects.md" title="AI i Adobe Projects - Practical Stories" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477606/?format=jpeg&nocache=1765499677692" alt="AI i Adobe Projects - Practical Stories"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477629/?captions=swe&format=jpeg&nocache=1765499677692" alt="AI i Adobe Projects - Practical Stories"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -278,7 +278,7 @@ Adobe produktteam i Adobe Experience Cloud, Document Cloud och Creative Cloud ko
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-agents.md" title="Utforska Adobe Experience Manager Agents" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477620/?format=jpeg&nocache=1765499677627" alt="Utforska Adobe Experience Manager Agents"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477664/?captions=swe&format=jpeg&nocache=1765499677627" alt="Utforska Adobe Experience Manager Agents"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
