@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Upptäck hur AI omvandlar innehållsidentifiering med Adobe Experience Manager. Lär dig använda Content Advisor för semantisk sökning och AI-baserade resursrekommendationer. Den här sessionen handlar om snabb kampanjbaserad upptäckt och snabb åtkomst till dynamiska medierenderingar, vilket förenklar återanvändning och distribution av innehåll via en OpenAPI-stack.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477673/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477744/?captions=swe&learn=on&enablevpops)
 
 Den här sessionen - AI-styrd innehållsidentifiering med Channel Ready Renditions - innehåller Matt Briscoe, Deepa Gupta och Mathias Siegel som visar hur utvecklare kan använda Content Advisor för att identifiera resurser och innehållsfragment med semantisk sökning och AI-styrda rekommendationer. Se hur kampanjbaserad upptäckt och snabb åtkomst till dynamiska medierenderingar i Scene7 och DM förenklar återanvändning och distribution av innehåll via en OpenAPI-hög. Inspelade live från San Jose.
 

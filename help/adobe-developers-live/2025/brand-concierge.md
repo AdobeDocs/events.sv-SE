@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Utforska Adobe Brand Concierge för att omvandla digitala upplevelser med AI-drivna, personaliserade interaktioner. Lär dig hur den här innovativa lösningen ökar engagemanget och skapar konverteringar genom att sömlöst integrera konverteringsinnehåll på er webbplats. Upptäck hur ni kan kommunicera med besökare via smarta koncierge-funktioner, berika användarnas resor och förbättra kundanslutningen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477680/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477768/?captions=swe&learn=on&enablevpops)
 
 Den här sessionen - Förbättra upplevelsen på plats med Brand Concierge - innehåller funktioner som Nina Ciocanu använder för att utforska Adobe innovativa webbintegrationslösning som hjälper företag att få kontakt med besökare via smarta konversationsfunktioner. Lär dig hur du lägger till personaliserade, AI-baserade upplevelser direkt på din webbplats för att öka engagemanget och kundanslutningen. Inspelade live från San Jose.
 

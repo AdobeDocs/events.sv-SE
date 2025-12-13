@@ -140,7 +140,7 @@ Adobe produktteam i Adobe Experience Cloud, Document Cloud och Creative Cloud ko
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/brand-concierge.md" title="Förbättra upplevelsen på plats" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477680/?format=jpeg&nocache=1765499677605" alt="Förbättra upplevelsen på plats"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477768/?captions=swe&format=jpeg&nocache=1765499677605" alt="Förbättra upplevelsen på plats"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,7 +163,7 @@ Adobe produktteam i Adobe Experience Cloud, Document Cloud och Creative Cloud ko
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/app-builder-extensions.md" title="AI Commerce Development Innovations" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477672/?format=jpeg&nocache=1765499677619" alt="AI Commerce Development Innovations"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477685/?captions=swe&format=jpeg&nocache=1765499677619" alt="AI Commerce Development Innovations"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +186,7 @@ Adobe produktteam i Adobe Experience Cloud, Document Cloud och Creative Cloud ko
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-content-discovery.md" title="AI Content Discovery med Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477673/?format=jpeg&nocache=1765499677611" alt="AI Content Discovery med Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477744/?captions=swe&format=jpeg&nocache=1765499677611" alt="AI Content Discovery med Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +209,7 @@ Adobe produktteam i Adobe Experience Cloud, Document Cloud och Creative Cloud ko
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/content-ai.md" title="Innehåll-AI i Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477729/?format=jpeg&nocache=1765499677634" alt="Innehåll-AI i Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477823/?captions=swe&format=jpeg&nocache=1765499677634" alt="Innehåll-AI i Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,7 +232,7 @@ Adobe produktteam i Adobe Experience Cloud, Document Cloud och Creative Cloud ko
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/document-authoring-at-scale.md" title="Dokumentredigering i stor skala - grunden för intelligenta, AI-optimerade upplevelser" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477753/?format=jpeg&nocache=1765499677631" alt="Dokumentredigering i stor skala - grunden för intelligenta, AI-optimerade upplevelser"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477812/?captions=swe&format=jpeg&nocache=1765499677631" alt="Dokumentredigering i stor skala - grunden för intelligenta, AI-optimerade upplevelser"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -301,7 +301,7 @@ Adobe produktteam i Adobe Experience Cloud, Document Cloud och Creative Cloud ko
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/code-optimization.md" title="Optimera kod med AEM Sites Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477676/?format=jpeg&nocache=1765499677637" alt="Optimera kod med AEM Sites Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477721/?captions=swe&format=jpeg&nocache=1765499677637" alt="Optimera kod med AEM Sites Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

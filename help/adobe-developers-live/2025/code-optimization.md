@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Upptäck hur Adobe Experience Manager Sites Optimizer hjälper utvecklare att förbättra kodkvaliteten genom att upptäcka överflödiga skript och tunga DOM-strukturer. Det här seminariet visar hur du kan använda verktyget till att förbättra Core Web Vitals, minska den tekniska skulden och öka prestandan. Lär dig att tillämpa rekommendationer sömlöst i arbetsflödet för snabbare korrigeringar, starkare SEO och smidigare användarupplevelser.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477676/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477721/?captions=swe&learn=on&enablevpops)
 
 Detta seminarium - Inuti motorn: Code Optimization with Adobe Experience Manager Sites Optimizer - innehåller Deck Reyes som visar hur Sites Optimizer analyserar front-end- och back-end-implementeringar för att upptäcka överflödiga skript, tunga DOM-strukturer och Core Web Vitals-flaskhalsar. Lär dig hur du kan använda dess rekommendationer för att minska den tekniska skulden och förbättra resultatet direkt i AEM. Inspelade live från San Jose.
 

@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Upptäck hur Adobe Experience Manager möjliggör skalbar, AI-klar dokumentredigering i globala ekosystem. Läs om hur integrering av AEM Assets, Workfront och översättningsarbetsflöden skapar innehållsvariationer för marknader och språk, och utgör en grund för semantisk berikning och AI-optimering. Den här sessionen innehåller insikter från Andreas Haller, Principal Solution Architect på Cognizant Netcentric, som spelats in live från Basel. Se hur Adobe ekosystem stöder intelligenta upplevelser och ser till att de är anpassade till företagsstyrning och förbättrar strategier för digital omvandling.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477753/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477812/?captions=swe&learn=on&enablevpops)
 
 Detta seminarium - Document Authoring at Scale: The Foundation for Intelligent, AI-Optimized Experiences - innehåller Andreas Haller, Principal Solution Architect på Cognizant Netcentric, inspelad live från Basel. Upptäck hur Adobe Experience Manager Document Authoring stöder globala, AI-klara upplevelser i olika ekosystem. Läs om hur en skalbar, dokumentbaserad grund kan integreras med AEM Assets, Workfront-baserade processer i leveranskedjan och översättningsarbetsflöden för att skapa innehållsvariationer på olika marknader och språk - vilket utgör grunden för semantisk berikning och AI-driven optimering.
 
