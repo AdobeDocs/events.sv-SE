@@ -3,9 +3,9 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: df552b4f2b2fa1d8e4e8941aa9d58acecc60dd2b
+source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -24,38 +24,74 @@ ht-degree: 0%
 + Workshop Rewind {#workshop-rewind}
    + Fusion {#fusion}
       + [Automatisera namnkonventioner](workshop-rewind/fusion/automating-naming-conventions.md)
+      + [Automatisera arbetsprocesser](workshop-rewind/fusion/automate-work-processes.md)
+      + [Fördelar med Fusion och bästa praxis](workshop-rewind/fusion/benefits-best-practices.md)
       + [Dataimport](workshop-rewind/fusion/data-imports.md)
+      + [Fördelar och användningsexempel med Fusion](workshop-rewind/fusion/case-for-fusion.md)
       + [Fusion avkodad](workshop-rewind/fusion/fusion-decoded.md)
       + [Hur Workfront Fusion kan hjälpa människor](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [Navigera enkelt mellan ändringar för flermarkerade fält](workshop-rewind/fusion/mulit-select-fields.md)
+      + [Proaktiv undantagshantering](workshop-rewind/fusion/proactive-exception-handling.md)
+      + [Effektivare arbetsflöden](workshop-rewind/fusion/automate-workflows.md)
       + [Låsa upp kostnader för True Event](workshop-rewind/fusion/event-costs.md)
+      + [Uppgradera till Event-prenumerationer V2](workshop-rewind/fusion/event-subscriptions-v2.md)
       + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + Planering {#planning}
       + [Senaste i Workfront Planning](workshop-rewind/planning/workfront-planning.md)
+      + [Adobe Workfront Planning Demo](workshop-rewind/planning/planning-demo.md)
       + [SNHU:s Creative-användningsexempel](workshop-rewind/planning/planning-reimagined.md)
       + [Framgångar på teamnivå med Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Workfront Planning Release &amp; Roadmap](workshop-rewind/planning/planning-release-roadmap.md)
    + Arbetsflöde {#workflow}
       + [Utkast](workshop-rewind/workflow/blueprints.md)
-      + [Nya Creative Brief](workshop-rewind/workflow/creative-briefs.md)
+      + [Öka effektiviteten](workshop-rewind/workflow/cognizant-project-excellence.md)
+      + [Hantering av förändringar i Workfront](workshop-rewind/workflow/change-management.md)
+      + [Integrering av innehållsleveranskedja](workshop-rewind/workflow/content-supply-chain.md)
       + [Definiera och förmedla Workfront-värde](workshop-rewind/workflow/workfront-value.md)
+      + [Effektiva kommunikationstips i Workfront](workshop-rewind/workflow/communication-tips.md)
       + [Tips för styrning, genomförande och användning](workshop-rewind/workflow/governance-execution-adoption.md)
+      + [Grundläggande om gruppadministratörer](workshop-rewind/workflow/group-admins.md)
+      + [Lektioner från Workfront-administratörer](workshop-rewind/workflow/lessons-learned-admins.md)
       + [Mastering av e-postmeddelanden](workshop-rewind/workflow/email-notifications.md)
       + [Mastering EXISTS-satser](workshop-rewind/workflow/master-exists-statements.md)
+      + [Maximera Workfront](workshop-rewind/workflow/value-realization.md)
+      + [Överkomlig resistens mot ändring](workshop-rewind/workflow/overcome-resistance-to-change.md)
       + [Energimallar](workshop-rewind/workflow/power-templates.md)
       + [Projektmallar](workshop-rewind/workflow/project-templates.md)
+      + [Nya Creative Brief](workshop-rewind/workflow/creative-briefs.md)
+      + [Grundläggande om resurshantering](workshop-rewind/workflow/resource-management.md)
+      + [Secure Executive Sponsorship](workshop-rewind/workflow/secure-executive-sponsorship.md)
       + [Självstudiekurs för framgång](workshop-rewind/workflow/self-taught-to-success.md)
+      + [Spring Cleanup with Workfront Reports](workshop-rewind/workflow/workfront-reports-cleanup.md)
+      + [Tips för textläge](workshop-rewind/workflow/text-mode-tips.md)
+      + [10 Fler tips för textläge](workshop-rewind/workflow/10-more-text-mode-tips.md)
+      + [Förvandla användarförvirring till självförtroende](workshop-rewind/workflow/avalara-user-transformation.md)
+      + [Felsöka Workfront beräkningsfält](workshop-rewind/workflow/troubleshoot-calculated-expressions.md)
+      + [Lås upp Workfront Boards](workshop-rewind/workflow/unlock-boards.md)
       + [Lås upp kraften i Workfront Data Connect](workshop-rewind/workflow/data-connect.md)
+      + [Använda Workfront för effektiva förbättringar](workshop-rewind/workflow/effective-reorgs.md)
       + [Workfront + AEM Native Integration](workshop-rewind/workflow/aem-native-integration.md)
+      + [Workfront Reporting - Year-End Strategies](workshop-rewind/workflow/reporting-year-end-strategies.md)
 + Snabbtagningar {#quicktakes}
    + Överkant 3 {#top3}
+      + [Skapa delade kolumnrapporter](quick-takes/top3/shared-column-report.md)
       + [Creative-metoder med utkast](quick-takes/top3/blueprints.md)
+      + [Creative Says to Use Workfront Boards](quick-takes/top3/creative-approaches-boards.md)
+      + [Komma igång med Workfront Boards-mallar](quick-takes/top3/get-started-board-templates.md)
+      + [Maximera rapportschemaläggning i Workfront](quick-takes/top3/report-scheduling.md)
+      + [Skäl att använda företag](quick-takes/top3/why-use-companies.md)
+      + [Börja med milstolpar](quick-takes/top3/get-started-milestones.md)
+      + [De viktigaste skälen att delta i Workfront Workshops](quick-takes/top3/reason-attend-workshop.md)
+      + [De viktigaste skälen att använda layoutmallar](quick-takes/top3/layout-templates.md)
+      + [De viktigaste skälen för resurspooler](quick-takes/top3/resource-pools.md)
       + [De tre viktigaste sätten att arbeta med kontorstider](quick-takes/top3/office-hours.md)
       + [De tre viktigaste kalenderhögarna](quick-takes/top3/calendar-hacks.md)
+      + [De tre viktigaste skälen att använda Workfront Boards](quick-takes/top3/boards-for-adoption.md)
       + [Använd bilder i anpassad Forms](quick-takes/top3/add-image-custom-forms.md)
-      + [De viktigaste skälen att använda layoutmallar](quick-takes/top3/layout-templates.md)
-      + [De viktigaste skälen att delta i Workfront Workshops](quick-takes/top3/reason-attend-workshop.md)
-      + [Maximera rapportschemaläggning i Workfront](quick-takes/top3/report-scheduling.md)
+      + Se hur jag arbetar {#watchmework}
+         + [De bästa Workfront-tipsen](quick-takes/top3/watch-me-work-1.md)
+         + [De viktigaste funktionerna för projekthantering](quick-takes/top3/watch-me-work-2.md)
+         + [De tre viktigaste funktionerna för arbetstagare i Workfront](quick-takes/top3/watch-me-work-3.md)
    + Jämfört! {#versus}
       + [Grupper kontra team](quick-takes/versus/groups-vs-teams.md)
 + Expertinsikter {#expert-insights}

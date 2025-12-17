@@ -1,5 +1,5 @@
 ---
-title: Webbinarium - Lär dig allt om våra senaste förbättringar - Adobe Acrobat Sign juliversion 2025
+title: Läs allt om våra senaste förbättringar - Acrobat Sign juliversion 2025
 description: Upptäck Acrobat Sign uppdateringar från juli 2025 - PDF/A-kompatibilitet, meddelanden om appar och förbättrad avtalssäkerhet för chefer och administratörer.
 solution: Acrobat Sign
 feature-set: Document Cloud
@@ -10,15 +10,15 @@ doc-type: Event
 duration: 3588
 last-substantial-update: 2025-09-05T00:00:00Z
 jira: KT-19007
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+exl-id: 0b442d68-25ba-4c79-9786-20c1600cfa15
+source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
 
-
-# Webbinarium: Läs allt om våra senaste förbättringar: Adobe Acrobat Sign juliversion 2025
+# Läs allt om våra senaste förbättringar - Acrobat Sign juliversion 2025
 
 Utforska de nya funktionerna och funktionerna som tagits fram för dem som leder, hanterar och arbetar framgångsrikt med Acrobat Sign.
 

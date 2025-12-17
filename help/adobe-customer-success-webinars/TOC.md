@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success-led webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe lösningar.
-source-git-commit: d17c517cdcdeddb2ba8d7db4c244f16d678bab96
+source-git-commit: fa067dfc5293d58cbd73c5d1a87be0ccf82b8f3e
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '569'
 ht-degree: 4%
 
 ---
@@ -59,7 +59,10 @@ ht-degree: 4%
       + [Utforma en operativmodell](2025/design-an-operating-model-ajo.md)
       + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
       + [Utnyttja arkitekturen i NorthStar](2025/northstar-architecture-enable-adobe-journey-optimzier.md)
+      + [Modernisera kampanjer](2025/ajo-adobe-campaign.md)
       + [Vägkarta till värde med Adobe Journey Optimizer](2025/ajo-roadmap-to-value.md)
+   + Marketo {#marketo2025}
+      + [Ny e-postredigerare](2025/marketo-new-email-editor.md)
    + Flera lösningar {#multisolution2025}
       + [Grundläggande om innehållsleveranskedjan](2025/content-supply-chain-basics.md)
       + [Optimering av digitala upplevelser med AI-insikter](2025/accelerating-digital-experience-optimization.md)
