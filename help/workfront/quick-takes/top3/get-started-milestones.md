@@ -29,8 +29,8 @@ Att ta med en milstolpe-rapport på din projektkontrollpanel eller dela den här
 
 Mer information om milstolpar finns här:
 
-* [Skapa en milstolpe-sökväg och milstolpe-steg](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
-* [Använd milstolpe-vyn](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
-* [Skicka och dela rapporter](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports)
+* [Skapa en milstolpe-sökväg och milstolpe-steg](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
+* [Använd milstolpe-vyn](https://experienceleague.adobe.com/sv/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
+* [Skicka och dela rapporter](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports)
 
 

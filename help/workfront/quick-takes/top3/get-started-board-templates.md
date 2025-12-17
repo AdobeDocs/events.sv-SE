@@ -23,7 +23,7 @@ Hej från din On-Demand Workfront CSM Cynthia Boon! Är du intresserad av att an
 
 Här är en artikel med stegvisa instruktioner.
 
-[Skapa en ny anslagstavla med en mall](https://experienceleague.adobe.com/en/docs/workfront/using/agile/boards-in-workfront/create-edit-board#create-a-new-board) 
+[Skapa en ny anslagstavla med en mall](https://experienceleague.adobe.com/sv/docs/workfront/using/agile/boards-in-workfront/create-edit-board#create-a-new-board) 
 
 Har du idéer att dela eller har du uppföljningsfrågor om videon? Du kan släppa dem i kommentarerna på [Experience League Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-getting-started-with-boards-templates/td-p/694307)!
 

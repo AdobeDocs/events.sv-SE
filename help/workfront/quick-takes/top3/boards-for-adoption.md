@@ -29,9 +29,9 @@ Om du inte har haft en chans att experimentera med funktionen i The Boards, inga
 
 Som vi lovat i videon har vi massor av resurser att dela, inklusive artiklar och korta videodemonstrationer:
 
-* [Kom igång med anslagstavlor i Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=en)
-* [Anmäl dig till tidiga funktioner för Adobe Workfront Boards](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
-* [Skapa eller redigera en anslagstavla - innehåller beskrivningar av varje anslagstavla](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
-* [Adobe Workfront Boards - korta videodemonstrationer](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)
+* [Kom igång med anslagstavlor i Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=sv-SE)
+* [Anmäl dig till tidiga funktioner för Adobe Workfront Boards](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=sv-SE)
+* [Skapa eller redigera en anslagstavla - innehåller beskrivningar av varje anslagstavla](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=sv-SE)
+* [Adobe Workfront Boards - korta videodemonstrationer](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=sv-SE)
 
 

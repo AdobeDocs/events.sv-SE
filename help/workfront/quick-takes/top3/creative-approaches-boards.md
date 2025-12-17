@@ -23,6 +23,6 @@ Det är jag igen, din&quot;On-Demand Workfront CSM&quot; Cynthia Boon och jag ho
 
 Söker du ett exempel på hur en kund använder Boards? Ta en titt på presentationen från Mattel Team på Adobe Summit 2024!  
 
-[2024 Summit Session: How Mattel is utiliaging Workfront Boards](https://business.adobe.com/summit/2024/sessions/skill-exchange-how-mattel-is-leveraging-workfront-s956.html)
+[2024 Summit Session: How Mattel is utiliaging Workfront Boards](https://business.adobe.com/se/summit/2024/sessions/skill-exchange-how-mattel-is-leveraging-workfront-s956.html)
 
 
