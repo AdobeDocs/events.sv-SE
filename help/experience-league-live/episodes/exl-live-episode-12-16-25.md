@@ -7,9 +7,9 @@ feature: AI Assistant
 event-cta-url-live: https://www.youtube.com/live/MW2Ba7HJNbA
 event-start-time: 2025-12-16 09:00-8
 event-guests: Daniel Wright, Huong Vu, Shreya Anantha Raman
-source-git-commit: b818f0896871c9ea771e5a4694ec8b496cb06abd
+source-git-commit: 04cd7f4e1881d75f6fde97c48e2fb7a4f587a9ee
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ Denna session ingår i en serie om Adobe Experience Platform Agent Orchestrator 
 
 Teamen för marknadsföring och kundupplevelser har ett starkt tryck att leverera personaliserade flerkanalskampanjer med färre resurser och tätare tidslinjer. Men ofta är det inte så att deras tid blir allt mindre krävande, som till exempel felsökning och supporthantering, vilket gör att de inte kan fokusera på strategiska och slagkraftiga kundupplevelser. Med Adobe Experience Platform Agent Orchestrator i botten är Product Support Agent utformat för dessa i sina Adobe Experience Platform-program genom att tillhandahålla ett interaktivt sätt att felsöka, diagnostisera och eskalera problem, vilket ger snabbare lösningar och ökad effektivitet.
 
-Delta i den här live-sessionen där produktgruppen bakom Product Support Agent utforskar:
+Visa den här livesessionen där produktgruppen bakom Product Support Agent utforskade:
 * En översikt över Product Support Agent
 * Hur supportagenten ger användarna möjlighet till proaktiv och självbetjäningssupport samt automatisk ärendegenerering och -spårning
 * Innovationer och möjligheter i horisonten för att ytterligare effektivisera supporthanteringen för användare
 
-[![ExL LIVE Jan 17 2024](assets/WebBanner_Dec16_2025.jpg)](https://engage.adobe.com/ExpLeagueLive-251216.html?sdid=LH4XT4PX&mv=other){target="_blank"}
+>[!VIDEO](https://video.tv.adobe.com/v/3477984/?learn=on)
 
-[Registrera dig nu för den här aktiviteten!](https://engage.adobe.com/ExpLeagueLive-251216.html?sdid=LH4XT4PX&mv=other){target="_blank"}
+[Fortsätt diskutera i communitydiskussionen!](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172#M1909){target="_blank"}

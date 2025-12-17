@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 45be7126bdcf2ae97d812dc3aa708efa7c173c98
+source-git-commit: 04cd7f4e1881d75f6fde97c48e2fb7a4f587a9ee
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '165'
 ht-degree: 1%
 
 ---
@@ -25,16 +25,8 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 <table>
     <tr>
-         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-16-25.md">
-              <img alt="Experience League LIVE 16 december 2025" src="episodes/assets/WebBanner_Dec16_2025.jpg">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-12-16-25.md">
-                <strong>Förenkla felsökning och ärendehantering med Product Support Agent </strong>
-              </a>
-              <br/><em>med Daniel Wright, Huong Vu och Shreya Anantha Raman</em>
-              <br/><em>16 dec 2025</em>
-            </div>
+         <td style="vertical-align: top;">
+            Nya program kommer snart. Gå tillbaka till den här sidan för att se tillgängliga program.
         </td>
     </tr>
 
@@ -101,5 +93,5 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 >[!TIP]
 >
->Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/sv#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=sv-SE).
+>Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
