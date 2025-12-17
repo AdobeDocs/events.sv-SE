@@ -23,7 +23,7 @@ Det är jag igen, dina&quot;On-Demand Workfront CSM&quot; Cynthia Boon med en sp
 * Projektledare/planerare
 * Arbetare/begärande
 
->[!VIDEO](https://video.tv.adobe.com/v/3470072/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470180/?captions=swe&learn=on&enablevpops)
 
 ## Ytterligare resurser
 

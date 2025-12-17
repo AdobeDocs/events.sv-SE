@@ -23,7 +23,7 @@ Söker du nya, effektiva sätt att presentera dina uppgifter i en rapport? Gör 
 
 Vi har många frågor om hur man använder textläge för att kombinera information i en rapport, så vi har en stegvis video samt några resurser nedan som hjälper dig att komma igång. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470124/?captions=swe&learn=on&enablevpops)
 
 Söker du mer? Vi har **tre bonustips** på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641)!
 

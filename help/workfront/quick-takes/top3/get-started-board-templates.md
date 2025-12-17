@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Hej från din On-Demand Workfront CSM Cynthia Boon! Är du intresserad av att använda Workfront Boards, men vet du inte var du ska börja? Det enklaste sättet att komma igång är med färdiga mallar!
 
->[!VIDEO](https://video.tv.adobe.com/v/3470067/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470135/?captions=swe&learn=on&enablevpops)
 
 Här är en artikel med stegvisa instruktioner.
 

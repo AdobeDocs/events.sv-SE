@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Top 3 Special Edition! Se mig arbeta - 3 sätt [3 video]
 
->[!VIDEO](https://video.tv.adobe.com/v/3470074/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470206/?captions=swe&learn=on&enablevpops)
 
 Utforska de tre viktigaste funktionerna som hjälper arbetare och beställare att optimera sitt arbetsflöde i Workfront. Läs om hur utkast, anpassade formulärvyer och anslagstavlor kan förbättra produktiviteten och effektivisera processerna. De här verktygen är viktiga när du vill hantera uppgifter effektivt, samarbeta visuellt och spåra mål i stora projekt. Upptäck hur dessa funktioner kan stödja ditt arbete och förbättra din upplevelse av Workfront.
 

@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Det är jag igen, din&quot;On-Demand Workfront CSM&quot; Cynthia Boon och jag hoppas kunna inspirera dig med kreativa idéer för användning av Workfront Boards.  Nu ska jag nämna det i videon, men i händelse av det här är en snabb påminnelse om att du inte behöver arbeta i ett smidigt team för att använda funktionen för anslagstavlor.  Om projektuppgiftslistan inte fungerar för ditt team kan du prova styrelserna!  
 
->[!VIDEO](https://video.tv.adobe.com/v/3470068/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470169/?captions=swe&learn=on&enablevpops)
 
 Söker du ett exempel på hur en kund använder Boards? Ta en titt på presentationen från Mattel Team på Adobe Summit 2024!  
 

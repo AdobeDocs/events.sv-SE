@@ -23,7 +23,7 @@ Låt oss prata om Adobe! Vi är alla på jakt efter nya idéer om hur våra nya 
 
 Om du inte har haft en chans att experimentera med funktionen i The Boards, inga problem! I videon berättar jag hur du ger användarna tillgång till dem och hur de snabbt kan komma igång.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470075/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470102/?captions=swe&learn=on&enablevpops)
 
 ## Ytterligare resurser
 

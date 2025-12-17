@@ -23,7 +23,7 @@ Det här är en bra rapport för ledningen på högre nivå och även för dina 
 
 Att ta med en milstolpe-rapport på din projektkontrollpanel eller dela den här rapporten (ännu bättre, automatisk schemaläggning för regelbunden leverans) är ett bra sätt att hålla berörda parter - även icke-Workfront-användare - engagerade i projektförloppet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470066/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470158/?captions=swe&learn=on&enablevpops)
 
 ## Ytterligare resurser
 
