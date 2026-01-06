@@ -1,14 +1,14 @@
 ---
 title: Utforska framtiden för Adobe Journey Optimizer med webbkanalen och innehållsexperimenterande
-description: Den nya webbkanalen gör att marknadsförarna kan skapa webbkampanjer med en visuell WYSIWYG-designer. Dessutom kan du med Journey Optimizer nu experimentera med innehåll i alla kanaler - e-post, webben, push, i appen, SMS med mera.
+description: Den nya webbkanalen gör det möjligt för marknadsförare att skapa webbkampanjer med en visuell designer från WYSIWYG. Dessutom kan du med Journey Optimizer nu experimentera med innehåll i alla kanaler - e-post, webben, push, i appen, SMS med mera.
 solution: Journey Optimizer
-kt: KT-13220
+kt: KT-13221
 event-cta-url-live: https://www.youtube.com/watch?v=sNsFedPnhL8
 event-start-time: 2023-06-14 08:00-7
 event-guests: Sandra Hausmann,Robert Calangiu,Erik Wiener,Daniel Cristian Popescu
 exl-id: c5240612-29d4-4404-b12b-71e70bb780bd
 duration: 3627
-source-git-commit: 566bddf933c20c7673b4cf574180852d81027514
+source-git-commit: 12851ed513e11a08e0fd83eb9e33c878f6483c65
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 # Utforska framtiden för Adobe Journey Optimizer med webbkanalen och innehållsexperimenterande
 
-Den nya webbkanalen gör att marknadsförarna kan skapa webbkampanjer med en visuell WYSIWYG-designer. Dessutom kan du med Journey Optimizer nu experimentera med innehåll i alla kanaler - e-post, webben, push, i appen, SMS med mera.
+Den nya webbkanalen gör det möjligt för marknadsförare att skapa webbkampanjer med en visuell designer från WYSIWYG. Dessutom kan du med Journey Optimizer nu experimentera med innehåll i alla kanaler - e-post, webben, push, i appen, SMS med mera.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420129/?learn=on)
 
-Har du frågor om det? Fortsätt diskutera det här ämnet i Adobe Experience League [Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-explore-the/m-p/599366#M121).
+Har du frågor om det? Fortsätt diskutera det här ämnet i Adobe Experience League [Community-posten](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-explore-the/m-p/599366#M121).
