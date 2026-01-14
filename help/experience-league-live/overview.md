@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: df3b95c0f462a8cd72318e7b33c9b1827d3ea8ed
+source-git-commit: b1ad886252f26bc473459e6867b84b2e3a8eb395
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '184'
 ht-degree: 1%
 
 ---
@@ -32,7 +32,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
       <a href="episodes/exl-live-episode-01-28-26.md"><strong>Se hur Audience Agent hittar målgruppsinsikter och skapar färdiga målgrupper på några minuter. </strong></a>
       <br/><em> med Shelby Mansuri, Keara Fausett och Alyssa Espiritu </em>
       <br/><em>28 januari 2026 kl. 8:30 PT</em>
-      <br/><br/><a href="https://www.youtube.com/live/V7n2KuhrhqQ">Ange påminnelse</a>
+      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&amp;mv=other">Registrera dig idag!</a></b>
     </div>
   </td>
 </tr>
@@ -97,5 +97,5 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 >[!TIP]
 >
->Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/sv#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=sv-SE).
+>Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
