@@ -19,4 +19,4 @@ ht-degree: 0%
 
 I dagens digitala värld är det avgörande att kunna leverera högpresterande upplevelser över alla kanaler och regioner. Upptäck varför organisationer använder moderna leveransmodeller för att öka hastighet och flexibilitet. Läs om skillnaderna mellan headful, headless, hybrid och edge delivery services. Upptäck hur centrala komponenter och lokaliseringsramverk stöder strategier för flera varumärken och regioner.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478775/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478779/?captions=swe&learn=on&enablevpops)
