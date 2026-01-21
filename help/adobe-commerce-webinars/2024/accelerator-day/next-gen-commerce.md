@@ -24,6 +24,6 @@ ht-degree: 0%
 
 + Presenteras av Eroka O&#39;Connor, Senior Solution Consultant - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429269/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456488/?captions=swe&learn=on)
 
 [&lt; Tillbaka till Adobe Commerce Accelerator Day](./overview.md)

@@ -24,6 +24,6 @@ Den senaste informationen och demonstrationen om Adobe blixtsnabba Edge Delivery
 
 + Presenteras av Kam Radhakrishnan, Senior Solution Engineer - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429271/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455315/?captions=swe&learn=on)
 
 [&lt; Tillbaka till Adobe Commerce Accelerator Day](./overview.md)
