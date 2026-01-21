@@ -1,18 +1,18 @@
 ---
-title: Djupdykning
+title: Marketo Deep Dives
 description: Deep Dives är ett videobibliotek där experter och kollegor har delat med sig av sina tankar och idéer om hur man bäst använder Adobe Marketo.
 exl-id: 21242f9e-8084-4482-8461-ba8a9e2fbd26
 duration: 15
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
 workflow-type: tm+mt
-source-wordcount: '1266'
+source-wordcount: '1268'
 ht-degree: 0%
 
 ---
 
-# Djupdykningshändelser
+# Marketo Deep Dive Events
 
-Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resurserna tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=sv-SE) och [självstudiekurserna](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=sv-SE) för Adobe Marketo får du en bättre förståelse för hur du använder Adobe Marketo för att stödja ditt företag.
+Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resurserna tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/marketo-engage.html) och [självstudiekurserna](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) för Adobe Marketo får du en bättre förståelse för hur du använder Adobe Marketo för att stödja ditt företag.
 
 <!-- CARDS
 
@@ -69,7 +69,7 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="admin-console.md" title="Förbereder för Marketo Engage på Adobe Identity" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432369/?format=jpeg&nocache=1752782691676&captions=swe" alt="Förbereder för Marketo Engage på Adobe Identity"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1752782691676" alt="Förbereder för Marketo Engage på Adobe Identity"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -92,7 +92,7 @@ Välkommen till Deep Dives on-demand-inspelningar. Om du använder de här resur
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="api.md" title="API:er" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432504/?format=jpeg&nocache=1752782691708&captions=swe" alt="API:er"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1752782691708" alt="API:er"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

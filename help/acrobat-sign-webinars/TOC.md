@@ -1,9 +1,9 @@
 ---
 user-guide-title: Acrobat Sign webbinarier
 user-guide-description: Lär dig av Adobe experter hur du bemästrar nya arbetsflöden för e-signaturer i Acrobat Sign.
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 4%
 
 ---
@@ -31,6 +31,5 @@ ht-degree: 4%
    + [Avancerade tips för att skicka dokument för signering](./skill-builders/advanced-sending-documents-signature.md)
    + [Samla in många signaturer med ett klick](./skill-builders/collect-signatures.md)
    + [Document Builder](./skill-builders/document-builder.md)
-   + [Notarize Integration](./skill-builders/notarize.md)
    + [Lägg upp ett ifyllbart, signerbart webbformulär](./skill-builders/fillable-signable-web-form.md)
    + [Automatisering av arbetsflöden](./skill-builders/workflow-automations.md)
