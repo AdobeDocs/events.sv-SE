@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Upptäck en praktisk färdplan för att optimera innehållsleveranskedjor. Se hur integrering av arbetsflöde och planering, skapande och produktion, tillgångshantering, leverans och aktivering samt rapportering och insikter ger mätbara resultat. Utforska vanliga branschmönster, kartlägg mål för Adobe lösningar och använd färdplanen för att vägleda dina nästa steg och mäta påverkan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479086/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479090/?captions=swe&learn=on&enablevpops)
