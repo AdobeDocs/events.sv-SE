@@ -23,6 +23,6 @@ De visar hur ni kan leverera innehållsrika, personaliserade mobilupplevelser so
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475370/?quality=12&learn=on)
 
-Följ oss till [Adobe Journey Optimizer Community och fråga mig något!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477) på **onsdagen den 15 oktober kl. 8.00-9.00 PT** Vi kommer att förenas med Adobe Journey Optimizer experter: Nikhil Sharma (@snikhil) - Sr. Engineering Manager, Travis Jordan (@Travis_Jordan) - Principal Product Manager och Sandra Hausmann (@SHausmann) - Sr Technical Marketing Engineer.
+Följ oss till [Adobe Journey Optimizer Community och fråga mig något!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477?profile.language=sv) på **onsdagen den 15 oktober kl. 8.00-9.00 PT** Vi kommer att förenas med Adobe Journey Optimizer experter: Nikhil Sharma (@snikhil) - Sr. Engineering Manager, Travis Jordan (@Travis_Jordan) - Principal Product Manager och Sandra Hausmann (@SHausmann) - Sr Technical Marketing Engineer.
 
 Vi kommer att svara på dina frågor under den här live-chatten.

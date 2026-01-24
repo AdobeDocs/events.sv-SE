@@ -26,6 +26,6 @@ I det här on-demand-webbinariet, Lyndsy Denk, Marketing Training and Enablement
 * Tips för att avgöra vilka kanaler som ska användas för din kommunikation
 * Se er kommunikationsstrategi på ett iterativt sätt, från var ni är och mognar när ni är på väg
 
-Du kan även ladda ned&quot;Communications Cookbook&quot; med idéer och exempel på riktig kommunikation som dina kollegor delar med sina användare här: https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144
+Du kan även ladda ned&quot;Communications Cookbook&quot; med idéer och exempel på riktig kommunikation som dina kollegor delar med sina användare här: https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144?profile.language=sv
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431019/?learn=on)

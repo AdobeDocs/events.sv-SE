@@ -25,7 +25,7 @@ Detta interaktiva 1-timmars seminarium spelades in den 7 maj 2025 och innehöll 
 Tillsammans med on-demand-inspelningen har vi tagit med bildspelet och tips som delats i chatten: 
 
 * [Slide Deck PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Mastering+Email+Notifications+in+Adobe+Workfront+050725.pdf)
-* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-mastering-email-notifications-in-adobe-workfront/td-p/752745)
+* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-mastering-email-notifications-in-adobe-workfront/td-p/752745?profile.language=sv)
 
 Här är en kort sammanfattning av tips som delades i chatten: 
 

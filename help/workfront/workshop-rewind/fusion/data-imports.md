@@ -23,7 +23,7 @@ I samarbete med Brian Haight på Adobe Professional Services omfattade sessionen
 
 Granska [bildspelet](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+Template+-+Fusion+Event.pdf) och se hur on-demand-inspelningen följer med.
 
-Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-track-efficiency-data-imports-with/td-p/769522) för att se exempel på hämtningsbara CSV-filer och Fusion CSV-paketet!
+Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-track-efficiency-data-imports-with/td-p/769522?profile.language=sv) för att se exempel på hämtningsbara CSV-filer och Fusion CSV-paketet!
 
 Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 

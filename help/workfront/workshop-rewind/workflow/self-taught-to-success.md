@@ -27,6 +27,6 @@ Detta är en bra historia om hur kraftfull (och generös) Workfront Community ä
 
 Om du är intresserad av att dela med dig av din historia eller ditt användningsfall, skicka ett e-postmeddelande till oss på csatscale@adobe.com.
 
-Har du idéer att dela eller har du frågor från evenemanget? Du kan släppa dem i kommentarerna på [Experience League Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-self-taught-to-success-how-kyndryl-scaled/td-p/785174)!
+Har du idéer att dela eller har du frågor från evenemanget? Du kan släppa dem i kommentarerna på [Experience League Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-self-taught-to-success-how-kyndryl-scaled/td-p/785174?profile.language=sv)!
 
 Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.

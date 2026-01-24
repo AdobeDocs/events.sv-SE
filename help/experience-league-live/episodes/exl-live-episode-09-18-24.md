@@ -22,7 +22,7 @@ Lär dig hur du använder Edge Bridge-tillägget för att överbrygga gapet för
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434575/?quality=12&learn=on)
 
-**Om du vill fortsätta diskussionen går du till [diskussionen om Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}.**
+**Om du vill fortsätta diskussionen går du till [diskussionen om Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990?profile.language=sv#M550){target="_blank"}.**
 
 
 **Visa detaljer**:

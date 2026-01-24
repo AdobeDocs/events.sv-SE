@@ -41,11 +41,11 @@ Följ mig, din On Demand Workfront CSM, när jag pratar med Nichole om hur hon b
 
 ## Resurser
 
-* **Blog** - [Spara tid med beräknade anpassade fält](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237)
+* **Blog** - [Spara tid med beräknade anpassade fält](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237?profile.language=sv)
 * **Artikel** - [Beräknade datauttryck]&#x200B;(https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=sv-SE#:~:text=Du kan använda datauttryck som genererar ett nytt fält.&amp;text=Mer information om hur du skapar finns i data i ett anpassat formulär.)
-* **Händelseuppföljning** - [Workshop om beräknade anpassade fält](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725)
-* **Community** - [Reporting Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
-* **Blog** - [Använd Workfront-utkast för att optimera din arbetshanteringsmiljö!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
+* **Händelseuppföljning** - [Workshop om beräknade anpassade fält](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725?profile.language=sv)
+* **Community** - [Reporting Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=sv#M1406)
+* **Blog** - [Använd Workfront-utkast för att optimera din arbetshanteringsmiljö!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=sv)
    * *Komma igång* - I den här bloggen finns mer information om System Maintenance Dashboard och rapportpaketen med kontrollpanelen för användning. 
    * *Bonustips!* - Prenumerera på bloggen för att få meddelanden om när nya utkast släpps. 
 * **Artikel** - [Variabler för jokerteckenfilter](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=sv-SE)

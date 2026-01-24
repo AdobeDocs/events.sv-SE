@@ -21,5 +21,5 @@ Du har sett honom på Summit. Du har hört honom dela expertråd på Adobe Insid
 
 >[!VIDEO](https://video.tv.adobe.com/v/335921/?quality=12&learn=on)
 
-Om du vill diskutera den här sessionen går du till [diskussionen i Experience League-communityn](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498){target="_blank"}.
+Om du vill diskutera den här sessionen går du till [diskussionen i Experience League-communityn](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498?profile.language=sv){target="_blank"}.
 

@@ -36,7 +36,7 @@ Under presentationen diskuterade Jaime och Danielle några kompletterande resurs
 * [Workfront Admin Chat - Cognizant](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
 * [Workfront User Adoption Survey](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
-Vill du ha mer information om Adobe och allmän introduktion? Kolla in vår blogg! - [Nya Workfront-kunder! Välkommen till Adobe Workfront blogg Customer Success Onboarding!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
+Vill du ha mer information om Adobe och allmän introduktion? Kolla in vår blogg! - [Nya Workfront-kunder! Välkommen till Adobe Workfront blogg Customer Success Onboarding!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=sv)
 
 ## Om högtalaren
 

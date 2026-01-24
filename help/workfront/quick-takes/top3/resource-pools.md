@@ -30,6 +30,6 @@ Vill du bara komma igång med resurspooler? För det första, vad är de?
 ## Ytterligare resurser
 
 * Mer information finns i artikeln [Resurspooler - översikt](https://experienceleague.adobe.com/sv/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools).
-* Söker du mer? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866)!
+* Söker du mer? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866?profile.language=sv)!
 
 

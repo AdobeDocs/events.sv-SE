@@ -27,4 +27,4 @@ Det är jag igen, dina&quot;On-Demand Workfront CSM&quot; Cynthia Boon med en sp
 
 ## Ytterligare resurser
 
-Söker du mer? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-special-edition-watch-me-work-3-ways/td-p/656910)!
+Söker du mer? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-special-edition-watch-me-work-3-ways/td-p/656910?profile.language=sv)!

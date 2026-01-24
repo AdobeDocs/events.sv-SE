@@ -30,4 +30,4 @@ Upptäck hur upplevelseexperimenterande kan hjälpa er att finjustera era kundin
 
 Detta sommartidsevenemang kommer att förbättra era flerkanalsstrategier för marknadsföring och få ut så mycket som möjligt av säsongens engagemangsmöjligheter. Missa inte denna chans att lyfta era kundresor och kampanjer för att lyckas med Adobe Journey Optimizer.
 
-**Fortsätt diskussionen på [Adobe Journey Optimizer Community Q&amp;A Coffee Break](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu[...]28th-8-30-am-pt-superaddar-your/td-p/697931) i Journey Optimizer Community Forum.**
+**Fortsätt diskussionen på [Adobe Journey Optimizer Community Q&amp;A Coffee Break](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu?profile.language=sv[...]28th-8-30-am-pt-superaddar-your/td-p/697931) i Journey Optimizer Community Forum.**

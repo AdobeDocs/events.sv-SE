@@ -25,7 +25,7 @@ Under seminariet arbetade vi tillsammans med bilder för att skapa en anpassning
 
 Granska [presentationsbildbandet](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/093025+-+Pitch+Perfect+-+Defining+%26+Communicating+Workfront+Value.pdf) och se hur on-demand-inspelningen följer med.
 
-Vill du ha ett anpassbart bildspel med anteckningar och vedertagna rutiner under sessionen?  Se [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706) för mer resurser!
+Vill du ha ett anpassbart bildspel med anteckningar och vedertagna rutiner under sessionen?  Se [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706?profile.language=sv) för mer resurser!
 
 Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 

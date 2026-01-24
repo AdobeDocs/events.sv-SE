@@ -25,7 +25,7 @@ Detta seminarium spelades in den 29 maj 2025 och innehöll en beskrivning av vå
 ## Resurser
 
 * [Bildband, PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+Adobe+Workfront+Data+Connect+052925.pdf)
-* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725)
+* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725?profile.language=sv)
 
 ## Sammanfattning
 
@@ -36,7 +36,7 @@ Detta seminarium spelades in den 29 maj 2025 och innehöll en beskrivning av vå
 * **Aktuella funktioner** Data Connect har för närvarande stöd för över 110 Workfront-objekt (från 70 vid start i oktober), med data uppdaterade var fjärde timme. Det innehåller tre typer av vyer: aktuellt läge, vardagsögonblicksbilder av händelser och transaktionshändelsedata för historiska analyser.
 * **Användningsexempel** Kunder använder Data Connect för att övervaka användaraktivitet, identifiera flaskhalsar i processen, spåra statustid, kontrollera efterlevnad, SLA-spårning, kapacitetsplanering och koppla Workfront-data till externa datamängder i sina befintliga datalager. 
 
-Om du har frågor till Matt eller vill dela med dig av hur du använder Data Connect kan du svara på det här [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725)!
+Om du har frågor till Matt eller vill dela med dig av hur du använder Data Connect kan du svara på det här [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725?profile.language=sv)!
 
 
 Vi hoppas att vi får träffa dig på våra framtida kundframgångar!  Se till att du checkar ut [Workfront Events](https://experienceleague.adobe.com/events/?lang=sv-SE&filters=Workfront) på Experience League för att få en fullständig lista och för att registrera dig.

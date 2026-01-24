@@ -29,7 +29,7 @@ Se hur nya funktioner är utformade för att göra det enklare att koppla ihop s
 - [Adobe Workfront Planning - översikt](https://experienceleague.adobe.com/sv/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
 - [Workfront Planning API - översikt](https://developer.adobe.com/wf-planning/api/v1/)
 - [Workfront Workflow API Explorer](https://developer.adobe.com/workfront/api-explorer/)
-- Har du idéer att dela eller har du frågor från evenemanget? Du kan släppa dem i kommentarerna på [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-vision-to-value-workfront-planning-release/td-p/785666!) Nya evenemang läggs till varje månad, så se till att du hittar de senaste sessionerna på Experience League Events-sidan.
+- Har du idéer att dela eller har du frågor från evenemanget? Du kan släppa dem i kommentarerna på [Experience League Community post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-vision-to-value-workfront-planning-release/td-p/785666!?profile.language=sv) Nya evenemang läggs till varje månad, så se till att du hittar de senaste sessionerna på Experience League Events-sidan.
 
 
 

@@ -26,5 +26,5 @@ Beteendedata är en viktig ingrediens för att leverera personaliserade kunduppl
 
 I den här Experience League Live-sessionen visar produktexperter hur&quot;beräknade attribut&quot; i Real-Time CDP och Journey Optimizer kan hjälpa dig att använda ett enkelt användargränssnitt för att skapa beteendeaggregat som profilattribut som kan användas för förbättrad segmentering och personalisering.
 
-**Fortsätt diskutera det här ämnet i programmets [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722#M5){target="_blank"}**.
+**Fortsätt diskutera det här ämnet i programmets [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722?profile.language=sv#M5){target="_blank"}**.
 

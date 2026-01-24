@@ -25,6 +25,6 @@ Vi har många frågor om hur man använder textläge för att kombinera informat
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470124/?captions=swe&learn=on&enablevpops)
 
-Söker du mer? Vi har **tre bonustips** på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641)!
+Söker du mer? Vi har **tre bonustips** på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641?profile.language=sv)!
 
 

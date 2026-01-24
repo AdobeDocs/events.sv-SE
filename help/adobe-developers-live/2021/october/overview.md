@@ -20,8 +20,8 @@ Den 4-5 oktober 2021 sammanförde Adobe Developers Live utvecklare från Adobe o
 Adobe produktteam i Adobe Experience Cloud, Document Cloud och Creative Cloud har presenterat de senaste teknikframstegen och utvecklarverktygen för design, arbetsflöden för innehållsskapande, dokumenttjänster och hantering av kundupplevelser i olika branscher.
 
 Håll kontakt med kollegor och delta i sessionskonversationerna i Experience League Communities.
-* [Lista över Adobe Developer App Builder fullständiga sessioner](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
-* [AEM fullständig sessionslista](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
+* [Lista över Adobe Developer App Builder fullständiga sessioner](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779?profile.language=sv)
+* [AEM fullständig sessionslista](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041?profile.language=sv#M120517)
 
 ## Högdagrar
 

@@ -41,7 +41,7 @@ Under presentationen delade Madalyn sina egna formulär och beräkningsfält, s�
 
 Intresserad av fler tips från Madalyn? Kolla in hennes serie med tips och tricks i Workfront Community! 
 
-* [Tech Bytes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742) för tisdag
+* [Tech Bytes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=sv#M2742) för tisdag
 
 ## Om högtalaren 
 

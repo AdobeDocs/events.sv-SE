@@ -28,4 +28,4 @@ Visa den här livesessionen där produktgruppen bakom Product Support Agent utfo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477984/?learn=on)
 
-[Fortsätt diskutera i communitydiskussionen!](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172#M1909){target="_blank"}
+[Fortsätt diskutera i communitydiskussionen!](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172?profile.language=sv#M1909){target="_blank"}

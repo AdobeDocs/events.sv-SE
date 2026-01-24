@@ -27,5 +27,5 @@ Med så många krav på er tid och uppmärksamhet måste ni kunna skapa och få 
 
 Titta på videon ovan om du vill visa den här liveströmshändelsen, där experter från Adobe [!DNL Analytics] gav några bra tips om hur du anpassar och får tillgång till insikter i Analysis Workspace och appen [!DNL Analytics] Dashboards.
 
-Har du frågor om det? Fortsätt diskutera det här ämnet i Adobe Experience League [Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037).
+Har du frågor om det? Fortsätt diskutera det här ämnet i Adobe Experience League [Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787?profile.language=sv#M3037).
 

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Expertinsikter - Begär köer med Lyndsy Denk
 
-Välkommen till Expert Insights!  Jag är Cynthia Boon, din&quot;On-Demand&quot; Workfront CSM och för det här avsnittet har vi Workfront Celebrity, [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167) ! Vi diskuterar Lyndsys Workfront Story och sedan en djupdykning i hennes kö för helpdesk-frågor.
+Välkommen till Expert Insights!  Jag är Cynthia Boon, din&quot;On-Demand&quot; Workfront CSM och för det här avsnittet har vi Workfront Celebrity, [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167?profile.language=sv) ! Vi diskuterar Lyndsys Workfront Story och sedan en djupdykning i hennes kö för helpdesk-frågor.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3469293/?learn=on&enablevpops&captions=swe)
 
@@ -40,11 +40,11 @@ Här är de resurser vi diskuterade tillsammans med några extra länkar för fr
 
 * Dokumentation för frågeköer: [Skapa köämnen](https://experienceleague.adobe.com/sv/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
-* Lyndsys webbseminariepresentation för [Systemadministratörsinformation](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096): Kommunicera med slutanvändare (den här sidan innehåller även en länk till [slutanvändarens kokbok](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439))
+* Lyndsys webbseminariepresentation för [Systemadministratörsinformation](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096?profile.language=sv): Kommunicera med slutanvändare (den här sidan innehåller även en länk till [slutanvändarens kokbok](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=sv))
 
-* Lyndsys [presentationsresurser för kunskapsutbyte](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841#M3642)
+* Lyndsys [presentationsresurser för kunskapsutbyte](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841?profile.language=sv#M3642)
 
-* Och glöm inte att kolla in [Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798) Fråga mig NÅGOT om Workfront Proof där Lyndsy och Monique Evans och Richard Carlson besvarade dina frågor om korrektur!
+* Och glöm inte att kolla in [Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798?profile.language=sv) Fråga mig NÅGOT om Workfront Proof där Lyndsy och Monique Evans och Richard Carlson besvarade dina frågor om korrektur!
 
 ## Om högtalaren 
 

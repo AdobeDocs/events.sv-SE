@@ -35,7 +35,7 @@ Här finns ytterligare snabblänkar till resurser som hjälper dig att komma ig�
 
 ### Läs
 
-* [Anpassa kursen till lyckade resultat med Adobe Workfront Planning](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077)
+* [Anpassa kursen till lyckade resultat med Adobe Workfront Planning](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077?profile.language=sv)
 * [Vägbok - Din Workfront Planning GPS](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
 
 ### Utbildningsvideor för planering

@@ -21,7 +21,7 @@ Läs om hur Federated Audience Composition erbjuder ett omfattande sätt att han
 
 >[!VIDEO](https://video.tv.adobe.com/v/3436457?quality=12&learn=on)
 
-**Om du vill fortsätta diskussionen går du till [diskussionen om Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976#M636){target="_blank"}.**
+**Om du vill fortsätta diskussionen går du till [diskussionen om Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976?profile.language=sv#M636){target="_blank"}.**
 
 **Visa detaljer**:
 Få utökad åtkomst till datalager i storföretag för att skapa målgrupper och hantera varumärkesinitierade och aktuella upplevelser.

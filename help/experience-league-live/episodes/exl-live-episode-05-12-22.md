@@ -26,5 +26,5 @@ Push-meddelanden hjälper dig att nå mobilappsanvändare när som helst, särsk
 
 [Hämta Android AEPSampleAPP](https://github.com/adobe/aepsdk-sample-app-android)
 
-Om du vill fortsätta konversationen om den här sessionen går du till [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869).
+Om du vill fortsätta konversationen om den här sessionen går du till [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869?profile.language=sv).
 

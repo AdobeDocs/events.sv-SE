@@ -24,7 +24,7 @@ Om du inte kunde delta i live-sessionen - inga bekymmer! Granska [bildbandet](ht
 
 Se även till att granska [versionsinformationen](https://experienceleague.adobe.com/sv/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview) på Experience League eftersom inte alla funktioner fanns med i webbinariet.
 
-Söker du svar på frågor och svar och transkriberingar från sessionen? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-fourth-quarter-2025-release/td-p/780946)!
+Söker du svar på frågor och svar och transkriberingar från sessionen? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-fourth-quarter-2025-release/td-p/780946?profile.language=sv)!
 
 Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 

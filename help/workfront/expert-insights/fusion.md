@@ -27,13 +27,13 @@ Välkommen tillbaka till Expert Insights!  Jag heter Cynthia Boon, din&quot;On-D
 
 ## Behöver du hjälp!
 
-Som Ewan nämnde i videon arbetar han med en Fusion Best Practice-guide, och han vill gärna höra din åsikt!  Om du använder Fusion för att stödja dina processer kan du dela med dig av dina råd, rekommendationer och tips i [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114) så försöker han inkludera så många som möjligt!
+Som Ewan nämnde i videon arbetar han med en Fusion Best Practice-guide, och han vill gärna höra din åsikt!  Om du använder Fusion för att stödja dina processer kan du dela med dig av dina råd, rekommendationer och tips i [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=sv) så försöker han inkludera så många som möjligt!
 
 ## Råd
 
 * Fusion är en visuell representation av era processer. Dokumentationen är din vän! På tal om dokumentation kan du spara information om hur du bygger processerna.  Ännu bättre, videoklipp själv som går genom dem!
 * Mät arbetsinsatsen och timmarna i det repetitiva arbetet
-* Adobe Workfront ROI Calculator som Ewan nämnde är kopplad till [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114).
+* Adobe Workfront ROI Calculator som Ewan nämnde är kopplad till [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=sv).
 * Använd Fusion för att lösa era funktionsövergripande problem, spara tid (och pengar) och förhindra fel.
 
 ## Resurser

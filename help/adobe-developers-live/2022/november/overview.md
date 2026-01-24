@@ -19,7 +19,7 @@ Adobe Developers Live: Headless sammanför gränssnittsutvecklare med olika bakg
 
 Det här var en virtuell konferens som hölls i november 2022 med live-sessioner som innehåller viktiga uppdateringar för Adobe Experience Manager-utvecklare, som Headless och GraphQL, Adobe Experience Manager as a Cloud Service, tekniska sessioner och nätverksmöjligheter.
 
-Håll kontakten med högtalare och sessioner efter evenemanget i våra [kontextuella trådar](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-aem-headless-2022-complete-session-list/td-p/553511) i communityn.
+Håll kontakten med högtalare och sessioner efter evenemanget i våra [kontextuella trådar](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-aem-headless-2022-complete-session-list/td-p/553511?profile.language=sv) i communityn.
 
 <!-- 
 ## Highlights

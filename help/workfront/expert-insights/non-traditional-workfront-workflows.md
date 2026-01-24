@@ -37,7 +37,7 @@ Du kommer att bli förvånad över alla fantastiska idéer hon delar, inklusive:
 
 ## Resurser
 
-Under evenemanget nämnde Kiersten två resurser som vi har kopplat till [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315).
+Under evenemanget nämnde Kiersten två resurser som vi har kopplat till [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=sv).
 * **Exempelrapport** - Aktivitetsrapportering efter arbetstider 
 * **Routningsguider för DSW-feedback** Detta är ett bra exempel på hur du lär dina användare hur de kan tillhandahålla uppdateringar i Workfront! 
 

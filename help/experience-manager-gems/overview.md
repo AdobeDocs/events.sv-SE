@@ -300,7 +300,7 @@ Vill du veta när nästa AEM GEM blir?  Registrera dig hos [Adobe AEM User Group
 
 ## Fortsätt diskutera
 
-I vår [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) kan du ansluta till andra utvecklare och fortsätta att diskutera med AEM.  Ni kan nätverka med kollegor och Adobe-anställda för vägledning och bästa praxis, från implementering till utökad produktanvändning.  Få snabba svar på dina frågor och förse Adobe med produktidéer och värdefull feedback.
+I vår [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=sv) kan du ansluta till andra utvecklare och fortsätta att diskutera med AEM.  Ni kan nätverka med kollegor och Adobe-anställda för vägledning och bästa praxis, från implementering till utökad produktanvändning.  Få snabba svar på dina frågor och förse Adobe med produktidéer och värdefull feedback.
 
 <!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
 
@@ -349,7 +349,7 @@ The webinars will be conducted regularly, including the following:
 
 ## Experience League Community
 
-Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) play a critical role in supporting product adoption and customer success.
+Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=sv) play a critical role in supporting product adoption and customer success.
 
 * Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use
 * Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions

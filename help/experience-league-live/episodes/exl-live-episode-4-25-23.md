@@ -27,5 +27,5 @@ Om du inte har använt Adobe moderna datainsamlingsverktyg tidigare och är nerv
 
 Starta videon ovan om du vill visa en upprepning av den här liveströmshändelsen.
 
-Har du frågor om det? Fortsätt diskutera det här ämnet i Adobe Experience League [Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476).
+Har du frågor om det? Fortsätt diskutera det här ämnet i Adobe Experience League [Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754?profile.language=sv#M476).
 

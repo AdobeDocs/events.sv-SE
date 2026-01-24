@@ -30,7 +30,7 @@ Under det här mötet utforskade vi:
 
 >[!BEGINSHADEBOX &quot;Har du frågor?&quot;]
 
-Fortsätt diskutera [Experience League Community-forum](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741#M4712).
+Fortsätt diskutera [Experience League Community-forum](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741?profile.language=sv#M4712).
 
 >[!ENDSHADEBOX]
 

@@ -24,7 +24,7 @@ Mötet är idealiskt för marknadsförare, verksamhetsteam och reseadministratö
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464052/?quality=12&learn=on)
 
-Besök oss för [Adobe Journey Optimizer Community Fråga mig vad som helst](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-[...]with-travel-optimizer-product-expert/ev-p/757473) onsdagen den 25 juni från 08:00 PT för att fortsätta konversationen.
+Besök oss för [Adobe Journey Optimizer Community Fråga mig vad som helst](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-?profile.language=sv[...]with-travel-optimizer-product-expert/ev-p/757473) onsdagen den 25 juni från 08:00 PT för att fortsätta konversationen.
 
 ## Vill du veta mer?
 

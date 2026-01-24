@@ -23,4 +23,4 @@ Webbseminariet hölls den 11 januari med 931 live-deltagare. Workfront Product t
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426854/?learn=on)
 
-Få svar på dina frågor om releasen och diskutera releasen i [Adobe Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-24-1-release-webinar/td-p/645442?profile.language=en).
+Få svar på dina frågor om releasen och diskutera releasen i [Adobe Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-24-1-release-webinar/td-p/645442?profile.language=sv).

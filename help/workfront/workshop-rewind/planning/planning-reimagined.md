@@ -26,7 +26,7 @@ Om du missade livesessionen kan du granska [HMacs SNHU-bilder](https://workfront
 
 Mer information om vad som kommer härnäst för Workfront Planning finns i bokmärket [Adobe Workfront Planning Release Activity &#x200B;](https://experienceleague.adobe.com/sv/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) på Experience League.
 
-Har du idéer att dela eller har du frågor från evenemanget? Du kan släppa dem i kommentarerna på [Experience League Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019)!
+Har du idéer att dela eller har du frågor från evenemanget? Du kan släppa dem i kommentarerna på [Experience League Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019?profile.language=sv)!
 
 Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 

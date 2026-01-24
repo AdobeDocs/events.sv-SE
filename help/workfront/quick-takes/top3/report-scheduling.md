@@ -23,6 +23,6 @@ Den här gången delar jag med mig av mina favoritsätt att få ut det mesta av 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477078/?captions=swe&learn=on&enablevpops)
 
-Mer resurser finns i [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285)!
+Mer resurser finns i [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285?profile.language=sv)!
 
 Om du gillar att lära dig nya idéer och kreativa strategier, glöm inte att registrera dig för kommande workshops på [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events).

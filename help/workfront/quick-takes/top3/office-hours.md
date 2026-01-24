@@ -22,14 +22,14 @@ Det är jag igen, din&quot;On-Demand Workfront CSM&quot; Cynthia Boon och jag ha
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470146/?captions=swe&learn=on&enablevpops)
 
-Kontorstid är bara en viktig del av Workfront övergripande kommunikationsplan. Letar du efter fler idéer om hur du kommunicerar med dina användare? Ta en titt på [slutanvändarens kommunikationsbok](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)!
+Kontorstid är bara en viktig del av Workfront övergripande kommunikationsplan. Letar du efter fler idéer om hur du kommunicerar med dina användare? Ta en titt på [slutanvändarens kommunikationsbok](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=sv)!
 
 Och som utlovats finns länken till Expert Insights där vi diskuterade några idéer om hur man kan använda Workfront Adoption för att roa sig. 
 
-[Workfront Expert Insights - Adobe med Leslie Spier](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/m-p/613314#M2588)
+[Workfront Expert Insights - Adobe med Leslie Spier](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/m-p/613314?profile.language=sv#M2588)
 
 Bonusresurs! Vi höll en Community Coffee Break där massor av fantastiska kunder delade sina favorittips! 
 
-[Kommunikationsmetoder för brytning av Workfront-kaffe för användning](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ev-p/621879)
+[Kommunikationsmetoder för brytning av Workfront-kaffe för användning](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ev-p/621879?profile.language=sv)
 
-Har du några exempel på hur du närmar dig Workfront kontorstid? Dela dina bästa tips i det här [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-approaches-to-office-hours/td-p/713391)!
+Har du några exempel på hur du närmar dig Workfront kontorstid? Dela dina bästa tips i det här [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-approaches-to-office-hours/td-p/713391?profile.language=sv)!

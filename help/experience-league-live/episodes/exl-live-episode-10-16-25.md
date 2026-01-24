@@ -26,6 +26,6 @@ Vare sig ni fokuserar på att optimera kundupplevelserna, utöka säljflödet el
 >[!TIP]
 >
 > Prova själv - [Registrera dig för att få tillgång till en demomiljö](https://business.adobe.com/resources/customer-journey-analytics-b2b-edition-sandbox.html).
-> &#x200B;> Du kan fortsätta konversationen och ställa frågor till Adobe experter i **[communityforumet](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513#)**.
+> &#x200B;> Du kan fortsätta konversationen och ställa frågor till Adobe experter i **[communityforumet](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513?profile.language=sv#)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476010/?learn=on&enablevpops)

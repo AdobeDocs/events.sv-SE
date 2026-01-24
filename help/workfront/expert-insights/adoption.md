@@ -52,7 +52,7 @@ Följ mig, din On-Demand Workfront CSM, när jag chattar med Leslie om varför A
 
 ## Resurser
 
-* Söker du fler exempel? Ta en titt på [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314) om du vill ha mer information om vad kommentarerna innehåller.
+* Söker du fler exempel? Ta en titt på [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314?profile.language=sv) om du vill ha mer information om vad kommentarerna innehåller.
 * [Alla om utkast](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=sv-SE)
 * [Senaste anteckningsrapport](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=sv-SE)
 * [Lägg till grundläggande villkorsstyrd formatering i en vy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=sv-SE)

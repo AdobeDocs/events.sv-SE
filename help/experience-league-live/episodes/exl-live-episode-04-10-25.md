@@ -27,7 +27,7 @@ Under det här mötet utforskade vi:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457557/?quality=12&learn=on)
 
-**Fortsätt diskutera Experience League [Community Post.](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-le[...]ive-post-session-concept-don-t-wait/td-p/748173){target="_blank"}**
+**Fortsätt diskutera Experience League [Community Post.](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-le?profile.language=sv[...]ive-post-session-concept-don-t-wait/td-p/748173){target="_blank"}**
 
 ## Ytterligare resurser
 

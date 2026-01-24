@@ -21,7 +21,7 @@ Det är ingen överraskning! Layoutmallar gör dina Adobe Workfront-instanser me
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477044/?captions=swe&learn=on&enablevpops)
 
-Mer resurser finns i [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531#M313)!
+Mer resurser finns i [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531?profile.language=sv#M313)!
 
 Om du gillar att lära dig nya idéer och kreativa strategier, glöm inte att registrera dig för kommande workshops på [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events).
 

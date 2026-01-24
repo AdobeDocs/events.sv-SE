@@ -26,8 +26,8 @@ Om du först vill experimentera innan du installerar något i Production behöve
 
 Intresserad av de senaste skisserna?
 
-* [Utgåva av utkast: Workfront Training for New Users](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/blueprint-released-workfront-training-for-new-users/ba-p/739734)
-* [Utgåva släppt: Personhanterarens instrumentpanel](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/blueprint-released-people-manager-dashboard/m-p/687545#M3247)
+* [Utgåva av utkast: Workfront Training for New Users](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/blueprint-released-workfront-training-for-new-users/ba-p/739734?profile.language=sv)
+* [Utgåva släppt: Personhanterarens instrumentpanel](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/blueprint-released-people-manager-dashboard/m-p/687545?profile.language=sv#M3247)
 * [Fullständig lista över tillgängliga utkast](https://experienceleague.adobe.com/sv/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
 
 Om du gillar att lära dig nya idéer och kreativa strategier ska du inte glömma att registrera dig för våra kommande workshops på [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events?filters=Workfront). Vi hoppas att vi ses snart!

@@ -27,11 +27,11 @@ Letar du efter råd om hur du kommer igång med resurshantering? Besök er On-De
 
 ## Resurser
 
-Funktionsvarning!  Läs mer om [det nya fältet Arbetstid](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855#M519): Nu kan du justera användarkapacitet OCH beräkna tillgänglighet baserat på användarens schema.
+Funktionsvarning!  Läs mer om [det nya fältet Arbetstid](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855?profile.language=sv#M519): Nu kan du justera användarkapacitet OCH beräkna tillgänglighet baserat på användarens schema.
 
 Söker du sätt att analysera data bättre för att vara säker på att du är redo? Ta en titt på katalogen med färdiga utkast!
 
-[Använd Workfront-utkast för att optimera din arbetshanteringsmiljö!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
+[Använd Workfront-utkast för att optimera din arbetshanteringsmiljö!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=sv)
 
 Letar du efter skillnaden mellan resursplaneraren och arbetsbelastningsutjämnaren? Här är några korta videoklipp:
 

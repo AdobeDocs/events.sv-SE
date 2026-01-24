@@ -26,7 +26,7 @@ Detta seminarium spelades in den 12 juni 2025 och presenterade Lucas Brito, Mark
 Tillsammans med on-demand-inspelningen har vi tagit med de bildspel och tips som delats i chatten:  
 * [Workfront-bilder med resurser](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/061225+-+The+Workfront+Fusion+Fix+-+Ericsson's+Smarter+Way+to+Unlocking+True+Event+Costs.pdf)
 * [Lucas presentationsbilder i Fusion](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Ericsson+Event+Slides-+Expense+Reporting+with+Fusion.pdf)
-* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-the-workfront-fusion-fix-ericsson-s-smarter-way/td-p/759188)
+* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-the-workfront-fusion-fix-ericsson-s-smarter-way/td-p/759188?profile.language=sv)
 
 Kommer du precis igång med Fusion? Kolla in de här resurserna! 
 * [Workfront Fusion-utbildning i Experience League](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)

@@ -25,7 +25,7 @@ Dessutom beskrevs tre exempel från verkligheten, från att hitta och filtrera d
 
 Om du inte kunde närvara live behöver du inte bekymra dig. Granska [bildbandet](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+JSONata+Fusion+Event+-+September+17%2C+2025.pdf) och se hur on-demand-inspelningen följer med.
 
-Titta på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-making-json-sing-with-workfront-fusion-jsonata/td-p/776029) för att få en nedladdningsbar, följ med zip-filen med utbildningsmaterial!
+Titta på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-making-json-sing-with-workfront-fusion-jsonata/td-p/776029?profile.language=sv) för att få en nedladdningsbar, följ med zip-filen med utbildningsmaterial!
 
 Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 

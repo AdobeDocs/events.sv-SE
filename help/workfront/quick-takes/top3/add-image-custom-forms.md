@@ -23,6 +23,6 @@ Detta inkluderar både roliga och funktionella tips som förbättrar kommunikati
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477056/?captions=swe&learn=on&enablevpops)
 
-Mer resurser finns i [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-add-an-image-to-custom-forms/m-p/576903#M374)!
+Mer resurser finns i [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-add-an-image-to-custom-forms/m-p/576903?profile.language=sv#M374)!
 
 Om du gillar att lära dig nya idéer och kreativa strategier, glöm inte att registrera dig för kommande workshops på [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events).

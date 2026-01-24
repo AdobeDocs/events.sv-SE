@@ -25,7 +25,7 @@ Med fokus på styrning (tänk på namnkonventioner), utförande (processer och a
 
 Om du inte kunde närvara live, inga bekymmer. Granska [bildbandet](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Pro+Tips+for+Governance%2C+Execution+and+Adoption+-+October+8%2C+2025.pdf) och se hur on-demand-inspelningen följer med.
 
-Söker du en sammanfattning av evenemanget och resurserna från chatten? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-pro-tips-for-governance-execution-and/td-p/780766)!
+Söker du en sammanfattning av evenemanget och resurserna från chatten? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-pro-tips-for-governance-execution-and/td-p/780766?profile.language=sv)!
 
 Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 

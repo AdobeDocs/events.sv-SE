@@ -28,6 +28,6 @@ I det här Experience League Live-avsnittet går vi ihop med produktexperterna R
 
 >[!BEGINSHADEBOX &quot;Har du frågor?&quot;]
 
-**Fortsätt diskutera det här ämnet i Adobe Experience League [Community-inlägg](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.**
+**Fortsätt diskutera det här ämnet i Adobe Experience League [Community-inlägg](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305?profile.language=sv#M205){target="_blank"}.**
 
 >[!ENDSHADEBOX]
