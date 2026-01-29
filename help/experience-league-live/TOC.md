@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: a004d7aa2c01ccd1d4d65749c4aa0440290f8023
+source-git-commit: 2ee0d38018d33911249523445375809c82567b59
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 0%
 
 + [Översikt](overview.md)
 + Avsnitten {#episodes}
+   + [Adobe Experience Platform Agents för förbättrad marknadsföring och bättre affärsresultat](episodes/exl-live-episode-03-03-26.md)
    + [Agenter på jobbet: Skapa och aktivera målgrupper och resor](episodes/exl-live-episode-01-28-26.md)
    + [Förenkla felsökning och ärendehantering med Product Support Agent](episodes/exl-live-episode-12-16-25.md)
    + [The Next Era of Experimentation: How Agentic AI is Fueling Smarter Testing and Growth](episodes/exl-live-episode-10-30-25.md)
