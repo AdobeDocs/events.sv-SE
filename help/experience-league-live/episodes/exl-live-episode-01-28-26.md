@@ -23,4 +23,4 @@ Se hur Audience Agent hittar målgruppsinsikter och skapar färdiga målgrupper 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479512/?quality=12&learn=on)
 
-Har du några frågor om det här programmet? Fortsätt diskussionen i [Experience League-konversationen.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-agents-at-work-creating-and-activating-audiences-and-journeys-aep-247707?postid=745171#post745171){target="_blank"}
+Har du några frågor om det här programmet? Fortsätt diskussionen i [Experience League-konversationen.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-agents-at-work-creating-and-activating-audiences-and-journeys-aep-247707?profile.language=sv&postid=745171#post745171){target="_blank"}
