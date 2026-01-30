@@ -20,27 +20,27 @@ Den 4-5 oktober 2021 sammanförde Adobe Developers Live Adobe-utvecklare och upp
 Adobe produktteam i Adobe Experience Cloud, Document Cloud och Creative Cloud har presenterat de senaste teknikframstegen och utvecklarverktygen för design, arbetsflöden för innehållsskapande, dokumenttjänster och hantering av kundupplevelser i olika branscher.
 
 Håll kontakt med andra formgivare och delta i sessionskonversationerna i Experience League Communities.
-* [Lista över Adobe Developer App Builder fullständiga sessioner](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
-* [Lista över AEM fullständiga sessioner](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
+* [Lista över Adobe Developer App Builder fullständiga sessioner](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779?profile.language=sv)
+* [Lista över AEM fullständiga sessioner](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041?profile.language=sv#M120517)
 
 ## Ytterligare resurser
 
 ### AEM
 
-* [Experience League - Utforska AEM](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
-* [AEM Sites redigeringsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
-* [AEM Sites Developing Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
-* [AEM Sites Administering Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
-* [AEM Sites distributionsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
-* [AEM as a Cloud Service-självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html)
-* [AEM Assets-självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
-* [AEM Forms-självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
-* [AEM Foundation - självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
+* [Experience League - Utforska AEM](https://experienceleague.adobe.com/sv#recommended/solutions/experience-manager)
+* [AEM Sites redigeringsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=sv-SE)
+* [AEM Sites Developing Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=sv-SE)
+* [AEM Sites Administering Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=sv-SE)
+* [AEM Sites distributionsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=sv-SE)
+* [AEM as a Cloud Service-självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=sv-SE)
+* [AEM Assets-självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=sv-SE)
+* [AEM Forms-självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=sv-SE)
+* [AEM Foundation - självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=sv-SE)
 
 ### Adobe Experience Platform
 
-* [Adobe Experience Platform-dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html)
-* [Adobe Experience Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
+* [Adobe Experience Platform-dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=sv-SE)
+* [Adobe Experience Platform - översikt](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=sv-SE)
 * [Självstudiekurser om Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=sv)
 
 ### App Builder

@@ -23,12 +23,12 @@ Anslut till andra dev-medlemmar och anslut till sessionskonversationerna i **[Ex
 
 ## Ytterligare resurser
 
-* [Experience League - Utforska AEM](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
-* [AEM Sites redigeringsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
-* [AEM Sites Developing Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
-* [AEM Sites Administering Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
-* [AEM Sites distributionsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
-* [AEM as a Cloud Service-självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html)
-* [AEM Assets-självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
-* [AEM Forms-självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
-* [AEM Foundation - självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
+* [Experience League - Utforska AEM](https://experienceleague.adobe.com/sv#recommended/solutions/experience-manager)
+* [AEM Sites redigeringsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=sv-SE)
+* [AEM Sites Developing Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=sv-SE)
+* [AEM Sites Administering Documentation](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=sv-SE)
+* [AEM Sites distributionsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=sv-SE)
+* [AEM as a Cloud Service-självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=sv-SE)
+* [AEM Assets-självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=sv-SE)
+* [AEM Forms-självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=sv-SE)
+* [AEM Foundation - självstudiekurser](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=sv-SE)
