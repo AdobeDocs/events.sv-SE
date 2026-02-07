@@ -3,9 +3,9 @@ title: Adobe Customer Success Webinars
 description: Adobe Customer Success-led webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe lösningar.
 exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
 duration: 42
-source-git-commit: b64778a37558a91bb44bd3573d6d6fb6e7e5fee9
+source-git-commit: d158d7a10bd2651a11d54822908bb63315da0a94
 workflow-type: tm+mt
-source-wordcount: '6061'
+source-wordcount: '6139'
 ht-degree: 0%
 
 ---
@@ -22,19 +22,43 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
 
 {cta = Watch}
 
+* 2026/brd-sdr-file-best-practices.md
 * 2026/value-with-content-supply-chain.md
 * 2026/modern-delivery-model-aem.md
 * 2026/moving-to-aemcs.md
-
+* 2026/csc-architecture.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="BRD-SDR File Creation for Analytics">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2026/brd-sdr-file-best-practices.md" title="Skapa BRD-SDR-filer för analys" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479598/?format=jpeg&nocache=1770334440141" alt="Skapa BRD-SDR-filer för analys"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2026/brd-sdr-file-best-practices.md" target="_blank" rel="referrer" title="Skapa BRD-SDR-filer för analys">Skapa BRD-SDR-filer för analys</a>
+                    </p>
+                    <p class="is-size-6">Lär dig de bästa sätten att skapa BRD-SDR-filer i Adobe Analytics och CJA, optimera prestanda och underlätta migrering.</p>
+                </div>
+                <a href="2026/brd-sdr-file-best-practices.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Maximize Content Supply Chains">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/value-with-content-supply-chain.md" title="Maximera innehållets leveranskedjor" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479090/?captions=swe&format=jpeg&nocache=1768599457924" alt="Maximera innehållets leveranskedjor"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1770334440138" alt="Maximera innehållets leveranskedjor"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -57,7 +81,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/modern-delivery-model-aem.md" title="Modern Delivery Models för AEM Sites" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478779/?captions=swe&format=jpeg&nocache=1768599457936" alt="Modern Delivery Models för AEM Sites"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478775/?format=jpeg&nocache=1770334440128" alt="Modern Delivery Models för AEM Sites"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -80,7 +104,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/moving-to-aemcs.md" title="Strategiska fördelar med tjänsten AEM Cloud" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478772/?format=jpeg&nocache=1768599457918" alt="Strategiska fördelar med tjänsten AEM Cloud"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478772/?format=jpeg&nocache=1770334440136" alt="Strategiska fördelar med tjänsten AEM Cloud"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -93,6 +117,29 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
                     <p class="is-size-6">Upptäck de strategiska och operativa fördelarna med Adobe AEM Cloud-tjänst för moderna digitala grunder.</p>
                 </div>
                 <a href="2026/moving-to-aemcs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Support Content Supply Chain Architecture">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2026/csc-architecture.md" title="Stöd för Supply chain-arkitektur" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479507/?format=jpeg&nocache=1770334440132" alt="Stöd för Supply chain-arkitektur"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2026/csc-architecture.md" target="_blank" rel="referrer" title="Stöd för Supply chain-arkitektur">Support Supply chain Content Architecture</a>
+                    </p>
+                    <p class="is-size-6">Utforska grundarkitekturen för innehåll-supply chain, med fokus på strategin för att anpassa affärsgrupper och tekniska team efter den nordliga stjärnan.</p>
+                </div>
+                <a href="2026/csc-architecture.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
                 </a>
             </div>
@@ -117,7 +164,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/embedded-intelligence.md" title="Inbäddad Intelligence Shift" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478774/?format=jpeg&nocache=1768599458572" alt="Inbäddad Intelligence Shift"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478774/?format=jpeg&nocache=1770334440752" alt="Inbäddad Intelligence Shift"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -154,7 +201,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/2025-holiday-results.md" title="AI Strategies for Holiday Success" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478773/?format=jpeg&nocache=1768599458786" alt="AI Strategies for Holiday Success"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478773/?format=jpeg&nocache=1770334440975" alt="AI Strategies for Holiday Success"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -197,7 +244,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/enriching-adobe-commerce.md" title="Förbättra Adobe Commerce med Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475428/?format=jpeg&nocache=1768599459030" alt="Förbättra Adobe Commerce med Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475428/?format=jpeg&nocache=1770334441277" alt="Förbättra Adobe Commerce med Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -220,7 +267,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/transforming-b2b-commerce.md" title="Transformera B2B &amp; B2B2C Commerce med Personalization &amp; Automation" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464441/?format=jpeg&nocache=1768599459036" alt="Transformera B2B &amp; B2B2C Commerce med Personalization &amp; Automation"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464441/?format=jpeg&nocache=1770334441281" alt="Transformera B2B &amp; B2B2C Commerce med Personalization &amp; Automation"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -265,7 +312,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-adoption.md" title="Change Management Strategies for Adobe Customer Journey Analytics Adoption" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470851/?format=jpeg&nocache=1768599459400" alt="Change Management Strategies for Adobe Customer Journey Analytics Adoption"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470851/?format=jpeg&nocache=1770334441511" alt="Change Management Strategies for Adobe Customer Journey Analytics Adoption"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -288,7 +335,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-success.md" title="Building Executive Sponsorship for support of Adobe Customer Journey Analytics Success" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470858/?captions=swe&format=jpeg&nocache=1768599459409" alt="Building Executive Sponsorship for support of Adobe Customer Journey Analytics Success"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470853/?format=jpeg&nocache=1770334441503" alt="Building Executive Sponsorship for support of Adobe Customer Journey Analytics Success"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -311,7 +358,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-data-insights-agent.md" title="Konversationer med dina data - CJA Data Insights Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476895/?format=jpeg&nocache=1768599459404" alt="Konversationer med dina data - CJA Data Insights Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476895/?format=jpeg&nocache=1770334441500" alt="Konversationer med dina data - CJA Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -334,7 +381,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-shared-audiences.md" title="Skapa erbjudanden på 30 minuter med CJA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477461/?captions=swe&format=jpeg&nocache=1768599459390" alt="Skapa erbjudanden på 30 minuter med CJA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477449/?format=jpeg&nocache=1770334441498" alt="Skapa erbjudanden på 30 minuter med CJA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -357,7 +404,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-operating-model.md" title="Utforma en operativmodell för CJA Success" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470541/?format=jpeg&nocache=1768599459421" alt="Utforma en operativmodell för CJA Success"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470541/?format=jpeg&nocache=1770334441508" alt="Utforma en operativmodell för CJA Success"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -380,7 +427,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-vision.md" title="Foundational Architecture Needed to Enable Adobe Customer Journey Analytics Vision" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470281/?format=jpeg&nocache=1768599459439" alt="Foundational Architecture Needed to Enable Adobe Customer Journey Analytics Vision"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470281/?format=jpeg&nocache=1770334441514" alt="Foundational Architecture Needed to Enable Adobe Customer Journey Analytics Vision"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -403,7 +450,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/analytics-to-cja-migration.md" title="Bästa tillvägagångssätt vid migrering till Adobe Customer Journey Analytics från Adobe Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464911/?format=jpeg&nocache=1768599459430" alt="Bästa tillvägagångssätt vid migrering till Adobe Customer Journey Analytics från Adobe Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464911/?format=jpeg&nocache=1770334441521" alt="Bästa tillvägagångssätt vid migrering till Adobe Customer Journey Analytics från Adobe Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -426,7 +473,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/roadmap-to-value-cja.md" title="Vägkarta till värde med CJA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464933/?format=jpeg&nocache=1768599459455" alt="Vägkarta till värde med CJA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464933/?format=jpeg&nocache=1770334441538" alt="Vägkarta till värde med CJA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -449,7 +496,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/smarter-marketing-starts-here-integrating-google-and-adobe.md" title="Smartare marknadsföring börjar här - integrering av Google och Adobe" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458047/?format=jpeg&nocache=1768599459447" alt="Smartare marknadsföring börjar här - integrering av Google och Adobe"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458047/?format=jpeg&nocache=1770334441528" alt="Smartare marknadsföring börjar här - integrering av Google och Adobe"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -500,7 +547,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/personalized-experiences-aem.md" title="Bortom allt - snabba, flexibla, personaliserade upplevelser med AEM nya teknik" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464537/?format=jpeg&nocache=1768599460047" alt="Bortom allt - snabba, flexibla, personaliserade upplevelser med AEM nya teknik"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464537/?format=jpeg&nocache=1770334441903" alt="Bortom allt - snabba, flexibla, personaliserade upplevelser med AEM nya teknik"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -523,7 +570,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-lucene-search.md" title="Essential Tips and Best Practices for AEM Lucene Search" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476410/?format=jpeg&nocache=1768599460031" alt="Essential Tips and Best Practices for AEM Lucene Search"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476410/?format=jpeg&nocache=1770334441881" alt="Essential Tips and Best Practices for AEM Lucene Search"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -546,7 +593,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-genai.md" title="AEM med GenAI - skapa och leverera material i stor skala" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458044/?format=jpeg&nocache=1768599460037" alt="AEM med GenAI - skapa och leverera material i stor skala"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458044/?format=jpeg&nocache=1770334441900" alt="AEM med GenAI - skapa och leverera material i stor skala"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -569,7 +616,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-workfront-integration.md" title="Integrering med AEM och Workfront med Native Connector" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444451/?format=jpeg&nocache=1768599460042" alt="Integrering med AEM och Workfront med Native Connector"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444451/?format=jpeg&nocache=1770334441896" alt="Integrering med AEM och Workfront med Native Connector"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -592,7 +639,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/build-effective-web-pages.md" title="Skapa effektiva webbsidor i AEM Sites" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444455/?format=jpeg&nocache=1768599460062" alt="Skapa effektiva webbsidor i AEM Sites"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444455/?format=jpeg&nocache=1770334441886" alt="Skapa effektiva webbsidor i AEM Sites"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -615,7 +662,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-assistant-in-aem.md" title="AI-assistenten i AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476624/?format=jpeg&nocache=1768599460058" alt="AI-assistenten i AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476624/?format=jpeg&nocache=1770334441891" alt="AI-assistenten i AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -638,7 +685,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/driving-customer-engagement.md" title="Skapa kundengagemang för betalarna" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444127/?format=jpeg&nocache=1768599460051" alt="Skapa kundengagemang för betalarna"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444127/?format=jpeg&nocache=1770334441906" alt="Skapa kundengagemang för betalarna"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -661,7 +708,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/payer-enrollment-journey.md" title="Modernisera betalarnas registreringsresa med AEM Forms" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470542/?format=jpeg&nocache=1768599460065" alt="Modernisera betalarnas registreringsresa med AEM Forms"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470542/?format=jpeg&nocache=1770334441917" alt="Modernisera betalarnas registreringsresa med AEM Forms"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -684,7 +731,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/mastering-aem-sites.md" title="Mastering AEM Sites - Mallar, Navigation och SEO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464319/?captions=swe&format=jpeg&nocache=1768599460071" alt="Mastering AEM Sites - Mallar, Navigation och SEO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464298/?format=jpeg&nocache=1770334441909" alt="Mastering AEM Sites - Mallar, Navigation och SEO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -707,7 +754,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/mastering-dam-aem-content-hub.md" title="Mastering Digital Asset Management - Best Practices med Adobe ContentHub" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463353/?format=jpeg&nocache=1768599460068" alt="Mastering Digital Asset Management - Best Practices med Adobe ContentHub"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463353/?format=jpeg&nocache=1770334441925" alt="Mastering Digital Asset Management - Best Practices med Adobe ContentHub"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -730,7 +777,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/dynamic-media-open-ai.md" title="Mastering Dynamic Media with Open API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470620/?format=jpeg&nocache=1768599460081" alt="Mastering Dynamic Media with Open API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470620/?format=jpeg&nocache=1770334441914" alt="Mastering Dynamic Media with Open API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -753,7 +800,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/new-relic-essentials-aem-cloud.md" title="New Relic Essentials för AEM Cloud" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463351/?format=jpeg&nocache=1768599460089" alt="New Relic Essentials för AEM Cloud"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463351/?format=jpeg&nocache=1770334441940" alt="New Relic Essentials för AEM Cloud"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -776,7 +823,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/optimize-aem-performance.md" title="Optimera AEM prestanda - Cachelagra strategier och tekniker" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444452/?format=jpeg&nocache=1768599460097" alt="Optimera AEM prestanda - Cachelagra strategier och tekniker"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444452/?format=jpeg&nocache=1770334441933" alt="Optimera AEM prestanda - Cachelagra strategier och tekniker"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -799,7 +846,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/personalize-digital-communications.md" title="Personalisera digital kommunikation inom finanssektorn med AEM Forms" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458104/?format=jpeg&nocache=1768599460104" alt="Personalisera digital kommunikation inom finanssektorn med AEM Forms"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458104/?format=jpeg&nocache=1770334441947" alt="Personalisera digital kommunikation inom finanssektorn med AEM Forms"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -822,7 +869,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/modern-aem-authoring.md" title="Universal Editor Overview for Modern Adobe Experience Manager Authoring" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470850/?format=jpeg&nocache=1768599460112" alt="Universal Editor Overview for Modern Adobe Experience Manager Authoring"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470850/?format=jpeg&nocache=1770334441954" alt="Universal Editor Overview for Modern Adobe Experience Manager Authoring"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -864,7 +911,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-agents.md" title="AI-agenter i AEP - en översikt" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1768599460695" alt="AI-agenter i AEP - en översikt"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1770334442313" alt="AI-agenter i AEP - en översikt"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -887,7 +934,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-beyond-basics.md" title="AI Assistant - bortom grunderna" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463362/?captions=swe&format=jpeg&nocache=1768599460693" alt="AI Assistant - bortom grunderna"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1770334442322" alt="AI Assistant - bortom grunderna"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -910,7 +957,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/model-xdm-schemas.md" title="Best Practices and Insights for Modeling XDM Schemas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458042/?format=jpeg&nocache=1768599460700" alt="Best Practices and Insights for Modeling XDM Schemas"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458042/?format=jpeg&nocache=1770334442328" alt="Best Practices and Insights for Modeling XDM Schemas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -933,7 +980,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/data-distiller-101.md" title="Data Distiller 101" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444454/?format=jpeg&nocache=1768599460698" alt="Data Distiller 101"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444454/?format=jpeg&nocache=1770334442325" alt="Data Distiller 101"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -956,7 +1003,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/exec-sponsorship-aep-projects.md" title="Vinnande Executive Sponsorship for Adobe Experience Platform Projects" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458041/?format=jpeg&nocache=1768599460703" alt="Vinnande Executive Sponsorship for Adobe Experience Platform Projects"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458041/?format=jpeg&nocache=1770334442331" alt="Vinnande Executive Sponsorship for Adobe Experience Platform Projects"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -979,7 +1026,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/identity-graph.md" title="Användningsexempel för identitetsdiagram och felsökning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475214/?format=jpeg&nocache=1768599460708" alt="Användningsexempel för identitetsdiagram och felsökning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475214/?format=jpeg&nocache=1770334442319" alt="Användningsexempel för identitetsdiagram och felsökning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1016,7 +1063,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/csc-gen-studio.md" title="Demystifying the Content Supply Chain and Adobe GenStudio as a Product Suite" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472983/?captions=swe&format=jpeg&nocache=1768599461061" alt="Demystifying the Content Supply Chain and Adobe GenStudio as a Product Suite"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472978/?format=jpeg&nocache=1770334442578" alt="Demystifying the Content Supply Chain and Adobe GenStudio as a Product Suite"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1039,7 +1086,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/genstudio-for-performance-marketing-operating-model.md" title="GenStudio for Performance Marketing - Operating Model &amp; Governance Strategy" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444446/?format=jpeg&nocache=1768599461067" alt="GenStudio for Performance Marketing - Operating Model &amp; Governance Strategy"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444446/?format=jpeg&nocache=1770334442574" alt="GenStudio for Performance Marketing - Operating Model &amp; Governance Strategy"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1081,7 +1128,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/build-executive-sponsorship-ajo.md" title="Building Executive Sponsorship for Support of Adobe Journey Optimizer Success" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476623/?format=jpeg&nocache=1768599461281" alt="Building Executive Sponsorship for Support of Adobe Journey Optimizer Success"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476623/?format=jpeg&nocache=1770334442851" alt="Building Executive Sponsorship for Support of Adobe Journey Optimizer Success"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1104,7 +1151,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/change-management-strategies.md" title="Change Management Strategies for Adobe Journey Optimizer Adoption" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476698/?format=jpeg&nocache=1768599461277" alt="Change Management Strategies for Adobe Journey Optimizer Adoption"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476698/?format=jpeg&nocache=1770334442841" alt="Change Management Strategies for Adobe Journey Optimizer Adoption"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1127,7 +1174,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/design-an-operating-model-ajo.md" title="Utforma en operativmodell för AJO Success" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476411/?format=jpeg&nocache=1768599461293" alt="Utforma en operativmodell för AJO Success"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476411/?format=jpeg&nocache=1770334442859" alt="Utforma en operativmodell för AJO Success"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1150,7 +1197,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/northstar-architecture-enable-adobe-journey-optimzier.md" title="Utnyttja arkitekturen i NorthStar för att möjliggöra Adobe Journey Optimizer Vision" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476319/?format=jpeg&nocache=1768599461284" alt="Utnyttja arkitekturen i NorthStar för att möjliggöra Adobe Journey Optimizer Vision"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476319/?format=jpeg&nocache=1770334442847" alt="Utnyttja arkitekturen i NorthStar för att möjliggöra Adobe Journey Optimizer Vision"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1173,7 +1220,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ajo-roadmap-to-value.md" title="Adobe Journey Optimizer Value Realization Series - Session 1 Roadmap to Value with Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476067/?format=jpeg&nocache=1768599461271" alt="Adobe Journey Optimizer Value Realization Series - Session 1 Roadmap to Value with Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476067/?format=jpeg&nocache=1770334442855" alt="Adobe Journey Optimizer Value Realization Series - Session 1 Roadmap to Value with Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1196,7 +1243,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ajo-adobe-campaign.md" title="Modernisera kampanjer med Adobe Journey Optimizer och Adobe Campaign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477897/?captions=swe&format=jpeg&nocache=1768599461290" alt="Modernisera kampanjer med Adobe Journey Optimizer och Adobe Campaign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477880/?format=jpeg&nocache=1770334442863" alt="Modernisera kampanjer med Adobe Journey Optimizer och Adobe Campaign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1219,7 +1266,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/journey-optimizer-essentials.md" title="Journey Optimizer Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464440/?format=jpeg&nocache=1768599461286" alt="Journey Optimizer Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464440/?format=jpeg&nocache=1770334442865" alt="Journey Optimizer Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1256,7 +1303,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/marketo-new-email-editor.md" title="Marketo nya e-postredigerare" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477881/?format=jpeg&nocache=1768599461681" alt="Marketo nya e-postredigerare"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477881/?format=jpeg&nocache=1770334443114" alt="Marketo nya e-postredigerare"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1299,7 +1346,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/content-supply-chain-basics.md" title="Grundläggande om innehållskedjan - Integrera AEM, Analytics/CJA och Adobe Target for New Users" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444459/?format=jpeg&nocache=1768599461903" alt="Grundläggande om innehållskedjan - Integrera AEM, Analytics/CJA och Adobe Target for New Users"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444459/?format=jpeg&nocache=1770334443362" alt="Grundläggande om innehållskedjan - Integrera AEM, Analytics/CJA och Adobe Target for New Users"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1322,7 +1369,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/accelerating-digital-experience-optimization.md" title="Accelerating Digital Experience Optimization with AI-Powered Insights" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463354/?format=jpeg&nocache=1768599461898" alt="Accelerating Digital Experience Optimization with AI-Powered Insights"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463354/?format=jpeg&nocache=1770334443365" alt="Accelerating Digital Experience Optimization with AI-Powered Insights"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1345,7 +1392,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/enhance-loyalty-programs.md" title="Förbättra lojalitetsprogram via Personalization och data med kraften i Adobe lösningar" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443130/?format=jpeg&nocache=1768599461911" alt="Förbättra lojalitetsprogram via Personalization och data med kraften i Adobe lösningar"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443130/?format=jpeg&nocache=1770334443370" alt="Förbättra lojalitetsprogram via Personalization och data med kraften i Adobe lösningar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1368,7 +1415,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/enhancing-personalization.md" title="Förbättra Personalization - Integration Essentials för Adobe Target med CJA och AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444456/?format=jpeg&nocache=1768599461924" alt="Förbättra Personalization - Integration Essentials för Adobe Target med CJA och AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444456/?format=jpeg&nocache=1770334443374" alt="Förbättra Personalization - Integration Essentials för Adobe Target med CJA och AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1391,7 +1438,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/gen-ai-experimentation.md" title="GenAI Experimentation in AJO and its Relationship with Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444463/?captions=swe&format=jpeg&nocache=1768599461907" alt="GenAI Experimentation in AJO and its Relationship with Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1770334443382" alt="GenAI Experimentation in AJO and its Relationship with Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1414,7 +1461,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/mastering-sequential-logic.md" title="Mastering Sequential Logic in AA and CJA - A Visual Framework" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443129/?format=jpeg&nocache=1768599461929" alt="Mastering Sequential Logic in AA and CJA - A Visual Framework"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443129/?format=jpeg&nocache=1770334443378" alt="Mastering Sequential Logic in AA and CJA - A Visual Framework"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1437,7 +1484,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/sequential-logic-start-stop.md" title="Mastering Sequential Logic in Adobe Analytics and Customer Journey Analytics - Starts and Stops" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458040/?format=jpeg&nocache=1768599461936" alt="Mastering Sequential Logic in Adobe Analytics and Customer Journey Analytics - Starts and Stops"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458040/?format=jpeg&nocache=1770334443387" alt="Mastering Sequential Logic in Adobe Analytics and Customer Journey Analytics - Starts and Stops"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1474,7 +1521,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-adobe-target.md" title="Frigöra kraften i AI - avancerad experimentering med Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458079/?format=jpeg&nocache=1768599462242" alt="Frigöra kraften i AI - avancerad experimentering med Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458079/?format=jpeg&nocache=1770334443663" alt="Frigöra kraften i AI - avancerad experimentering med Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1518,7 +1565,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/adobe-digital-insights.md" title="Adobe Digital Insights - Unwrapping 2024 semesterresultat och i början av 2025 års trender" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446271/?format=jpeg&nocache=1768599462459" alt="Adobe Digital Insights - Unwrapping 2024 semesterresultat och i början av 2025 års trender"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446271/?format=jpeg&nocache=1770334443882" alt="Adobe Digital Insights - Unwrapping 2024 semesterresultat och i början av 2025 års trender"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1541,7 +1588,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/impactful-insights.md" title="Effektiva insikter - Skapa strategier för effektiv mätning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444457/?format=jpeg&nocache=1768599462450" alt="Effektiva insikter - Skapa strategier för effektiv mätning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444457/?format=jpeg&nocache=1770334443880" alt="Effektiva insikter - Skapa strategier för effektiv mätning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1564,7 +1611,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/agile-marketing-organization.md" title="Att skapa en flexibel marknadsorganisation" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444450/?format=jpeg&nocache=1768599462454" alt="Att skapa en flexibel marknadsorganisation"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444450/?format=jpeg&nocache=1770334443885" alt="Att skapa en flexibel marknadsorganisation"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1587,7 +1634,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/practical-business-use-cases.md" title="Utveckla praktiska användningsexempel inom B2B" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477350/?format=jpeg&nocache=1768599462456" alt="Utveckla praktiska användningsexempel inom B2B"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477350/?format=jpeg&nocache=1770334443878" alt="Utveckla praktiska användningsexempel inom B2B"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1610,7 +1657,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/digital-trends-preparing-future.md" title="Digitala trender och förberedelser inför framtiden" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463356/?format=jpeg&nocache=1768599462465" alt="Digitala trender och förberedelser inför framtiden"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463356/?format=jpeg&nocache=1770334443887" alt="Digitala trender och förberedelser inför framtiden"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1633,7 +1680,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/northstar-architecture.md" title="EA Northstar Architecture Planning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463355/?format=jpeg&nocache=1768599462462" alt="EA Northstar Architecture Planning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463355/?format=jpeg&nocache=1770334443894" alt="EA Northstar Architecture Planning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1656,7 +1703,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-driven-growth.md" title="Ledare inom detaljhandeln - AI-styrd tillväxt och spelböcker med topprestanda" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471272/?format=jpeg&nocache=1768599462471" alt="Ledare inom detaljhandeln - AI-styrd tillväxt och spelböcker med topprestanda"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471272/?format=jpeg&nocache=1770334443896" alt="Ledare inom detaljhandeln - AI-styrd tillväxt och spelböcker med topprestanda"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1679,7 +1726,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/state-of-digital-and-genai-adoption-webinar.md" title="Adobe Digital Insights - State of Digital &amp; GenAI Adoption Webinar" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458483/?format=jpeg&nocache=1768599462467" alt="Adobe Digital Insights - State of Digital &amp; GenAI Adoption Webinar"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458483/?format=jpeg&nocache=1770334443892" alt="Adobe Digital Insights - State of Digital &amp; GenAI Adoption Webinar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1719,7 +1766,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/unlock-efficiency-ai-drive-automation-workfront.md" title="Effektiv upplåsning - AI-styrd automatisering i Adobe Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463352/?format=jpeg&nocache=1768599463122" alt="Effektiv upplåsning - AI-styrd automatisering i Adobe Workfront"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463352/?format=jpeg&nocache=1770334444169" alt="Effektiv upplåsning - AI-styrd automatisering i Adobe Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1742,7 +1789,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/adobe-workfront-fusion-best-practices.md" title="Adobe Workfront Fusion Basics &amp; Best Practices" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458043/?format=jpeg&nocache=1768599463119" alt="Adobe Workfront Fusion Basics &amp; Best Practices"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458043/?format=jpeg&nocache=1770334444173" alt="Adobe Workfront Fusion Basics &amp; Best Practices"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1765,7 +1812,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/workfront-and-jira.md" title="Workfront och JIRA - koppla samman era system för hantering av marknadsföringsarbete och utveckling" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464442/?format=jpeg&nocache=1768599463115" alt="Workfront och JIRA - koppla samman era system för hantering av marknadsföringsarbete och utveckling"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464442/?format=jpeg&nocache=1770334444164" alt="Workfront och JIRA - koppla samman era system för hantering av marknadsföringsarbete och utveckling"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1837,7 +1884,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/adobe-admin-console.md" title="Mastering the Adobe Admin Console" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440937/?format=jpeg&nocache=1768599463522" alt="Mastering the Adobe Admin Console"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440937/?format=jpeg&nocache=1770334444453" alt="Mastering the Adobe Admin Console"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1860,7 +1907,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aem-authoring-concepts.md" title="AEM Basics Introduction to AEM Authoring key concepts and capabilities" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435747/?format=jpeg&nocache=1768599463526" alt="AEM Basics Introduction to AEM Authoring key concepts and capabilities"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435747/?format=jpeg&nocache=1770334444441" alt="AEM Basics Introduction to AEM Authoring key concepts and capabilities"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1883,7 +1930,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aem-sites-efficiencies.md" title="AEM Sites-effektivitet - Prestandaoptimering, konfiguration och felsökning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435114/?format=jpeg&nocache=1768599463530" alt="AEM Sites-effektivitet - Prestandaoptimering, konfiguration och felsökning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435114/?format=jpeg&nocache=1770334444449" alt="AEM Sites-effektivitet - Prestandaoptimering, konfiguration och felsökning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1906,7 +1953,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-apps-services-integrations.md" title="Läs mer om AEP App Services-integreringar för kundärenden" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432053/?format=jpeg&nocache=1768599463542" alt="Läs mer om AEP App Services-integreringar för kundärenden"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432053/?format=jpeg&nocache=1770334444459" alt="Läs mer om AEP App Services-integreringar för kundärenden"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1929,7 +1976,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-marketo-integration.md" title="Grundläggande om integrering mellan Real-Time Customer Data Platform och Marketo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433672/?captions=swe&format=jpeg&nocache=1768599463539" alt="Grundläggande om integrering mellan Real-Time Customer Data Platform och Marketo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433222/?format=jpeg&nocache=1770334444445" alt="Grundläggande om integrering mellan Real-Time Customer Data Platform och Marketo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1952,7 +1999,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-use-case-planning.md" title="Från vision till värde - AEP Use Case Planning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433025/?format=jpeg&nocache=1768599463518" alt="Från vision till värde - AEP Use Case Planning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433025/?format=jpeg&nocache=1770334444462" alt="Från vision till värde - AEP Use Case Planning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1975,7 +2022,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ai-copywriting.md" title="Innehållsacceleration med AI-driven copywriting" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433223/?format=jpeg&nocache=1768599463536" alt="Innehållsacceleration med AI-driven copywriting"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433223/?format=jpeg&nocache=1770334444456" alt="Innehållsacceleration med AI-driven copywriting"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1998,7 +2045,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ai-customer-experience.md" title="RTCDP Insights - Utnyttja AI för kundupplevelsen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434919/?format=jpeg&nocache=1768599463533" alt="RTCDP Insights - Utnyttja AI för kundupplevelsen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434919/?format=jpeg&nocache=1770334444464" alt="RTCDP Insights - Utnyttja AI för kundupplevelsen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2021,7 +2068,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ai-personalization.md" title="Maximera användarupplevelser med Adobe Target AI-styrda Personalization" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440934/?format=jpeg&nocache=1768599463545" alt="Maximera användarupplevelser med Adobe Target AI-styrda Personalization"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440934/?format=jpeg&nocache=1770334444468" alt="Maximera användarupplevelser med Adobe Target AI-styrda Personalization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2044,7 +2091,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ajo-essentials.md" title="Adobe Journey Optimizer Essentials - Skapa kampanjer, kundresor och landningssidor" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433000/?format=jpeg&nocache=1768599463552" alt="Adobe Journey Optimizer Essentials - Skapa kampanjer, kundresor och landningssidor"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433000/?format=jpeg&nocache=1770334444489" alt="Adobe Journey Optimizer Essentials - Skapa kampanjer, kundresor och landningssidor"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2067,7 +2114,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/basic-to-intermediate-analysis-capabilities.md" title="Adobe Analytics &amp; CJA snabbstart för grundläggande till mellanliggande analysfunktioner" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440933/?format=jpeg&nocache=1768599463556" alt="Adobe Analytics &amp; CJA snabbstart för grundläggande till mellanliggande analysfunktioner"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440933/?format=jpeg&nocache=1770334444471" alt="Adobe Analytics &amp; CJA snabbstart för grundläggande till mellanliggande analysfunktioner"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2090,7 +2137,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/data-stream-prioritization.md" title="Prioritering för dataström" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456809/?captions=swe&format=jpeg&nocache=1768599463558" alt="Prioritering för dataström"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427302/?format=jpeg&nocache=1770334444474" alt="Prioritering för dataström"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2113,7 +2160,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/edge-delivery-services.md" title="Optimera innehållsleverans - Frigör kraften i Edge Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440938/?format=jpeg&nocache=1768599463561" alt="Optimera innehållsleverans - Frigör kraften i Edge Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440938/?format=jpeg&nocache=1770334444479" alt="Optimera innehållsleverans - Frigör kraften i Edge Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2136,7 +2183,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/edge-network-mobile-personalization.md" title="Insikter om Edge Network &amp; Mobile Personalization med Adobe Solutions" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433328/?format=jpeg&nocache=1768599463564" alt="Insikter om Edge Network &amp; Mobile Personalization med Adobe Solutions"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433328/?format=jpeg&nocache=1770334444476" alt="Insikter om Edge Network &amp; Mobile Personalization med Adobe Solutions"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2159,7 +2206,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/effective-change-management.md" title="Navigera i förändring - Ett webbseminarium om effektiv ändringshantering" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429286/?format=jpeg&nocache=1768599463569" alt="Navigera i förändring - Ett webbseminarium om effektiv ändringshantering"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429286/?format=jpeg&nocache=1770334444481" alt="Navigera i förändring - Ett webbseminarium om effektiv ändringshantering"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2182,7 +2229,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/empowering-lean-teams.md" title="Empowering Lean Teams" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427800/?format=jpeg&nocache=1768599463567" alt="Empowering Lean Teams"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427800/?format=jpeg&nocache=1770334444504" alt="Empowering Lean Teams"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2205,7 +2252,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/expedia-aa-to-cja.md" title="Expedia och ledande varumärken utvecklar sin organisation från Adobe Analytics till Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428762/?format=jpeg&nocache=1768599463583" alt="Expedia och ledande varumärken utvecklar sin organisation från Adobe Analytics till Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428762/?format=jpeg&nocache=1770334444487" alt="Expedia och ledande varumärken utvecklar sin organisation från Adobe Analytics till Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2228,7 +2275,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/getting-started-ajo-analysis.md" title="Komma igång med Adobe Journey Optimizer Analysis i Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432996/?format=jpeg&nocache=1768599463602" alt="Komma igång med Adobe Journey Optimizer Analysis i Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432996/?format=jpeg&nocache=1770334444496" alt="Komma igång med Adobe Journey Optimizer Analysis i Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2251,7 +2298,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/getting-started-rtcdp.md" title="Real-Time Customer Data Platform - Komma igång" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433224/?format=jpeg&nocache=1768599463576" alt="Real-Time Customer Data Platform - Komma igång"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433224/?format=jpeg&nocache=1770334444523" alt="Real-Time Customer Data Platform - Komma igång"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2274,7 +2321,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/hyperpersonalization.md" title="Personalization Maturity - Sökvägen till hyperpersonalisering" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457349/?captions=swe&format=jpeg&nocache=1768599463589" alt="Personalization Maturity - Sökvägen till hyperpersonalisering"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429288/?format=jpeg&nocache=1770334444517" alt="Personalization Maturity - Sökvägen till hyperpersonalisering"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2297,7 +2344,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/journey-optimizer-mobile-capabilities.md" title="Journey Optimizer Mobile Capabilities" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433001/?format=jpeg&nocache=1768599463596" alt="Journey Optimizer Mobile Capabilities"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433001/?format=jpeg&nocache=1770334444529" alt="Journey Optimizer Mobile Capabilities"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2320,7 +2367,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lean-teams-cja.md" title="Maximera effektiviteten - Lean Teams och Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457012/?captions=swe&format=jpeg&nocache=1768599463608" alt="Maximera effektiviteten - Lean Teams och Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432998/?format=jpeg&nocache=1770334444510" alt="Maximera effektiviteten - Lean Teams och Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2343,7 +2390,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/mastering-cookies-data-privacy.md" title="Privacy-First Analytics - Mastering Cookies and Data Privacy in Adobe Analytics and Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432997/?format=jpeg&nocache=1768599463627" alt="Privacy-First Analytics - Mastering Cookies and Data Privacy in Adobe Analytics and Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432997/?format=jpeg&nocache=1770334444536" alt="Privacy-First Analytics - Mastering Cookies and Data Privacy in Adobe Analytics and Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2366,7 +2413,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/organizational-readiness-content-supply-chain.md" title="Frigöra kraften i Adobe GenStudio organisationsberedskap för att ta itu med utmaningarna i innehållsleveranskedjan" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440932/?format=jpeg&nocache=1768599463656" alt="Frigöra kraften i Adobe GenStudio organisationsberedskap för att ta itu med utmaningarna i innehållsleveranskedjan"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440932/?format=jpeg&nocache=1770334444561" alt="Frigöra kraften i Adobe GenStudio organisationsberedskap för att ta itu med utmaningarna i innehållsleveranskedjan"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2389,7 +2436,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/rtcdp-migration-readiness.md" title="Readiness för migrering av kunddataplattform i realtid" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432995/?format=jpeg&nocache=1768599463615" alt="Readiness för migrering av kunddataplattform i realtid"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432995/?format=jpeg&nocache=1770334444542" alt="Readiness för migrering av kunddataplattform i realtid"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2412,7 +2459,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/sequential-logic.md" title="Mastering Sequential Logic in Adobe Analytics and Customer Journey Analytics - Foundations" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3442925/?format=jpeg&nocache=1768599463670" alt="Mastering Sequential Logic in Adobe Analytics and Customer Journey Analytics - Foundations"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3442925/?format=jpeg&nocache=1770334444587" alt="Mastering Sequential Logic in Adobe Analytics and Customer Journey Analytics - Foundations"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2435,7 +2482,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/strategic-leadership.md" title="Strategisk ledning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456787/?captions=swe&format=jpeg&nocache=1768599463621" alt="Strategisk ledning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427463/?format=jpeg&nocache=1770334444548" alt="Strategisk ledning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2458,7 +2505,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/streamline-authentication.md" title="Streamline-autentisering - migrerar från tjänstkonto (JWT) till OAuth Server-till-server-autentiseringsuppgifter" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440936/?format=jpeg&nocache=1768599463684" alt="Streamline-autentisering - migrerar från tjänstkonto (JWT) till OAuth Server-till-server-autentiseringsuppgifter"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440936/?format=jpeg&nocache=1770334444581" alt="Streamline-autentisering - migrerar från tjänstkonto (JWT) till OAuth Server-till-server-autentiseringsuppgifter"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2481,7 +2528,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/target-personalization.md" title="Personalization som mål - Komma igång med rekommendationer och kategoritillhörighet" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432999/?format=jpeg&nocache=1768599463633" alt="Personalization som mål - Komma igång med rekommendationer och kategoritillhörighet"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432999/?format=jpeg&nocache=1770334444554" alt="Personalization som mål - Komma igång med rekommendationer och kategoritillhörighet"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2504,7 +2551,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/turning-data-into-action.md" title="Den strategiska kraften i mätning - att förvandla data till handling" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440935/?format=jpeg&nocache=1768599463677" alt="Den strategiska kraften i mätning - att förvandla data till handling"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440935/?format=jpeg&nocache=1770334444567" alt="Den strategiska kraften i mätning - att förvandla data till handling"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2527,7 +2574,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/use-case-mapping.md" title="Real-Time CDP - Använd funktioner för ärendemappning till lösning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429290/?format=jpeg&nocache=1768599463640" alt="Real-Time CDP - Använd funktioner för ärendemappning till lösning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429290/?format=jpeg&nocache=1770334444574" alt="Real-Time CDP - Använd funktioner för ärendemappning till lösning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2550,7 +2597,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/web-sdk-migration.md" title="SDK Migration Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429291/?format=jpeg&nocache=1768599463649" alt="SDK Migration Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429291/?format=jpeg&nocache=1770334444594" alt="SDK Migration Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2573,7 +2620,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-admin-guardianship.md" title="Grundläggande om Workfront System and Group Admin Guardianship" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433002/?format=jpeg&nocache=1768599463663" alt="Grundläggande om Workfront System and Group Admin Guardianship"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433002/?format=jpeg&nocache=1770334444602" alt="Grundläggande om Workfront System and Group Admin Guardianship"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2596,7 +2643,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-lean-teams.md" title="Maximera effektiviteten med Adobe Workfront - Lean Teams Webinar" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456710/?captions=swe&format=jpeg&nocache=1768599463698" alt="Maximera effektiviteten med Adobe Workfront - Lean Teams Webinar"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429287/?format=jpeg&nocache=1770334444611" alt="Maximera effektiviteten med Adobe Workfront - Lean Teams Webinar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2619,7 +2666,7 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-mastery.md" title="Workfront Mastery - Strategies for Success" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1768599463691" alt="Workfront Mastery - Strategies for Success"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1770334444619" alt="Workfront Mastery - Strategies for Success"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2643,11 +2690,11 @@ Adobe Customer Success-led webbinarier som hjälper er att optimera er investeri
 
 
 
-&#x200B;>>
+>>
     &lt;div class=&quot;card-image&quot;>
     &lt;figure class=&quot;image x-is-16by9&quot;>
     &lt;a href=&quot;2024/workfront-mastery.md&quot; title=&quot;Workfront Master - Strategies for Success&quot; target=&quot;_blank&quot; rel=&quot;reference&quot;>
-    &lt;img class=&quot;is-bordered-r-small&quot; src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1764630166754&quot; alt=&quot; &quot;Workfront Master - Strategies for Success&quot;
+    &lt;img class=&quot;is-bordered-r-small&quot; src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&amp;nocache=1764630166754&quot; alt=&quot; &quot;Workfront Master - Strategies for Success&quot;
     style=&quot;width: 100%; aspect ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;&quot;>
     &lt;/a>
     &lt;/figure>
