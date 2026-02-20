@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success-led webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe lösningar.
-source-git-commit: fbfcb7835f5a51aea9a295fa1adb63b61585adb2
+source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '637'
 ht-degree: 5%
 
 ---
@@ -26,6 +26,7 @@ ht-degree: 5%
    + Allmänt {#general2026}
       + [AI Strategies for Holiday Success](2026/2025-holiday-results.md)
       + [Supply chain strategier för ändringshantering](2026/csc-change-management.md)
+      + [Content Supply chain Executive Sponsoration](2026/csc-executive-sponsorship.md)
       + [Foundational Architecture for Content Supply chain](2026/csc-architecture.md)
       + [Operativmodell för Supply chain](2026/csc-operating-model.md)
 + 2025 {#2025}

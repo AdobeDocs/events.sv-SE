@@ -3,9 +3,9 @@ user-guide-title: Acrobat Sign webbinarier
 user-guide-description: Lär dig av Adobe experter hur du bemästrar nya arbetsflöden för e-signaturer i Acrobat Sign.
 cloud: Document Cloud
 solution: Document Cloud
-source-git-commit: 149f4c2e962eaecd657d2a17a5938e972464dcac
+source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '106'
 ht-degree: 4%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 4%
    + [Skapa och använda arbetsflöden](./skill-builders/create-use-workflows.md)
 + 101 - Kom igång för administratörer {#getstartedadmins}
    + [Stärk din Acrobat Sign Admin Experience](./skill-builders/acrobat-sign-admin-experience.md)
+   + [Administratörer på ETLA](./skill-builders/acrobat-sign-admin-etla.md)
    + [Avancerad rapportering](./skill-builders/advanced-reporting.md)
 + 102 - Avancerade uppgifter {#advancedtasks}
    + [Avancerade tips för att skicka dokument för signering](./skill-builders/advanced-sending-documents-signature.md)
