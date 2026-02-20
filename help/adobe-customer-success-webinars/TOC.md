@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success-led webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe lösningar.
-source-git-commit: d158d7a10bd2651a11d54822908bb63315da0a94
+source-git-commit: fbfcb7835f5a51aea9a295fa1adb63b61585adb2
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '632'
 ht-degree: 5%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 5%
    + Customer Journey Analytics {#cja2026}
       + [Skapa BRD-SDR-filer för Customer Journey Analytics](2026/brd-sdr-file-best-practices.md)
    + Experience Manager {#aem2026}
+      + [Skapa i Edge Delivery Services](2026/authoring-eds.md)
       + [Maximera innehållets leveranskedjor](2026/value-with-content-supply-chain.md)
       + [Modern Delivery Models för AEM Sites](2026/modern-delivery-model-aem.md)
       + [Strategiska fördelar med tjänsten AEM Cloud](2026/moving-to-aemcs.md)
@@ -24,7 +25,9 @@ ht-degree: 5%
       + [Inbäddad Intelligence Shift](2026/embedded-intelligence.md)
    + Allmänt {#general2026}
       + [AI Strategies for Holiday Success](2026/2025-holiday-results.md)
+      + [Supply chain strategier för ändringshantering](2026/csc-change-management.md)
       + [Foundational Architecture for Content Supply chain](2026/csc-architecture.md)
+      + [Operativmodell för Supply chain](2026/csc-operating-model.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
       + [Förbättra Adobe Commerce med Adobe Experience Platform](2025/enriching-adobe-commerce.md)
