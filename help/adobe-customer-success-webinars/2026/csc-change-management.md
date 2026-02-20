@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Upptäck hur ni kan leda er organisation till ett datadrivet innehåll för Supply chain med ett beprövat ändringshanteringsobjekt. Under den här sessionen kommer vi att visa hur man kan anpassa ledare, utrusta team och nya sätt att arbeta så att team, automatisering och delade data faktiskt kan omvandlas till snabbare time-to-market, större återanvändning av resurser och starkare styrning.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479816/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479821/?captions=swe&learn=on&enablevpops)
 
 * **Ta täten i skiftet, inte bara verktygen** Lär dig hur du flyttar till ett automatiskt Supply chain-innehåll i affärstermer som bygger en verklig inköpt lösning - som förtydligar&quot;varför nu&quot;, anpassar chefer och omvandlar tidigt piloter till en större organisation.
 
