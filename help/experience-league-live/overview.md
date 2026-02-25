@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 220b114c82508f2c97b239c64b33a4e66feb03a7
+source-git-commit: ae1e04b960662d9156efafaa3ed09bd0de545397
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
     </a>
     <div>
       <a href="episodes/exl-live-episode-03-03-26.md"><strong>Delta i en insiktsfull session med Anjul Bhambhri, Sr. VP på Adobe Experience Cloud, där du får lära dig mer om Adobe djärva vision för innovativa AI-funktioner hos Agentic.</strong></a>
-      <br/><em> med Anjul Bhambhri och Daniel Wright </em>
+      <br/><em> med Anjul Bhambhri, Gina Casagrande och Daniel Wright </em>
       <br/><em>3 mars 2026 kl. 9:00 PT</em>
       <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md">Läs mer om den här sessionen!</a></b>
     </div>
@@ -102,5 +102,5 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 >[!TIP]
 >
->Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/sv#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=sv-SE).
+>Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
