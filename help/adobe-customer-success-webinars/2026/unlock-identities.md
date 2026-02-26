@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Under den här sessionen utforskas hur Customer Journey Analytics (CJA) kan frigöra enhetliga kundinsikter genom att bryta ned dataselserna och möjliggöra identitetssammanfogning över olika kanaler och enheter. Rekommenderas för alla som vill förstå praktiska strategier för att koppla samman kunddata, förbättra attribueringsnoggrannheten och fatta smartare affärsbeslut.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480150/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480156/?captions=swe&learn=on&enablevpops)
 
 ## Viktiga uppgifter
 
