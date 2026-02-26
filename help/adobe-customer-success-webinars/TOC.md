@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success-led webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe lösningar.
-source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
+source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '639'
 ht-degree: 5%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 5%
 + 2026 {#2026}
    + Customer Journey Analytics {#cja2026}
       + [Skapa BRD-SDR-filer för Customer Journey Analytics](2026/brd-sdr-file-best-practices.md)
+      + [Låser upp identitet](2026/unlock-identities.md)
    + Experience Manager {#aem2026}
       + [Skapa i Edge Delivery Services](2026/authoring-eds.md)
       + [Maximera innehållets leveranskedjor](2026/value-with-content-supply-chain.md)
