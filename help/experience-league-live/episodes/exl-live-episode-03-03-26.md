@@ -23,7 +23,7 @@ Detta exklusiva seminarium innehåller en insiktsfull session med Anjul Bhambhri
 
 >[!VIDEO](https://video.tv.adobe.com/v/3480449/?quality=12&learn=on)
 
-Om du vill fortsätta diskutera det här programmet/ämnet går du till [Experience League community-diskussionen.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-post-session-discussion-adobe-experience-platform-agents-for-improved-marketing-efficiency-and-better-business-outcomes-248926){target="_blank"}
+Om du vill fortsätta diskutera det här programmet/ämnet går du till [Experience League community-diskussionen.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-post-session-discussion-adobe-experience-platform-agents-for-improved-marketing-efficiency-and-better-business-outcomes-248926?profile.language=sv){target="_blank"}
 
 ## Frågor från programmet
 
@@ -67,7 +67,7 @@ Som Anjul nämnde, så tidigt som möjligt! Du kan lära dig mer om produktfunkt
 
 ### Skulle vi ha GPT-modeller i agenterna som Anjul nämnde?
 
-Läs den här dokumentationen: https://experienceleague.adobe.com/en/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
+Läs den här dokumentationen: https://experienceleague.adobe.com/sv/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
 
 ### När du arbetar med AEM MCP-servern ökar värdet på dessa agenter. Är MCP-servercommunityalternativ som erbjuder specifik täckning (som OSGi-konfigurationshantering eller logganalys) också ett alternativ?
 
@@ -75,7 +75,7 @@ Adobe utforskar agentfärdigheter och en lokal MCP-server för kodgenerering och
 
 ### Skulle du kunna demonstrera hur du använder agenterna från resurserna du just nämnde, Anjul?
 
-Läs den här dokumentationen: https://experienceleague.adobe.com/en/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
+Läs den här dokumentationen: https://experienceleague.adobe.com/sv/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
 
 ### Kan jag till exempel använda agenter i CJA för att förklara erbjudanderesultaten?
 
@@ -83,7 +83,7 @@ Data Insights Agent kan hjälpa användare att förklara resultaten i CJA och sv
 
 ### Kan du i ett avsnitt visa oss hur du skulle kunna integrera med ChatGPT, Perplexity, Claude, Gemini osv.?
 
-Läs den här dokumentationen: https://experienceleague.adobe.com/en/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
+Läs den här dokumentationen: https://experienceleague.adobe.com/sv/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
 
 ### Våra 4-åriga backend-datauppsättningar följer rena formateringsstandarder och stöder BAU-funktioner effektivt, men fungerar inte med AI Agent. Vad ska vi göra? Behöver vi designa om våra datauppsättningar?
 
