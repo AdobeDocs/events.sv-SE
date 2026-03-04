@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 88f804bf4c61e98f8c96011fb8315b9c4e94f64a
+source-git-commit: e9b4e1e5bc05103856aab261638fcf0e739b5d7f
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -25,28 +25,13 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-03-26.md">
-      <img alt="Experience League LIVE 3 mars 2026" src="episodes/assets/WebBanner_Mar03_2026-v2.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-03-03-26.md"><strong>Delta i en insiktsfull session med Anjul Bhambhri, Sr. VP på Adobe Experience Cloud, där du får lära dig mer om Adobe djärva vision för innovativa AI-funktioner hos Agentic.</strong></a>
-      <br/><em> med Anjul Bhambhri, Gina Casagrande och Daniel Wright </em>
-      <br/><em>3 mars 2026 kl. 9:00 PT</em>
-      <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md">Läs mer om den här sessionen!</a></b>
-    </div>
-  </td>
-</tr>
-</table>
-
-<table>
-<tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-12-26.md">
       <img alt="Experience League LIVE 3 mars 2026" src="episodes/assets/WebBannerExlLive-Mar12-2026.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-03-12-26.md"><strong>Se hur kampanjsamordning i Journey Optimizer hanterar era stora, en-till-många-kanalsprogram - från målgruppsframtagning till lansering.</strong></a>
-      <br/><em> med Sandra Hausmann, Bridgette Darling, Chakravarthy Kalva och Lee Henderson </em>
-      <br/><em> 12 mars 2026 kl. 8:30 PT</em>
+      <a href="episodes/exl-live-episode-03-12-26.md"><strong>Se hur Campaign Orchestration i Journey Optimizer hanterar era stora, en-till-många-kanalsprogram - från målgruppsframtagning till lansering.</strong></a>
+      <br/><em>med Sandra Hausmann, Bridgette Darling, Chakravarthy Kalva och Lee Henderson</em>
+      <br/><em>12 mars 2026 kl. 8:30 PT</em>
       <br/><br/><b><a href="episodes/exl-live-episode-03-12-26.md">Läs mer om den här sessionen!</a></b>
     </div>
   </td>
@@ -65,7 +50,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 </div>
 
-## Personalens val
+## Personalval
 
 <table style="max-width: 1214px;">
 
@@ -102,5 +87,5 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 >[!TIP]
 >
->Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/sv#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=sv-SE).
+>Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
