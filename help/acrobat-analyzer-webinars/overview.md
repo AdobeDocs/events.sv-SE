@@ -1,7 +1,7 @@
 ---
 title: Acrobat Analyzer-webbinarier
 description: Utforska webbinarierna i Adobe Acrobat Analyzer för att se hur Generative AI extraherar strukturerade, spårbara insikter från dokument för att automatisera arbetsflöden, minska riskerna och snabba upp beslutsfattandet i stor skala.
-source-git-commit: 7f12b01387d93419193a45625633231e1ab6214b
+source-git-commit: 679892dcd193ed2a9529f32a3d4cf2b90c054854
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Upptäck hur Adobe Acrobat Analyzer använder generativ AI för att få struktur
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./intro-acrobat-analyzer.md" title="Nu kommer Acrobat Analyzer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/documentation.png" alt="Nu kommer Acrobat Analyzer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480894/?format=jpeg&nocache=1772823134422" alt="Nu kommer Acrobat Analyzer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
