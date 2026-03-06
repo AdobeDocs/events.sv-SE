@@ -4,9 +4,9 @@ description: Få en snabb översikt över de senaste funktionerna i Adobe Experi
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: fbfcb7835f5a51aea9a295fa1adb63b61585adb2
+source-git-commit: 7f12b01387d93419193a45625633231e1ab6214b
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,22 @@ ht-degree: 0%
 
 Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager as a Cloud Service. Det här är korta, ungefär 10 minuter långa videoklipp från AEM produktteam som delar med sig av de senaste nyheterna.
 
-## Senaste uppdateringarna
+## Senaste uppdateringar
 
 <!-- CARDS
 {cta = Watch}
 
-* 2026/2026-1-0.md
+* 2026/2026-2-0.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="undefined">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2026.02.0 AEM Release Overview Video">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2026/2026-1-0.md" title="undefined" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479793/?captions=swe&format=jpeg&nocache=1771602840344" alt="undefined"
+                    <a href="2026/2026-2-0.md" title="2026.02.0 AEM Release Overview Video" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480399/?format=jpeg&nocache=1772816761986" alt="2026.02.0 AEM Release Overview Video"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -38,11 +38,11 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2026/2026-1-0.md" target="_blank" rel="referrer" title="undefined">undefined</a>
+                        <a href="2026/2026-2-0.md" target="_blank" rel="referrer" title="2026.02.0 AEM Release Overview Video">2026.02.0 AEM - versionsöversikt - video</a>
                     </p>
-                    <p class="is-size-6">undefined</p>
+                    <p class="is-size-6">Utforska de senaste funktionerna i AEM 2026.02.0-utgåvan, inklusive hantering av innehållsfragment, AI-baserade verktyg och förbättrade arbetsflödesoptimeringar.</p>
                 </div>
-                <a href="2026/2026-1-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="2026/2026-2-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
                 </a>
             </div>
@@ -56,6 +56,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
 <!-- CARDS
 {cta = Watch}
 
+* 2026/2026-1-0.md
 * 2025/2025-8-0.md
 * 2025/2025-6-0.md
 * 2025/2025-5-0.md
@@ -67,12 +68,35 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2026.01.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2026/2026-1-0.md" title="2026.01.0 AEM Release Overview Video" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479789/?format=jpeg&nocache=1772816762668" alt="2026.01.0 AEM Release Overview Video"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2026/2026-1-0.md" target="_blank" rel="referrer" title="2026.01.0 AEM Release Overview Video">2026.01.0 AEM - versionsöversikt - video</a>
+                    </p>
+                    <p class="is-size-6">Upptäck nya AEM-funktioner - Edge Delivery, AI Search, Interactive UI och MCP Server för bättre upplevelser.</p>
+                </div>
+                <a href="2026/2026-1-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2025.08.0 Release Overview Video">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-8-0.md" title="Video om versionsöversikt för 2025.08.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479150/?captions=swe&format=jpeg&nocache=1771602841033" alt="Video om versionsöversikt för 2025.08.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479145/?format=jpeg&nocache=1772816762695" alt="Video om versionsöversikt för 2025.08.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -95,7 +119,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-6-0.md" title="2025.06.0 AEM Release Overview Video" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470882/?captions=swe&format=jpeg&nocache=1771602841010" alt="2025.06.0 AEM Release Overview Video"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470878/?format=jpeg&nocache=1772816762677" alt="2025.06.0 AEM Release Overview Video"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -118,7 +142,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-5-0.md" title="2025.5.0 AEM Release Overview Video" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464354/?captions=swe&format=jpeg&nocache=1771602841052" alt="2025.5.0 AEM Release Overview Video"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464307/?format=jpeg&nocache=1772816762686" alt="2025.5.0 AEM Release Overview Video"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -141,7 +165,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-4-0.md" title="2025.04.0 AEM Release Overview Video" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464006/?captions=swe&format=jpeg&nocache=1771602841062" alt="2025.04.0 AEM Release Overview Video"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463991/?format=jpeg&nocache=1772816762703" alt="2025.04.0 AEM Release Overview Video"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -164,7 +188,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-3-0.md" title="2025.3.0 AEM Release Overview Video" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463869/?captions=swe&format=jpeg&nocache=1771602841005" alt="2025.3.0 AEM Release Overview Video"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463859/?format=jpeg&nocache=1772816762720" alt="2025.3.0 AEM Release Overview Video"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -187,7 +211,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-2-0.md" title="2025.2.0 AEM Release Overview Video" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458080/?format=jpeg&nocache=1771602841021" alt="2025.2.0 AEM Release Overview Video"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458080/?format=jpeg&nocache=1772816762728" alt="2025.2.0 AEM Release Overview Video"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -210,7 +234,7 @@ Få en snabb översikt över de senaste funktionerna i Adobe Experience Manager 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-1-0.md" title="2025.01.0 AEM Release Overview Video" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456078/?captions=swe&format=jpeg&nocache=1771602841042" alt="2025.01.0 AEM Release Overview Video"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg&nocache=1772816762712" alt="2025.01.0 AEM Release Overview Video"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
