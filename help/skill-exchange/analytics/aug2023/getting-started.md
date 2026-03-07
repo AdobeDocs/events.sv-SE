@@ -21,4 +21,4 @@ ht-degree: 0%
 
 &quot;Getting Started&quot;-segmentet i The SKomplett Exchange är avsett för dem som just har börjat med Adobe Analytics. I slutet av sessionen bör man få en bättre förståelse för Adobe Analytics terminologi och verktyg samt en introduktion till huvudfunktionerna i Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425985/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480566/?captions=swe&learn=on)
