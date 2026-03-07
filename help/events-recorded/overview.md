@@ -26,7 +26,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
   {description = A library of recorded Workfront events where experts and peers share thoughts on how to use Workfront.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png?lang=sv-SE}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html
+* https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html?lang=sv-SE
   {title = Acrobat Analyzer Webinars}
   {description = Join Adobe Acrobat Analyzer webinars to learn how Generative AI turns documents into structured insights that automate workflows and accelerate decision-making.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-analyzer-webinars.png?lang=sv-SE}
@@ -39,7 +39,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
 * https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=sv-SE
   {title = Adobe Developers Live}
   {description = Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png?lang=sv-SE}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-commerce-webinars/overview.html?lang=sv-SE
   {title = Adobe Commerce Webinars}
@@ -69,7 +69,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
 * https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=sv-SE
   {title = Data Drip}
   {description = Join Adobe experts in the Data Drip series to explore the latest features and best practices in Adobe Analytics & Target, with live demonstrations ensuring customers maximize product potential and stay competitive.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png?lang=sv-SE}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html?lang=sv-SE 
   {title = Marketo Deep Dives}
@@ -119,7 +119,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
 * https://experienceleague.adobe.com/sv/docs/events/the-perfect-blend/overview
   {title = The Perfect Blend}  
   {description = Discover how Adobe DX products integrate to streamline workflows, boost efficiency, and deliver smarter business outcomes with live demos and Q&A.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-the-perfect-blend.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-the-perfect-blend.png?lang=sv-SE}
   {cta  = View recordings}  
 * https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html?lang=sv-SE
   {title = Skill Builder}  
@@ -167,7 +167,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html" title="Acrobat Analyzer-webbseminarier" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html?lang=sv-SE" title="Acrobat Analyzer-webbseminarier" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-analyzer-webinars.png?lang=sv-SE" alt="Acrobat Analyzer-webbseminarier"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -176,11 +176,11 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html" target="_blank" rel="referrer" title="Acrobat Analyzer-webbseminarier">Acrobat Analyzer-webbinarier</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html?lang=sv-SE" target="_blank" rel="referrer" title="Acrobat Analyzer-webbseminarier">Acrobat Analyzer-webbinarier</a>
                     </p>
                     <p class="is-size-6">Gå med i Adobe Acrobat Analyzer-webbinarierna och lär dig hur generativ AI förvandlar dokument till strukturerade insikter som automatiserar arbetsflöden och snabbar upp beslutsfattandet.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html?lang=sv-SE" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Visa inspelningar </span>
                 </a>
             </div>
@@ -214,7 +214,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=sv-SE" title="Adobe Developers Live" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png" alt="Adobe Developers Live"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png?lang=sv-SE" alt="Adobe Developers Live"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -352,7 +352,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=sv-SE" title="Datahämtning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png" alt="Datahämtning"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png?lang=sv-SE" alt="Datahämtning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -582,7 +582,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/sv/docs/events/the-perfect-blend/overview" title="Den perfekta blandningen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-the-perfect-blend.png" alt="Den perfekta blandningen"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-the-perfect-blend.png?lang=sv-SE" alt="Den perfekta blandningen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
