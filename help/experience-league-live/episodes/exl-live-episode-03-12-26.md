@@ -8,9 +8,9 @@ event-cta-url-live: https://www.youtube.com/live/mPVvZIbkJq8
 event-start-time: 2026-03-03 08:30-8
 event-guests: Sandra Hausmann, Bridgette Darling, Chakravarthy Kalva, Lee Henderson
 exl-id: 5ad4e649-d00a-4934-bfee-13d358fdad11
-source-git-commit: 832697fb6afc563e89041cec13ea2649eaac49e7
+source-git-commit: b91477fce8357e25653647ca54e086d5808b7344
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 Se hur kampanjsamordning i Journey Optimizer hanterar era stora, en-till-många-program för flerkanalsmarknadsföring - från målgruppsframtagning till lansering.
 
-Vi kommer att ta upp kampanjens arbetsyta och relationsscheman som grund för hantering av komplexa kampanjer och kundrelationer, segmentering av flera enheter för att nå rätt målgrupper över komplexa data, målgruppsfinjustering on-demand och antal före sändning för att vara korrekta, och hur detta smidigt fungerar i Journey Optimizer idag.
+We covered the campaign orchestration canvas and relational schemas the foundation for managing complex campaigns and customer relationships, multi‑entity segmentation to target the right audiences across complex data, on‑demand audience refinement &amp; pre-send counts for accuracy, and how this seamlessly works within Journey Optimizer today.
 
-<img alt="Experience League LIVE 3 mars 2026" src="./assets/WebBannerExlLive-Mar12-2026.jpg">
+>[!VIDEO](https://video.tv.adobe.com/v/3481409/?quality=12&learn=on)
 
-[Registrera dig idag!](https://engage.adobe.com/ExpLeagueLive-260312.html){target="_blank"}
+To continue the conversation about this topic, please visit the [Experience League Community discussion.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161){target="_blank"}
