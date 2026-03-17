@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 220b114c82508f2c97b239c64b33a4e66feb03a7
+source-git-commit: 906af81ca9bfea0d33221278bd41136ecad48069
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,9 @@ ht-degree: 0%
 
 # Experience League Live Events {#experience-league-live-recordings}
 
-+ [Översikt](overview.md)
++ [Ökning](overview.md)
 + Avsnitten {#episodes}
+   + [Nya användningsexempel för kundengagemang: iOS Live Activity, Web Push och Persistent Messaging](episodes/exl-live-episode-04-08-26.md)
    + [Lär känna kampanjsamordning i Adobe Journey Optimizer](episodes/exl-live-episode-03-12-26.md)
    + [Adobe Experience Platform Agents för förbättrad marknadsföring och bättre affärsresultat](episodes/exl-live-episode-03-03-26.md)
    + [Agenter på jobbet: Skapa och aktivera målgrupper och resor](episodes/exl-live-episode-01-28-26.md)
