@@ -17,13 +17,13 @@ ht-degree: 0%
 
 # Workfront Planning Smart Start - Bygg din basimplementering
 
-Delta i vårt Adobe produkthanteringsteam när de utbyter bästa praxis för att starta implementeringen av Workfront Planning.  Mer information om vad som kommer härnäst i Workfront Planning finns i bokmärket på sidan [Adobe Workfront Planning Release Activity](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) i Experience League.
+Delta i vårt Adobe produkthanteringsteam när de utbyter bästa praxis för att starta implementeringen av Workfront Planning.  Mer information om vad som kommer härnäst i Workfront Planning finns i bokmärket på sidan [Adobe Workfront Planning Release Activity](https://experienceleague.adobe.com/sv/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) i Experience League.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477113/?learn=on&enablevpops)
 
 Om du missade sessionen, inga problem! Granska [bildbandet](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/073125+The+Smart+Start+%E2%80%94+Building+Your+Base+Implementation.pdf) och se hur on-demand-inspelningen följer med.
 
-Har du idéer att dela eller har du frågor från evenemanget? Du kan släppa dem i kommentarerna på [Experience League Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-the-smart-start-building-your/td-p/767049)!
+Har du idéer att dela eller har du frågor från evenemanget? Du kan släppa dem i kommentarerna på [Experience League Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-the-smart-start-building-your/td-p/767049?profile.language=sv)!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 

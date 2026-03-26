@@ -23,7 +23,7 @@ Gå med i Kimberly Rea, Creative Operations-experten på Schneider Electric och 
 
 Om du missade sessionen, inga problem! Granska [bildbandet](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/120325+-+Measuring+What+Matters+-+How+Schneider+Electric+Drives+Workfront+Efficiency+with+Fusion.pdf) och se hur on-demand-inspelningen följer med.
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 
 
 

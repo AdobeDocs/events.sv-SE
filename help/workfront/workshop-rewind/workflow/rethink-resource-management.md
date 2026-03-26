@@ -23,8 +23,8 @@ Se hur det kreativa teamet på Advisors Excel upptäckte ett praktiskt och smidi
 
 Om du missade sessionen, inga problem! Granska [bildbandet](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/FINAL+Rethinking+Resource+Management+the+Agile+Way+at+Advisors+Excel+-+March+19%2C+2026.pdf) och se hur on-demand-inspelningen följer med.
 
-Letar du efter fler resurser från evenemanget? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-rethinking-resource-management-the-agile-way-at-advisors-excel-march-19-2026-249316)!
+Letar du efter fler resurser från evenemanget? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-rethinking-resource-management-the-agile-way-at-advisors-excel-march-19-2026-249316?profile.language=sv)!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 
 

@@ -25,6 +25,6 @@ Se hur planering har blivit en central källa till anpassning, synlighet och dri
 
 Om du missade sessionen, inga problem! Granska [bildbandet](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/120925+-+The+Relationship+Builder+-+How+Syracuse+University+leverages+Workfront+Planning+to+Connect+Work.pdf) och se hur on-demand-inspelningen följer med.
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 
 

@@ -22,9 +22,9 @@ Förvandla Workfront-data till prydliga, färdiga produkter för intressenter!  
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481825/?learn=on&enablevpops)
 
-Letar du efter fler resurser från evenemanget, inklusive bildband och zip-fil som diskuterades under sessionen? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-from-data-to-design-automating-branded-pdfs-with-workfront-fusion-february-17-2026-248587)!
+Letar du efter fler resurser från evenemanget, inklusive bildband och zip-fil som diskuterades under sessionen? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-from-data-to-design-automating-branded-pdfs-with-workfront-fusion-february-17-2026-248587?profile.language=sv)!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 
 
 

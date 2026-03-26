@@ -21,4 +21,4 @@ Identifiera de viktigaste aspekterna av enhetliga godkännanden, inklusive riktn
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481834/?learn=on&enablevpops)
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.

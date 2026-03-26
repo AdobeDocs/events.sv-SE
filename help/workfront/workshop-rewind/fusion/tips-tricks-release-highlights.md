@@ -24,8 +24,8 @@ Delta i Senior Product Manager, Sam Taylor, när han berättar om nya funktioner
 
 Om du missade sessionen, inga problem! Granska [bildbandet](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/012926-MaximizeFusion.pdf) och se hur on-demand-inspelningen följer med.
 
-Letar du efter fler resurser eller frågor och svar från evenemanget? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-maximize-fusion-tips-tricks-and-release-highlights-1-29-26-248111)!
+Letar du efter fler resurser eller frågor och svar från evenemanget? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-maximize-fusion-tips-tricks-and-release-highlights-1-29-26-248111?profile.language=sv)!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 
 

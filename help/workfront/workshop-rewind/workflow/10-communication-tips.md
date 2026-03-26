@@ -23,7 +23,7 @@ Delta i Nichole Vargas när hon berättar om sina tips för att få bättre anpa
 
 Om du missade sessionen, inga problem! Granska [bildbandet](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/10+Communication+Tips+-+January+22%2C+2026.pdf) och se hur on-demand-inspelningen följer med.
 
-Letar du efter fler resurser från evenemanget? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-10-communication-tips-in-adobe-workfront-january-22-2026-247874)!
+Letar du efter fler resurser från evenemanget? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-10-communication-tips-in-adobe-workfront-january-22-2026-247874?profile.language=sv)!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 

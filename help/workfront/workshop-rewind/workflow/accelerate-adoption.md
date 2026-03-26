@@ -25,8 +25,8 @@ Läs om hur du använder Experience League och Experience League Community för 
 
 Om du missade sessionen, inga problem! Granska [bildbandet](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Success+Toolkit+Slide+Deck+021226.pdf) och se hur on-demand-inspelningen följer med.
 
-Letar du efter fler resurser från evenemanget? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-your-workfront-success-toolkit-resources-to-accelerate-adoption-february-12-2026-248480)!
+Letar du efter fler resurser från evenemanget? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-your-workfront-success-toolkit-resources-to-accelerate-adoption-february-12-2026-248480?profile.language=sv)!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 
 

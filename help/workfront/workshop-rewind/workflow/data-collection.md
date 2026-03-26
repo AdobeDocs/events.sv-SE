@@ -21,9 +21,9 @@ I samarbete med Steve Teitelbaum, Enterprise Architect Content Supply chain på 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481821/?learn=on&enablevpops)
 
-Den här sessionen utökar diskussionen från en tidigare workshop, [Workfront Pro Tips for Governance, Execution och Adoption](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/workflow/governance-execution-adoption).
+Den här sessionen utökar diskussionen från en tidigare workshop, [Workfront Pro Tips for Governance, Execution och Adoption](https://experienceleague.adobe.com/sv/docs/events/workfront-recordings/workshop-rewind/workflow/governance-execution-adoption).
 
 Om du missade sessionen, inga problem! Granska [bildbandet](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Pro+Tips+Part+2_Dec2025.pdf) och se hur on-demand-inspelningen följer med.
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 

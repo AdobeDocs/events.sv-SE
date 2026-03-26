@@ -21,7 +21,7 @@ Workfront första kvartsutgåvan distribuerades den 15 januari 2026. Det här we
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481817/?learn=on&enablevpops)
 
-Granska [versionsinformationen](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q1/26-q1-release-overview) på Experience League eftersom inte alla funktioner täcks av webbinariet.
+Granska [versionsinformationen](https://experienceleague.adobe.com/sv/docs/workfront/using/product-announcements/product-releases/release-26-q1/26-q1-release-overview) på Experience League eftersom inte alla funktioner täcks av webbinariet.
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 
