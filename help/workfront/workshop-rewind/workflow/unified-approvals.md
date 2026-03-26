@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Identifiera de viktigaste aspekterna av enhetliga godkännanden, inklusive riktning, rapportering och kommande funktioner. Den här workshopen ger värdefulla insikter som hjälper dig att hålla dig informerad och optimera arbetsflödet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481834/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481853/?captions=swe&learn=on&enablevpops)
 
 Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
