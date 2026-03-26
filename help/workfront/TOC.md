@@ -3,9 +3,9 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '534'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [Workfront On-demand Workshops](overview.md)
 
 + Versionswebbseminarier {#releases}
+   + [Andra kvartal 2026 versionswebbseminarium](releases/26-q2-release-webinar.md)
+   + [Första kvartalet 2026 versionswebbseminarium](releases/26-q1-release-webinar.md)
    + [Fjärde kvartalet 2025, versionswebbseminarium](releases/25-q4-release-webinar.md)
    + [25.7 Utgåva](releases/25-7-release-webinar.md)
    + [25.4 Utgåva](releases/25-4-release-webinar.md)
@@ -23,30 +25,38 @@ ht-degree: 0%
    + [24.1 Utgåva](releases/24-1-release-webinar.md)
 + Workshop Rewind {#workshop-rewind}
    + Fusion {#fusion}
+      + [Automatisera profilerade PDF-filer med Workfront Fusion](workshop-rewind/fusion/automating-branded-pdfs.md)
       + [Automatisera namnkonventioner](workshop-rewind/fusion/automating-naming-conventions.md)
       + [Automatisera arbetsprocesser](workshop-rewind/fusion/automate-work-processes.md)
       + [Fördelar med Fusion och bästa praxis](workshop-rewind/fusion/benefits-best-practices.md)
       + [Dataimport](workshop-rewind/fusion/data-imports.md)
       + [Fördelar och användningsexempel med Fusion](workshop-rewind/fusion/case-for-fusion.md)
       + [Fusion avkodad](workshop-rewind/fusion/fusion-decoded.md)
+      + [Fusion Decoded Part 2 - Start Building](workshop-rewind/fusion/fusion-decoded-part-2.md)
       + [Hur Workfront Fusion kan hjälpa människor](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [Navigera enkelt mellan ändringar för flermarkerade fält](workshop-rewind/fusion/mulit-select-fields.md)
       + [Proaktiv undantagshantering](workshop-rewind/fusion/proactive-exception-handling.md)
+      + [Schneider Electrics driver Workfront Effektivitet](workshop-rewind/fusion/schneider-electric-efficiency.md)
       + [Effektivare arbetsflöden](workshop-rewind/fusion/automate-workflows.md)
+      + [Tips, tricks och versionsmarkeringar](workshop-rewind/fusion/tips-tricks-release-highlights.md)
       + [Låsa upp kostnader för True Event](workshop-rewind/fusion/event-costs.md)
       + [Uppgradera till Event-prenumerationer V2](workshop-rewind/fusion/event-subscriptions-v2.md)
       + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + Planering {#planning}
       + [Senaste i Workfront Planning](workshop-rewind/planning/workfront-planning.md)
       + [Adobe Workfront Planning Demo](workshop-rewind/planning/planning-demo.md)
+      + [Bygger din basimplementering](workshop-rewind/planning/base-implementation.md)
+      + [Ansluta planerings-, arbetsflödes- och arbetsytekontrollpaneler](workshop-rewind/planning/planning-workflow-canvas.md)
+      + [Hur Syracuse utnyttjar planering](workshop-rewind/planning/syracuse-planning.md)
       + [SNHU:s Creative-användningsexempel](workshop-rewind/planning/planning-reimagined.md)
       + [Framgångar på teamnivå med Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Workfront Planning Release &amp; Roadmap](workshop-rewind/planning/planning-release-roadmap.md)
    + Arbetsflöde {#workflow}
-      + [Utkast](workshop-rewind/workflow/blueprints.md)
+      + [Blueprints](workshop-rewind/workflow/blueprints.md)
       + [Öka effektiviteten](workshop-rewind/workflow/cognizant-project-excellence.md)
       + [Hantering av förändringar i Workfront](workshop-rewind/workflow/change-management.md)
-      + [Integrering av innehållsleveranskedja](workshop-rewind/workflow/content-supply-chain.md)
+      + [Supply chain-integrering](workshop-rewind/workflow/content-supply-chain.md)
+      + [Datainsamling](workshop-rewind/workflow/data-collection.md)
       + [Definiera och förmedla Workfront-värde](workshop-rewind/workflow/workfront-value.md)
       + [Effektiva kommunikationstips i Workfront](workshop-rewind/workflow/communication-tips.md)
       + [Tips för styrning, genomförande och användning](workshop-rewind/workflow/governance-execution-adoption.md)
@@ -60,13 +70,18 @@ ht-degree: 0%
       + [Projektmallar](workshop-rewind/workflow/project-templates.md)
       + [Nya Creative Brief](workshop-rewind/workflow/creative-briefs.md)
       + [Grundläggande om resurshantering](workshop-rewind/workflow/resource-management.md)
+      + [Resurser som snabbar upp både acceptans och värde](workshop-rewind/workflow/accelerate-adoption.md)
+      + [Resurshantering på nytt](workshop-rewind/workflow/rethink-resource-management.md)
       + [Secure Executive Sponsorship](workshop-rewind/workflow/secure-executive-sponsorship.md)
       + [Självstudiekurs för framgång](workshop-rewind/workflow/self-taught-to-success.md)
       + [Spring Cleanup with Workfront Reports](workshop-rewind/workflow/workfront-reports-cleanup.md)
+      + [10 Kommunikationtips](workshop-rewind/workflow/10-communication-tips.md)
       + [Tips för textläge](workshop-rewind/workflow/text-mode-tips.md)
       + [10 Fler tips för textläge](workshop-rewind/workflow/10-more-text-mode-tips.md)
       + [Förvandla användarförvirring till självförtroende](workshop-rewind/workflow/avalara-user-transformation.md)
       + [Felsöka Workfront beräkningsfält](workshop-rewind/workflow/troubleshoot-calculated-expressions.md)
+      + [Förvandla utkast till utbildningsprogram](workshop-rewind/workflow/blueprints-to-planning.md)
+      + [Enhetliga godkännanden](workshop-rewind/workflow/unified-approvals.md)
       + [Lås upp Workfront Boards](workshop-rewind/workflow/unlock-boards.md)
       + [Lås upp kraften i Workfront Data Connect](workshop-rewind/workflow/data-connect.md)
       + [Använda Workfront för effektiva förbättringar](workshop-rewind/workflow/effective-reorgs.md)
@@ -95,10 +110,10 @@ ht-degree: 0%
    + Jämfört! {#versus}
       + [Grupper kontra team](quick-takes/versus/groups-vs-teams.md)
 + Expertinsikter {#expert-insights}
-   + [Implementering](expert-insights/adoption.md)
+   + [Antagande](expert-insights/adoption.md)
    + [Adobeundersökningar](expert-insights/adoption-surveys.md)
    + [Agile](expert-insights/agile.md)
-   + [Innehållsleveranskedja](expert-insights/content-supply-chain.md)
+   + [Innehåll Supply chain](expert-insights/content-supply-chain.md)
    + [Fusion](expert-insights/fusion.md)
    + [Styrning och kompetenscentrum](expert-insights/centers-of-excellence.md)
    + [Huvudtextläge](expert-insights/text-mode.md)
@@ -109,7 +124,7 @@ ht-degree: 0%
    + [SLA Reporting i Workfront](expert-insights/sla-reporting.md)
    + [Enterprise Work Management](expert-insights/enterprise-work-management.md)
 + Klassiska {#classics}
-   + Administrering {#administration}
+   + Administration {#administration}
       + [Granskningsspår och efterlevnad](user-groups/audit-trails-and-compliance.md)
       + [Automatisera arbetsflöden med Workfront Fusion](user-groups/automating-workflows-with-workfront-fusion.md)
       + [Creative: Arbetsflöde och processer](user-groups/creative-agencies-workflows-and-process.md)
