@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Enhetliga godkännanden representerar framtiden för godkännanden i Workfront. Gå med i vårt Adobe Product Management-team för en informativ session där de delar produktorienteringen för godkännanden i Workfront, hur det skiljer sig från Korrektur idag och hur övergången kommer att se ut över tid.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481834/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481853/?captions=swe&learn=on&enablevpops)
 
 Om du missade sessionen, inga problem! Granska [bildbandet](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/032626+-Understanding+Unified+Approvals.pdf) och se hur on-demand-inspelningen följer med.
 
