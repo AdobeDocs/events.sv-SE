@@ -24,6 +24,6 @@ Enhetliga godkännanden representerar framtiden för godkännanden i Workfront. 
 
 Om du missade sessionen, inga problem! Granska [bildbandet](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/032626+-Understanding+Unified+Approvals.pdf) och se hur on-demand-inspelningen följer med.
 
-Letar du efter fler resurser eller frågor och svar från evenemanget? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-understanding-unified-approvals-direction-reporting-and-what-s-next-3-26-26-249480)!
+Letar du efter fler resurser eller frågor och svar från evenemanget? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-understanding-unified-approvals-direction-reporting-and-what-s-next-3-26-26-249480?profile.language=sv)!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
