@@ -24,4 +24,4 @@ Fördjupa dig i Fusion Decoded Part 2 för att förstå grundläggande byggstrat
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481833/?learn=on&enablevpops)
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
