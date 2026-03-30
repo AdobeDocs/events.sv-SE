@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Fördjupa dig i Fusion Decoded Part 2 för att förstå grundläggande byggstrategier för Fusion-arbetsflöden och -system. Mötet är avsett för administratörer, utvecklare och ledare som vill förbättra sina kunskaper och förbättra sina Fusion-implementeringar. Se hur workshopen spolas tillbaka för att få användbara insikter och tekniker.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481833/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481842/?captions=swe&learn=on&enablevpops)
 
 Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.

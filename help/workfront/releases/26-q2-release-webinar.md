@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Adobe Workfront andra kvartal 2026 versionswebbseminarium
 
->[!VIDEO](https://video.tv.adobe.com/v/3481835/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481864/?captions=swe&learn=on&enablevpops)
 
 Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
