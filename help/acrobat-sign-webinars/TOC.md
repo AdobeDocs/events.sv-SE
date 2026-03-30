@@ -3,10 +3,10 @@ user-guide-title: Acrobat Sign webbinarier
 user-guide-description: Lär dig av Adobe experter hur du bemästrar nya arbetsflöden för e-signaturer i Acrobat Sign.
 cloud: Document Cloud
 solution: Document Cloud
-source-git-commit: 3a45db92bac5030331e3db33fc83c628ae7cfc39
+source-git-commit: c7127e3ce7b0215d208bdd53db3d881e9bfb83d1
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 6%
+source-wordcount: '116'
+ht-degree: 0%
 
 ---
 
@@ -19,6 +19,7 @@ ht-degree: 6%
    + [Oktober 2025](skill-builders/acrobat-sign-october-2025-release.md)
    + [Juli 2025](skill-builders/acrobat-july-release.md)
 + Innovation - nya funktioner i korthet {#newfeatures}
+   + [Identitetsverifiering och säkerhet](./skill-builders/identity-verification-security.md)
    + [Optimera e-signering för mobiler](./skill-builders/mobile-e-signing.md)
 + 101 - Kom igång för användare {#getstartedusers}
    + [Acrobat Sign 101](./skill-builders/getting-started.md)
