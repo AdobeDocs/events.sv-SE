@@ -7,9 +7,10 @@ feature: Channel Configuration
 event-cta-url-live: https://youtube.com/live/hLVIIul_2_g
 event-start-time: 2026-04-08 08:30-8
 event-guests: Sandra Hausmann, Don Huynh, Robert Calangiu, Brent Kostak
-source-git-commit: 8fb6d38bd2b8cd12d72ba777c617d20b96b23c13
+exl-id: a9541062-a3d7-4b14-b93a-d3231bc11362
+source-git-commit: e52dfcf3727825ea194768cd5e74ad276c8656cf
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -20,10 +21,10 @@ Utforska nya ytor och användningsexempel för kundengagemang när varumärken r
 <br>
 </br>
 
-[![8 april ExL Live Event Banner](assets/April-8-2026-WebBanner.jpg)](https://youtube.com/live/hLVIIul_2_g){target=“_blank”}
+[![8 april ExL Live Event Banner](assets/April-8-2026-WebBanner.jpg)](https://engage.adobe.com/ExpLeagueLive-260408.html?sdid=HCS3X75V&mv=other){target=“_blank”}
 <br>
 </br>
-<b>[Ange en påminnelse för programmet!](https://youtube.com/live/hLVIIul_2_g)</b>
+<b>[Registrera dig nu!](https://engage.adobe.com/ExpLeagueLive-260408.html?sdid=HCS3X75V&mv=other)</b>
 
 <br>
 </br>
@@ -36,4 +37,3 @@ Vi tar upp:
 - Push-meddelanden för webben: Öka engagemanget bortom mobilappar genom att nå kunder direkt i webbläsaren, direkt engagera besökare även när webbplatser inte är aktivt öppna med samma användararbetsflöden som mobilpush i Journey Optimizer
 
 - Message Inbox: Skapa en beständig, varumärkesprofilerad inkorg där kunderna kan besöka viktiga meddelanden, skräddarsytt innehåll och erbjudanden på nytt - och minska antalet missade meddelanden samtidigt som de förbättrar relevansen och användarupplevelsen.
-
