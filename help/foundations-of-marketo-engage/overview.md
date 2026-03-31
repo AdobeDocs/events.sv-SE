@@ -2,9 +2,9 @@
 title: Foundations of Marketo Engage
 description: Gå med i Foundational Marketo User Group för att bygga upp förtroende och kärnkompetens i Adobe Marketo Engage genom nybörjarvänliga, supportseminarier.
 exl-id: 0f4ac207-0828-4f35-915b-8ba5715af780
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: b0f9751c3e081316fa82cbde237404ba0c5fc07f
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,44 @@ ht-degree: 0%
 # Foundations of Marketo Engage {#foundations-of-marketo-engage-webinars}
 
 Foundational Marketo User Group är speciellt utformat för enskilda användare som just har börjat sin resa med Adobe Marketo Engage. Den här gruppen erbjuder en välkommen, stödjande miljö där nya användare kan bygga upp förtroende och grundkunskaper genom strukturerade, nybörjarvänliga sessioner.
+
+## 2026 sessioner
+
+<!-- CARDS  ****
+
+{cta = Watch}
+
+* 2026/fundamentals.md
+
+-->
+
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Session 1 of 2026 - Fundamentals of Marketo Engage">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2026/fundamentals.md" title="Session 1 2026 - grunderna i Marketo Engage" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3482934/?format=jpeg&nocache=1774995938827" alt="Session 1 2026 - grunderna i Marketo Engage"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2026/fundamentals.md" target="_blank" rel="referrer" title="Session 1 2026 - grunderna i Marketo Engage">Session 1 2026 - grunderna i Marketo Engage</a>
+                    </p>
+                    <p class="is-size-6">Lär dig grunderna i Marketo Engage, inklusive navigering, grundfunktioner och automatiseringsverktyg för att hantera marknadsföringskampanjer på ett säkert sätt.</p>
+                </div>
+                <a href="2026/fundamentals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## 2025 sessioner
 
@@ -35,7 +73,7 @@ Foundational Marketo User Group är speciellt utformat för enskilda användare 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/campaigns-with-marketo-personalization.md" title="Powering Campaigns with Marketo Personalization" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464791/?format=jpeg&nocache=1761688732004" alt="Powering Campaigns with Marketo Personalization"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464791/?format=jpeg&nocache=1774995939325" alt="Powering Campaigns with Marketo Personalization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -58,7 +96,7 @@ Foundational Marketo User Group är speciellt utformat för enskilda användare 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/nurture-recipe.md" title="Skapa din texturrecept" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475224/?format=jpeg&nocache=1761688731994" alt="Skapa din texturrecept"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475224/?format=jpeg&nocache=1774995939359" alt="Skapa din texturrecept"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -81,7 +119,7 @@ Foundational Marketo User Group är speciellt utformat för enskilda användare 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/professional-exam-preparation.md" title="Foundational Marketo User Group - Professional Exam Preparation" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476232/?format=jpeg&nocache=1761688731972" alt="Foundational Marketo User Group - Professional Exam Preparation"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476232/?format=jpeg&nocache=1774995939342" alt="Foundational Marketo User Group - Professional Exam Preparation"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -104,7 +142,7 @@ Foundational Marketo User Group är speciellt utformat för enskilda användare 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/programs-campaigns.md" title="Program, kampanjer och mer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464499/?format=jpeg&nocache=1761688732014" alt="Program, kampanjer och mer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464499/?format=jpeg&nocache=1774995939350" alt="Program, kampanjer och mer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -127,7 +165,7 @@ Foundational Marketo User Group är speciellt utformat för enskilda användare 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/scoring.md" title="Smartare bakgrundsmusik, inte svårare" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474961/?format=jpeg&nocache=1761688731985" alt="Smartare bakgrundsmusik, inte svårare"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474961/?format=jpeg&nocache=1774995939332" alt="Smartare bakgrundsmusik, inte svårare"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
