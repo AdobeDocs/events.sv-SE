@@ -3,9 +3,9 @@ title: Adobe Workfront On-demand Workshops
 description: Workfront Events är ett videobibliotek där experter och kollegor har delat med sig av sina tankar och idéer om hur man kan använda Workfront för att förbättra det arbete som utförs i organisationen.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: bc12861cad5ee726f9afe065155e03f4095e647e
+source-git-commit: d7989a42ea790da356538044033d8a4f712f6d06
 workflow-type: tm+mt
-source-wordcount: '894'
+source-wordcount: '882'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Denna pågående videoserie ger en tydlig och kortfattad översikt över varje k
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="releases/26-q1-release-webinar.md" title="Adobe Workfront första kvartal 2026 versionswebbseminarium" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481817/?format=jpeg&nocache=1774896577889" alt="Adobe Workfront första kvartal 2026 versionswebbseminarium"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481817/?format=jpeg&nocache=1775083620522" alt="Adobe Workfront första kvartal 2026 versionswebbseminarium"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -51,23 +51,23 @@ Denna pågående videoserie ger en tydlig och kortfattad översikt över varje k
 
 ## Workshop Rewind
 
-Utforska det senaste från er Adobe Workfront-community genom vårt urval av aktuella event. Varje månad håller vi kostnadsfria live-sessioner med en mängd olika ämnen som hjälper dig att få ut mesta möjliga av Workfront. Missade du en live-händelse? Inga problem! Kom ifatt med on-demand-inspelningar som visar upp kundernas berättelser, beprövade bästa metoder och värdefulla lärdomar. Vill du ansluta i realtid? Delta i kommande live-event för att ställa frågor, dela insikter och samarbeta med kollegor. Besök [Experience League Workfront Events-sidan](https://experienceleague.adobe.com/sv/events?filters=Workfront) regelbundet för att se vad som kommer härnäst!
+Utforska det senaste från er Adobe Workfront-community genom vårt urval av aktuella event. Varje månad håller vi kostnadsfria live-sessioner med en mängd olika ämnen som hjälper dig att få ut mesta möjliga av Workfront. Missade du en live-händelse? Inga problem! Kom ifatt med on-demand-inspelningar som visar upp kundernas berättelser, beprövade bästa metoder och värdefulla lärdomar. Vill du ansluta i realtid? Delta i kommande live-event för att ställa frågor, dela insikter och samarbeta med kollegor. Besök [Experience League Workfront Events-sidan](https://experienceleague.adobe.com/en/events?filters=Workfront) regelbundet för att se vad som kommer härnäst!
 
 <!-- CARDS 
 
-* workshop-rewind/planning/team-success-workfront-planning.md
-* workshop-rewind/fusion/event-costs.md
-* workshop-rewind/workflow/creative-briefs.md
+* workshop-rewind/planning/planning-workflow-canvas.md
+* workshop-rewind/workflow/rethink-resource-management.md
+* workshop-rewind/fusion/fusion-decoded.md
  
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Start Fast, Scale Smart - Activating Team-Level Success with Workfront Planning">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Workfront's Power Trio - Connecting Planning, Workflow and Canvas Dashboards">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="workshop-rewind/planning/team-success-workfront-planning.md" title="Starta snabbt, skala smart - aktivera lyckade projekt på teamnivå med Workfront Planning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469964/?format=jpeg&nocache=1774896578665" alt="Starta snabbt, skala smart - aktivera lyckade projekt på teamnivå med Workfront Planning"
+                    <a href="workshop-rewind/planning/planning-workflow-canvas.md" title="Workfront Power Trio - Ansluta planerings-, arbetsflödes- och arbetsytekontrollpaneler" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481830/?format=jpeg&nocache=1775083621240" alt="Workfront Power Trio - Ansluta planerings-, arbetsflödes- och arbetsytekontrollpaneler"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -75,22 +75,22 @@ Utforska det senaste från er Adobe Workfront-community genom vårt urval av akt
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="workshop-rewind/planning/team-success-workfront-planning.md" target="_blank" rel="referrer" title="Starta snabbt, skala smart - aktivera lyckade projekt på teamnivå med Workfront Planning">Starta snabbt, skala smart - Aktivera lyckade på teamnivå med Workfront Planning</a>
+                        <a href="workshop-rewind/planning/planning-workflow-canvas.md" target="_blank" rel="referrer" title="Workfront Power Trio - Ansluta planerings-, arbetsflödes- och arbetsytekontrollpaneler">Workfront Power Trio - Ansluter planerings-, arbetsflödes- och arbetsytans kontrollpaneler</a>
                     </p>
-                    <p class="is-size-6">Läs om hur ett team sätter första steget i Adobe Workfront Planning påskyndar användningen, minskar motståndet och bygger en skalbar grund för framgång i hela företaget.</p>
+                    <p class="is-size-6">Upptäck hur du kan integrera panelerna för planering, arbetsflöde och arbetsyta i Workfront för smidig projekthantering.</p>
                 </div>
-                <a href="workshop-rewind/planning/team-success-workfront-planning.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="workshop-rewind/planning/planning-workflow-canvas.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="The Workfront Fusion Fix - Ericsson's Smarter Way to Unlocking True Event Costs">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Rethinking Resource Management the Agile Way at Advisors Excel">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="workshop-rewind/fusion/event-costs.md" title="Workfront Fusion Fix - Ericssons smartare sätt att låsa upp verkliga händelsekostnader" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469977/?format=jpeg&nocache=1774896578674" alt="Workfront Fusion Fix - Ericssons smartare sätt att låsa upp verkliga händelsekostnader"
+                    <a href="workshop-rewind/workflow/rethink-resource-management.md" title="Ett nytt sätt att se på resurshantering på det flexibla sättet hos rådgivare Excel" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481832/?format=jpeg&nocache=1775083621230" alt="Ett nytt sätt att se på resurshantering på det flexibla sättet hos rådgivare Excel"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -98,22 +98,22 @@ Utforska det senaste från er Adobe Workfront-community genom vårt urval av akt
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="workshop-rewind/fusion/event-costs.md" target="_blank" rel="referrer" title="Workfront Fusion Fix - Ericssons smartare sätt att låsa upp verkliga händelsekostnader">Workfront Fusion Fix - Ericssons smartare sätt att låsa upp verkliga händelsekostnader</a>
+                        <a href="workshop-rewind/workflow/rethink-resource-management.md" target="_blank" rel="referrer" title="Ett nytt sätt att se på resurshantering på det flexibla sättet hos rådgivare Excel">Resurshantering på Agile Way hos rådgivare Excel </a> omprövas
                     </p>
-                    <p class="is-size-6">Se hur Ericsson använder Adobe Workfront Fusion med SharePoint, Power BI och SAP för att automatisera utgiftsrapporter, förbättra den ekonomiska synligheten och minska antalet manuella fel.</p>
+                    <p class="is-size-6">Se hur rådgivare i Excel omvandlade resurshantering med hjälp av flexibla rutiner i Adobe Workfront.</p>
                 </div>
-                <a href="workshop-rewind/fusion/event-costs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="workshop-rewind/workflow/rethink-resource-management.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Reimagining Creative Briefs in Workfront">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Fusion Decoded - What It Is and Why Every Org Can Use It">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="workshop-rewind/workflow/creative-briefs.md" title="Nya Creative Brief i Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477114/?format=jpeg&nocache=1774896578649" alt="Nya Creative Brief i Workfront"
+                    <a href="workshop-rewind/fusion/fusion-decoded.md" title="Fusion Decoded - What it is and why each Org can use it" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477159/?format=jpeg&nocache=1775083621225" alt="Fusion Decoded - What it is and why each Org can use it"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -121,11 +121,11 @@ Utforska det senaste från er Adobe Workfront-community genom vårt urval av akt
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="workshop-rewind/workflow/creative-briefs.md" target="_blank" rel="referrer" title="Nya Creative Brief i Workfront">Omdesignar Creative Brief i Workfront</a>
+                        <a href="workshop-rewind/fusion/fusion-decoded.md" target="_blank" rel="referrer" title="Fusion Decoded - What it is and why each Org can use it">Fusion har avkodats - vad det är och varför alla organisationer kan använda det</a>
                     </p>
-                    <p class="is-size-6">Se hur Kohler har transformerat sina kreativa informationsdokument med Workfront för att effektivisera processerna och öka effektiviteten.</p>
+                    <p class="is-size-6">Workfront Fusion och visar några exempel som kan hjälpa oss att demystifiera Fusion.</p>
                 </div>
-                <a href="workshop-rewind/workflow/creative-briefs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="workshop-rewind/fusion/fusion-decoded.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Läs mer</span>
                 </a>
             </div>
@@ -155,7 +155,7 @@ Vare sig du är Workfront-administratör, projektledare eller användare i varda
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/blueprints.md" title="De tre viktigaste - Creative-strategier med utkast" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465314/?captions=swe&format=jpeg&nocache=1774896579166" alt="De tre viktigaste - Creative-strategier med utkast"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1775083621996" alt="De tre viktigaste - Creative-strategier med utkast"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +178,7 @@ Vare sig du är Workfront-administratör, projektledare eller användare i varda
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/versus/groups-vs-teams.md" title="Jämfört! - Grupper kontra team" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467357/?captions=swe&format=jpeg&nocache=1774896579174" alt="Jämfört! - Grupper kontra team"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1775083622002" alt="Jämfört! - Grupper kontra team"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -219,7 +219,7 @@ Sessionerna innehåller verkliga lösningar, kundexempel och användbara arbetsm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption.md" title="Expertinsikter - användning med Leslie Spier" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469931/?captions=swe&format=jpeg&nocache=1774896579914" alt="Expertinsikter - användning med Leslie Spier"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469893/?format=jpeg&nocache=1775083622302" alt="Expertinsikter - användning med Leslie Spier"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -242,7 +242,7 @@ Sessionerna innehåller verkliga lösningar, kundexempel och användbara arbetsm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption-surveys.md" title="Expertinsikter - Adobeenkäter med Jaime Davidson" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469954/?captions=swe&format=jpeg&nocache=1774896579898" alt="Expertinsikter - Adobeenkäter med Jaime Davidson"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469895/?format=jpeg&nocache=1775083622315" alt="Expertinsikter - Adobeenkäter med Jaime Davidson"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -265,7 +265,7 @@ Sessionerna innehåller verkliga lösningar, kundexempel och användbara arbetsm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/agile.md" title="Expertinsikter - Agile with Natalie Mitchell" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469920/?captions=swe&format=jpeg&nocache=1774896579905" alt="Expertinsikter - Agile with Natalie Mitchell"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469891/?format=jpeg&nocache=1775083622295" alt="Expertinsikter - Agile with Natalie Mitchell"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
