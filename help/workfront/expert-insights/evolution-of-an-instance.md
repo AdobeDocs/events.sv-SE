@@ -21,7 +21,7 @@ Välkommen till det senaste Expert Insights-avsnittet! Jag är Cynthia Boon, din
 
 I det här avsnittet har vi anslutit oss till den fantastiska Jen Desmond, Technical Success Advisor på Adobe, som delar med sig av sin resa från förstagångsanvändare till betrodda experter, tillsammans med praktiska råd för att hantera ändringar och utöka instansen med avsikt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483111/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483115/?captions=swe&learn=on&enablevpops)
 
 Du kommer att gå din väg med genomtänkta insikter, bland annat:
 
