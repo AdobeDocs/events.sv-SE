@@ -25,10 +25,10 @@ och se hur ondemand-inspelningen följer med när Jen ger en översikt över Wor
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477159/?learn=on&enablevpops)
 
-Älskade du den här sessionen och ville lära dig mer av Jen? Se till att du tittar på den andra sessionen i serien, [Fusion Decoded Part 2 - Let&#39;s Start Building](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded-part-2)!
+Älskade du den här sessionen och ville lära dig mer av Jen? Se till att du tittar på den andra sessionen i serien, [Fusion Decoded Part 2 - Let&#39;s Start Building](https://experienceleague.adobe.com/sv/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded-part-2)!
 
-Glöm inte att granska listan med tillgängliga Adobe Workfront [Fusion-mallar](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates).
+Glöm inte att granska listan med tillgängliga Adobe Workfront [Fusion-mallar](https://experienceleague.adobe.com/sv/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates).
 
-Fler resurslänkar finns tillgängliga på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958)!
+Fler resurslänkar finns tillgängliga på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958?profile.language=sv)!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
