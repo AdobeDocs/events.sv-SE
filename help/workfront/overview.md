@@ -155,7 +155,7 @@ Vare sig du är Workfront-administratör, projektledare eller användare i varda
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/blueprints.md" title="De tre viktigaste - Creative-strategier med utkast" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1775228744320" alt="De tre viktigaste - Creative-strategier med utkast"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465314/?captions=swe&format=jpeg&nocache=1775228744320" alt="De tre viktigaste - Creative-strategier med utkast"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +178,7 @@ Vare sig du är Workfront-administratör, projektledare eller användare i varda
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/versus/groups-vs-teams.md" title="Jämfört! - Grupper kontra team" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1775228744326" alt="Jämfört! - Grupper kontra team"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467357/?captions=swe&format=jpeg&nocache=1775228744326" alt="Jämfört! - Grupper kontra team"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -219,7 +219,7 @@ Sessionerna innehåller verkliga lösningar, kundexempel och användbara arbetsm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/text-mode.md" title="Huvudtextläge med Katherine Lanning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477024/?format=jpeg&nocache=1775228744510" alt="Huvudtextläge med Katherine Lanning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477138/?captions=swe&format=jpeg&nocache=1775228744510" alt="Huvudtextläge med Katherine Lanning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -242,7 +242,7 @@ Sessionerna innehåller verkliga lösningar, kundexempel och användbara arbetsm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/sla-reporting.md" title="SLA Reporting in Workfront with Madalyn Destafney" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1775228744500" alt="SLA Reporting in Workfront with Madalyn Destafney"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469982/?captions=swe&format=jpeg&nocache=1775228744500" alt="SLA Reporting in Workfront with Madalyn Destafney"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -265,7 +265,7 @@ Sessionerna innehåller verkliga lösningar, kundexempel och användbara arbetsm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/evolution-of-an-instance.md" title="Expertinsikter med Jen Desmond" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483111/?format=jpeg&nocache=1775228744495" alt="Expertinsikter med Jen Desmond"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483115/?captions=swe&format=jpeg&nocache=1775228744495" alt="Expertinsikter med Jen Desmond"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
