@@ -70,7 +70,7 @@ ht-degree: 6%
    + 2026 {#2026}
       + [Hållbar användning av Workfront](workfront/2026/workfront-adoption.md)
    + 2025 {#2025}
-      + [Metadata Mayhem](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [Metadata Mayhem](https://experienceleague.adobe.com/sv/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Ledande effekt - Mät och dela Workfront-värde](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Förenkla resursplaneringen med automatisering](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
