@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Samling med inspelningar från  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 986f7ff44677a9654a0285290ff9c26eeef04a51
+source-git-commit: a74b16144c63581e387e590ff4aa98f9a218ec84
 workflow-type: tm+mt
-source-wordcount: '361'
-ht-degree: 5%
+source-wordcount: '365'
+ht-degree: 6%
 
 ---
 
@@ -67,8 +67,10 @@ ht-degree: 5%
       + [Kraschar Personalization vid skalkod med  [!DNL Marketo Engage]](marketo/2023/personalization-at-scale.md)
       + [Så här gör du ditt [!DNL Adobe Marketo Engage] innehåll skalbart](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
+   + 2026 {#2026}
+      + [Hållbar användning av Workfront](workfront/2026/workfront-adoption.md)
    + 2025 {#2025}
-      + [Metadata Mayhem](https://experienceleague.adobe.com/sv/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [Metadata Mayhem](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Ledande effekt - Mät och dela Workfront-värde](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Förenkla resursplaneringen med automatisering](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
