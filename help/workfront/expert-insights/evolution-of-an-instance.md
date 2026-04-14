@@ -7,21 +7,21 @@ doc-type: Event
 duration: 1201
 last-substantial-update: 2026-04-03T00:00:00Z
 jira: KT-20745
-source-git-commit: 88adf7e72d49b8f8e8cf8199e320152556304d46
+exl-id: b4f70c4f-9d01-4b06-afcf-ec963f3604c5
+source-git-commit: 327b4b3fe5c69e163190b3b2cdfdb5b426b417af
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 0%
 
 ---
 
-
-# Workfront Expert Insights - Evolution of a Instance with Jen Desmond
+# Workfront Expert Insights - Evolution of an Instance with Jen Desmond
 
 Välkommen till det senaste Expert Insights-avsnittet! Jag är Cynthia Boon, din&quot;On-Demand&quot; Workfront CSM. Har du någonsin undrat hur andra kunder utvecklar sin Workfront-instans över tid - eller hur man navigerar utan att det känns överväldigande?
 
 I det här avsnittet har vi anslutit oss till den fantastiska Jen Desmond, Technical Success Advisor på Adobe, som delar med sig av sin resa från förstagångsanvändare till betrodda experter, tillsammans med praktiska råd för att hantera ändringar och utöka instansen med avsikt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483115/?captions=swe&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483111/?learn=on&enablevpops)
 
 Du kommer att gå din väg med genomtänkta insikter, bland annat:
 
@@ -34,9 +34,9 @@ Du kommer att gå din väg med genomtänkta insikter, bland annat:
 ## Resurs
 
 Jen delar också med sig av några av sina favoritresurser - till exempel varför Fusion-mallar, utkast och gemensamma bästa metoder kan göra stor skillnad. Läs mer här:
-* [Lista över tillgängliga Fusion-mallar](https://experienceleague.adobe.com/sv/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
-* [Lista över tillgängliga utkast](https://experienceleague.adobe.com/sv/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
-* [Experience League Workfront Community](https://experienceleaguecommunities.adobe.com/adobe-workfront-22?profile.language=sv)
+* [Lista över tillgängliga Fusion-mallar](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
+* [Lista över tillgängliga utkast](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
+* [Experience League Workfront Community](https://experienceleaguecommunities.adobe.com/adobe-workfront-22)
 
 Men vänta!  Hon har fler råd att dela!
 
@@ -55,4 +55,4 @@ Jen Desmond är en Sr. Technical Success Advisor som samarbetar med kunderna fö
 Har du en bra historia att dela, antingen under ett evenemang eller i en video med expertinsikter? Kontakta vårt team på [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
 
 
-Och om du gillar att lära dig mer om nya idéer och kreativa strategier, glöm inte att registrera dig för kommande workshops på [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events).
+Och om du gillar att lära dig mer om nya idéer och kreativa strategier, glöm inte att registrera dig för kommande workshops på [Experience League Events-sidan](https://experienceleague.adobe.com/en/events).
