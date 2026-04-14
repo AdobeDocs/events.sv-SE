@@ -34,9 +34,9 @@ Du kommer att gå din väg med genomtänkta insikter, bland annat:
 ## Resurs
 
 Jen delar också med sig av några av sina favoritresurser - till exempel varför Fusion-mallar, utkast och gemensamma bästa metoder kan göra stor skillnad. Läs mer här:
-* [Lista över tillgängliga Fusion-mallar](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
-* [Lista över tillgängliga utkast](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
-* [Experience League Workfront Community](https://experienceleaguecommunities.adobe.com/adobe-workfront-22)
+* [Lista över tillgängliga Fusion-mallar](https://experienceleague.adobe.com/sv/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
+* [Lista över tillgängliga utkast](https://experienceleague.adobe.com/sv/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
+* [Experience League Workfront Community](https://experienceleaguecommunities.adobe.com/adobe-workfront-22?profile.language=sv)
 
 Men vänta!  Hon har fler råd att dela!
 
@@ -55,4 +55,4 @@ Jen Desmond är en Sr. Technical Success Advisor som samarbetar med kunderna fö
 Har du en bra historia att dela, antingen under ett evenemang eller i en video med expertinsikter? Kontakta vårt team på [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
 
 
-Och om du gillar att lära dig mer om nya idéer och kreativa strategier, glöm inte att registrera dig för kommande workshops på [Experience League Events-sidan](https://experienceleague.adobe.com/en/events).
+Och om du gillar att lära dig mer om nya idéer och kreativa strategier, glöm inte att registrera dig för kommande workshops på [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events).
