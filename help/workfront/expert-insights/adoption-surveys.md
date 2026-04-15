@@ -8,6 +8,7 @@ speaker-name-2: Danielle Johnston
 speaker-title-2: Customer Success Manager
 speaker-company-2: Adobe
 feature: Workfront Integrations and Apps
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -15,9 +16,9 @@ duration: 1910
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18617
 exl-id: 75153967-b82d-4221-b44b-73aabb74402f
-source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -26,17 +27,17 @@ ht-degree: 0%
 
 Det är din On-Demand Workfront CSM här, och jag är tillbaka med en ny video!  Den här gången har vi en presentation från en av våra fantastiska kunder, Jaime Davidson från Cognizant!  Hon var snäll och erbjöd sin tid och sin expertis under vårt Connect-event i november, och delade med sig av sina erfarenheter och resurser för att genomföra Workfront Adobe Surveys. *Bonus!* Danielle Johnston, Workfront CSM, delar också med sig av sina insikter och rekommendationer!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469954/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3469895/?learn=on&enablevpops)
 
-## Resurser
+## Resurs
 
 Under presentationen diskuterade Jaime och Danielle några kompletterande resurser, som vi har länkat till nedan.
 
-* [Workfront Guide to Adobe Surveys](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+Guide+to+Adoption+Surveys)
+* [Workfront Guide to Adoption Surveys](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+Guide+to+Adoption+Surveys)
 * [Workfront Admin Chat - Cognizant](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
 * [Workfront User Adoption Survey](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
-Vill du ha mer information om Adobe och allmän introduktion? Kolla in vår blogg! - [Nya Workfront-kunder! Välkommen till Adobe Workfront blogg Customer Success Onboarding!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=sv)
+Vill du ha mer information om Adobe och allmän introduktion? Kolla in vår blogg! - [Nya Workfront-kunder! Välkommen till Adobe Workfront blogg Customer Success Onboarding!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
 
 ## Om högtalaren
 

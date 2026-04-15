@@ -2,6 +2,8 @@
 title: Låt Smart List-logiken ta tillvara för er kampanjpublik
 description: En översikt över Smart Campaigns och hur de passar in i Marketo Engage övergripande arkitektur En djupdykning i de fyra logiska nivåerna för att konfigurera och anpassa era målgrupper Tricks för att felsöka er logik och verifiera att ni har riktat era målgrupper korrekt
 solution: Marketo Engage
+feature: Smart Lists
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 doc-type: Event
@@ -9,7 +11,7 @@ duration: 2250
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16000
 exl-id: f9ebb3f5-6389-42af-995b-a33eb9024bbe
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -26,4 +28,4 @@ Smarta kampanjer är de kraftfulla motorer som driver Marketo Engage automatiser
 * En djupdykning i de fyra logiska nivåerna för att konfigurera och anpassa era målgrupper
 * Tricks för att felsöka logiken och verifiera att du har riktat rätt till den avsedda målgruppen
 
->[!VIDEO](https://video.tv.adobe.com/v/3457302/?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3432943/?learn=on)

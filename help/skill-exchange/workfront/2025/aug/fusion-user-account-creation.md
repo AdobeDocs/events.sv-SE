@@ -3,6 +3,7 @@ title: Automatisera framtagning av Workfront-användarkonton med Fusion
 description: Upptäck hur du kan använda Adobe Workfront Fusion och API:er för att automatisera framtagning av användarkonton, minska konfigurationstiden från 22 minuter till under 60 sekunder och öka effektiviteten.
 solution: Workfront
 feature: Workfront Fusion, Workfront API
+topic: Integrations, Development
 speaker-name-1: Kurt Jones
 speaker-company-1: J.P. Morgan
 speaker-title-1: Payments
@@ -13,9 +14,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18876
 exl-id: e8ac62c5-75e5-41d2-94c8-25bcaacd5668
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---

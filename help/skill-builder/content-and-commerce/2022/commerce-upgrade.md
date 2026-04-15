@@ -2,15 +2,17 @@
 title: Allt du behöver veta om Adobe Commerce 2.4.4-uppgraderingen
 description: Som 2.4.4. Commerce Service Pack blev tillgängligt, lär dig fördelarna och allt du behöver veta för att planera och leverera uppgraderingen.
 solution: Commerce
+feature: Integration, Edge Delivery Services
+topic: Commerce, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 kt: 10567
 thumbnail: 343813.jpeg
 exl-id: edc4a48a-1429-466e-aba4-75eb5388bd72
 duration: 2571
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---

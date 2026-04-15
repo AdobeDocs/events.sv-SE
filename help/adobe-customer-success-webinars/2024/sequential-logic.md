@@ -1,6 +1,8 @@
 ---
 title: Mastering Sequential Logic in Adobe Analytics and Customer Journey Analytics - Foundations
-description: Lär dig mer om sekventiell segmentering och filter i AA och CJA med grundläggande aspekter, praktiska exempel och affärsapplikationer, som behandlas i Andy Powers session.
+description: Behärska sekventiell segmentering och filter i AA och CJA med grundläggande aspekter, praktiska exempel och affärsapplikationer som behandlas i Andy Powers session.
+feature: Basics, Use Cases
+topic: Integrations, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3259
 last-substantial-update: 2025-01-15T00:00:00Z
 jira: KT-17125
 exl-id: db84e4aa-2585-4a08-8e85-bbf67419cc24
-source-git-commit: eba128e9c55c6f22e172b2700dae34dfbd2c16b3
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -23,8 +25,8 @@ Få en grundläggande förståelse för THEN och relaterade sekventiella logikop
 
 ## Viktiga uppgifter
 
-* **Sessionsfokus** Sessionen fokuserades på att bemästra sekventiell logik och analys i Customer Journey Analytics (CJA), ledd av Andy Powers.
-* **Sekventiell logikbas** Sessionen innehöll grundläggande aspekter av sekventiell segmentering och filtrering i analyser och CJA, bland annat:
+* **Sessionsfokus** Sessionen fokuserades på att behärska sekventiell logik och analys i Customer Journey Analytics (CJA), ledd av Andy Powers.
+* **Sequential Logic Basics** Sessionen innehöll grundläggande aspekter av sekventiell segmentering och filtrering i analyser och CJA, inklusive:
 
    * Användning av operatorn&quot;then&quot;.
    * Hur&quot;after&quot;- och&quot;within&quot;-modifierare fungerar.
@@ -34,5 +36,5 @@ Få en grundläggande förståelse för THEN och relaterade sekventiella logikop
 * **Komplexitet och praxis** Ämnet är komplext och kräver övning för att fungera. Andy föreslog att man skulle börja med små, kända datauppsättningar för att validera och förstå segmentdefinitionerna.
 * **Affärsprogram** Sekventiell logik kan hjälpa till att besvara olika affärsfrågor, till exempel kundbeteende efter specifika händelser, att jämföra grupper baserat på åtgärdssekvenser och att analysera kundresor.
 * **Avancerade ämnen** Framtida sessioner kan omfatta mer avancerade ämnen som att använda exclude i sekvenser, icke-upprepade förekomster samt ytterligare tips och exempel.
-* **Begäran om feedback* Deltagare ombads fylla i en enkät för att ge återkoppling om sessionen och uttrycka intresse för framtida ämnen.
-* **Resurser** Länkar till resurser för både analyser och CJA-sidor av sekventiella segment eller filter tillhandahölls för ytterligare studier.
+* ** Begäran om feedback* Deltagare ombads fylla i en enkät för att ge återkoppling om sessionen och uttrycka intresse för framtida ämnen.
+* **Resurser** Länkar till resurser för både analyser och CJA sidor av sekventiella segment eller filter tillhandahölls för ytterligare studier.

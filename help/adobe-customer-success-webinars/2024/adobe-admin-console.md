@@ -1,6 +1,8 @@
 ---
 title: Mastering the Adobe Admin Console
 description: Adobe Admin Console är en central plattform för hantering av Adobe Enterprise Solutions, med funktioner för användar- och produkthantering, säkerhet och regelefterlevnad, supportresurser samt skalbara rutiner för företag.
+feature: Analytics Basics, Analysis Workspace
+topic: Integrations, Security, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,7 +10,7 @@ duration: 2767
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16630
 exl-id: 2a604f0f-d422-4a7d-8e72-bd38dfca7bf0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%

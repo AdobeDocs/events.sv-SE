@@ -1,7 +1,8 @@
 ---
 title: Adobe Developers Live - NOV 22 - Senaste Adobe Experience Manager Headless Innovations för utvecklare
-description: Senaste Adobe Experience Manager Headless Innovations for DevelopersAdobe Experience Manager Headless-erbjudandet fortsätter att utvecklas och bli bättre med API:er och andra innovationer som ger utvecklare fler verktyg för att få saker gjorda.Under den här sessionen ska vi visa hur du kan använda några av dessa förbättringar, bland annat hur du hanterar headless-innehåll via API och importerar från andra källor och hur du skapar avancerade Graph QL-frågor som utnyttjar CDN för optimalt leverans.
+description: Senaste Adobe Experience Manager Headless Innovations for DevelopersAdobe Experience Manager Headless-erbjudandet fortsätter att utvecklas och bli bättre med API:er och andra innovationer som ger utvecklarna fler verktyg för att få saker och ting gjorda.Under den här sessionen ska vi visa hur du kan använda några av dessa förbättringar, bland annat hur du hanterar headless-innehåll via API och importerar från andra källor, och hur du skapar avancerade Graph QL-frågor som utnyttjar CDN för optimal leverans.
 solution: Experience Manager,Experience Manager Sites
+feature: Release Information, Edge Delivery Services, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ kt: 11483
 thumbnail: 3411304.jpeg
 exl-id: 7077c3ba-1a56-4715-a564-90fc4f4b2071
 duration: 2597
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---

@@ -1,16 +1,18 @@
 ---
 title: Marknadsföringskanaler, använd ansvarsfullt
-description: Förstå vilken effekt varje kontaktyta för ert varumärke har på kundresan med hjälp av marknadskanaler och attribueringsmodeller.Under den här sessionen ... (Beskrivningarna ska vara mellan 60 och 160 tecken)
+description: Förstå vilken effekt varje kontaktyta för ert varumärke har på kundresan med hjälp av marknadskanaler och attribueringsmodeller.I den här sessionen kommer du att ... (beskrivningarna ska vara mellan 60 och 160 tecken)
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10322
 thumbnail: 342532.jpeg
 exl-id: 858fbd40-c520-4974-a6f1-2d573b0a1bf6
 duration: 1952
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---

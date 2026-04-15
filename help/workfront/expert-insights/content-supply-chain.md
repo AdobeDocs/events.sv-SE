@@ -1,6 +1,7 @@
 ---
-title: Expertinsikter - innehållsleveranskedja med Corre Kombol
-description: Lär dig expertstrategier från Corre Kombol om hur ni optimerar er innehållsleveranskedja med Adobe lösningar. Öka effektiviteten, samarbetet och resultaten.
+title: Expertinsikter - Innehåll i Supply chain med Corre Kombol
+description: Lär dig expertstrategier från Corre Kombol om hur du optimerar ditt innehåll med supply chain med Adobe lösningar. Öka effektiviteten, samarbetet och resultaten.
+feature: Strategic Planning
 topic: Content Supply Chain
 speaker-name-1: Corre Kombol
 speaker-title-1: Principal Customer Success Manager
@@ -12,18 +13,18 @@ duration: 801
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18621
 exl-id: f8600288-a19b-440c-b60d-94078014353e
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
 
-# Expertinsikter - innehållsleveranskedja med Corre Kombol
+# Expertinsikter - Innehåll i Supply chain med Corre Kombol
 
 Välkommen tillbaka till Expert Insights!  Jag är Cynthia Boon, din&quot;On-Demand&quot; kundansvarige på Workfront, och i det här avsnittet kommer vi att vara tillsammans med Corre Kombol, en rektor på Customer Success Manager här på Adobe!  
 
-Corre är en verkligt strategisk CSM som ger oss kraft att använda Adobe Solutions för att stödja er organisations satsningar på innehållsleveranskedjan. 
+Corre är en verkligt strategisk CSM som ger oss utrymme att använda Adobe Solutions för att stödja er organisations arbete med Content Supply chain. 
 
 ## Corres Advice
 
@@ -31,19 +32,19 @@ Corre är en verkligt strategisk CSM som ger oss kraft att använda Adobe Soluti
 * Börja med att identifiera dina processfärgspunkter och gå vidare därifrån. Låt inte tekniken övervinna målet.
 * Kommunicera med andra kunder som befinner sig på en liknande resa i communityn eller på Evenemanget! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469998/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3469899/?learn=on&enablevpops)
 
-## Resurser
+## Resurs
 
 ### Möten
 
-* [Hur Adobe optimerade sin innehållsleveranskedja - S316](https://business.adobe.com/se/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : Utforska Adobe strategi för att distribuera sin innehållsleveranskedja i sin egen marknadsföringsorganisation 
-* [Revolutionerar innehållsproduktion med Adobe - S305](https://business.adobe.com/se/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Upptäck hur Adobe kan maximera innehållskedjan och snabba upp ditt kreativa arbetsflöde 
+* [Så här optimerade Adobe sitt innehåll Supply chain - S316](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : Utforska Adobe sätt att distribuera sitt innehåll Supply chain i sin egen marknadsföringsorganisation 
+* [Revolutionerar innehållsproduktion med Adobe - S305](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Upptäck hur Adobe kan maximera ditt innehåll supply chain och snabba upp ditt kreativa arbetsflöde 
 
 ### Produktdemonstrationer
 
-* [Workfront](https://business.adobe.com/se/product-demos/workfront/interactive-tour.html) - eftersom en interaktiv [produktdemo] behövs för att illustrera omfattningen av vad som kan finnas i vår företagslösning för arbetshantering.  
-* [GenStudio](https://business.adobe.com/se/resources/sdk/getting-started-with-adobe-genstudio.html) - Jag älskar hur omfattande detta är för våra kunder att börja knyta sina behov till lösningar som finns idag på Adobe.
+* [Workfront](https://business.adobe.com/product-demos/workfront/interactive-tour.html) - eftersom en interaktiv [produktdemo] behövs för att illustrera omfattningen av vad som kan finnas i vår företagslösning för arbetshantering.  
+* [GenStudio](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) - Jag älskar hur omfattande detta är för våra kunder att börja knyta sina behov till lösningar som finns idag på Adobe.
 
 ## Om högtalaren 
 

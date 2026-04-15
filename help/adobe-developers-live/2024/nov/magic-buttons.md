@@ -2,6 +2,7 @@
 title: Magic Buttons and How to Build Them
 description: Förbättra arbetsflödena och användarupplevelserna med Adobe utbyggbarhet, som möjliggör anpassad integrering via Adobe App Builder, förenklar komplexa uppgifter med en"magisk knapp" och stöder smidig integrering med företagssystem, med framtida utbyggnadsmöjligheter för fler Adobe-tjänster.
 solution: Experience Manager
+feature: Developer Tools, Authoring
 topic: Development
 role: Developer
 level: Beginner, Intermediate
@@ -10,9 +11,9 @@ duration: 1226
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16548
 exl-id: 9dafd048-8b3a-444f-bf0e-d49f76ae7054
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---

@@ -1,7 +1,8 @@
 ---
-title: AI-assistenten i AEM
+title: AI Assistant i AEM
 description: Läs om hur AEM AI Assistant effektiviserar redigerings- och administratörsuppgifter. Utforska dess omfång, konfiguration och se hur den fungerar i en live-demo.
 solution: Experience Manager
+feature: Authoring
 topic: Artificial Intelligence
 role: Developer, User
 level: Beginner, Intermediate, Experienced
@@ -9,15 +10,15 @@ doc-type: Event
 duration: 2491
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19626
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 5334e833-d83a-4c78-a1e1-901a9cec1e14
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 2%
+source-wordcount: '289'
+ht-degree: 0%
 
 ---
 
-
-# AI-assistenten i AEM
+# AI Assistant i AEM
 
 Utforska funktionerna i AI Assistant i AEM, inklusive konfiguration och en live-demo, för att förstå hur det kan effektivisera redigerings- och administrationsuppgifter.
 
@@ -49,4 +50,3 @@ Genom att förstå dessa funktioner kan teamen utnyttja AEM AI Assistant för sn
 * **Ingen innehållsgenerering** För närvarande genererar eller redigerar assistenten inget innehåll. Fokus är på kunskap och support.
 
 Framtida förbättringar: Ytterligare funktioner och bredare funktioner är under övervägande, med uppdateringar som förväntas allt eftersom produkten utvecklas.
-

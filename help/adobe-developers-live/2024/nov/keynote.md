@@ -1,8 +1,9 @@
 ---
 title: Keynote - Adobe Experience Manager Update
-description: Adobe betonar den avgörande roll som utvecklarna spelar i Experience Manager och Commerce-verksamheten, lyfter fram hybridevenemangets format, firar milstolpar och fokuserar på innovation, prestanda, samhällsengagemang och framtida utvecklingar inom webbprestanda, generativt användargränssnitt och avancerade sökfunktioner.
+description: Adobe betonar utvecklarnas viktiga roll i sitt Experience Manager- och Commerce-företag, lyfter fram hybridevenemangets format, firar milstolpar och fokuserar på innovation, prestanda, samhällsengagemang och framtida utvecklingar av webbprestanda, generativt användargränssnitt och avancerade sökfunktioner.
 solution: Experience Manager, Commerce
 feature: Release Information
+topic: Artificial Intelligence, Personalization, Performance
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event
@@ -10,16 +11,16 @@ duration: 3101
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16543
 exl-id: aefe7bf2-921f-48e5-beec-ade33801a3c5
-source-git-commit: b3b8fbee219ad35dca5d48a57f1f5b87c8928443
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
 
 # Keynote - Adobe Experience Manager Update
 
-Börja med en chefshälsning från Loni Stark, Vice President of Strategy and Product på Adobe, där han satte steget för dagen. Gå sedan med i Cedric Huesler, Director på Product Management för Adobe Experience Manager, när han delar Adobe vision för digitala upplevelser. Upptäck de senaste innovationerna som driver Adobe Experience Manager framåt, deras inverkan på webbutvecklingen och en förhandsgranskning av vad som finns i horisonten.
+Börja med en chefshälsning från Loni Stark, Vice President of Strategy and Product på Adobe, där han satte steget för dagen. Gå sedan med i Cedric Huesler, Director of Product Management för Adobe Experience Manager, när han delar Adobe vision för digitala upplevelser. Upptäck de senaste innovationerna som driver Adobe Experience Manager framåt, deras inverkan på webbutvecklingen och en förhandsgranskning av vad som finns i horisonten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439437/?learn=on&enablevpops)
 
@@ -29,7 +30,7 @@ Fortsätt konversationen i [diskussionen](https://adobe.ly/3Ywf7Vm) i Adobe Deve
 
 ## Viktiga uppgifter
 
-* **Utvecklarnas betydelse** Utvecklarna är avgörande för Adobe och dess verksamhet i Experience Manager och Adobe Commerce. &#x200B;
+* **Utvecklarnas betydelse** Utvecklarna är avgörande för Adobe och dess Experience Manager- och Adobe Commerce-verksamhet. &#x200B;
 * **Hybrid-format** Händelsen är speciell eftersom den kombinerar både personliga format och onlineformat för att främja en bättre anslutning.
 * **Milstolpe Achievement** Adobe Experience Manager har blivit en hörnsten i Adobe digitala upplevelseföretag. &#x200B;
 * **Historisk kontext** Adobe Experience Manager kärnteknik startades i en korvfabrik 1993 och förvärvades av Adobe 2010.
@@ -40,5 +41,5 @@ Fortsätt konversationen i [diskussionen](https://adobe.ly/3Ywf7Vm) i Adobe Deve
 * **Framtida utvecklingar** Adobe investerar i nya tekniker och verktyg för att förbättra webbprestanda, användarupplevelser och utvecklingsproduktivitet.
 * **Generativt användargränssnitt och Personalization** Framtida webbupplevelser kommer att omfatta generativ gränssnittskomposition och skräddarsydd innehållsleverans baserat på realtidsdata och användarinteraktioner. &#x200B;
 * **Sökning och indexering** Adobe implementerar avancerade sökfunktioner, inklusive vektorindexering, för att förbättra innehållsåterhämtning och användarupplevelsen.
-* **Collaboration och Feedback** Adobe uppmuntrar samarbete och feedback från communityn att fortsätta att förnya och förbättra sina produkter och tjänster.
+* **Collaboration och Feedback** Adobe uppmuntrar samarbete och feedback från communities för att fortsätta att förnya och förbättra sina produkter och tjänster.
 

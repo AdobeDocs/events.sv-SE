@@ -2,13 +2,15 @@
 title: Maximera implementeringen av AEM
 description: Gör det möjligt för era marknadsförare, driftsätt webbplatser snabbare och förbättra era upplevelser kontinuerligt.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Administration
 role: User
 level: Beginner, Intermediate, Experienced
 kt: 10949
 thumbnail: 346386.jpeg
 exl-id: fe61ae67-f57b-4937-8155-c9c34dfa949f
 duration: 2535
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

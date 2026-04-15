@@ -1,6 +1,8 @@
 ---
 title: Marketo and Mochas - Deliverability (Part 2)
 description: Utforska de effektivaste strategierna för e-postleverans med Marketo Deliverability Manager Sean Wirt, inklusive Gmail-strategier, Apple Mail Privacy, delade respektive dedikerade IP-adresser samt en detaljerad demo av Marketo Engage Deliverability Tool, Seed Lists, smarta listor och rapporter.
+feature: Smart Lists, Reporting
+topic: Security
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ thumbnail: 3418668.jpeg
 event-start-time: 2023-4-24 08:30-8
 exl-id: 02bf8dc4-a08a-4c82-812f-6b3e10ec97a2
 duration: 3638
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---

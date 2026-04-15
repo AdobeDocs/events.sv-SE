@@ -2,19 +2,20 @@
 title: Automatisera och förnya skapandet av smartare flöden med hjälp av webhooks och SSFS (Self-Service Flow Steps)
 description: Denna Marketo djupdykning omfattar webhooks och SSFS (Self-Service Flow Steps) som hjälper er att bygga smartare, AI-klar marknadsföringsautomatisering. Lär dig hur du konfigurerar bästa praxis, integreringstekniker i realtid och praktiska användningsexempel som CRM-uppdateringar, databerikning, anpassad flödeslogik och AI-baserade arbetsflöden. Perfekt för Marketo-användare, MOP-team och administratörer som fokuserar på högre datakvalitet och kampanjresultat.
 feature: Webhooks
+topic: Integrations, Security, Development
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 3177
 last-substantial-update: 2026-02-25T00:00:00Z
 jira: KT-20403
-source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
+exl-id: ad847106-fb71-41c7-9584-a19d5da44024
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
-
 
 # Automatisera och förnya skapandet av smartare flöden med hjälp av webhooks och SSFS (Self-Service Flow Steps)
 
@@ -57,4 +58,3 @@ Högdagern kommer att vara en serie användningsfall i verkligheten, vilket kulm
 * **Marketo-administratörer** som hanterar databasarkitektur, integreringar och teknisk infrastruktur
 * **AI/Automation-Adobe-program** Organisationer som förbereder sin Marketo-instans för AI-baserade funktioner
 * **Datamedvetna marknadsförare** team som vill förbättra datakvaliteten, rapporteringsnoggrannheten och kampanjeffektiviteten
-

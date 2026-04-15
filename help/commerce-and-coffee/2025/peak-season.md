@@ -1,19 +1,21 @@
 ---
 title: Commerce & Coffee - förberedelse inför högsäsong
 description: Upptäck strategier för att skala, personalisera och optimera er handelsupplevelse med Adobe Commerce - som omfattar B2B-, SaaS-verktyg, sökfunktioner och post-peak-analyser.
+feature: B2B, Payments
+topic: Personalization, Performance, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3415
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19501
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+exl-id: f7fa9b2a-5a1f-4d19-86e3-23c01c4d6c36
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
-
 
 # Commerce &amp; Coffee: Preparing for Peak Season
 
@@ -44,4 +46,3 @@ Att leverera skräddarsydda upplevelser är en beprövad drivkraft för intäkte
 * **Interaktiv förbättring** Övervaka analyser och justera strategier under säsongen för optimala resultat.
 
 Personalization bygger lojalitet och ökar försäljningen genom att göra köpprocessen enklare och mer engagerande.
-

@@ -1,6 +1,8 @@
 ---
 title: Konfigurera hållbar Workfront-användning - från arkitektur till vardaglig användning
 description: Upptäck strategier för hållbar användning av Workfront, inklusive styrning, mallar, automatisering och användarengagemang för långsiktig framgång.
+feature: Workfront Fusion, System Setup and Administration
+topic: Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,13 +11,13 @@ last-substantial-update: 2026-04-08T00:00:00Z
 hidefromtoc: true
 hide: true
 jira: KT-20786
-source-git-commit: a74b16144c63581e387e590ff4aa98f9a218ec84
+exl-id: d751d2d8-0779-451f-a2bf-351d26a56eab
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # Konfigurera hållbar användning av Workfront: Från arkitektur till vardaglig användning
 
@@ -33,6 +35,3 @@ Tillsammans diskuterade de hur de bytte team från sporadiska användnings- och 
 * Tips för standardisering av intag och arbetsflöde så att arbetet kommer in i systemet på ett enhetligt sätt, rör sig effektivt och ger ledarna den synlighet de behöver utan att skapa friktioner för teamen
 * Praktiska sätt att använda automatisering för att öka engagemang och ansvarighet
 * En tydlig och åtgärdbar ram för att bedöma och förbättra acceptansen, hjälpa team att identifiera riskområden och prioritera rätt förbättringar
-
-
-

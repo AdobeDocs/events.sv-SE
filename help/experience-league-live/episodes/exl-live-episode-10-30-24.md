@@ -4,12 +4,14 @@ description: Läs om hur Federated Audience Composition erbjuder ett omfattande 
 kt: KT-15473
 solution: Journey Optimizer
 feature: Audiences
+topic: Security
 event-cta-url-live: https://www.youtube.com/watch?v=xp3WRr4XmWM
 event-start-time: 2024-10-30 08:30-7
 event-guests: Sandra Hausmann, Don Huynh, Pravin Prakash Kumar
-source-git-commit: fe04eef54d34f1bcc0ce9d164d4d212096908f0a
+exl-id: 2adabbf2-530d-418a-b6d3-cbf04c99d842
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -23,4 +25,3 @@ Lär dig hur ni revolutionerar er engagemangsstrategi med smidiga, icke-påträn
 **Visa detaljer**:
 
 Under det här seminariet presenterar Don Huynh och Pravin Prakash Kumar och demonstrerar Content Cards, en mångsidig meddelandekanal för Adobe Journey Optimizer som är utformad för att öka användarengagemanget och öka konversationerna i både mobil- och webbapplikationer. Till skillnad från traditionella push- och in-app-meddelanden levererar Content Cards smidigt viktiga uppdateringar, kampanjer och meddelanden i din app eller på din webbplats, vilket ger en icke-påträngande användarupplevelse.
-

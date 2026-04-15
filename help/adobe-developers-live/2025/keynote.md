@@ -1,19 +1,21 @@
 ---
 title: Building the Agentic Web Keynote
 description: Upptäck AI:s roll i digitala upplevelser med Adobe vision för den autentiska webben, med AEM Agents med mera.
+feature: Edge Delivery Services, Release Information
+topic: Artificial Intelligence, Development
 role: Developer
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 4240
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19962
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: e0f0188d-c97c-4541-993e-cb88e3081eba
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
-
 
 # Anteckning: Bygga en webbplats
 
@@ -29,4 +31,3 @@ Ett särskilt tack till våra sponsorer Algolia och Ensemble för att de stöder
 
 * Fortsätt konversationen på [Experience League](https://adobe.ly/47ss08A)
 * Upptäck [kommande aktiviteter](https://developerevents.adobe.com)
-

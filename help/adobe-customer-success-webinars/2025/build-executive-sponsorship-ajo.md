@@ -2,19 +2,21 @@
 title: Building Executive Sponsorship for Support of Adobe Journey Optimizer Success
 description: Läs om hur chefer hanterar AJO-program, sammanför team och få resultat med strategier för sponsorengagemang och ledarskap.
 solution: Journey Optimizer
+feature: Journeys
+topic: Personalization, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2422
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19625
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 2524ce6c-d654-4b17-aa0f-ecefe17aa2ee
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
-
 
 # VRA Session #4: Building Executive Sponsorship for Support of Adobe Journey Optimizer (AJO) Success
 
@@ -50,4 +52,3 @@ Effektiv kartläggning av intressenter är nödvändigt för att driva en upplev
 * **Relationship Building** Öka transparensen, ange tydliga förväntningar och upprätthålla kontinuerlig kommunikation för att omvandla chefsstödet till strategiskt partnerskap.
 
 Genom att använda en strategikarta för intressenter kan organisationer välja rätt chefssponsor och allierade, vilket säkerställer ett framgångsrikt genomförande och en varaktig förändring.
-

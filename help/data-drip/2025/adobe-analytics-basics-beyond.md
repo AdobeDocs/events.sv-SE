@@ -1,6 +1,8 @@
 ---
 title: Adobe Analytics Basics and Beyond
 description: Gå med Taylor Walker och Vishnu Pillai webbseminarium och lär dig bemästra Adobe Analytics, optimera arbetsytor, exportera data och integrera verktyg. Se expertinsikter nu
+feature: Analysis Workspace, Segmentation, Visualizations
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3437
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17172
 exl-id: 348404c6-3886-4af0-ae16-82ff379d0181
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -34,7 +36,7 @@ På det här webbinariet vägleder Taylor Walker och Vishnu Pillai oss igenom gr
    * **Workspace** Huvudfokus låg på arbetsytan i Adobe Analytics, inklusive hur du navigerar och använder olika paneler, visualiseringar och komponenter.
    * **Utbildnings- och utbildningsvägar** Viktigt om att det finns tillgång till självstudiekurser, utbildningsvägar och resurser som Experience League och Adobe Analytics YouTube för vidare utbildning.
    * **Alternativ för dataexport** Diskussion om hur du exporterar data med dataflöden, datalager, FTP och SFTP, med en demonstration av hur du konfigurerar dataflöden.
-   * **Customer Journey Analytics (CJA)** Introduktion till CJA och dess integrering med Adobe Analytics för en mer helhetsbild av data.
+   * **Customer Journey Analytics (CJA)** Introduktion till CJA och dess integrering med Adobe Analytics för en helhetsbild av data.
 
 * **Bästa praxis** Rekommendationer om hur du använder taggar, mappar och delningsalternativ för att hålla projekten välorganiserade och tillgängliga.
 

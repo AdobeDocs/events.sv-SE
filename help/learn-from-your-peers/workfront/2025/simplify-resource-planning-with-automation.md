@@ -2,19 +2,20 @@
 title: Förenkla resursplaneringen med automatisering
 description: Läs om hur Deloitte använder Fusion för att automatisera resursplanering och PTO-spårning i Workfront. Få tips om hur ni kan förbättra precision, synlighet och teamanvändning.
 feature: Resource Management, Strategic Planning
+topic: Administration, Integrations
 role: Admin
 level: Intermediate
 doc-type: Event
 duration: 3587
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19421
-source-git-commit: 92e2db2c13888d036dce70e07cd0ac0b6bdc111b
+exl-id: b059479a-bc5b-417d-a2c7-6ce6ea6b0c5e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
-
 
 # Förenkla resursplaneringen med automatisering
 
@@ -39,4 +40,3 @@ Läs om hur ledande team effektiviserar resursplaneringen genom att utnyttja aut
 * **Intressentengagemang** Collaboration och kreativ problemlösning var avgörande för att skräddarsy lösningar efter teambehov.
 
 Automatisering minskar inte bara den manuella ansträngningen utan gör det även möjligt för teamen att hantera resurser mer effektivt och anpassa sig till projektens föränderliga krav.
-

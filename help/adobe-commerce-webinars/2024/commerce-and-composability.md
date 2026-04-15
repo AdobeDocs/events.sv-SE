@@ -1,6 +1,8 @@
 ---
 title: Möjliggör olika affärsmodeller med Commerce & Composability
 description: Mötet fokuserade i första hand på att möjliggöra olika affärsmodeller i Adobe Commerce, lyfta fram utvecklingstrender inom B2B-handeln, betona vikten av att förenkla integreringar för sömlösa uppgraderingar, visa personaliserade interaktioner mellan B2B och B2C genom en demo, diskutera Adobe Commerce-funktioner som flerkanalsstöd och API-nätintegration, och understryka fördelarna med sammanställningsbara e-handelstjänster, lansera App Builder för skalbara anpassningar och prenumerationshantering inom plattformen.
+feature: Integration, Headless, B2B
+topic: Headless, Personalization, Integrations
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3594
 last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-15741
 exl-id: 2be2bcd3-b595-4362-a7f8-91b1001da874
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---

@@ -2,6 +2,8 @@
 title: Mastering Marketing Channels and Attribution
 description: Lär dig hur invecklat det är att konfigurera marknadsföringskanaler i Adobe Analytics. Utnyttja attribueringsmodeller för att få användbara insikter om er marknadsföringsstrategi.
 solution: Analytics
+feature: Data Configuration and Collection
+topic: Development
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2176
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-15975
 exl-id: e5f614e4-6a80-40ef-a662-f1442be68f08
-source-git-commit: 0801003af98b08218aca3a20c911fae062009839
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -25,7 +27,7 @@ I dagens snabba digitala marknadsföringslandskap är det oerhört viktigt att d
 * Introduktion till marknadsföringskanaler: Lär dig vikten av att identifiera och kategorisera olika marknadsföringskanaler för att förstå hur de påverkar er digitala närvaro.
 * Konfigurera Adobe Analytics: Få praktisk kunskap om hur du ställer in kampanjspårningskoder, hämtar in relevanta data och använder Adobe Launch för effektiv datainsamling.
 
-  Om du vill hämta det kodgenereringsverktyg för kampanjspårning som finns i den här sessionen går du till [Mastering Adobe Analytics-Marketing Channels &amp; Attribution](https://experienceleague.adobe.com/sv/perspectives/mastering-adobe-analytics-marketing-channels-attribution) i Experience League Perspective.
+  Om du vill hämta det kodgenereringsverktyg för kampanjspårning som ingår i den här sessionen går du till [Mastering Adobe Analytics-Marketing Channels &amp; Attribution](https://experienceleague.adobe.com/en/perspectives/mastering-adobe-analytics-marketing-channels-attribution) i Experience League Perspective.
 
 * Klassificerings- och bearbetningsregler: Upptäck hur du använder klassificeringsregelbyggaren och konfigurerar regler för bearbetning av marknadsföringskanaler för exakt klassificering av trafikkälla.
 * Attributionsmodeller: Utforska olika attribueringsmodeller som finns i Adobe Analytics och hur ni använder dem för att mäta och optimera effektiviteten i era marknadsföringssatsningar.

@@ -2,19 +2,20 @@
 title: Change Management Strategies for Adobe Customer Journey Analytics Adoption
 description: Upptäck strategier för ändringshantering som säkerställer att Customer Journey Analytics kan implementeras. Övervinn resistens, anpassa team och spåra värdeberäkning effektivt.
 feature: Basics
+topic: Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2695
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18765
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: 5b635d6d-29e4-4647-a4b0-82713444d927
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
-
 
 # Change Management Strategies for Adobe Customer Journey Analytics (CJA) Adoption
 

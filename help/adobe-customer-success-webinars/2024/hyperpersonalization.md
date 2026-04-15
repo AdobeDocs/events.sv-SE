@@ -1,6 +1,8 @@
 ---
 title: Personalization Maturity - Sökvägen till hyperpersonalisering
-description: Information om den nya eran med hyperpersonalisering. Vi ska bygga en grund på en mognadsmodell för personalisering, diskutera vanliga blockerare och ge taktiska tips för att komma igång.Viktiga diskussionspunkter - Den moderna kundresan ​ Vägen till hyperpersonalisering ​ Komma igång på din organisation
+description: Information om den nya eran med hyperpersonalisering. Vi bygger en grund på en personaliseringsmodell, diskuterar vanliga blockerare och ger taktiska tips för att komma igång.Viktiga diskussionspunkter - Den moderna kundresan ​ vägen till hyperpersonalisering ​ hur du kommer igång i din organisation
+feature: Basics, Use Cases
+topic: Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 2360
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15559
 exl-id: e6dc873d-ff2c-453e-95fa-f8b0ecd3b491
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -19,7 +21,7 @@ ht-degree: 0%
 
 Information om den nya eran med hyperpersonalisering. Vi bygger en grund på en personaliseringsmodell, diskuterar vanliga blockerare och ger taktiska tips för att komma igång.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457349/?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3429288/?learn=on)
 
 ## Viktiga diskussionspunkter
 

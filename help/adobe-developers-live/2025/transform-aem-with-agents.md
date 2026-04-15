@@ -1,19 +1,21 @@
 ---
 title: Lås upp AI i Adobe Experience Manager
 description: Upptäck hur AI förbättrar Adobe Experience Manager med Algolias avancerade funktioner för sökning och hämtning.
+feature: Edge Delivery Services
+topic: Artificial Intelligence, Personalization, Development
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1242
 last-substantial-update: 2025-12-12T00:00:00Z
 jira: KT-19979
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: daf252a3-0b81-4e1e-9a03-be9c13d35fe3
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
-
 
 # Omvandla Adobe Experience Manager med AI-agenter: Play, Build, Retrieve with Algolia
 

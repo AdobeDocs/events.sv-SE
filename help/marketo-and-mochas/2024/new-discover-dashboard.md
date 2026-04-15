@@ -1,6 +1,8 @@
 ---
 title: Nya Discover Dashboards
-description: Delta i Adobe Senior Business Advisor, Kate Colbert och Technical Advisor, James Leedom, när de utforskar de 9 nya Discover Dashboards i Marketo Measure, som ger dynamiska insikter om mätvärden som Intäkter, ROI, Engagement och Lead Velocity, med en live-demonstration och Frågor och svar.
+description: Följ med Adobe Senior Business Advisor, Kate Colbert och Technical Advisor, James Leedom, när de utforskar de 9 nya Discover Dashboards i Marketo Measure, som ger dynamiska insikter om mätvärden som Intäkter, ROI, Engagement och Lead Velocity, med en live-demonstration och Frågor & Svar-session.
+feature: Reporting
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3619
 last-substantial-update: 2024-05-01T00:00:00Z
 jira: KT-15339
 exl-id: 7f69f653-e293-4fec-a38d-211bc6dac4e1
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -31,4 +33,4 @@ Under den här sessionen kommer vi att visa hur ni på bästa sätt kan införli
 * Styrelserna omfattar ett antal områden, inklusive intäktsöversikt, intäktsgenerering, avkastning på investerat kapital, huvudpass, pass för affärsmöjligheter, snabbhet, webbtrafik, engagemang med mera.
 * Konfiguration av kontrollpaneler baserat på specifika affärsbehov och datakvalitet är avgörande för korrekta och meningsfulla insikter.
 * Discover Dashboard är bättre för trendanalys och avkastning, medan Salesforce rapporter är mer detaljerade och fokuserade på specifika individer och uppgifter.
-* Datan Warehouse ger mer avancerade funktioner för dataanalys och visualisering.
+* Data Warehouse ger mer avancerade funktioner för dataanalys och visualisering.

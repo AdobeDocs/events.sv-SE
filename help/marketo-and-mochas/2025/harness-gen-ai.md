@@ -1,6 +1,7 @@
 ---
 title: Marketo & Mochas - Harnessing GenAI in Adobe Marketo Engage
 description: Upptäck hur GenAI i Adobe Marketo Engage snabbar upp framtagningen av kampanjer, ökar personaliseringen och ger teamen möjlighet att fokusera på strategi och kreativitet.
+feature: Programs, Reporting
 topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3455
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19502
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+exl-id: 59540237-f65f-46bf-a53f-1612fb64a069
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
-
 
 # Marketo &amp; Mochas: Harnessing GenAI in Adobe Marketo Engage
 
@@ -41,5 +42,3 @@ AI omformar snabbt B2B-marknadsföringen, vilket leder till smartare, effektivar
 * **AI** Nya autentiska funktioner i Adobe Experience Platform och Marketo Engage automatiserar uppgifter, tar bort flaskhalsar och möjliggör återgivna interaktioner i realtid.
 
 Genom att förstå dessa trender kan organisationer förbli konkurrenskraftiga och utnyttja den fulla potentialen hos AI i marknadsföringen.
-
-

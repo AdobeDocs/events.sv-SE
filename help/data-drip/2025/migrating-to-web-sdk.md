@@ -1,6 +1,7 @@
 ---
 title: Data Drip - Fördelar med att migrera från ett gammalt system till Web SDK
 description: Se hur Adobe Web SDK effektiviserar implementeringen, förbättrar prestanda och minskar kostnaderna med smartare spårning och förenklad integrering via Edge Network.
+feature: Data Governance, Data Configuration and Collection
 topic: Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3217
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19500
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+exl-id: e7a85278-aa6a-41d8-aed5-88249bd9193e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
-
 
 # Datadripp: Fördelar med att migrera från ett gammalt system till Web SDK
 
@@ -54,4 +55,3 @@ Adobe Web SDK samlar ihop flera spårningsbibliotek (Analytics, Target, Audience
 * Stöder standardiserade XDM-scheman (Experience Data Model) för konsekventa data över olika plattformar.
 
 Den här metoden förenklar underhåll, förbättrar prestanda och möjliggör smidigt samarbete mellan team.
-

@@ -1,19 +1,21 @@
 ---
 title: Adobe Analytics inledningsanförande
 description: Utforska viktiga analysfärdigheter - historieberättande, etik och empati - plus hur AI och mänskliga insikter kombinerar för att skapa meningsfulla affärsresultat.
+feature: Data Governance, Data Configuration and Collection
+topic: Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18828
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 8f1fedd4-3c00-4593-8b04-4d37be97378a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Analytics inledningsanförande
 
@@ -23,7 +25,7 @@ Business Acumen &amp; Ethical Reasoning: Fatta smarta, etiska beslut utöver tek
 Research Methodology &amp; Storage Craft: Omvandla dataresultat till övertygande berättelser för intressenter.
 Teknisk kompetens och emotionell intelligens: Tillhandahåll stöd och lösningar med empati, inte bara teknisk kompetens.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471185/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3471124/?learn=on&enablevpops)
 
 ## Låsa upp analyser för mänsklig påverkan
 

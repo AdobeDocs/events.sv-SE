@@ -3,15 +3,17 @@ title: Etablera ett webbinarium om Workfront Centre of Extensions
 description: Lär dig av Mattel- och Adobe Workfront-experter om hur du skapar ett Workfront Center of Excellence (CoE) i vårt on-demand-webbinarium. Upptäck viktiga komponenter, verktyg och inkrementella steg för hållbar och skalbar administration, vilket förbättrar användarnas acceptans och förbättrar produktanvändningen och dataintegriteten.
 role: Admin, Leader
 solution: Workfront
+feature: System Setup and Administration
+topic: Administration, Integrations
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3715
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15824
 exl-id: 02d88c39-f53c-4529-ab0e-aebf0f2dff42
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---

@@ -3,25 +3,26 @@ title: Workspace-funktioner som du bör använda
 description: Upptäck de viktigaste funktionerna i Adobe Analytics Workspace - villkorsstyrd formatering, listrutor, attribueringsmodeller och beräknade mätvärden - för att få djupare insikter.
 solution: Analytics
 feature: Workspace Basics
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18821
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+exl-id: 2c7bef44-9af5-4c7c-a9a7-9489a8dbefd2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
-
 
 # Workspace-funktioner som du bör använda
 
 Upptäck kraftfulla men ofta förbisedda funktioner i Adobe Analytics Workspace som kan lyfta fram era analyser och skapa verklig genomslagskraft. Under den här sessionen kommer vi att utforska praktiska användningsexempel och enkla tekniker som förvandlar vardagliga verktyg till insiktsmotorer, vilket hjälper dig att identifiera vad som verkligen betyder något för ditt företag. Oavsett om du är en erfaren analytiker eller bara har kommit igång kan du gå vidare med användbara idéer för att maximera värdet av dina data.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471255/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3471117/?learn=on&enablevpops)
 
 ## Låsa upp avancerade analystekniker
 

@@ -2,19 +2,21 @@
 title: Change Management Strategies for Adobe Journey Optimizer Adoption
 description: Upptäck strategier för ledarskap, samarbete och engagemang i realtid för att utnyttja Adobe Journey Optimizer fulla värde.
 solution: Journey Optimizer
+feature: Journeys
+topic: Security, Development
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2589
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19689
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 43fcdd6f-5cc7-4cac-9f04-073d05233e06
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
-
 
 # Change Management Strategies for Adobe Journey Optimizer Adoption
 
@@ -55,4 +57,3 @@ Att gå över från statiska, isolerade operationer till datadrivet engagemang i
 * Utnyttja AJO fulla potential genom att snabbt tillgodose kundernas behov.
 
 Realtidsresponsivitet gör det möjligt för team att leverera mer relevanta och slagkraftiga kundupplevelser.
-

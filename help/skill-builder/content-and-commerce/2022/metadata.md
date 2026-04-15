@@ -2,13 +2,15 @@
 title: Få Metadata att fungera i Adobe Experience Manager Assets
 description: Lär dig hur du får ut så mycket som möjligt av dina metadata i AEM Assets genom att minska arbetsinsatsen för att tagga resurser och göra dina resurser mer sökbara.
 solution: Experience Manager, Experience Manager Assets
+feature: Edge Delivery Services, Release Information, Metadata
+topic: Development, Headless
 role: Admin, Leader, User
 level: Intermediate, Experienced
 kt: 10563
 thumbnail: 343815.jpeg
 exl-id: d770673b-4f48-4761-86df-f21a3cdfc4bc
 duration: 2730
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%

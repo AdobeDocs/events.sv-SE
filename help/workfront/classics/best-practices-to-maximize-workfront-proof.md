@@ -1,14 +1,16 @@
 ---
 title: Fråga experten om bästa praxis för att maximera Workfront Proof
 description: Lär dig hur du konfigurerar inställningar, aktiverar bra rapporter och undviker vanliga fel i korrektur. Det här webbinariet spelades in den 26 februari 2020.
+feature: Reports and Dashboards, System Setup and Administration
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
 exl-id: 7d3e437d-4a6e-44b8-9eff-eabb8284c391
 duration: 5182
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '5572'
+source-wordcount: '5588'
 ht-degree: 0%
 
 ---
@@ -257,7 +259,7 @@ Du kan öppna och ladda ned en Skriv ut sammanfattningsrapport för dina korrekt
 
 **Fråga**
 
-När användare som begär åtkomst till rapportering får även detta åtkomst till avsnittet till vänster (dvs. arbetsflöden, kontakter, kontoinställningar osv.)?
+När begärande användare har tillgång till rapportering för korrekturfrågor, ger detta dem då även tillgång till avsnittet till vänster (t.ex. arbetsflöden, kontakter, kontoinställningar)?
 
 **Svar**
 
@@ -313,7 +315,7 @@ Ja. Om du tar bort ett korrektur som det finns i papperskorgen för det associer
 
 **Fråga**
 
-Finns det något sätt att få ett nytt beslut att utlösas om en annan användare avvisar eller godkänner ändringarna. t. ex. Korrekturpanelen ser något, projektledaren måste fatta ett nytt beslut även om de redan har granskat det och godkänt det. (försöker du inte få proj-hanteraren att inte behöva vänta på korrekturläsningssidan för att kunna utföra granskningen)?
+Finns det något sätt att få ett nytt beslut att utlösas om en annan användare avvisar eller godkänner ändringarna. Proofing ser något, projektledaren måste fatta ett nytt beslut... även om de redan har tittat på det och godkänt det. (försöker du inte få proj-hanteraren att inte behöva vänta på korrekturläsningssidan för att kunna utföra granskningen)?
 
 **Svar**
 

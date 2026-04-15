@@ -3,24 +3,26 @@ title: Modernisera kampanjer med Adobe Journey Optimizer och Adobe Campaign
 description: Lär dig att harmonisera Adobe Journey Optimizer och Adobe Campaign för smidiga, kanalövergripande upplevelser och effektiva arbetsflöden.
 role: Admin, Developer, Leader, User
 solution: Journey Optimizer, Campaign
+feature: Journeys, Email Design, Deliverability
+topic: Personalization, Integrations
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2354
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-20001
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: a0ccec4f-bab0-47f2-b108-7f51936bc974
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
-
 
 # Modernisering av kampanjutförande: Adobe Journey Optimizer + Adobe Campaign i Harmony
 
 Upptäck hur Adobe Journey Optimizer och Adobe Campaign samarbetar när det gäller att genomföra kampanjer. Denna session demonstrerar synergieffekten av att kombinera Journey Optimizer realtidsengagemangsfunktioner med Campaigns robusta hantering. Få praktiska strategier för att effektivisera arbetsflöden, öka flexibiliteten och få djupare kundinsikter för att säkerställa meningsfull interaktion. Lär dig att harmonisera dessa verktyg för sömlösa, flerkanalsupplevelser, vilket förbättrar personaliseringen och tidsförloppet för varje kundinteraktion. Denna integrering hjälper er att leverera slagkraftiga kampanjer snabbare och med större precision.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477897/?captions=swe&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477880/?learn=on&enablevpops)
 
 ## Viktiga uppgifter
 

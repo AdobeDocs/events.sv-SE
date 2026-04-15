@@ -3,25 +3,26 @@ title: Data in Motion - Scalable Analytics Workflows for Insight-driven Teams
 description: Lär dig effektivisera Adobe Analytics arbetsflöden, stärka styrningen och ge team insikter som driver aktivering, samarbete och tillväxt.
 solution: Analytics
 feature: Data Governance, Analytics Basics
+topic: Administration, Content Supply Chain, Development
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18822
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+exl-id: aeffcf4e-0f0d-4903-ad14-bb7ab499ab64
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
 
-
 # Data in Motion - Scalable Analytics Workflows for Insight-driven Teams
 
-Delta i Adobe Champion iana Maftei, Senior Analytics Manager på IBM, där hon berättar hur hon kan skapa skalbara, styrda analysarbetsflöden som gör innehållsleveranskedjan mätbar. Lär dig leverera rätt insikter till rätt personer vid rätt tidpunkt, möjliggör samarbete mellan team och skräddarsy Analysis Workspace-projekt efter olika roller och behov.
+Gå med i Adobe Champion iana Maftei, Senior Analytics Manager på IBM, där hon berättar hur hon kan skapa skalbara, styrda analysarbetsflöden som gör innehållet supply chain mätbart. Lär dig leverera rätt insikter till rätt personer vid rätt tidpunkt, möjliggör samarbete mellan team och skräddarsy Analysis Workspace-projekt efter olika roller och behov.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471233/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3471118/?learn=on&enablevpops)
 
 ## Mappa roller till analysfaser
 

@@ -5,14 +5,17 @@ landing-page-description: Titta på det här inspelade webbinariet och lär dig 
 short-description: Titta på det här inspelade webbinariet och lär dig hur du kan använda dina e-handelsdata för att lyckas under semestersäsongen.
 kt: 10409
 solution: Commerce, Commerce Intelligence
+feature: Data Integration, Reports
+feature-set: Commerce Intelligence
+topic: Headless, Performance, Commerce
 role: Leader, User, Data Architect
 level: Intermediate
 thumbnail: 342496.jpeg
 exl-id: 9c05e0c7-50cd-42e8-bf7a-7e278b7060bc
 duration: 3197
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -40,5 +43,5 @@ Använd era e-handelsdata för att lyckas under helgen. Det här webbinariet bel
 
 ## Användbara resurser
 
-[Commerce Intelligence Användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=sv)
-[Commerce Intelligence Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=sv-SE)
+[Commerce Intelligence Användarhandbok](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html)
+[ Commerce Intelligence Support ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

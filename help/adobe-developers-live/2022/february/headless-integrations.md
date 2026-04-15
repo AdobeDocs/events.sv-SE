@@ -1,13 +1,15 @@
 ---
 title: Nyskapande med Headless-integrering
-description: Ta en närmare titt på hur våra partners har utvecklat och skapat upplevelser genom att frigöra och utöka möjligheterna i Adobe API:er för e-handel.
+description: Ta en närmare titt på hur våra partners har utvecklat och skapat upplevelser genom att frigöra och utöka potentialen hos Adobe API:er för e-handel.
+feature: Edge Delivery Services, Release Information
+topic: Headless, Integrations, Development
 role: User
 level: Beginner
 kt: 9790
 thumbnail: 340623.jpeg
 exl-id: 33c44945-5838-471e-972d-5b331549a9e3
 duration: 1714
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%

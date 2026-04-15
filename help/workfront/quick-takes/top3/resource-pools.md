@@ -1,19 +1,21 @@
 ---
 title: De viktigaste skälen för resurspooler
 description: Upptäck kreativa sätt att använda resurspooler i Adobe Workfront för effektiv projekthantering och rapportering.
+feature: Reports and Dashboards, Strategic Planning
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 271
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-18648
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: f0f8a3ea-d7db-47b0-ba63-b25cbfb7ca15
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 1%
+source-wordcount: '210'
+ht-degree: 0%
 
 ---
-
 
 # De tre viktigaste skälen för resurspooler
 
@@ -29,7 +31,5 @@ Vill du bara komma igång med resurspooler? För det första, vad är de?
 
 ## Ytterligare resurser
 
-* Mer information finns i artikeln [Resurspooler - översikt](https://experienceleague.adobe.com/sv/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools).
-* Söker du mer? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866?profile.language=sv)!
-
-
+* Mer information finns i artikeln [Resurspooler - översikt](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools).
+* Söker du mer? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866)!

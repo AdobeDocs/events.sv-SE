@@ -1,19 +1,21 @@
 ---
 title: 5 tips för att automatisera namnkonventioner med Workfront Fusion
 description: Workshop Rewind - Fusion
+feature: Workfront Fusion, Reports and Dashboards, System Setup and Administration
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3552
 last-substantial-update: 2025-11-20T00:00:00Z
 jira: KT-19791
-source-git-commit: 48d93e64b075db84d164a743db97fa0202b3e26c
+exl-id: 26883731-1cae-4119-8c12-0d7e39f455ce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
-
 
 # 5 tips för att automatisera namnkonventioner med Workfront Fusion
 
@@ -29,8 +31,8 @@ Oavsett om du just har börjat med Fusion eller vill utöka dina automatiseringa
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477162/?learn=on&enablevpops)
 
-## Resurser
+## Resurs
 
-- [Bildband, PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+Fusion+Naming+Conventions+-+Nov+19.pdf)
+- [Slide däck PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+Fusion+Naming+Conventions+-+Nov+19.pdf)
 - [Zip-fil](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Webinar+-+Naming+Conventions+-+111825.zip) med uppföljningsmaterial
-- Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
+- Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.

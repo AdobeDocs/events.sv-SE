@@ -1,6 +1,8 @@
 ---
 title: Öppnar inledningsanförandet
-description: I det här seminariet, Director of Product Marketing, visar Richard Whitehead hur Workfront utvecklas, bland annat nya och tillgängliga funktioner, och avslutar med produktinnovationer.
+description: Rikard Whitehead, Director of Product Marketing, går igenom utvecklingen av Workfront, inklusive högdagrar, nya och tillgängliga funktioner och slutför produktinnovationer.
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +11,7 @@ jira: KT-14610
 thumbnail: 3425894.jpeg
 exl-id: 6d840275-3f12-4480-b442-93b0a4dab153
 duration: 694
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -18,6 +20,6 @@ ht-degree: 0%
 
 # Aug 2023 Workfront Opening Keynote
 
-I det här seminariet, Director of Product Marketing, visar Richard Whitehead hur Workfront utvecklas, bland annat nya och tillgängliga funktioner, och avslutar med produktinnovationer.
+Rikard Whitehead, Director of Product Marketing, går igenom utvecklingen av Workfront, inklusive högdagrar, nya och tillgängliga funktioner och slutför produktinnovationer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453833/?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3425894/?learn=on)

@@ -2,6 +2,8 @@
 title: Fråga mig vad som helst
 description: Commerce och Coffee besvarar deltagarfrågor på Adobe Commerce, förklarar företagshierarki, webbplatsens prestandamätningar, B2B-personalisering, bästa praxis för direktsökning och kommande produktförbättringar.
 solution: Commerce
+feature: B2B, Payments
+topic: Personalization, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +11,7 @@ duration: 3153
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16471
 exl-id: 0e765a3e-9ff8-4a4a-8987-e56631adfc58
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
@@ -38,4 +40,4 @@ Corey och Agbi besvarade frågor live såväl som från registreringar och delar
 
 * **B2B Personalization Techniques** Använd delade kataloger, personaliserade priser och skräddarsydda betalningsmetoder för att förbättra kundupplevelsen.
 
-* **Kommande version 2.4.8** Förbättrade kärnfunktioner och produkttyper, med mer information förväntas på Adobe Summit.
+* **Kommande version 2.4.8** Förbättrade kärnfunktioner och produkttyper, med mer information om Adobe Summit.

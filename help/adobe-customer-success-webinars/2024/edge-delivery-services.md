@@ -3,6 +3,7 @@ title: Optimera innehållsleverans - Frigör kraften i Edge Services
 description: Sessionen med Edge Delivery Services (EDS) behandlade dess arkitektur, integrering med dokumentbaserad och AEM-baserad redigering, snabb framtagning av webbplatser, anpassningsalternativ och bästa praxis för att upprätthålla höga prestanda.
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Edge Delivery Services
+topic: Headless, Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3589
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16631
 exl-id: 2057e491-9ec3-4bfe-b85a-6b74d70822bf
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---

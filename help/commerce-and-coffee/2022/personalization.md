@@ -1,7 +1,8 @@
 ---
 title: Commerce och Coffee - Personalization
-description: Den här sessionen handlar om strategier och taktik när det gäller att personalisera er Commerce sajt och behålla konkurrenskraften året runt. Vi granskar varför, vad och hur vi personaliserar och diskuterar de effekter på konverteringar som har direkt samband med personalisering. Corey demonstrerar sedan kategoribehörigheter, kundsegment, dynamiska block/widgetar, Recommendations och mycket annat. Presentationen och demon åtföljs av live-frågor och svar tillsammans med Corey.
+description: Den här sessionen handlar om strategier och taktik när det gäller att personalisera er Commerce sajt och behålla konkurrenskraften året runt. Vi granskar varför, vad och hur vi personaliserar och diskuterar de effekter på konverteringar som har direkt samband med personalisering. Corey demonstrerar sedan kategoribehörigheter, kundsegment, dynamiska block/widgetar, produktrekommendationer med mera. Presentationen och demon åtföljs av live-frågor och svar tillsammans med Corey.
 solution: Commerce
+feature: Integration, Edge Delivery Services
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,15 +12,15 @@ kt: 11651
 thumbnail: 3412700.jpeg
 exl-id: 783a7b0d-d15e-4d6d-b29b-99d57bf15c94
 duration: 2989
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
 # Commerce och Coffee - Personalization
 
-Den här sessionen handlar om strategier och taktik när det gäller att personalisera er Commerce sajt och behålla konkurrenskraften året runt. Vi granskar varför, vad och hur vi personaliserar och diskuterar de effekter på konverteringar som har direkt samband med personalisering. Corey demonstrerar sedan kategoribehörigheter, kundsegment, dynamiska block/widgetar, Recommendations och mycket annat. Presentationen och demon åtföljs av live-frågor och svar tillsammans med Corey.
+Den här sessionen handlar om strategier och taktik när det gäller att personalisera er Commerce sajt och behålla konkurrenskraften året runt. Vi granskar varför, vad och hur vi personaliserar och diskuterar de effekter på konverteringar som har direkt samband med personalisering. Corey demonstrerar sedan kategoribehörigheter, kundsegment, dynamiska block/widgetar, produktrekommendationer med mera. Presentationen och demon åtföljs av live-frågor och svar tillsammans med Corey.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412700/?quality=12&learn=on)

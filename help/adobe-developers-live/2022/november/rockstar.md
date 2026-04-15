@@ -1,7 +1,8 @@
 ---
-title: Adobe Developers Live - NOV 22- AEM Rockstar Headless
+title: Adobe Developers Live - NOV 22 - AEM Rockstar Headless
 description: Adobe Experience Manager Rock Star - The Headless ChallengeVåra presentatörer kommer att"tävla" om Adobe Experience Manager Rock Star 2022 genom att presentera en lösning på ett i förväg tillhandahållet problempåstående som var och en måste lösa. Publiken får möjlighet att ställa frågor och rösta på nästa Rock Star!
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ kt: 11473
 thumbnail: 3411297.jpeg
 exl-id: be040ed9-b843-4576-b61c-f8d2eba32fb7
 duration: 3281
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---

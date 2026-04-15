@@ -2,19 +2,21 @@
 title: Experience Makers Spotlight - Transforming Process Flow to Workfront Wins
 description: Hur Victoria Linn, Adobe Workfront Solution Architect på Accenture, omvandlar affärskrav till effektiva köer som skräddarsytts för kreatörer och verksamhetsteam inom marknadsföring.  Experttips från Madalyn Destafney, Workfront Consultant på Quad, om vad man ska tänka på och vanliga fallgropar när man ska skapa mallar, eftersom det inte finns någon strategi som passar alla, ens i en enda instans.
 solution: Workfront
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: User
 level: Beginner
 doc-type: Event
 duration: 2741
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16103
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+exl-id: a3494fbd-803f-4ac3-8d40-c99d61b9d69e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
-
 
 # Experience Makers Spotlight: Transforming Process Flow to Workfront Wins
 

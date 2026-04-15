@@ -3,6 +3,7 @@ title: Förbereda en högklassig Workfront-organisation
 description: Lär dig hur du lanserar och skalar ett Workfront Center of Excellence med styrningsstrategier, sponsring av chefer och vedertagna standarder.
 solution: Workfront
 feature: Get Started with Workfront
+topic: Performance, Administration, Development
 role: User
 level: Beginner
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18875
 exl-id: b4e3f704-b0a7-4b1e-a2a5-d8ff427ece84
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -27,7 +28,7 @@ Inrättandet av ett expertcentrum (CoE) är avgörande för att driva på innova
 * **Fundera på personal** Utforska de kritiska aspekterna av att bemästra din medarbetare genom att identifiera viktiga roller och ansvarsområden för din administratörsrutin. Förstå hur ni skapar ett team som effektivt kan stödja och driva era CoE-satsningar.
 * **Tips och tricks** Få praktiska insikter och metodtips för att hantera och underhålla din CoE. Upptäck strategier för att övervinna vanliga utmaningar, främja samarbete och säkerställa kontinuerlig förbättring. Följ oss och förse dig med de kunskaper och verktyg du behöver för att skapa ett livskraftigt centrum för spetskompetens inom din Workfront-organisation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471588/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3471495/?learn=on&enablevpops)
 
 ## Viktiga steg för att starta COE
 

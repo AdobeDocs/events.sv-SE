@@ -2,21 +2,23 @@
 title: GenStudio for Performance Marketing - Operating Model & Governance Strategy
 description: Webbseminariet om Adobe GenStudio for Performance Marketing handlar om att bygga upp ett styrningsramverk för att förbättra kreativa processer, samarbete och effektivitet, samtidigt som det ger insikter i organisationsberedskap, bästa praxis för operativmodeller och Agile Marketing-principer för att maximera investeringen.
 solution: GenStudio for Performance Marketing
+feature: Workfront Planning
+topic: Artificial Intelligence, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3579
 last-substantial-update: 2025-02-18T00:00:00Z
 jira: KT-17369
-source-git-commit: f63e6bcb608eb6d03fa2f8b43babf0cb13909f4b
+exl-id: 2b5db111-2d36-4aea-9fa3-1aeb38ce0dc7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
 
-
-# GenStudio för PEM: Driftmodell och styrningsstrategi
+# GenStudio for PeM: Verksamhetsmodell och styrningsstrategi
 
 Det här webbinariet är utformat för kunder som implementerar eller funderar på Adobe GenStudio for Performance Marketing. Lär dig hur du bygger upp ett styrningsramverk som bygger upp kreativa processer, förbättrar samarbetet och ökar effektiviteten. Upptäck Adobe perspektiv när det gäller organisationsberedskap, utforska de bästa sätten att använda operativmodeller och få åtgärdbara insikter i hur ni utnyttjar Agile Marketing-principerna för att maximera er investering i GenStudio.
 
@@ -38,7 +40,7 @@ Viktiga diskussionspunkter
 ### Success Criteria for Gen Studio for Performance Marketing
 
 * Förbättrad produktivitet i Creative Team: Automatisera processerna för effektivare utförande.
-* Förbättrade granskningscykler: Öka effektiviteten och snabba upp.
+* Förbättrade granskningscykler för Creative: Öka effektiviteten och snabba upp.
 * Varumärkeskompatibelt innehåll: Generera innehåll med skyddsräcken för företag.
 
 ### Agile Marketing Operating Model

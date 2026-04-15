@@ -3,18 +3,20 @@ title: AI Assistant - bortom grunderna
 description: Lär dig använda AI Assistant säkert i AEP - med bland annat inställningar, viktiga användningsfall, praktiska tips och kommande funktioner som effektiviserar arbetsflödet och ger marknadsföringseffekt.
 role: Developer, Leader, User
 solution: Experience Platform
+feature: AI Assistant
+topic: Performance
 level: Intermediate
 doc-type: Event
 duration: 2324
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18247
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: ad9ca09b-6cb2-4118-af19-da395a5d19b2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
-
 
 # AI Assistant - bortom grunderna
 
@@ -26,4 +28,4 @@ Viktiga diskussionspunkter
 * Undersök viktiga användningsfall, användning av funktioner samt tips och trick för mognadsutveckling.
 * Diskutera kommande funktioner och förbättringar av verktygen
 
->[!VIDEO](https://video.tv.adobe.com/v/3463362/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3463357/?learn=on&enablevpops)

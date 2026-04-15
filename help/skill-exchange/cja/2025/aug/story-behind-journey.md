@@ -1,19 +1,21 @@
 ---
 title: Ljus, data, insikt - avslöjar berättelsen bakom varje resa
 description: Läs om hur AEP och CJA kan kombinera data, sätta ihop identiteter och aktivera insikter för personalisering i realtid och smartare kundresor.
+feature: Basics, Use Cases
+topic: Personalization, Integrations, Security
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18811
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 31d09a38-1410-4301-b46f-174e7bd6ac7c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
-
 
 # Ljus, data, insikt: Upptäcka berättelsen bakom varje resa
 

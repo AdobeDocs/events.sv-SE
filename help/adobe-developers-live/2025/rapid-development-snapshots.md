@@ -1,19 +1,21 @@
 ---
 title: Snapshots för snabb molnutveckling (RDE)
 description: Utforska snabb utveckling med RDE-snapshots i AEM Cloud. Lär dig frysa, återställa och förnya dina utvecklingscykler effektivt.
+feature: Edge Delivery Services, Release Information
+topic: Administration, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2501
 last-substantial-update: 2025-12-11T00:00:00Z
 jira: KT-19985
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: e8998e51-b661-42ab-a6c4-1cb85e3d9386
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # Freeze, Restore, Innovate: Hands-On with Rapid Development Environment Snapshots for Cloud Development
 

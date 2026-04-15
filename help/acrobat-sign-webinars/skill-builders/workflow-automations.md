@@ -2,6 +2,7 @@
 title: Automatisering av arbetsflöden med Microsoft Power Automate
 description: Utnyttja alla automatiseringsfunktioner med Microsoft lågkods-/kodlösning Power Automate, direkt i Adobe Acrobat Sign.
 feature: Integrations
+topic: Integrations, Development
 role: User
 level: Intermediate
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 1109
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15303
 exl-id: 72fc12aa-05fe-4856-9c34-bb61f6f3a295
-source-git-commit: 27c53f62fe63e9b166b46cefa04abcdcc7823556
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Utnyttja alla automatiseringsfunktioner med Microsoft lågkods-/kodlösning Power Automate, direkt i Adobe Acrobat Sign. Få höra hur icke-utvecklare kan skapa nästa generations arbetsflöden. Under den här sessionen får du lära dig hur du: Konfigurera arbetsflödesintegreringen för att komma igång snabbt med att skapa arbetsflöden med färdiga mallar Utnyttja ett stort ekosystem av kopplingar för att integrera Acrobat Sign i dina paketerade och anpassade program Öka produktiviteten och utöka möjligheterna i Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454928/?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3428194/?learn=on)
 
 ## Mer information om Power Automate
 

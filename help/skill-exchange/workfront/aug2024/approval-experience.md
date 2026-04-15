@@ -2,19 +2,21 @@
 title: Det positiva sättet att förbättra godkännandeupplevelsen
 description: Hur man hittar och konfigurerar de idealiska korrekturbehörigheterna för att minimera antalet meddelanden till användarna Praktiska exempel för att utbilda användare hur man använder korrektur på ett konsekvent sätt Hur man använder Workfront-rapportering för att följa upp godkännandeprocessen och hålla intressenter informerade varje steg på vägen A look ahead till hur Monique hoppas kunna utveckla sin process ännu mer med integreringen av Frame.io
 solution: Workfront
+feature: Reports and Dashboards, System Setup and Administration
+topic: Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2084
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16101
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+exl-id: c41bb2ad-001d-43f7-90a4-40fda4c63523
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
-
 
 # Det positiva sättet att förbättra godkännandeupplevelsen
 

@@ -2,19 +2,20 @@
 title: Maximera Fusion med Tips, Tricks och Release Highlights
 description: Tips, tricks och release highlights för Adobe Workfront Fusion. Läs om de nya funktionerna för att förbättra arbetsflödena och styrningen.
 feature: Workfront Fusion
+topic: Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3737
 last-substantial-update: 2026-03-26T00:00:00Z
 jira: KT-20605
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+exl-id: 6b94eb86-8246-41b2-9ac4-52ed65ab6b84
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # Maximera Fusion med Tips, Tricks och Release Highlights
 
@@ -24,8 +25,6 @@ Delta i Senior Product Manager, Sam Taylor, när han berättar om nya funktioner
 
 Om du missade sessionen, inga problem! Granska [bildbandet](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/012926-MaximizeFusion.pdf) och se hur on-demand-inspelningen följer med.
 
-Letar du efter fler resurser eller frågor och svar från evenemanget? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-maximize-fusion-tips-tricks-and-release-highlights-1-29-26-248111?profile.language=sv)!
+Letar du efter fler resurser eller frågor och svar från evenemanget? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-maximize-fusion-tips-tricks-and-release-highlights-1-29-26-248111)!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
-
-
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.

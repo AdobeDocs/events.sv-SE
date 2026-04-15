@@ -2,19 +2,21 @@
 title: Utnyttja arkitekturen i NorthStar för att möjliggöra Adobe Journey Optimizer Vision
 description: Lär dig hur du genom att utnyttja en arkitektur i NorthStar kan hjälpa dig att diagnostisera luckor i implementeringen och upprätthålla organisationens anpassning runt AJO och hela Adobe-lösningen.
 solution: Journey Optimizer
+feature: Journeys, Email Design, Audiences
+topic: Personalization, Content Supply Chain, Development
 role: Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3226
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19522
-source-git-commit: 1e74aaa6e67ae372bb6811ebaeac5459353942eb
+exl-id: 19046906-cc6f-41bc-86dd-535dcd3641ad
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
-
 
 # Utnyttja arkitekturen i NorthStar för att möjliggöra Adobe Journey Optimizer Vision
 
@@ -38,11 +40,10 @@ Genom att förstå och tillämpa Northstar-arkitekturen kan organisationer plane
 
 Northstar-arkitekturdiagram kartlägger de viktigaste teknikkomponenterna och dataflödena som behövs för effektiv resesamordning på Adobe-plattformar.
 
-* **Kedja för innehållsleverans** Identifierar källor för personlig innehållsleverans.
+* **Innehåll i Supply chain** Identifierar källor för personlig innehållsleverans.
 * **Datakällor** innehåller webb-, mobil-, CRM-, offline- och lojalitetsdata som importerats via batch- eller direktuppspelning.
 * **Datahantering** omfattar målgruppsgenerering, segmentering (batch, direktuppspelning, kant) och anrikning.
 * **Aktivering** Anger hur målgrupper aktiveras i kampanjer och resor.
 * **Destinationer** Anger kanaler som e-post, SMS, webb och meddelanden i appen.
 
 Varje komponent är skräddarsydd efter organisationens bransch och användningsfall, vilket säkerställer att arkitekturen klarar både aktuella och framtida affärsbehov.
-

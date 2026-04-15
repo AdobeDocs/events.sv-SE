@@ -1,6 +1,7 @@
 ---
 title: Optimera AEM prestanda - Cachelagra strategier och tekniker
 description: Sessionen omfattade strategier och tekniker för cachelagring, mekanismer och nivåer för cachelagring, hantering av dynamiskt innehåll, problem med felsökning och synkronisering av cachedvalidering mellan dispatchern och CDN.
+feature: Edge Delivery Services, Release Information
 topic: Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3764
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17373
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: 5606a250-ab06-417b-8abf-a30543cb5f16
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
-
 
 # Optimera AEM prestanda: Cachelagra strategier och tekniker
 

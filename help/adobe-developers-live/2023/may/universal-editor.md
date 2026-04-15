@@ -1,6 +1,7 @@
 ---
 title: Skriv vad som helst med den universella redigeraren
-description: Skapa vad som helst med Universal EditorFörstå hur dina egna headless-appar enkelt kan mäta upp EU för att ge redigering i rätt sammanhang med låg friktion till författarnas fingertoppar. Universell redigerare är nästa generation AEM sammanhangsberoende sidredigerare och löser de nuvarande begränsningarna i AEM sidredigerare eller SPA. Det är oberoende av ramverk, återgivningsmotorer och datakällor, vilket ger all den frihet som utvecklarna vill ha och gör det helt universellt. Det enda som krävs är ett återgivet HTML med den instrumentering som krävs, men gör att implementeringen fortfarande är helt frikopplad från AEM. Under den här sessionen kommer du att delta i den nya universella redigeraren, vi går igenom de funktioner som är tillgängliga och en demo visar hur en enkel app kan göras redigerbar i den universella redigeraren.
+description: Skapa vad som helst med Universal EditorFörstå hur dina egna headless-appar enkelt kan mäta upp EU för att ge redigering i rätt sammanhang med låg friktion till författarnas fingertoppar. Universal Editor är nästa generation av AEM kontextredigerare och löser de nuvarande begränsningarna i AEM Page Editor eller SPA Editor. Det är oberoende av ramverk, återgivningsmotorer och datakällor, vilket ger all den frihet som utvecklarna vill ha och gör det helt universellt. Allt som krävs är en återgiven HTML med den instrumentering som krävs, men som ändå helt kan kopplas loss från AEM. Under den här sessionen kommer du att delta i den nya universella redigeraren, vi går igenom de funktioner som är tillgängliga och en demo visar hur en enkel app kan göras redigerbar i den universella redigeraren.
+feature: Authoring
 product: experience manager
 sub-product: sites
 topic: Development
@@ -12,9 +13,9 @@ jira: KT-13357
 thumbnail: 3419942.jpeg
 exl-id: 23b7f06f-e544-4bc5-8583-1333de27cc17
 duration: 1758
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -23,6 +24,6 @@ ht-degree: 0%
 
 Skriv vad som helst med den universella redigeraren
 
-Förstå hur era egna headless-appar enkelt kan instrument EU för att skapa lättanvända redigeringsfunktioner i sitt sammanhang så att skribenterna kan använda dem. Universell redigerare är nästa generation AEM sammanhangsberoende sidredigerare och löser de nuvarande begränsningarna i AEM sidredigerare eller SPA. Det är oberoende av ramverk, återgivningsmotorer och datakällor, vilket ger all den frihet som utvecklarna vill ha och gör det helt universellt. Det enda som krävs är ett återgivet HTML med den instrumentering som krävs, men gör att implementeringen fortfarande är helt frikopplad från AEM. Under den här sessionen kommer du att delta i den nya universella redigeraren, vi går igenom de funktioner som är tillgängliga och en demo visar hur en enkel app kan göras redigerbar i den universella redigeraren. → Fortsätt konversationen på: https://adobe.ly/3njEDyy
+Förstå hur era egna headless-appar enkelt kan instrument EU för att skapa lättanvända redigeringsfunktioner i sitt sammanhang så att skribenterna kan använda dem. Universal Editor är nästa generation av AEM kontextredigerare och löser de nuvarande begränsningarna i AEM Page Editor eller SPA Editor. Det är oberoende av ramverk, återgivningsmotorer och datakällor, vilket ger all den frihet som utvecklarna vill ha och gör det helt universellt. Allt som krävs är en återgiven HTML med den instrumentering som krävs, men som ändå helt kan kopplas loss från AEM. Under den här sessionen kommer du att delta i den nya universella redigeraren, vi går igenom de funktioner som är tillgängliga och en demo visar hur en enkel app kan göras redigerbar i den universella redigeraren. → Fortsätt konversationen på: https://adobe.ly/3njEDyy
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419942/?learn=on)

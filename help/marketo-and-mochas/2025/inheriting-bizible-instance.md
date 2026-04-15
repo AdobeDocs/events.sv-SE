@@ -1,19 +1,21 @@
 ---
 title: Marketo Measure och Mochas - ärver en ny eller aktuell bizible-instans
 description: Besök Carly Gaver och Kate Colbert i vårt webbinarium Marketo Measure & Mochas och lär dig de bästa sätten att granska och optimera instansinställningar, konfigurationer, kanaler och rapporter för Marketo Measure (Bizible).
+feature: Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3524
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18158
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: c479f24d-ee7c-4a18-95ac-991810b067a3
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Measure och Mochas: Ärva en ny eller aktuell Bizible-instans
 

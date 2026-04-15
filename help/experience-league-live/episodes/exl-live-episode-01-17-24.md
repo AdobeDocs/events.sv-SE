@@ -4,15 +4,16 @@ description: Se hur nya automatiserade processer kan hjälpa er att flytta analy
 jira: KT-14746
 solution: Analytics,Customer Journey Analytics
 feature: Experience Cloud Integration
+topic: Integrations, Migration, Administration
 event-cta-url-live: https://www.youtube.com/watch?v=BkAjaMPgpgE
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-240117.html
 event-start-time: 2024-01-17 10:00-7
 event-guests: Doug Moore,Eric Matisoff,Bryan Skelton
 exl-id: 2c2136a9-0b40-4a0a-907d-5af181568073
 duration: 3655
-source-git-commit: a004d7aa2c01ccd1d4d65749c4aa0440290f8023
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -25,7 +26,7 @@ Delta i Bryan, Eric och Doug och diskutera hur ni snabbt ska komma igång med Cu
 
 >[!BEGINSHADEBOX &quot;Har du frågor?&quot;]
 
-Fortsätt diskutera [Experience League Community-forum](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093?profile.language=sv#M3582).
+Fortsätt diskutera [Experience League Community-forum](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
 
 >[!ENDSHADEBOX]
 

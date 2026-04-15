@@ -1,19 +1,21 @@
 ---
 title: Marketo & Mochas - Granska en ärvd eller aktuell instans
 description: Har du ärvt eller vill du granska din Marketo-instans? Delta i Adobe Advisors Cynthia Chang & Carly Gaver och lär dig fem viktiga steg för att granska och optimera din Marketo Engage.
+feature: Programs, Reporting
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3956
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18155
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: 66d45044-86a0-4cd8-bbdd-7d04cebf6c8f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
-
 
 # Marketo &amp; Mochas: Granska en ärvd eller aktuell instans
 

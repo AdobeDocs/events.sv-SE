@@ -2,6 +2,7 @@
 title: Fusion Decoded - What it is and why each Org can use it
 description: Workfront Fusion och visar några exempel som kan hjälpa oss att demystifiera Fusion.
 feature: Workfront Fusion
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +10,7 @@ duration: 3199
 last-substantial-update: 2025-12-02T00:00:00Z
 jira: KT-19788
 exl-id: 17044e9c-9a18-4873-9368-accb7351734d
-source-git-commit: 88adf7e72d49b8f8e8cf8199e320152556304d46
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -25,10 +26,10 @@ och se hur ondemand-inspelningen följer med när Jen ger en översikt över Wor
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477159/?learn=on&enablevpops)
 
-Älskade du den här sessionen och ville lära dig mer av Jen? Se till att du tittar på den andra sessionen i serien, [Fusion Decoded Part 2 - Let&#39;s Start Building](https://experienceleague.adobe.com/sv/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded-part-2)!
+Älskade du den här sessionen och ville lära dig mer av Jen? Se till att du tittar på den andra sessionen i serien, [Fusion Decoded Part 2 - Let&#39;s Start Building](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded-part-2)!
 
-Glöm inte att granska listan med tillgängliga Adobe Workfront [Fusion-mallar](https://experienceleague.adobe.com/sv/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates).
+Glöm inte att granska listan med tillgängliga Adobe Workfront [Fusion-mallar](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates).
 
-Fler resurslänkar finns tillgängliga på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958?profile.language=sv)!
+Fler resurslänkar finns tillgängliga på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958)!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.

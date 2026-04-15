@@ -2,6 +2,7 @@
 title: Adobe Developers Live - NOV 23 - Headless Breakout 3
 description: Iryna Lagno och Valerii Naida presenterade en innovativ strategi för innehållshantering i Adobe Experience Manager under denna session som spelades in live den 6 november 2023. Lär dig integrera externa datakällor som Google Places API i innehållsfragment och identifiera Canvas Data API och anpassade gränssnittselement. Det här seminariet ger praktiska kunskaper för utvecklare och innehållschefer som vill effektivisera arbetsflöden och införa datadrivna element i sina innehållsstrategier.
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Content Fragments
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ jira: KT-14426
 thumbnail: 3425626.jpeg
 exl-id: ab6122f0-91d6-4aee-84fa-95f8c3610cfe
 duration: 1820
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---

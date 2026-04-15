@@ -1,19 +1,21 @@
 ---
 title: Optimera e-signering för mobiler med Acrobat Sign
 description: Upptäck hur Acrobat Sign förbättrar e-signeringen på mobilen med kodfria inställningar för sömlösa avtal.
+feature: Sign
+topic: Security, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2370
 last-substantial-update: 2025-12-09T00:00:00Z
 jira: KT-19918
-source-git-commit: d17c517cdcdeddb2ba8d7db4c244f16d678bab96
+exl-id: a90d80b3-2660-4c39-a24e-d819686911de
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
-
 
 # Optimera e-signering för mobiler med Acrobat Sign
 

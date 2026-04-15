@@ -1,15 +1,17 @@
 ---
 title: Fråga experten - Mäta hastighet
 description: Lär dig mäta och spåra hastigheten med hjälp av  [!DNL Workfront] -rapportering. Denna workshop spelades in den 14 augusti 2019.
+feature: Reports and Dashboards
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
 last-substantial-update: 2023-08-15T00:00:00Z
 exl-id: 83053de2-e386-4243-a9c8-a2ad9d51790f
 duration: 4630
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '3962'
+source-wordcount: '3986'
 ht-degree: 0%
 
 ---
@@ -27,7 +29,7 @@ Spara tid genom att kopiera och klistra in beräkningarna nedan.
 >[!NOTE]
 >
 >Syntaxen för anpassade fältberäkningar har ändrats sedan presentationen gjordes 2019, men de begrepp och andra instruktioner som ges i presentationen är fortfarande korrekta.
->&#x200B;>**De beräkningar som ingår nedan har uppdaterats för att återspegla de senaste syntaxreglerna.**
+>**De beräkningar som ingår nedan har uppdaterats för att återspegla de senaste syntaxreglerna.**
 
 **Första implementeringsdatum**
 
@@ -99,7 +101,7 @@ Tack för att du har organiserat det här webbinariet. Jag har en fråga om Fiel
 
 I en sådan här situation kan du använda filtrering och massredigering för att delvis automatisera besväret med att fylla i villkorsfältet baserat på ditt anpassade tillståndsfält.
 
-Gör följande:
+Så här gör du:
 
 1. Avgör vilka lägesvärden du vill koppla till villkorsvärden. Anta till exempel att du har ett lägesvärde på&quot;Late&quot; och&quot;Mycket sen&quot; som båda mappas till villkorsvärdet&quot;In Trouble&quot;
 1. Skapa en projektrapport som visar alla projekt med det statliga värdet&quot;Late&quot; och&quot;Mycket Late&quot;

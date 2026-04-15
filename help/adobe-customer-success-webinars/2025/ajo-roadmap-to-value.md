@@ -2,23 +2,25 @@
 title: Adobe Journey Optimizer Value Realization Series - Session 1 Roadmap to Value with Adobe Journey Optimizer
 description: Lär dig utforma en Adobe Journey Optimizer strategi för att införa fallstudier som ger mätbara resultat. Praktiska tips och exempel från verkligheten som ger affärsvärde.
 solution: Journey Optimizer
+feature: Journeys
+topic: Development
 role: Leader, User
 level: Beginner
 doc-type: Event
 duration: 2860
 last-substantial-update: 2025-10-22T00:00:00Z
 jira: KT-19457
-source-git-commit: 049b74b1b3e2ef9c511cba258c6d98bb60eca152
+exl-id: dc476481-677b-4b60-ada9-9ca27212edea
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Journey Optimizer (AJO) Value Realization Series - Session 1 Roadmap to Value with AJO
 
-I vår inledande session med serien granskar vi varför en strategi för att lansera användningsfall är så viktig när det gäller att få till stånd värde med Adobe Journey Optimizer (AJO). Det här webbinariet innehåller praktisk vägledning och verkliga exempel som hjälper dig att skapa en vägkarta över användningen av AJO. Målet är att du och ditt team ska kunna låsa upp mätbara resultat och se till att kundvärdesleveransen är anpassad efter era behov. AJO erbjuder en enorm potential och med en tydlig färdplan kan ni och ert team identifiera vilka vinster ni kan uppnå och ta fram meningsfulla användningsfall som är anpassade till era KBO för att få ut så mycket som möjligt av er investering.
+I vår inledande session med serien granskar vi varför en strategi för att lansera användningsfall är så viktig när det gäller att få till stånd värde med Adobe Journey Optimizer (AJO). Det här webbinariet innehåller praktisk vägledning och verkliga exempel som hjälper dig att skapa en vägkarta över användningen av AJO.Målet är att du och ditt team ska kunna låsa upp mätbara resultat och se till att ni anpassar er efter värdeutvecklingen. AJO erbjuder en enorm potential och med en tydlig färdplan kan ni och ert team identifiera vilka vinster ni kan uppnå och ta fram meningsfulla användningsfall som är anpassade till era KBO för att få ut så mycket som möjligt av er investering.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476067/?learn=on&enablevpops)
 
@@ -33,4 +35,3 @@ Att införa Adobe Journey Optimizer (AJO) kräver en disciplinerad samarbetsproc
 * **Kontinuerlig förbättring** Övervaka, optimera och anpassa användningsfall baserat på resultat och feedback.
 
 Genom att följa dessa steg kan varje initiativ ge ett verkligt affärsvärde och en långsiktig framgång.
-

@@ -3,15 +3,17 @@ title: Använda Workfront för utbildning och aktivering av webbinarium
 description: Upptäck hur Workfront förbättrar personalutbildningen i vårt on-demand-webbinarium. Få insikter från JPMorgan Chase-, IBM- och Adobe Workfront-experter om hur man skapar skräddarsydda banor, organiserar material och använder Workfront för effektiv introduktion och långsiktig användning.
 role: Admin
 solution: Workfront
+feature: System Setup and Administration, Work Management
+topic: Administration, Integrations
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3574
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15826
 exl-id: 8300b149-1e69-4a29-b0ab-8134d46df4a4
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---

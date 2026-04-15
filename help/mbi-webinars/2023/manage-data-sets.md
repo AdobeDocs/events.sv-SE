@@ -1,18 +1,21 @@
 ---
 title: Hantera datauppsättningar i Commerce Intelligence
-description: Titta på det här webbinariet och lär dig mer om de kraftfulla funktionerna i Commerce Intelligence Data Warehouse Manager.
-landing-page-description: Titta på det här webbinariet och lär dig mer om de kraftfulla funktionerna i Commerce Intelligence Data Warehouse Manager.
-short-description: Titta på det här webbinariet och lär dig mer om de kraftfulla funktionerna i Commerce Intelligence Data Warehouse Manager.
+description: Titta på det här webbinariet och lär dig mer om några av de kraftfulla funktionerna i Commerce Intelligence Data Warehouse Manager.
+landing-page-description: Titta på det här webbinariet och lär dig mer om några av de kraftfulla funktionerna i Commerce Intelligence Data Warehouse Manager.
+short-description: Titta på det här webbinariet och lär dig mer om några av de kraftfulla funktionerna i Commerce Intelligence Data Warehouse Manager.
 kt: 10410
 solution: Commerce, Commerce Intelligence
+feature-set: Commerce Intelligence
+feature: Data Integration, Reports
+topic: Commerce
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 344680.jpeg
 exl-id: 657dfb41-0364-4f45-86f7-2e09897860c7
 duration: 3410
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -33,5 +36,5 @@ Under det här inspelade webbinariet får du lära dig att beräkna avkastningen
 
 ## Användbara resurser
 
-[En rundtur i Data Warehouse Manager](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html?lang=sv-SE)
-[Koppla samman data](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html?lang=sv-SE)
+[Demo av Data Warehouse Manager](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
+[Koppla samman data](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

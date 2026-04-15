@@ -2,19 +2,21 @@
 title: Resurskvalitet - Anpassa arbetsbelastningsutjämnaren
 description: När du kan välja ett verktyg i stället för ett annat (Arbetsbelastningsutjämning eller Resursplanering), eller situationer där du kan använda både Hur man anpassar filter och vyer för att se exakt de data som behövs för att rapportera Varför det är viktigt att du anger en viss tid för en korrekt kapacitetsplanering Hur Steve och hans team kan avgöra den dagliga resurskapaciteten OCH den framtida resursplaneringen under de kommande tre månaderna
 solution: Workfront
+feature: Resource Management, Reports and Dashboards, Strategic Planning
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2623
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16102
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+exl-id: 16622bad-db10-4deb-9182-753d0abdcd55
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
-
 
 # Resurs - hög kvalitet: Anpassa arbetsbelastningsutjämnaren
 

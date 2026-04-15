@@ -2,6 +2,8 @@
 title: Att skapa en flexibel marknadsorganisation
 description: Vid mötet om att odla en flexibel marknadsorganisation betonades principerna om flexibel marknadsföring, dess fördelar, utmaningar med den traditionella vattenfallsstrategin, behovet av en kulturell förändring och ändringshantering samt de roller och den struktur som är avgörande för en framgångsrik flexibel marknadsföring.
 solution: General
+feature: Personalization, Analytics Basics
+topic: Personalization, Performance, Development
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3333
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17371
 exl-id: c4cce472-9730-41d8-8292-663d5a2e03a5
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---

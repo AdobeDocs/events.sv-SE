@@ -2,13 +2,15 @@
 title: Tips och tricks - Beräknade fält som alla ska känna till
 description: Har du någonsin bläddrat igenom flera sidor i en projektuppdateringsström för att hitta datumet då projektet flyttades till Aktuell? Detta är en bra ... (Beskrivningar ska vara mellan 60 och 160 tecken)
 solution: Workfront
+feature: Reports and Dashboards
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10316
 thumbnail: 342526.jpeg
 exl-id: 8e7d31e2-78f5-4f02-a85d-f438880a5664
 duration: 1955
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%

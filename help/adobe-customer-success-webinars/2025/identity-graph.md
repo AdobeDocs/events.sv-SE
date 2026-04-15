@@ -2,6 +2,7 @@
 title: Användningsexempel för identitetsdiagram och felsökning
 description: Läs om hur Adobe Experience Platform Identity Service hanterar segmentering, aktivering och sammanslagning av profiler för att lösa marknadsföringsutmaningar i verkligheten.
 feature: Identities, Profiles, Segments
+topic: Personalization, Security, Administration
 solution: Experience Platform
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 3232
 last-substantial-update: 2025-09-24T00:00:00Z
 jira: KT-19286
-source-git-commit: ae72352725cfb057cab771b08c4419c11e17e385
+exl-id: ffe6ced7-998c-4e40-a91f-e34e5174dc2c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
-
 
 # Användningsexempel för identitetsdiagram och felsökning
 
@@ -46,4 +47,3 @@ Upptäck hur Adobe Experience Platform identitetsdiagram förenar kunddata för 
 * **Diagramkomprimering och korrigering** Delade enheter, ovaliderade data eller implementeringsfel kan fragmentprofiler. Simuleringsverktyg och reparationsjobb hjälper till att återställa noggrannheten.
 
 Genom att förstå dessa begrepp kan organisationer maximera datavärdet, säkerställa regelefterlevnad och leverera personaliserade upplevelser.
-

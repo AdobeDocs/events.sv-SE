@@ -3,6 +3,7 @@ title: Förbereder för Marketo Engage på Adobe Identity
 description: Delta i denna utbildningssession för att förbereda dig för migrering av Marketo Engage-prenumerationer till Adobe Identity, med fokus på användarmigrering, viktiga åtgärder och viktiga resurser för administratörer, med vägledning om navigering i migreringskonsolen och förståelse för förändringar vid varje milstolpe.
 solution: Marketo Engage
 feature: Administration
+topic: Integrations, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,19 +11,19 @@ duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
 exl-id: 811852d0-9900-43cc-b6d8-29c8b2fef40c
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
 # Förbereder för Marketo Engage på Adobe Identity
 
-Det här är en utbildning om migrering för [Adobe Marketo Engage-prenumerationer som ska integreras med Adobe Identity Management System](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Innehållet passar bäst för Marketo Engage-administratörer. Den här utbildningen ger dig den kunskap du behöver för att förbereda din organisation för funktionalitet och utbilda interna användare i denna kommande förändring.
+Det här är en utbildning om migrering för [Adobe Marketo Engage-prenumerationer som ska integreras med Adobe Identity Management System](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Innehållet passar bäst för Marketo Engage-administratörer. Den här utbildningen ger dig den kunskap du behöver för att förbereda din organisation för funktionalitet och utbilda interna användare i denna kommande förändring.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432369/?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
 ## Översikt
 

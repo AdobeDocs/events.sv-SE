@@ -2,6 +2,7 @@
 title: SLA Reporting in Workfront with Madalyn Destafney
 description: Lär dig hur du implementerar och mäter servicenivåavtal (SLA) i Adobe Workfront med experttips från Madalyn Destafney, inklusive stegvis vägledning, exempel på beräknade fält och vedertagna standarder för formulär.
 feature: Reports and Dashboards
+topic: Performance, Certification
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 speaker-name-1: Madalyn Destafney
@@ -12,9 +13,9 @@ duration: 1616
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18623
 exl-id: 0d870372-4605-4d42-b539-5de2943a2682
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -23,25 +24,25 @@ ht-degree: 0%
 
 Välkommen till en annan avbetalning av Expert Insights!  Jag heter Cynthia Boon, din&quot;On-Demand&quot; Workfront CSM och delar gärna med mig av att vi har den enda, Madalyn Destafney, som delar med sig av hennes omfattande erfarenhet av att hjälpa kunderna att implementera och mäta serviceavtal (SLA) med Workfront. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469982/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3469901/?learn=on&enablevpops)
 
 Som du lovade i videon har vi Madalyns presentation länkad till hennes steg, beräknade uttryck och rapportexempel. 
 
-* [Madalyns Slide-däck PDF](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/SLA+Reporting.pdf)
+* [Madalyns Slide-däck, PDF](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/SLA+Reporting.pdf)
 
-## Resurser
+## Resurs
 
 Under presentationen delade Madalyn sina egna formulär och beräkningsfält, så om du precis har börjat med de funktionerna finns det några länkar som pekar dig i rätt riktning. 
 
-* Självstudievideospelningslista - [Skapa och dela anpassad Forms](https://experienceleague.adobe.com/sv/playlists/workfront-create-and-manage-custom-forms)
+* Självstudievideospelningslista - [Skapa och dela anpassad Forms](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
 
-* Artikel - [Kom igång med beräknade fält och uttryck](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* Artikel - [Kom igång med beräknade fält och uttryck](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* Tips och tricks - [Beräknade fält som alla ska känna till och hur de ska rapporteras!](https://experienceleague.adobe.com/sv/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* Tips och tricks - [Beräknade fält som alla ska känna till och hur de ska rapporteras!](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Intresserad av fler tips från Madalyn? Kolla in hennes serie med tips och tricks i Workfront Community! 
 
-* [Tech Bytes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=sv#M2742) för tisdag
+* [Tech Bytes Tech](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
 
 ## Om högtalaren 
 

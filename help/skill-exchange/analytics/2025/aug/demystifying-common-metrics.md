@@ -3,19 +3,20 @@ title: Demystifiera gemensamma mätvärden
 description: Lär dig hur du tolkar Adobe Analytics statistik - besök, besökare, sidvisningar, studsar, konverteringsgrader med mera - för att förbättra rapporteringsnoggrannheten och få bättre insikter.
 solution: Analytics
 feature: Metrics, Analytics Basics
+topic: Security
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18817
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+exl-id: f2f4277d-7778-4100-8768-0fac3edeec55
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
-
 
 # Demystifiera gemensamma mätvärden
 
@@ -41,4 +42,3 @@ Upptäck hur ni kan förstå de vanligaste webbanalysmåtten och använda dem f�
 * **Punkttrafikmedvetenhet** Ta reda på hur robotstatistik hjälper dig att identifiera och filtrera bort icke-mänsklig trafik för renare rapportering.
 
 Om du kombinerar dessa koncept kan du välja ut de bästa mätvärdena för dina behov och maximera värdet på dina analysrapporter.
-

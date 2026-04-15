@@ -2,6 +2,7 @@
 title: Maximera användarupplevelser med Adobe Target AI-styrda Personalization
 description: John Magnussons session om Adobe Target AI-driven personalisering belyste viktiga funktioner och exempel med betoning på ramverket Engage, Expand och Embed.
 solution: Target
+feature: Segments, Profiles
 topic: Personalization, Artificial Intelligence
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -10,9 +11,9 @@ duration: 3186
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16627
 exl-id: c1d89e23-1d6e-41a7-877c-1d016b4b39d0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -41,4 +42,4 @@ Sessionen om Adobe Target AI-driven personalisering, som leds av John Magnusson,
 * **Experience League** Rekommenderas som en resurs för detaljerad dokumentation och vägledning om hur du implementerar Adobe Target-funktioner.
 * **Q&amp;A-markeringar**
    * Adobe Target kan implementeras i e-postkanaler och integreras med Marketo.
-   * Target kan skapa en egen uppsättning enhetliga kundprofiler och integrera med CDP- eller Adobe-målgrupper för en mer robust personalisering. En uppmaning till Action**-deltagare uppmuntras att identifiera användningsfall för Adobe Target personaliseringsverktyg och tillämpa dem med den definierade strategin, designen, utförandet, analysen och åtgärdscykeln.
+   * Target kan skapa en egen uppsättning enhetliga kundprofiler och integrera med CDP- eller Adobe-målgrupper för en mer robust personalisering.Call to action** Deltagarna uppmuntras att identifiera användningsexempel för Adobe Target personaliseringsverktyg och använda dem med den definierade strategin, designen, utförandet, analysen och åtgärdscykeln.

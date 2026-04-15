@@ -3,6 +3,7 @@ title: Förbättra Workfront Reporting med avancerat textläge
 description: Lär dig hur du använder Adobe Workfront Text Mode för att sammanfoga kolumner, skapa anpassade värdesuttryck och skapa dynamiska uppmaningar för smartare rapportering.
 solution: Workfront
 feature: Text Mode Reporting
+topic: Administration, Integrations
 speaker-name-1: Nathan Johnson
 speaker-company-1: Adobe
 role: User
@@ -12,9 +13,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18878
 exl-id: 22811352-8232-44b6-af8c-89483a729838
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -34,7 +35,7 @@ Ta dina Workfront-rapporter till nästa nivå med avancerade textlägestekniker.
 
 Utnyttja kraften i Workfront rapportering genom att kombinera teknisk expertis med historieberättande.
 
-* **Avancerat textläge &#x200B;** Möjliggör flexibla, anpassade rapporter som går längre än de vanliga gränssnittsbegränsningarna.
+* **Avancerat textläge **Möjliggör flexibla, anpassade rapporter som går längre än de vanliga gränssnittsbegränsningarna.
 * **Sammanfogning av kolumner** minskar störande och förbättrar läsbarheten, så att du kan presentera viktig projektinformation i en enda vy.
 * **Värdeuttryck** Tillhandahåll realtidsinsikter, till exempel projektstatus och schemaläggningsberäkningar, direkt i dina rapporter.
 * **Anpassade frågor** Ge användarna möjlighet att filtrera och interagera med rapporter dynamiskt för att tillgodose olika teambehov.

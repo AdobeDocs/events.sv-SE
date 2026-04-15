@@ -1,6 +1,7 @@
 ---
 title: Skapa din texturrecept
 description: Huvudsaklig vårdproduktion i Marketo Engage - lär dig strategi, automatisering, personalisering och resultatspårning för att öka engagemanget och få bättre resultat.
+feature: Programs, Reporting
 speaker-name-1: Amanda Thomas
 speaker-title-1: Senior Marketing Operations Manager
 speaker-company-1: Iron Horse
@@ -14,13 +15,13 @@ doc-type: Event
 duration: 3123
 last-substantial-update: 2025-09-24T00:00:00Z
 jira: KT-19288
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+exl-id: 8f65f7e0-e90d-4be7-be0d-3ecedafdfcfe
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # Skapa din texturrecept
 
@@ -42,5 +43,3 @@ Denna session omfattade de viktigaste delarna och mer därtill.
 * **Prestandamätning** Få insikter i hur du spårar, analyserar och optimerar prestandan för dina närliggande kampanjer.
 
 Sessionen är perfekt för marknadsförare som vill bygga en stark grund i Marketo och få mätbara resultat genom smartare vårdar.
-
-

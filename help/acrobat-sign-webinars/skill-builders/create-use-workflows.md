@@ -2,6 +2,7 @@
 title: Skapa och använda arbetsflöden från början till slut
 description: Läs om hur du skapar och använder arbetsflöden.
 feature: Workflow
+topic: Development
 role: User
 level: Intermediate
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 1273
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15301
 exl-id: 4b21e52d-5ecb-4d82-b66b-784b51395bc2
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Anropa alla Acrobat Sign-administratörer och slutanvändare/enskilda medarbetare. Denna session kommer att omfatta både framtagning och användning av arbetsflöden. Som grupp- eller kontoadministratör för Acrobat Sign kan du lära dig hur du kan definiera förinställda arbetsflöden för att automatiskt dirigera dokument för signering till rätt parter och sedan ge åtkomst till hela Acrobat Sign-gruppen. Och som slutanvändare kan du lära dig att använda dessa arbetsflöden för att säkerställa att dokumenten signeras korrekt första gången - och varje gång.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454905/?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3428192/?learn=on)
 
 ## Ämnen som omfattas
 

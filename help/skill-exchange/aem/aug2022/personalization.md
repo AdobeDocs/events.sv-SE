@@ -2,6 +2,7 @@
 title: Öka affärsvärdet med innehållspersonalisering i AEM
 description: Läs om hur ni kan använda personaliseringsfunktioner i Adobe Experience Manager och Adobe Target för att leverera engagerande och övertygande upplevelser som garanterat konverteras.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
 role: User
 level: Beginner, Intermediate, Experienced
 topic: Personalization
@@ -9,7 +10,7 @@ kt: 10948
 thumbnail: 346384.jpeg
 exl-id: 8bbd96e2-5a74-46a7-a622-b8f3f1a85e5f
 duration: 2309
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%

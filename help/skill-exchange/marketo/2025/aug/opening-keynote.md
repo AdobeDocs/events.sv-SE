@@ -2,6 +2,7 @@
 title: Öppnar inledningsanförandet
 description: Upptäck hur AI-agenter omvandlar B2B-marknadsföring till B2B 3.0. Lär dig strategier för ökad effektivitet, personalisering och kundresor med Marketo Engage.
 solution: Marketo Engage
+feature: Programs, Reporting
 topic: Personalization
 role: User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02T00:00:00Z
 jira: KT-18868
-source-git-commit: 6c9493a52200986d77efba0737b03d15db539845
+exl-id: 2dd43d54-8bc8-431c-b03b-792aa9ece08f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
-
 
 # Öppnar inledningsanförandet
 

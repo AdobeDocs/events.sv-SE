@@ -2,6 +2,7 @@
 title: Acrobat Sign 101 - Komma igång
 description: Lär dig grunderna i Acrobat Sign för att snabbt få dokument signerade.
 feature: Sign
+topic: Development
 role: User
 level: Beginner
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 1623
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15292
 exl-id: 30be76bf-738d-4716-8de6-6f5387dbf905
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Lär dig grunderna i Acrobat Sign för att snabbt få dokument signerade. Vi visar dig hur: Förbered och skicka dina dokument för e-signatur Visa vad dina signerare ser Hantera och spåra avtalsförloppet Skapa en egen signatur med mera.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455469/?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3428183/?learn=on)
 
 ## Viktiga punkter
 
@@ -31,4 +32,4 @@ Lär dig grunderna i Acrobat Sign för att snabbt få dokument signerade. Vi vis
 * Privata meddelanden kan läggas till för specifika deltagare med konversationsbubblarikonen.
 * Signerare har alternativ för att läsa avtalet, delegera signering, avböja signering, visa historik och hämta PDF.
 * Avsändare kan hantera avtalsarbetsflöden, visa transaktioner, skicka påminnelser och få tillgång till färdiga dokument.
-* Adobe Sign fungerar som en lagringsmekanism för alla signerade dokument, men användare kan ha egna arkiveringsmetoder.
+* Adobe Sign fungerar som en lagringsmekanism för alla signerade dokument, men användarna kan ha egna arkiveringsmetoder.

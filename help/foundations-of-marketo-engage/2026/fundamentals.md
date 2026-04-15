@@ -1,19 +1,21 @@
 ---
 title: Session 1 2026 - grunderna i Marketo Engage
 description: Lär dig grunderna i Marketo Engage, inklusive navigering, grundfunktioner och automatiseringsverktyg för att hantera marknadsföringskampanjer på ett säkert sätt.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 doc-type: Event
 duration: 3560
 last-substantial-update: 2026-03-31T00:00:00Z
 jira: KT-20742
-source-git-commit: b0f9751c3e081316fa82cbde237404ba0c5fc07f
+exl-id: a7748412-2baf-4ec1-8fca-5499150af7c6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # Session 1 2026: Fundamentals of Marketo Engage
 
@@ -30,5 +32,3 @@ Vår första session avslutas den här månaden med en praktisk introduktion til
 
 * Nyare användare av Marketo Engage eller de som just har börjat använda plattformen.
 * Praktiker med begränsad praktisk erfarenhet som vill bygga upp förtroende med hjälp av grundfunktionerna.
-
-

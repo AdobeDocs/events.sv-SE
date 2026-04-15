@@ -2,6 +2,7 @@
 title: Starta snabbt, skala smart - aktivera lyckade projekt på teamnivå med Workfront Planning
 description: Läs om hur ett team sätter första steget i Adobe Workfront Planning påskyndar användningen, minskar motståndet och bygger en skalbar grund för framgång i hela företaget.
 feature: Workfront Planning
+topic: Performance, Administration, Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 3470
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18628
 exl-id: 79a28ff0-7f89-4d71-80e4-6f9cd5c07380
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -35,16 +36,16 @@ Här finns ytterligare snabblänkar till resurser som hjälper dig att komma ig�
 
 ### Läs
 
-* [Anpassa kursen till lyckade resultat med Adobe Workfront Planning](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077?profile.language=sv)
-* [Vägbok - Din Workfront Planning GPS](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
+* [Skapa en lyckad kurs med Adobe Workfront Planning](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077)
+* [Guide - Din Workfront Planning GPS](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
 
 ### Utbildningsvideor för planering
 
-* [Lägger till planering i din instans (licensplaner och liknande)](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/workfront-planning/add-planning-to-your-instance)
-* [Skapa en Workspace (Komma igång med grunden för planering)](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)
-* [Skapa och hantera en posttyp](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)
-* [Skapa och hantera tabellvyer](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)
-* [Dokumentation: Adobe Workfront Planning - översikt](https://experienceleague.adobe.com/sv/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
-* [Aktivitet för lansering av Adobe Workfront Planning](https://experienceleague.adobe.com/sv/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
+* [Lägga till planering i din instans (licensplaner och liknande)](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/add-planning-to-your-instance)
+* [Skapa en Workspace (Komma igång med grunden för planering)](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)
+* [Skapa och hantera en posttyp](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)
+* [Skapa och hantera tabellvyer](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)
+* [Dokumentation: Adobe Workfront Planning - översikt](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
+* [Adobe Workfront Planning - lanseringsaktivitet](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
 
-Vi kommer snart fler event för Workfront Planning, så se till att regelbundet gå till sidan [Händelser på Experience League](https://experienceleague.adobe.com/events/?lang=sv-SE&filters=Workfront)så att du inte missar något!
+Vi kommer snart fler event för Workfront Planning, så se till att regelbundet gå till sidan [Händelser på Experience League](https://experienceleague.adobe.com/events/?filters=Workfront)så att du inte missar något!

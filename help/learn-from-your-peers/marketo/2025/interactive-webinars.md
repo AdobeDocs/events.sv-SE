@@ -3,6 +3,7 @@ title: Revolutionerar webbseminarierna - Upptäck effekten av interaktiva webbin
 description: Läs om hur Marketo Champion Maria Cruz använder interaktiva webbinarier för att öka engagemanget, få insikter och förbättra marknadsföringen på MRM. Titta på on demand nu!
 solution: Marketo Engage
 feature: Interactive Webinars
+topic: Artificial Intelligence, Personalization, Integrations
 role: Admin, User
 level: Intermediate
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 2559
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18062
 exl-id: 896d90d0-5db1-4c10-88ea-88562929c31d
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -39,5 +40,5 @@ Adobe Marketo Engage Champion Maria Cruz har utnyttjat Interactive Webinars på 
 
 * Gå med i [diskussionstråden](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260) i Marketing Nation Community, där frågor och svar publiceras.
 * [Läs mer om funktionerna i GenAI i interaktiva webbinarier](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
-* [Grunderna i interaktiva webbinarier](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
-* [Lär dig använda interaktiva webbinarier (omröstningar, frågor och svar, CTA:er)](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
+* [Utforska grunderna i interaktiva webbinarier](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [Lär dig använda interaktiva webbinarier (omröstningar, frågor och svar, CTA:er)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)

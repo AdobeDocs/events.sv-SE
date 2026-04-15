@@ -4,14 +4,15 @@ description: Lär dig att bli effektivare när det gäller planering, lansering 
 jira: KT-14433
 solution: Campaign v8 Web User Interface
 feature: Configuration
+topic: Integrations
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
 exl-id: 636d8bf5-80d9-406b-ab1e-3d5c4b1c8b8f
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
@@ -20,13 +21,13 @@ ht-degree: 0%
 
 Adobe Campaign v8 kommer att ha ett helt nytt utseende. Den omdesignade användarupplevelsen förenklar kampanjdesignprocessen och överensstämmer med andra Adobe Experience Cloud-lösningar.
 
-Delta i denna Experience League Live-session, där Adobe Campaign produktexperter visar hur man planerar, lanserar och mäter flerkanalskampanjer i den nya användarupplevelsen.
+Delta i denna Experience League Live-session där Adobe Campaign produktexperter visar hur man planerar, lanserar och mäter flerkanalskampanjer i den nya användarupplevelsen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427258/?quality=12&learn=on)
 
 >[!BEGINSHADEBOX &quot;Har du frågor?&quot;]
 
-Fortsätt diskutera det här ämnet i Adobe Experience League [Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893?profile.language=sv#M2671){target="_blank"}.
+Fortsätt diskutera det här ämnet i Adobe Experience League [Community-posten](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
 
 >[!ENDSHADEBOX]
 
@@ -34,7 +35,7 @@ Det nya webbgränssnittet i Campaign är viktigt eftersom det ger en enhetlig oc
 
 ## Viktiga uppgifter
 
-* Det nya webbgränssnittet för kampanjer i Adobe har startats och är tillgängligt för kunder som använder version 8.6 av Adobe Campaign.
+* Adobe nya kampanjgränssnitt har startats och är tillgängligt för kunder som använder version 8.6 av Adobe Campaign.
 * Webbgränssnittet ger en enhetlig och enhetlig användarupplevelse i alla Adobe Experience Cloud-produkter.
 * På webbgränssnittets startsida får du snabb åtkomst till alla program i Experience Cloud och du får meddelanden och supportalternativ.
 * Webbgränssnittet förenklar processen att skapa målgrupper, definiera kampanjer och utforma e-postinnehåll.
@@ -46,9 +47,9 @@ Det nya webbgränssnittet i Campaign är viktigt eftersom det ger en enhetlig oc
 
 ## Ytterligare resurser
 
-* **[Webbanvändargränssnitt för kampanj - nyckelfunktioner](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=sv-SE){target="_blank"}**
+* **[Webbanvändargränssnittet för kampanj - nyckelfunktioner](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html){target="_blank"}**
   *Detaljerad dokumentation om vad som är tillgängligt i Adobe Campaign webbgränssnitt.*
 
-* **[Adobe Campaign webbanvändargränssnitt - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=sv-SE){target="_blank"}**
+* **[Adobe Campaign webbgränssnitt - självstudiekurser](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
   *Så här gör du för att se videofilmer och självstudiekurser om Adobe Campaign webbanvändargränssnitt.*
 

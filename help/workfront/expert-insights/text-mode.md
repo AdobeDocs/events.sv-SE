@@ -1,19 +1,21 @@
 ---
 title: Huvudtextläge med Katherine Lanning
 description: Upptäck möjligheterna med textläge i Workfront med experttips från Katherine Lanning.
+feature: Reports and Dashboards, System Setup and Administration, Work Management
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 1892
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19738
-source-git-commit: df552b4f2b2fa1d8e4e8941aa9d58acecc60dd2b
+exl-id: 42008579-3f8d-4b10-bfdd-96fb77b1d48e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '562'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Expert Insights: Textläge med Katherine Lanning
 
@@ -29,19 +31,19 @@ Textläge kan vara en utmaning, men belöningarna är enastående.  Kom ihåg Ka
 * Utnyttja communityn. - Använd Experience League, cookbooks, API Explorer och andra. Uppfinna inte hjulet på nytt.
 * Behåll, men ta pauser. - Om du sitter fast stänger du den bärbara datorn, tar en promenad och återvänder med nya ögon.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477138/?captions=swe&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477024/?learn=on&enablevpops)
 
 
-## Resurser
+## Resurs
 
 Söker du ytterligare resurser? Vi har dem!
-* [Kundpanel: Lektioner från veteranska Workfront-administratörer](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861?profile.language=sv#M3487) - Katherine delade fler insikter!
-* [Referenssamlingar i en rapport](https://experienceleague.adobe.com/sv/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
-* [API Explorer](https://experienceleague.adobe.com/sv/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
-* [Rapporterar kokbok](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=sv#M1406)
-* Och om du inte har använt Reporting tidigare kan du komma igång med Nichols Perspective-artikel, [8 steg för att skapa enkla, effektiva rapporter i Adobe Workfront](https://experienceleague.adobe.com/sv/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront).
+* [Kundpanel: Lektioner från veteranska Workfront-administratörer](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861#M3487) - Katherine delade fler insikter!
+* [Referenssamlingar i en rapport](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
+* [API Explorer](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
+* [Rapportens kokbok](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
+* Och om du inte har använt Reporting tidigare kan du komma igång med Nichols Perspective-artikel, [8 steg för att skapa enkla, effektiva rapporter i Adobe Workfront](https://experienceleague.adobe.com/en/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront).
 
-Mer resurser, inklusive kopiera/klistra in textläge, finns i [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717?profile.language=sv#M4848)!
+Mer resurser, inklusive kopiera/klistra in textläge, finns i [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848)!
 
 
 ## Om högtalaren
@@ -57,4 +59,4 @@ Hon bor i sydvästra Ohio med sin oavsiktliga man, sin hund Bettis, två motorcy
 
 Har du en bra historia att dela, antingen under ett evenemang eller i en video med expertinsikter? Kontakta vårt team på [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
 
-Och om du gillar att lära dig mer om nya idéer och kreativa strategier, glöm inte att registrera dig för kommande workshops på [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events).
+Och om du gillar att lära dig mer om nya idéer och kreativa strategier, glöm inte att registrera dig för kommande workshops på [Experience League Events-sidan](https://experienceleague.adobe.com/en/events).

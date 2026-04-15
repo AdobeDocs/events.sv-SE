@@ -1,6 +1,7 @@
 ---
-title: Fördjupa dig i AEM kärnkomponenter för e-post och Forms
-description: Fördjupa dig i AEM kärnkomponenter för e-post och formulärLär dig hur du skapar e-postmeddelanden och formulär med AEM senaste komponenterna för e-post och Forms. Forms ska inte bara vara lätt att fylla i för slutanvändare, utan även enkelt att skapa för din organisation! Förenkla och förbättra processen att skapa intuitiva digitala registreringsupplevelser. Med möjligheten att skriva formulären direkt från AEM Sites kan era team dra nytta av en enhetlig metod och snabbt skapa formulär utifrån en enda källa. Med Headless Adaptive Forms kan ni utöka er räckvidd och glädja slutanvändarna genom att lägga formulären i alla kanaler, från en svarsapp till en chattruta, vilket gör slutanvändarna och utvecklarna nöjda - det är en win-win-situation. Innovationerna slutar inte där! Funderar du på att bygga formulär i andra verktyg? Nu kan du skapa och publicera formulär snabbare och mer intuitivt direkt från Excel och göra det möjligt att dela insamlade data tillbaka till Excel för framtida bearbetning på ett kodlöst sätt. Kolla in för att se hur AEM Forms innovationer är avgörande för er strategi att öka kundregistreringen!
+title: Fördjupa dig i AEM Core Components för e-post och Forms
+description: Fördjupa dig i AEM Core Components for E-Mail and FormsLär dig skapa e-post och formulär med AEM senaste komponenter för e-post och Forms. Forms ska inte bara vara lätt att fylla i för slutanvändare, utan även enkelt att skapa för din organisation! Förenkla och förbättra processen att skapa intuitiva digitala registreringsupplevelser. Med möjligheten att skriva formulären direkt från AEM Sites kan era team dra nytta av en enhetlig metod och snabbt skapa formulär utifrån en enda källa. Med Headless Adaptive Forms kan ni utöka er räckvidd och glädja slutanvändarna genom att lägga formulären i alla kanaler, från en svarsapp till en chattruta, vilket gör slutanvändarna och utvecklarna nöjda - det är en win-win-situation. Innovationerna slutar inte där! Funderar du på att bygga formulär i andra verktyg? Nu kan du skapa och publicera formulär snabbare och mer intuitivt direkt från Excel och göra det möjligt att dela insamlade data tillbaka till Excel för framtida bearbetning på ett kodlöst sätt. Kolla in för att se hur AEM Forms innovationer är avgörande för er strategi att öka kundregistreringen!
+feature: Release Information, Authoring
 product: experience manager
 sub-product: sites
 topic: Development
@@ -12,17 +13,17 @@ jira: KT-13360
 thumbnail: 3419939.jpeg
 exl-id: c7ac25f1-ec0d-4ba6-bc03-2ff393dd1699
 duration: 2921
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
 
-# Fördjupa dig i AEM kärnkomponenter för e-post och Forms
+# Fördjupa dig i AEM Core Components för e-post och Forms
 
-Fördjupa dig i AEM kärnkomponenter för e-post och Forms
+Fördjupa dig i AEM Core Components för e-post och Forms
 
-Lär dig skapa e-postmeddelanden och formulär med AEM senaste komponenterna för e-post och Forms. Forms ska inte bara vara lätt att fylla i för slutanvändare, utan även enkelt att skapa för din organisation! Förenkla och förbättra processen att skapa intuitiva digitala registreringsupplevelser. Med möjligheten att skriva formulären direkt från AEM Sites kan era team dra nytta av en enhetlig metod och snabbt skapa formulär utifrån en enda källa. Med Headless Adaptive Forms kan ni utöka er räckvidd och glädja slutanvändarna genom att lägga formulären i alla kanaler, från en svarsapp till en chattruta, vilket gör slutanvändarna och utvecklarna nöjda - det är en win-win-situation. Innovationerna slutar inte där! Funderar du på att bygga formulär i andra verktyg? Nu kan du skapa och publicera formulär snabbare och mer intuitivt direkt från Excel och göra det möjligt att dela insamlade data tillbaka till Excel för framtida bearbetning på ett kodlöst sätt. Kolla in för att se hur AEM Forms innovationer är avgörande för er strategi att öka kundregistreringen! → Fortsätt konversationen på: https://adobe.ly/41Q6p4B
+Lär dig skapa e-postmeddelanden och formulär med AEM senaste komponenter för e-post och Forms. Forms ska inte bara vara lätt att fylla i för slutanvändare, utan även enkelt att skapa för din organisation! Förenkla och förbättra processen att skapa intuitiva digitala registreringsupplevelser. Med möjligheten att skriva formulären direkt från AEM Sites kan era team dra nytta av en enhetlig metod och snabbt skapa formulär utifrån en enda källa. Med Headless Adaptive Forms kan ni utöka er räckvidd och glädja slutanvändarna genom att lägga formulären i alla kanaler, från en svarsapp till en chattruta, vilket gör slutanvändarna och utvecklarna nöjda - det är en win-win-situation. Innovationerna slutar inte där! Funderar du på att bygga formulär i andra verktyg? Nu kan du skapa och publicera formulär snabbare och mer intuitivt direkt från Excel och göra det möjligt att dela insamlade data tillbaka till Excel för framtida bearbetning på ett kodlöst sätt. Kolla in för att se hur AEM Forms innovationer är avgörande för er strategi att öka kundregistreringen! → Fortsätt konversationen på: https://adobe.ly/41Q6p4B
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419939/?learn=on)

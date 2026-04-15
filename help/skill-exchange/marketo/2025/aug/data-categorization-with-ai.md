@@ -2,6 +2,7 @@
 title: Förbättra datakategoriseringen i Marketo Engage med finjusterade AI-modeller
 description: Upptäck hur du använder finjusterade AI-modeller i Marketo Engage för att upptäcka skräppost, matcha jobbtitlar mot personifiering och kategorisera öppna textfält med webbhooks.
 solution: Marketo Engage
+feature: Reporting
 topic: Artificial Intelligence
 role: User
 level: Beginner, Intermediate, Experienced
@@ -10,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18864
 exl-id: e952d6e7-fb3d-4e5f-9912-825fbd303cc2
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -44,4 +45,4 @@ Du kommer att lära dig om
 * [Finjusterade AI-modeller för Marketo Engage](https://nation.marketo.com/t5/champion-program-blogs/fine-tuned-ai-models-for-marketo/ba-p/357019)
 * [Snabbstartsguide för webkrok](https://nation.marketo.com/t5/champion-program-blogs/webhook-quick-start-guide/ba-p/345717#M2640)
 * [Integrera ChatGPT med Marketo Engage](https://nation.marketo.com/t5/champion-program-blogs/integrating-chatgpt-with-marketo/ba-p/346886)
-* [Självbetjäningsguide för flödessteg](https://nation.marketo.com/t5/champion-program-blogs/self-service-flow-steps-guide/ba-p/357008)
+* [Handbok för självbetjäningsflödessteg](https://nation.marketo.com/t5/champion-program-blogs/self-service-flow-steps-guide/ba-p/357008)

@@ -2,6 +2,7 @@
 title: Expertinsikter - användning med Leslie Spier
 description: Lär dig implementeringsstrategier från Leslie Spier för att öka Workfront engagemang, förbättra processerna och ta hänsyn till användarbidrag.
 feature: Strategic Planning
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 speaker-name-1: Leslie Spier
 speaker-title-1: Customer Success Manager
@@ -11,13 +12,13 @@ doc-type: Event
 duration: 875
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18615
-source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
+exl-id: 1e6c3720-61d1-4d6e-ac7e-85df816f9780
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
-
 
 # Expertinsikter - användning med Leslie Spier
 
@@ -25,7 +26,7 @@ Adoption är ett ämne som vi regelbundet återkommer till, och i den här utgå
 
 Följ mig, din On-Demand Workfront CSM, när jag chattar med Leslie om varför Adobe är ett så viktigt ämne, tillsammans med några av våra favoritstrategier.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469931/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3469893/?learn=on&enablevpops)
 
 ## Tips, råd med mera
 
@@ -50,14 +51,14 @@ Följ mig, din On-Demand Workfront CSM, när jag chattar med Leslie om varför A
 * På tal om igenkänning, glöm inte att använda kraften i Workfront för att identifiera dina användare! 
    * När de erbjuder sina idéer, sin uppmärksamhet eller till och med klagomål erbjuder de sin gåva av tid och feedback. Det här är dina okända hjältar, och inget bidrag är för litet!  
 
-## Resurser
+## Resurs
 
-* Söker du fler exempel? Ta en titt på [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314?profile.language=sv) om du vill ha mer information om vad kommentarerna innehåller.
-* [Alla om utkast](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=sv-SE)
-* [Senaste anteckningsrapport](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=sv-SE)
-* [Lägg till grundläggande villkorsstyrd formatering i en vy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=sv-SE)
-* [Lägger till instrumentpaneler på den vänstra navigeringspanelen](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=sv-SE)
-* [Layoutmallar - fästa](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=sv-SE)
+* Söker du fler exempel? Ta en titt på [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314) om du vill ha mer information om vad kommentarerna innehåller.
+* [Alla om utkast](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=en)
+* [Senaste anteckningsrapport](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=en)
+* [Lägga till grundläggande villkorsstyrd formatering i en vy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
+* [Lägga till kontrollpaneler på den vänstra navigeringspanelen](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=en)
+* [Layoutmallar - fästa](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=en)
 
 ## Om högtalaren
 

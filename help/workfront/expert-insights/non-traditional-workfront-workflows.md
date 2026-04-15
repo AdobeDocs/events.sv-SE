@@ -2,6 +2,7 @@
 title: Expertinsikter - icke-traditionella Workfront-arbetsflöden med Kiersten Kollins
 description: Se hur DSW:s Kiersten Kollins använder icke-traditionella Adobe Workfront-arbetsflöden, anpassade rapporter och Fusion-automatiseringar för att optimera marknadsföringen och öka teamets effektivitet.
 feature: Work Management
+topic: Performance, Development
 speaker-name-1: Kiersten Kollins
 speaker-title-1: Senior Marketing Ops Technologist
 speaker-company-1: DSW
@@ -12,9 +13,9 @@ duration: 1129
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18622
 exl-id: a67e7d79-fbfa-4268-9418-98fe977e13f3
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -33,11 +34,11 @@ Du kommer att bli förvånad över alla fantastiska idéer hon delar, inklusive:
 * Initiera Creative Brief-granskningar för att passa behoven hos användare och projekt. 
 * *BONUS!* Hon delar också med sig av ett exempel på en av hennes favoritfall i Fusion!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469943/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
 
-## Resurser
+## Resurs
 
-Under evenemanget nämnde Kiersten två resurser som vi har kopplat till [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=sv).
+Under evenemanget nämnde Kiersten två resurser som vi har kopplat till [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315).
 * **Exempelrapport** - Aktivitetsrapportering efter arbetstider 
 * **Routningsguider för DSW-feedback** Detta är ett bra exempel på hur du lär dina användare hur de kan tillhandahålla uppdateringar i Workfront! 
 

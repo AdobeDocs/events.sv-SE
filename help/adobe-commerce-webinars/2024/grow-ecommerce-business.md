@@ -2,6 +2,7 @@
 title: 7 sätt att utöka en e-handelsverksamhet organiskt
 description: Det här webbinariet gav värdefulla insikter och praktiska tips om hur man kan utveckla ett e-handelsföretag organiskt genom SEO-strategier. Strategierna omfattade olika aspekter såsom webbplatsoptimering, nyckelordsforskning, förbättringar av den tekniska SEO-funktionen, innehållsskapande, närvaro i sociala medier, kundnöjdhet och diversifierade marknadsföringskanaler. Deltagarna introducerades till inbyggda funktioner inom Adobe Commerce och uppmuntras att gå med i kommande Adobe Summit för ytterligare utbildningsmöjligheter. På det hela taget betonade webbinariet vikten av en enhetlig insats och anpassningsbarhet för att lyckas på lång sikt i e-handelsindustrin.
 solution: Commerce
+feature: Integration, Edge Delivery Services
 topic: Commerce
 role: User
 level: Beginner, Intermediate
@@ -10,9 +11,9 @@ duration: 3493
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-15447
 exl-id: e70e0f26-f7cf-4e49-86e7-379685cd3b40
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---

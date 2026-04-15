@@ -2,6 +2,8 @@
 title: Commerce & kaffe - förberedelse av högsäsong
 description: Corey Gelatos session innehåller strategier för hur e-handelsföretag kan utvecklas under högsäsong genom att optimera webbplatsens prestanda, hantera lager, förbättra kundengagemanget med AI-verktyg och utnyttja analyser efter säsongen för att förbättra lojaliteten och lojaliteten.
 solution: Commerce
+feature: Integration, Edge Delivery Services
+topic: Personalization, Performance, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3436
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16235
 exl-id: 8dc72811-74db-485a-ac25-e2647d0848f7
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---

@@ -2,6 +2,8 @@
 title: Experience Makers spotlight - Processförbättringar och driftseffektivitet
 description: Hur James Hill, Vice President, Operational Excellence på Synchrony bedömer nyttan och prioriteten med förbättringarna, övervakar införandet av systemförändringar och i slutändan kopplar dessa förändringar till de faktiska affärsresultaten Exempel på hur Daniel Clarke, Senior Workfront Consultant på EMMsphere, har funnit effektiviteten för att säkerställa att teamresurserna kan räcka så långt som möjligt. Han kommer att dela med sig av flera framgångsrika Fusion-scenarier, metoden bakom hur och varför de byggdes och hur han kunde visa värdet av det arbetet med ledarna
 solution: Workfront
+feature: Workfront Fusion, System Setup and Administration
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,7 +11,7 @@ duration: 2404
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16099
 exl-id: ce5a8f39-c8ac-4a47-baaf-7b105e8b5f5a
-source-git-commit: 0c85d049a1d9771dc6d69ee6682c628e8dec12cf
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%

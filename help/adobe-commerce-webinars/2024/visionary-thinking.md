@@ -1,7 +1,8 @@
 ---
 title: Creative Edge - How Visionary Thinking is Transforming Commerce
-description: Det här webbinariet utforskar integreringen av kreativitet och handel och visar hur Adobe verktyg och tekniker kan hjälpa till att hantera resurser, skala innehållsskapandet och effektivisera innehållsförsörjningskedjan. Där diskuteras vikten av att sammanföra kreativitet och handel och även behandlas ämnen som personaliserade upplevelser, hantering av resurser och användning av verktyg som Adobe Workfront, Adobe Experience Manager och Adobe Stock för att effektivisera skapandet av innehåll.
+description: Det här webbinariet utforskar integreringen av kreativitet och handel och visar hur Adobe verktyg och tekniker kan hantera resurser, skala innehållsskapande och effektivisera innehållet i supply chain. Där diskuteras vikten av att sammanföra kreativitet och handel och även behandlas ämnen som personaliserade upplevelser, hantering av resurser och användning av verktyg som Adobe Workfront, Adobe Experience Manager och Adobe Stock för att effektivisera skapandet av innehåll.
 solution: Commerce
+feature: Integration
 topic: Commerce
 role: Leader, User
 level: Beginner, Intermediate
@@ -10,9 +11,9 @@ duration: 3419
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-15448
 exl-id: a495d5f0-a567-4a17-913a-15d01441ab27
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
@@ -32,7 +33,7 @@ Delta i oss och utforska de gränslösa möjligheterna i skärningspunkten mella
 ## Viktiga punkter
 
 * Integrering av kreativitet och Commerce: Webbseminariet betonar vikten av att sammanföra kreativitet och handel för att förbättra processen för att skapa innehåll och leverera personaliserade upplevelser.
-* Content Supply Chain: Adobe presenterar sin innehållsleveranskedja, som innehåller verktyg som Adobe Experience Manager och Adobe Stock för att hantera och integrera resurser på olika handelsplatser på ett effektivt sätt.
+* Content Supply chain: Adobe presenterar sitt innehåll supply chain, som innehåller verktyg som Adobe Experience Manager och Adobe Stock för att effektivt hantera och integrera resurser på olika e-handelsplatser.
 * Adobe Workfront: Workfront introduceras som Adobe Marketing Resource Management Tool, vilket underlättar samarbete, arbetsflöden för godkännande och integrering mellan kreatörer och marknadsförare.
 * Personaliserade upplevelser i skalan: Med Adobe generativa AI-verktyg, som Adobe Firefly och Adobe Express, kan användare skapa personaliserat innehåll i stor skala samtidigt som varumärkets enhetlighet bibehålls.
 * Insikter och Prestandaspårning: Adobe Gen Studio ger insikter i innehållsprestanda, så att marknadsförarna kan spåra och analysera framgången i sina kampanjer i flera kanaler för kontinuerlig förbättring och optimering.

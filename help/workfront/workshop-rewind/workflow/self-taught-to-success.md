@@ -1,19 +1,21 @@
 ---
 title: Från självstudiekurs till framgång - Hur Kyndryl skalade Workfront till Power $7B
 description: Arbetsflöde för återspolning i Workshop
+feature: Reports and Dashboards, Work Management
+topic: Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2862
 last-substantial-update: 2025-11-20T00:00:00Z
 jira: KT-19789
-source-git-commit: 48d93e64b075db84d164a743db97fa0202b3e26c
+exl-id: 565e805e-03de-42b1-ab0d-11da895c7abf
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
-
 
 # Från självstudiekurs till framgång: Hur Kyndryl skalade Workfront till Power $7B
 
@@ -27,6 +29,6 @@ Detta är en bra historia om hur kraftfull (och generös) Workfront Community ä
 
 Om du är intresserad av att dela med dig av din historia eller ditt användningsfall, skicka ett e-postmeddelande till oss på csatscale@adobe.com.
 
-Har du idéer att dela eller har du frågor från evenemanget? Du kan släppa dem i kommentarerna på [Experience League Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-self-taught-to-success-how-kyndryl-scaled/td-p/785174?profile.language=sv)!
+Har du idéer att dela eller har du frågor från evenemanget? Du kan släppa dem i kommentarerna på [Experience League Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-self-taught-to-success-how-kyndryl-scaled/td-p/785174)!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.

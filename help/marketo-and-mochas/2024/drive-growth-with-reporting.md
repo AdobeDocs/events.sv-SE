@@ -2,6 +2,8 @@
 title: Marketo & Mochas - Drivande tillväxt med rapportering (mognad Pt 3)
 description: Delta i Adobe Business Advisors, Cynthia Chang och Carly Gaver, för del 3 av Marketo Maturity-webbinariet, där du förklarar hur du kan utnyttja Marketo rapporteringsverktyg för att öka tillväxten, övervaka prestanda och leverera slagkraftiga mätvärden, med live Q&A.
 solution: Marketo Engage
+feature: Programs, Smart Lists, Reporting
+topic: Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3505
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16392
 exl-id: 4ad37a4b-8544-4000-8e21-062e3f93909e
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---

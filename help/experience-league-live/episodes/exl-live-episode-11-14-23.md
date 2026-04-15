@@ -3,15 +3,17 @@ title: Få ut det mesta av dina beteendehändelsedata i Real-Time CDP och Journe
 description: Lär dig hur du kan skapa sammanställningar av händelsedata med beräknade attribut för att förbättra din segmentering, personalisering och dina resor!
 kt: KT-14069
 solution: Real-Time Customer Data Platform,Journey Optimizer
+feature: Profiles, Journeys
+topic: Personalization
 event-cta-url-live: https://www.youtube.com/watch?v=xQ-yydkLeHc
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231114.html
 event-start-time: 2023-11-14 09:00-7
 event-guests: Daniel Wright,Lory Mishra,Rachit Gupta
 exl-id: 2f33350a-6030-43e8-824b-bd69ca153485
 duration: 3269
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -26,5 +28,5 @@ Beteendedata är en viktig ingrediens för att leverera personaliserade kunduppl
 
 I den här Experience League Live-sessionen visar produktexperter hur&quot;beräknade attribut&quot; i Real-Time CDP och Journey Optimizer kan hjälpa dig att använda ett enkelt användargränssnitt för att skapa beteendeaggregat som profilattribut som kan användas för förbättrad segmentering och personalisering.
 
-**Fortsätt diskutera det här ämnet i programmets [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722?profile.language=sv#M5){target="_blank"}**.
+**Fortsätt diskutera det här ämnet i programmets [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722#M5){target="_blank"}**.
 

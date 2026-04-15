@@ -2,6 +2,7 @@
 title: Best Practices and Insights for Modeling XDM Schemas
 description: Använd AEP som huvuddatamodellering med XDM-scheman, identitetshantering och bästa praxis för skalbar personalisering och segmentering i realtid.
 solution: Experience Platform
+feature: Personalization
 topic: Personalization
 role: Developer
 level: Intermediate
@@ -10,9 +11,9 @@ duration: 3488
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18019
 exl-id: 3327dc51-b5e4-49bd-884a-4defea8664eb
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---

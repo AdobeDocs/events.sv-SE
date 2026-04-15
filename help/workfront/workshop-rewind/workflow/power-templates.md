@@ -1,19 +1,21 @@
 ---
 title: Power Templates - How IDEXX Refiguring Project Templates for Global Success
 description: Mallad metod för globala kampanjer med lokaliseringsscenarier!
+feature: Workfront Fusion
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3385
 last-substantial-update: 2025-12-03T00:00:00Z
 jira: KT-19777
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+exl-id: 7c68dd9e-106d-40ad-9bb4-7d3491e361d7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
-
 
 # Power Templates: How IDEXX Refiguring Project Templates for Global Success
 
@@ -23,8 +25,6 @@ Titta på on-demand-inspelningen och ta en titt under huven på hennes verkliga 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477115/?learn=on&enablevpops)
 
-Letar du efter fler resurser som delades under evenemanget?  Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-power-templates-how-idexx-reconfigured-project/td-p/768981?profile.language=sv)!
+Letar du efter fler resurser som delades under evenemanget?  Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-power-templates-how-idexx-reconfigured-project/td-p/768981)!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
-
-
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.

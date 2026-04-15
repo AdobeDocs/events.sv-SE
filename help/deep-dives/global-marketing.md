@@ -2,6 +2,8 @@
 title: Lås upp global marknadsföring med Marketo Engage - Adobe Champion Deep Dive - augusti 2024
 description: Gå med i Augusti Deep Dive och få en global marknadsföring med Marketo Engage som omfattar datastrukturering, regelefterlevnad, kampanjstöd med segmentering, fragment, dynamiskt innehåll med mera, med insikter om hur man optimerar arbetsytor och partitioner för flera varumärken och instanser.
 solution: Marketo Engage
+feature: Smart Lists, Reporting
+topic: Personalization, Security, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +11,7 @@ duration: 3351
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-16119
 exl-id: 297b9baf-95c9-4154-be96-75455100b4d8
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%

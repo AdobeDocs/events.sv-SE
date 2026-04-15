@@ -1,19 +1,22 @@
 ---
 title: Streamline-autentisering - migrerar från tjänstkonto (JWT) till OAuth Server-till-server-autentiseringsuppgifter
-description: Webbinariet Adobe, som leds av de erfarna fältteknikerna Jeff Homequest och Marco Lara, fokuserade på att migrera från tjänstkontot JWT till OAuth server-till-server-autentiseringsuppgifter, och framhäver att tidsgränsen för borttagning är januari 2025, migreringssteg, fördelarna med OAuth och specialöverväganden för AEM, med omfattande stöd och dokumentation för processen.
+solution: Experience Manager
+feature: Developer Tools, Security
+description: Adobe webbinarium, ledd av chefsingenjören Jeff Homequest och Marco Lara, fokuserade på att migrera från tjänstkontot JWT till OAuth server-till-server-autentiseringsuppgifter, och framhäver tidsgränsen i januari 2025, migreringssteg, fördelarna med OAuth och speciella överväganden för AEM, med omfattande stöd och dokumentation för processen.
+topic: Integrations, Security, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3292
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16629
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: 97e2a2de-1cb4-4f2f-8c9b-47ee40227625
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
-
 
 # Streamline-autentisering: Migrerar från tjänstkonto (JWT) till OAuth Server-till-server-autentiseringsuppgifter
 
@@ -35,8 +38,8 @@ Det här webbinariet vägleder deltagarna genom att migrera från de inaktuella 
    * 1 maj 2023 - Meddelande om framtida borttagning.
    * 2 juni 2024 - Senaste datum för att skapa autentiseringsuppgifter för nytt tjänstkonto.
    * 27 januari 2025 - Slutet på livscykeln för tjänstkonton och API:er som använder dem kommer att upphöra att fungera.
-* **&#x200B; speciella överväganden för AEM** Webbseminariet behandlade hur migreringen påverkar AEM moln- och lokala kunder, inklusive specifika autentiseringsmönster och konfigurationer.
+* **&#x200B; särskild hänsyn för AEM** Webbseminariet behandlade hur migreringen påverkar AEM moln- och lokala kunder, inklusive specifika autentiseringsmönster och konfigurationer.
 * **Automatiskt genererade integreringar** Automatiskt genererade integreringar migreras automatiskt av Adobe före tidsgränsen.
-* **Support och dokumentation** Adobe ger omfattande dokumentation och support för migreringsprocessen. Kunderna kan kontakta Adobe för att få hjälp.
+* **Support och dokumentation** Adobe tillhandahåller omfattande dokumentation och support för migreringsprocessen. Kunderna kan kontakta Adobe representanter eller professionella tjänster för att få hjälp.
 * **Testar och validering** Du bör testa integreringar noggrant efter migrering och innan du tar bort gamla JWT-autentiseringsuppgifter.
 * **Anpassade integreringar** Kunder med anpassade integreringar bör identifiera och planera för migrering så snart som möjligt, särskilt om tredjepartsleverantörer är inblandade.

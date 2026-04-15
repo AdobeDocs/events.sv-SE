@@ -3,19 +3,20 @@ title: Universal Editor Overview for Modern Adobe Experience Manager Authoring
 description: Utforska AEM Universal Editor - användningsexempel, stöd för flera arkitekturer och viktiga faktorer som förenklar framtagningen av material.
 solution: Experience Manager
 feature: Authoring
+topic: Headless, Integrations, Security
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2891
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18763
-source-git-commit: 3b54c46988da18248024d115997704d9881f5e68
+exl-id: 6212a20d-f58c-481c-a475-89153cb0d040
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 2%
+source-wordcount: '242'
+ht-degree: 0%
 
 ---
-
 
 # Universal Editor: A Strategic Overview to Modern AEM Authoring
 

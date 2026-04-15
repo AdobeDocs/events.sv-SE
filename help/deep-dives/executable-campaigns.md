@@ -1,6 +1,8 @@
 ---
 title: Körbara kampanjer - Lär dig hur körbara filer kan öka effektiviteten och påverka
-description: Besök Chris Willis, Courtny Edwards-Jones och Jane Musatova i denna Adobe Champion Deep Dive för att lära dig hur körbara kampanjer i Marketo kan effektivisera processer, säkerställa datakvalitet och automatisera komplexa arbetsflöden, med praktiska exempel och fokus på att minimera fel och eftersläpningar.
+description: Besök Chris Willis, Courtny Edwards-Jones och Jane Musatova i Adobe Champion Deep Dive för att lära dig hur körbara kampanjer i Marketo kan effektivisera processer, säkerställa datakvalitet och automatisera komplexa arbetsflöden, med praktiska exempel och fokus på att minimera fel och eftersläpningar.
+feature: Programs, Smart Lists
+topic: Artificial Intelligence, Personalization
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ last-substantial-update: 2024-03-07T00:00:00Z
 jira: KT-15098
 thumbnail: 3427704.jpeg
 exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/3427704/?learn=on)
 
 **Modererat av** Chris Willis
-**Talare** Courtny Edwards-Jones och Jane Musatova
+**Högtalare** Courtny Edwards-Jones och Jane Musatova
 
 ## Översikt
 

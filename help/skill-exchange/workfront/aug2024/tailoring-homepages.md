@@ -2,19 +2,21 @@
 title: Home Sweet Home - Skräddarsy Workfront hemsidor 101
 description: Under det här seminariet får du lära dig hur du kan ge användare och team skräddarsydda layouter till nya startsidor via layoutmallar Hur du förenklar arbetshanteringen med intuitiva hemindelningar för olika användningsområden
 solution: Workfront
+feature: System Setup and Administration
+topic: Personalization
 role: User
 level: Beginner
 doc-type: Event
 duration: 2681
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16105
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+exl-id: 533c3a8b-60d7-4f6c-ac1a-fcd9dda0d63a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
-
 
 # Home Sweet Home: Skräddarsy Workfront Home Pages 101
 

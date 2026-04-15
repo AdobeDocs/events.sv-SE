@@ -1,8 +1,9 @@
 ---
 title: En djupdykning i verktygen för AEM Sites
-description: bästa sättet att utnyttja verktyg effektivt och omvandla din AEM Sites-upplevelse. Typer av taggar Lär dig hur olika taggtyper kan ge innehållsorganisering och identifierbarhet.  Konfigurera och använda taggar skaffa praktiska insikter om effektiv taggimplementering för att spara tid och öka produktiviteten.  Metadatascheman för mappar Upptäck kraften i strukturerad innehållshantering via mappmetadataram.Metadatascheman Ökar innehållets relevans och användarupplevelse genom att bemästra design av metadataramar. Konfigurera rapporter Utnyttja datadrivna insikter för strategiskt beslutsfattande genom att skapa omfattande rapporter. Du kan få tillgång till presentationsbilderna här.
+description: bästa sättet att utnyttja verktyg effektivt och omvandla din AEM Sites-upplevelse. Typer av taggar Lär dig hur olika taggtyper kan ge innehållsorganisering och identifierbarhet.  Konfigurera och använda taggar skaffa praktiska insikter om effektiv taggimplementering för att spara tid och öka produktiviteten.  Metadatascheman för mappar Upptäck kraften i strukturerad innehållshantering via mappmetadatamatchningar.Metadata Schemas Ökar innehållets relevans och användarupplevelsen genom att behärska metadatamatchdesign. Inrätta rapporter Använd datadrivna insikter för strategiskt beslutsfattande genom att skapa omfattande rapporter.Du kan öppna presentationsbilderna här.
 feature-set: Experience Manager
 feature: Tagging
+topic: Development, Headless
 role: Leader, Architect, Developer, Admin, User
 level: Beginner, Intermediate
 solution: Experience Manager
@@ -12,9 +13,9 @@ jira: KT-14118
 thumbnail: 3424735.jpeg
 exl-id: 337a19c3-2959-492a-b0c6-87d5a7731797
 duration: 2640
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---

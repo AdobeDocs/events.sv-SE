@@ -2,19 +2,20 @@
 title: Workfront Crudsource Challenge - Projektmallar
 description: Läs om hur Ologie effektiviserar Adobe Workfront projektmallar med praktiska tips för att förenkla konfiguration, förbättra rapporteringen och behålla flexibiliteten i processerna.
 feature: System Setup and Administration, Reports and Dashboards
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3728
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18626
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+exl-id: 5377412d-db56-4fca-92c9-0c4c59fa2d79
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Crudsource Challenge: Projektmallar
 
@@ -25,7 +26,7 @@ Det här seminariet spelades in den 8 april 2025 och innehöll Ross Barton och L
 Tillsammans med on-demand-inspelningen har vi tagit med bildspelet och tips som delats i chatten:  
 
 * [Slide Deck PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=sv)
+* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
 
 ## Tips
 
@@ -39,4 +40,4 @@ Tillsammans med on-demand-inspelningen har vi tagit med bildspelet och tips som 
 
 Ett av de största temana vi såg i chatten var utmaningen att hålla projektmallarna enkla, men samtidigt hålla reda på arbetet och se till att teamen levererar på alla steg som behövs för att slutföra projektet.  
 
- Vi hoppas att vi får träffa dig på våra framtida kundframgångar!  Se till att du checkar ut [Workfront Events](https://experienceleague.adobe.com/events/?lang=sv-SE&filters=Workfront) på Experience League för att få en fullständig lista och för att registrera dig.
+ Vi hoppas att vi får träffa dig på våra framtida kundframgångar!  Se till att du checkar ut [Workfront Events](https://experienceleague.adobe.com/events/?filters=Workfront) på Experience League för att få en fullständig lista och för att registrera dig.

@@ -2,19 +2,21 @@
 title: Utforma en operativmodell för AJO Success
 description: Se hur en sammanhängande operativmodell ökar effektiviteten, undviker resursproblem och anpassar ert marknadsföringsprogram för framgång på lång sikt.
 solution: Journey Optimizer
+feature: Email Design
+topic: Personalization, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3581
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19551
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 7c10159b-9ae3-447d-8cfa-e46802e63ea8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
-
 
 # Utforma en operativmodell för AJO Success
 
@@ -51,4 +53,3 @@ Robusta styrningsstrukturer och föränderliga teamstrukturer är avgörande fö
    * **Inbäddade** 15-20 specialiserade medlemmar, hög skalbarhet, pågående utbildning.
 
 Tydlig styrning och mognad i team ger enhetlig leverans och mätbara resultat.
-

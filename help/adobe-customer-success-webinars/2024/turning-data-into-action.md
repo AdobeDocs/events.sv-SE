@@ -1,6 +1,8 @@
 ---
 title: Den strategiska kraften i mätning - att förvandla data till handling
 description: Effektiva mätstrategier bygger upp förtroende och ökad delaktighet genom att involvera intressenter, säkerställa datakompetens och främja förtroendet för beslutsfattande, samtidigt som förtroende upprättas genom öppenhet, datastyrning och anpassning av intressenter, och man uppnår större delaktighet genom utbildning, tillgängliga verktyg och användbara data, vilket bidrar till att visa värdet av analyser genom affärsmässiga effekter och operativ effektivitet.
+feature: Metrics, Data Governance
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3391
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16628
 exl-id: eaa9642c-c460-410b-9af5-3ff42e50ef89
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---

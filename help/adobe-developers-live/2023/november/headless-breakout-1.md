@@ -2,6 +2,7 @@
 title: Adobe Developers Live - NOV 23 - Headless Breakout 1
 description: Ta en titt på våra senaste headless API:er, läs om de utökade funktionerna i dessa API:er, inklusive taggning, versionshantering och slutpunktssökning. Förstå hur de underlättar effektiv hämtning av innehåll för appliknande upplevelser i olika digitala kanaler och se hur verkliga applikationer för dessa API:er fungerar i praktiken. Denna session är en ovärderlig resurs för utvecklare som vill utnyttja headless-teknik för innovativa lösningar.
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ jira: KT-14424
 thumbnail: 3425627.jpeg
 exl-id: 86bf94d6-deb5-49db-b919-f5de0fbe254c
 duration: 2004
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---

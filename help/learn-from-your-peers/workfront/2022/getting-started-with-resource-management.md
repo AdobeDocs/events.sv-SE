@@ -2,6 +2,7 @@
 title: Komma igång med webbinariet för resurshantering
 description: Lär dig av andra om hur du använder Adobe Workfront för resurshantering. Tips från experter om resursplanering, belastningsfördelning och lyckad implementering i vårt webbinarium on-demand.
 feature: Get Started with Workfront
+topic: Administration, Integrations
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3629
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15816
 exl-id: 8d1b25a6-1224-4158-9f67-7997b6cf2e67
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---

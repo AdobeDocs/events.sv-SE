@@ -2,6 +2,8 @@
 title: Blixthastighet - Adobe Edge Delivery-tjänst
 description: I augusti-installationen av APAC-serien Commerce Webinar Series välkomnar vi Kamalesh Radhakrishnan, Senior Solutions Consultant, som delar med sig av en översikt över Lightning Speed med Adobe Edge Delivery Service.Ge alla möjlighet att skapa innehåll med AI och experimentera och leverera digitala upplevelser med blixtsnabb hastighet.
 solution: Commerce
+feature: Integration, Edge Delivery Services
+topic: Integrations, Performance, Commerce
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2650
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-16131
 exl-id: dbdda6ae-335c-45db-8090-62eaf0385ad7
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---

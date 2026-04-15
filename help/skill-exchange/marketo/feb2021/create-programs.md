@@ -2,13 +2,15 @@
 title: Skapar program i Adobe [!DNL Marketo Engage]
 description: Under den här sessionen får du lära dig allt om programstrukturen - Programtyper, Kanaler och status samt Taggar.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 9706
 thumbnail: 340308.jpeg
 exl-id: f317ea35-e460-4c2f-89ca-e3d2d088d220
 duration: 2698
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%

@@ -2,6 +2,7 @@
 title: Adobe Marketo Engage Champion Deep Dive - Använda webbhooks för att överföra data
 description: Lär dig hur du effektivt överför data med hjälp av webbhooks i Marketo med Darshil Shah och Josh Arrington, som omfattar strukturerad datahantering, felhantering, autentiseringsmetoder och praktiska användningsfall som CRM-integrering och e-handel, modererat av John Grundy.
 feature: Webhooks, Integrations
+topic: Integrations, Security, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 3185
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15385
 exl-id: d8e22e01-724a-4b0c-855b-0adb29e98d30
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
@@ -22,7 +23,7 @@ Ibland behövs inte allt det här för att skapa, testa och driftsätta API:er. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428687/?learn=on)
 
-Evenemanget ger en omfattande översikt över webbhookar i Marketo och ger praktiska råd om hur du använder dem effektivt. Högtalarna förklarar hur webbhooks används för att skicka och ta emot data på ett strukturerat sätt, rekommenderar att man använder GET- och POST-förfrågningar och uppger att webbhooks kan användas med JSON- eller XML-format. De belyser olika användningsexempel för webhooks, bland annat CRM-integrering, händelsehantering, e-handel och molnlagring. Vikten av felhantering är framhävd, med tips om hur du hanterar fel, automatiserar återställning och skapar varningar. Autentiseringsmetoder som API-baserad autentisering, grundläggande autentisering och OAuth 2.0-autentisering diskuteras, med en rekommendation om att använda OAuth 2.0 för bättre säkerhet. Implementeringsinformationen omfattar användning av webbhooks i utlösarkampanjer och gruppkampanjer, tillsammans med begränsningar som 30-sekundersgränsen och noggrann hantering av stora datamängder. På det hela taget ger webbinariet värdefull information om hur du använder webbhooks i Marketo på ett effektivt sätt.
+Evenemanget ger en omfattande översikt över webbhookar i Marketo och ger praktiska råd om hur du använder dem effektivt. Högtalarna förklarar hur webbhooks används för att skicka och ta emot data på ett strukturerat sätt, rekommenderar att man använder GET- och POST-förfrågningar och anger att webbböcker kan användas med JSON- eller XML-format. De belyser olika användningsexempel för webhooks, bland annat CRM-integrering, händelsehantering, e-handel och molnlagring. Vikten av felhantering är framhävd, med tips om hur du hanterar fel, automatiserar återställning och skapar varningar. Autentiseringsmetoder som API-baserad autentisering, grundläggande autentisering och OAuth 2.0-autentisering diskuteras, med en rekommendation om att använda OAuth 2.0 för bättre säkerhet.Implementeringsinformationen omfattar användning av webhooks i utlösande kampanjer och batchkampanjer, tillsammans med begränsningar som 30-sekunders tidsgräns och noggrann hantering av stora datamängder. På det hela taget ger webbinariet värdefull information om hur du använder webbhooks i Marketo på ett effektivt sätt.
 
 ## Viktiga uppgifter
 

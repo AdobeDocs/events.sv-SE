@@ -2,6 +2,8 @@
 title: Skapa kundengagemang för betalarna
 description: Upptäck hur AEM Forms revolutionerar kundengagemanget inom sjukförsäkringsbranschen genom att effektivisera behandlingen av ersättningsanspråk och kundregistrering, förbättra konverteringsgraden, effektiviteten och efterlevnaden.
 solution: Experience Manager Forms
+feature: Edge Delivery Services, Core Components
+topic: Artificial Intelligence, Headless, Integrations
 role: Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3077
 last-substantial-update: 2025-02-07T00:00:00Z
 jira: KT-17266
 exl-id: 29b18954-f53a-4273-8852-0e42fb9477e9
-source-git-commit: a5112a81216059cfa3f362eb3a7882801c8a001a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---

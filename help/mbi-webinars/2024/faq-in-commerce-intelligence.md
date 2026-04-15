@@ -3,6 +3,8 @@ title: Frågor och svar i Commerce Intelligence
 description: Få svar på några vanliga frågor om Commerce Intelligence som rör självbetjäningskonfigurationer, integreringar, säkerhet, bästa praxis och mycket annat.
 solution: Commerce, Commerce Intelligence
 feature-set: Commerce Intelligence
+feature: Data Integration, Reports
+topic: Integrations, Security
 role: Admin, User
 level: Intermediate
 doc-type: Event
@@ -10,9 +12,9 @@ duration: 2167
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15680
 exl-id: ead47498-4526-481c-8910-961377bdb55f
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -34,7 +36,7 @@ Få svar på några vanliga frågor om Commerce Intelligence som rör självbetj
 **Dataimportmetoder**
 
 * Dataimport kan göras med API-anslutning, CSP-överföringar och import-API.
-* Oraclets DB stöds inte, men CSP-överföring eller import-API kan användas som alternativ.
+* Oracle DB stöds inte, men CSP-överföring eller import-API kan användas som alternativ.
 * Begränsningar av API-användning inkluderar en begäran om förbrukning per månad och ungefär 100 poster, vilket motsvarar cirka 100 000 poster per månad.
 
 **Source-dataintegrering**

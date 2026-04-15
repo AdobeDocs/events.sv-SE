@@ -2,6 +2,7 @@
 title: Expertinsikter - Enterprise Work Management med Daniel Clarke
 description: Hör Daniel Clarke dela med sig av Workfront bästa praxis för hantering av företagsarbete, anpassning, ledarskapsstatistik och Fusion-strategier för att lyckas.
 feature: Workfront Fusion
+topic: Performance
 speaker-name-1: Daniel Clarke
 speaker-title-1: Senior Manager of Restaurant Solutions
 speaker-company-1: Sysco Corporation
@@ -12,9 +13,9 @@ duration: 2547
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18620
 exl-id: db16e693-cd95-4e67-858b-b57829d1e704
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
@@ -34,7 +35,7 @@ Han delade ut så många metodtips under vår Workfront Collective-event, men h�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3469898/?learn=on&enablevpops)
 
-## Resurser
+## Resurs
 
 * Daniel Clarke, Enterprise Work Management 031124 - [Presentation Deck](https://nam04.safelinks.protection.outlook.com/?url=https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Adobe+Workfront+Collective+-+Daniel+Clarke+-+March+2024.pdf&data=05|02|csatscale@adobe.com|4308ae2a6beb4130dc6f08dc4926eafc|fa7b1b5a7b34438794aed2c178decee1|0|0|6384 65678712329711|Okänd|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTi6I Ik1haWwiLCJXVCI6Mn0=|0||&sdata=y14IXCdSk8laYXyfuLcjFNjBDeDjwZu33nFJmxbx4E=&reserved=0) 
 

@@ -2,6 +2,7 @@
 title: Arbeta med e-signaturer i dina Microsoft-appar
 description: Utöka ditt sätt att använda dina Microsoft-program som Word, Outlook och Sharepoint genom att lägga till Adobe Acrobat Sign i dina befintliga arbetsflöden.
 feature: Sign, Integrations
+topic: Integrations
 role: User
 level: Beginner
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 1352
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15294
 exl-id: cee60efb-793c-45d5-bfe4-bfede95c357c
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Utöka ditt sätt att använda dina Microsoft-program som Word, Outlook och Sharepoint genom att lägga till Adobe Acrobat Sign i dina befintliga arbetsflöden. Under den här sessionen får du lära dig hur du börjar effektivisera dokumentprocesserna i vanliga Microsoft-program så att du inte behöver byta kontext bara för att få en signatur eller kontrollera en status.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455054/?learn=on&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3428185/?learn=on)
 
 ## Vilka program stöder Acrobat Sign-integreringen?
 
@@ -39,7 +40,7 @@ Så här installerar och använder du Acrobat Sign-tillägget för Outlook:
 * I fönstret Hämta tillägg söker du efter Acrobat Sign i sökfältet.
 * Klicka på Acrobat Sign-tillägget och välj Lägg till för att installera det.
 * Klicka på Kom igång när du har installerat tillägget.
-* Tillägget innehåller alternativ som Fyll i och signera, Send for Signature och Avtalsstatus på hemmenyfliken i Outlook.
+* Tillägget innehåller alternativ som Fyll i och signera, Skicka för signering och Avtalsstatus på hemmenyfliken i Outlook.
 * Använd dessa alternativ för att signera dokument, initiera signaturarbetsflöden och spåra status för avtal direkt från Outlook.
 * Om du vill konfigurera tillägget klickar du på Fler alternativ i tilläggsfönstret för att få tillgång till ytterligare inställningar och anpassningsalternativ.
 * Följ instruktionerna från tillägget för att slutföra installationen och installationsprocessen.

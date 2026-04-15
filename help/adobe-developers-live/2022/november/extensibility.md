@@ -1,7 +1,8 @@
 ---
 title: Adobe Developers Live NOV 22 Introduktion till UI-utbyggbarhet och det nya gränssnittet i Content FragFragment
-description: Introduktion till UI Extensibility och New Content Fragment UIAdobe Experience Manager erbjuder nya tjänster som minskar underhållskostnaderna, hela tiden levererar den senaste förbättringen till användare och kan anpassas och utökas med en modern frontteknisk stack.I den här sessionen ska vi göra en översikt över de nya gränssnittstjänsterna för Content Fragment och ge ett stegvis exempel på hur du skapar ett tillägg för Content Fragment Console.
+description: Introduktion till UI Extensibility och New Content Fragment UIAdobe Experience Manager erbjuder nya tjänster som minskar underhållskostnaderna, ständigt ger användarna den senaste förbättringen och kan anpassas och byggas ut med en modern frontteknisk stack.Under den här sessionen kommer vi att göra en översikt över de nya gränssnittstjänsterna för innehållsfragment och ge ett stegvis exempel på hur du skapar ett tillägg för konsolen för innehållsfragment.
 solution: Experience Manager,Experience Manager Sites
+feature: Developer Tools, Content Fragments
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ kt: 11484
 thumbnail: 3411305.jpeg
 exl-id: 9624f106-e48c-4c6e-81b8-adf083c8db96
 duration: 2733
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---

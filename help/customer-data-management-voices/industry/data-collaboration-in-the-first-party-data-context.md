@@ -3,6 +3,7 @@ title: Data-Collaboration i förstahandskontexten
 description: Det här webbinariet kommer att hjälpa till att frigöra möjligheter till datasamarbete i framtiden utan cookies från tredje part.
 solution: Real-Time Customer Data Platform
 feature: Data Management
+topic: Security
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 type: Event
@@ -10,9 +11,9 @@ thumbnail: 337665.jpg
 kt: 9145
 exl-id: 633f2927-d6e0-4370-96c6-36d1f612d5ba
 duration: 2560
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -31,8 +32,8 @@ Leverera på löftet om upplevelsen, med tillgång till färre data. Vare sig du
 
 ## Ytterligare information
 
-[Översikt över segmentmatchning](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=sv-SE)
+[Översikt över segmentmatchning](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)
 
-[Audience Marketplace för datainköpare](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=sv-SE)
+[Audience Marketplace for Data Buyers](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
 
-[Personbaserade mål](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=sv-SE)
+[Personbaserade mål](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=en)

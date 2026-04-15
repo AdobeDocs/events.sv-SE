@@ -1,6 +1,7 @@
 ---
 title: Ledare inom detaljhandeln - AI-styrd tillväxt och spelböcker med topprestanda
 description: Läs om hur återförsäljare använder AI-styrd trafik för att öka lojalitet, engagemang och konvertering i Adobe webbinarium 2025.
+feature: Segmentation
 topic: Artificial Intelligence
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3350
 last-substantial-update: 2025-08-27T00:00:00Z
 jira: KT-18836
-source-git-commit: c3e2710187832f1f67a1e73c11b7262b32ed1f8a
+exl-id: 7267b110-fcba-4866-a7f8-4eefa0c14467
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
-
 
 # Ledande företag inom detaljhandeln: AI-styrd tillväxt och spelböcker med topprestanda
 

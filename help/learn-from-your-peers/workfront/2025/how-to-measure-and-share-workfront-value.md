@@ -3,6 +3,7 @@ title: Ledande effekt - Mät och dela Workfront-värde
 description: I detta on-demand-webbinarium delar James Hill och Ellen Saltmarsh från Synchrony och Daniel Clarke från EMMsphere sina strategier för att uttrycka varför de ska anta Workfront, definiera mätbara resultat som tids- och kostnadsbesparingar, kommunicera framgångshistorier för att få in förslag från intressenter och använda en stegvis spelbok för att skapa värde.
 topic: Administration
 solution: Workfront
+feature: Work Management, Workfront Fusion
 role: Admin, Leader
 level: Beginner
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3534
 last-substantial-update: 2025-02-27T00:00:00Z
 jira: KT-17413
 exl-id: 9b7a9bc0-6444-40e5-9e3c-3926ac761e31
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---

@@ -1,9 +1,10 @@
 ---
-title: Migreringsberedskap för Customer Journey Analytics
+title: Customer Journey Analytics migreringsberedskap
 description: Översikt över Customer Journey Analytics Value, funktionsöversikt per bransch, rekommenderade resurser
 solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Use Cases, Basics
+topic: Migration
 role: Admin, Architect, Data Architect, Data Engineer, Leader
 level: Intermediate
 doc-type: Event
@@ -12,16 +13,16 @@ jira: KT-13904
 thumbnail: 3423904.jpeg
 exl-id: d76db108-8011-4e01-8db2-e959c4f3b429
 duration: 2035
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '33'
 ht-degree: 0%
 
 ---
 
-# Migreringsberedskap för Customer Journey Analytics
+# Customer Journey Analytics migreringsberedskap
 
-* Översikt över CJA-värde
+* Översikt över CJA Value
 * CJA Use Case Highlights by Industry
 * Rekommenderade resurser
 

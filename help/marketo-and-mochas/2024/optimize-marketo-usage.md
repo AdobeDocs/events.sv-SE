@@ -2,6 +2,8 @@
 title: Marketo & Mochas - mognadsdel 2 - Optimera din Marketo-användning
 description: Delta i Adobe Business Advisors, Cynthia Chang och Carly Gaver, för del 2 av Marketo Maturity-serien, med fokus på datahantering, CRM-integrering och kampanjoptimering för att förbättra er Marketo-användning med dynamiska frågor och svar.
 solution: Marketo Engage
+feature: Programs, Smart Lists
+topic: Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3562
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16234
 exl-id: 06e58ede-e2bd-4b48-b335-f91a818246cd
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -27,7 +29,7 @@ Delta i Adobe Business Advisors, Cynthia Chang och Carly Gaver, där de delar in
 **Marketo mognadsnivåer**
 Fokusera på crawl-, gångnings- och körningsfaser för att optimera marknadsföringsanvändningen genom Marketo mognadsnivåer.
 
-**Datahantering och datNormalisering**
+**Datahantering och datastandardisering**
 Vikten av rena och användbara data i Marketo betonades genom datahanterings- och datavnormaliseringsprocesser.
 Viktigt av att standardisera datavärden för effektiv behandling framhölls, med exempel på normalisering av landvärden.
 
@@ -37,5 +39,5 @@ Omfattar effektiv hantering av CRM-integreringar med Marketo inbyggda integrerin
 **Optimering av kampanjhantering**
 Tips om hur ni kan optimera kampanjhanteringen med hjälp av programmallar, innehållsbibliotek och smarta listor.
 
-**Smart Campaign-bearbetning**
+**Smart kampanjbearbetning**
 Diskuterade faktorer som påverkar bearbetningstiden för kampanjer och tillhandahåller bästa praxis för att skapa och hantera smarta kampanjer.

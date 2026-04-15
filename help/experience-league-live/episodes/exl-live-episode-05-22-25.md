@@ -4,14 +4,15 @@ description: Delta i ett timmars webbinarium där vi fördjupar oss i den omform
 kt: KT-17641
 solution: Customer Journey Analytics
 feature: Content Analytics
+topic: Performance
 event-cta-url-live: https://www.youtube.com/live/0ApnRRtZxeY
 event-start-time: 2025-05-22 09:00-8
 event-guests: Doug Moore, Shay O'Reilly, Jennifer Werkmeister
 exl-id: a0a3c7dd-e060-4be8-ac9a-02a3bcf12614
-source-git-commit: 2e75e6b36e806ef9958dc76f7b832f15b69d8a02
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 1%
+source-wordcount: '210'
+ht-degree: 0%
 
 ---
 
@@ -30,10 +31,10 @@ Under det här mötet utforskade vi:
 
 >[!BEGINSHADEBOX &quot;Har du frågor?&quot;]
 
-Fortsätt diskutera [Experience League Community-forum](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741?profile.language=sv#M4712).
+Fortsätt diskutera [Experience League Community-forum](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741#M4712).
 
 >[!ENDSHADEBOX]
 
 ## Ytterligare resurser
 
-[Content Analytics-videor](https://experienceleague.adobe.com/sv/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)
+[Content Analytics videor](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)

@@ -1,19 +1,21 @@
 ---
 title: Migrera och moderera upplevelser med Adobe Experience Manager for User Engagement och AI-native Discovery
 description: Upptäck hur Adobe Experience Manager använder artificiell intelligens (AI) för att modernisera och migrera webbplatser på ett effektivt sätt för bättre engagemang och upptäckt.
+feature: Edge Delivery Services, Release Information
+topic: Artificial Intelligence, Integrations, Migration
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 975
 last-substantial-update: 2025-12-11T00:00:00Z
 jira: KT-19987
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: 34d729aa-6eb8-48f7-a9ea-66d6f179eb39
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
-
 
 # Migrera och moderera upplevelser med Adobe Experience Manager for User Engagement och AI-native Discovery
 

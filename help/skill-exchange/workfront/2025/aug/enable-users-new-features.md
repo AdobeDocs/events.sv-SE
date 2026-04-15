@@ -3,25 +3,26 @@ title: Möjliggöra användare med nya funktioner - Agitation is Life
 description: Lär dig strategier för att öka Workfront acceptans - engagerande användare, anpassning av funktioner till affärsmål och användning av analyser för att förbättra utrullningar.
 solution: Workfront
 feature: Get Started with Workfront, Resource Management
+topic: Integrations, Administration
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02T00:00:00Z
 jira: KT-18874
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+exl-id: 92f42aad-f0e5-4d89-9d98-dc92891b3254
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
-
 
 # Möjliggöra användare med nya funktioner: Agitation is Life
 
 &quot;Agitation är motsatsen till stagnation - det ena är livet, det andra är döden&quot; ~Ernestine Rose Som systemadministratör kan versionsinformationen ses som nästa steg i utvecklingen av hur vi kan fortsätta att förbättra våra system och lösa fler problem, men för många av våra användare är förändringen inte alltid så lätt accepterad. Delta i det vi gör och kommer till några framgångsrika sätt att skapa en ändringskultur, presentera lösningar för rätt intressenter och kontinuerligt förbättra våra system så att vi fortsätter att tillföra värde oavsett om systemet är helt nytt eller kör full fart framåt. System (styrning) för delning av allmänna systemuppdateringar Tips för att bygga upp en ändringskultur - som gör det möjligt för användarna att börja identifiera den bästa avkastningen för förändring - högt värde, låg insats först rapportering utifrån baslinjer och påverkan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471542/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3471494/?learn=on&enablevpops)
 
 ## Driving Innovation and Adoption in Workfront
 

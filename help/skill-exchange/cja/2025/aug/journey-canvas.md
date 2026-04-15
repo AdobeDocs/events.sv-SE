@@ -2,19 +2,21 @@
 title: Skapa kundupplevelser med Adobe Customer Journey Analytics Journey Canvas
 description: Upptäck hur Journey Canvas kan kartlägga idealiska kontra faktiska användarsökvägar, upptäcka friktionen och få mätbara kundupplevelseförbättringar med Adobe Customer Journey Analytics
 solution: Customer Journey Analytics
+feature: Integrations
+topic: Integrations, Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18815
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 10075f8c-ad44-4ee7-970c-9cdae1b21b11
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
-
 
 # Skapa kundupplevelser med Adobe Customer Journey Analytics Journey Canvas
 
@@ -24,7 +26,7 @@ Deltagarna kommer att lära sig att använda analys på resenivå för att ident
 
 Slutligen kommer vi att fördjupa oss i strategier för att skala dessa insikter i hela organisationen genom att koppla Journey Canvas-resultaten till detaljerade dashboards, vilket möjliggör kontinuerlig optimering vid varje kontaktyta. Vare sig du är nybörjare i CJA eller erfaren yrkesfotograf kommer den här sessionen att ge dig en tydlig metod för att använda Journey Canvas för att lyfta upp era kundupplevelseprogram och få konkreta resultat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471218/?learn=on&enablevpops&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
 
 ## Resa - arbetsyta: Från analys till aktivering
 
