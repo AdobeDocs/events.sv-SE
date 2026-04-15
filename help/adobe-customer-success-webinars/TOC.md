@@ -2,10 +2,10 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success-led webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe lösningar.
-source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
+source-git-commit: 4d76f9900ce9cdc2783223443b5e47cddea09c3b
 workflow-type: tm+mt
-source-wordcount: '639'
-ht-degree: 5%
+source-wordcount: '661'
+ht-degree: 4%
 
 ---
 
@@ -29,7 +29,10 @@ ht-degree: 5%
       + [Supply chain strategier för ändringshantering](2026/csc-change-management.md)
       + [Content Supply chain Executive Sponsoration](2026/csc-executive-sponsorship.md)
       + [Foundational Architecture for Content Supply chain](2026/csc-architecture.md)
+      + [GenAI-trafikuppdatering](2026/gen-ai-traffic-update.md)
       + [Operativmodell för Supply chain](2026/csc-operating-model.md)
+   + Workfront {#workfront2026}
+      + [Workfront Proof för godkännanden](2026/workfront-proof-approvals.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
       + [Förbättra Adobe Commerce med Adobe Experience Platform](2025/enriching-adobe-commerce.md)
@@ -49,7 +52,7 @@ ht-degree: 5%
       + [Essential Tips and Best Practices for AEM Lucene Search](2025/aem-lucene-search.md)
       + [AEM med GenAI](2025/aem-genai.md)
       + [Integrering med AEM och Workfront](2025/aem-workfront-integration.md)
-      + [AI-assistenten i AEM](2025/ai-assistant-in-aem.md)
+      + [AI Assistant i AEM](2025/ai-assistant-in-aem.md)
       + [Bygga effektiva webbsidor](2025/build-effective-web-pages.md)
       + [Skapa kundengagemang](2025/driving-customer-engagement.md)
       + [Registreringsresa med AEM Forms](2025/payer-enrollment-journey.md)
@@ -68,7 +71,7 @@ ht-degree: 5%
       + [Användningsexempel för identitetsdiagram och felsökning](2025/identity-graph.md)
       + [Vinnande Executive Sponsorship for AEP Projects](2025/exec-sponsorship-aep-projects.md)
    + GenStudio för prestationsbaserad marknadsföring {#genstudio2025}
-      + [Content Supply Chain and Adobe GenStudio](2025/csc-gen-studio.md)
+      + [Supply chain och Adobe GenStudio](2025/csc-gen-studio.md)
       + [GenStudio for Performance Marketing-operativmodell](2025/genstudio-for-performance-marketing-operating-model.md)
    + Journey Optimizer {#ajo2025}
       + [Building Executive Sponsorship](2025/build-executive-sponsorship-ajo.md)
@@ -81,7 +84,7 @@ ht-degree: 5%
    + Marketo {#marketo2025}
       + [Ny e-postredigerare](2025/marketo-new-email-editor.md)
    + Flera lösningar {#multisolution2025}
-      + [Grundläggande om innehållsleveranskedjan](2025/content-supply-chain-basics.md)
+      + [Supply chain Basics-innehåll](2025/content-supply-chain-basics.md)
       + [Optimering av digitala upplevelser med AI-insikter](2025/accelerating-digital-experience-optimization.md)
       + [Förbättra lojalitetsprogram via Personalization och data](2025/enhance-loyalty-programs.md)
       + [Förbättra Personalization](2025/enhancing-personalization.md)
@@ -130,7 +133,7 @@ ht-degree: 5%
    + [Mastering the Adobe Admin Console](2024/adobe-admin-console.md)
    + [Mastering Cookies och dataintegritet](2024/mastering-cookies-data-privacy.md)
    + [Mastering Sequential Logic](2024/sequential-logic.md)
-   + [Organiserad beredskap för innehållsleveranskedja](2024/organizational-readiness-content-supply-chain.md)
+   + [Organisationsberedskap för Supply chain](2024/organizational-readiness-content-supply-chain.md)
    + [Integrering med Real-Time Customer Data Platform och Marketo](2024/aep-marketo-integration.md)
    + [Readiness för migrering av kunddataplattform i realtid](2024/rtcdp-migration-readiness.md)
    + [Strategisk ledning](2024/strategic-leadership.md)
