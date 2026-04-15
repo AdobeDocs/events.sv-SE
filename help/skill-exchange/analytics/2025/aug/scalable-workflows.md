@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Gå med i Adobe Champion iana Maftei, Senior Analytics Manager på IBM, där hon berättar hur hon kan skapa skalbara, styrda analysarbetsflöden som gör innehållet supply chain mätbart. Lär dig leverera rätt insikter till rätt personer vid rätt tidpunkt, möjliggör samarbete mellan team och skräddarsy Analysis Workspace-projekt efter olika roller och behov.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471233/?captions=swe&learn=on&enablevpops)
 
 ## Mappa roller till analysfaser
 

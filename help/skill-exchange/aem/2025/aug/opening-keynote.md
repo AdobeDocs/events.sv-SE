@@ -30,7 +30,7 @@ Följ Haresh Kumar, chef för strategi och produkt för Adobe Experience Manager
 * Nya optimeringsverktyg som Sites Optimizer och Content Advisor för bättre engagemang och konvertering.
 * Hur ni skalar personalisering från ett till ett säkert och effektivt sätt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471386/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471400/?captions=swe&learn=on&enablevpops)
 
 
 ## Låsa upp framtiden för innehållsupplevelser

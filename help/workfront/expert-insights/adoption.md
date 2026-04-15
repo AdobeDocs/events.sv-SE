@@ -26,7 +26,7 @@ Adoption är ett ämne som vi regelbundet återkommer till, och i den här utgå
 
 Följ mig, din On-Demand Workfront CSM, när jag chattar med Leslie om varför Adobe är ett så viktigt ämne, tillsammans med några av våra favoritstrategier.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469893/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469931/?captions=swe&learn=on&enablevpops)
 
 ## Tips, råd med mera
 

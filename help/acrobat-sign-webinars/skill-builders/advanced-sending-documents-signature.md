@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Ta en djupdykning i alla alternativ som är tillgängliga när du skickar avtal för signering. Under den här sessionen får du lära dig mer om: Skicka till flera mottagare Tillgängliga mottagarroller (signerare, formuläranvändare, delegerare och andra) Lägga till lösenordsskydd i ett CC-fält med mera.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428186/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454884/?captions=swe&learn=on)
 
 Webbseminariet ger insikter om de avancerade funktionerna i Acrobat Sign för att konfigurera arbetsflöden med flera deltagare, konfigurera mottagarroller och använda mottagargrupper och privata meddelanden. Denna inlärning kan effektivisera processen att skicka dokument för signering och förbättra samarbetet mellan signeringsdeltagarna.
 

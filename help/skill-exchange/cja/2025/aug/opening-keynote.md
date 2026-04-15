@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Öppnar inledningsanförandet
 
->[!VIDEO](https://video.tv.adobe.com/v/3471108/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471128/?captions=swe&learn=on&enablevpops)
 
 ## Låsa upp analytikernas kompetens: viktiga färdigheter
 

@@ -28,4 +28,4 @@ Viktiga diskussionspunkter
 * Undersök viktiga användningsfall, användning av funktioner samt tips och trick för mognadsutveckling.
 * Diskutera kommande funktioner och förbättringar av verktygen
 
->[!VIDEO](https://video.tv.adobe.com/v/3463357/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463362/?captions=swe&learn=on&enablevpops)

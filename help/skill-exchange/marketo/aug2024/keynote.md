@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Öppnar inledningsanförandet med Raj-mönstret
 
->[!VIDEO](https://video.tv.adobe.com/v/3432957/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453059/?captions=swe&learn=on)

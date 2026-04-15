@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Rikard Whitehead, Director of Product Marketing, går igenom utvecklingen av Workfront, inklusive högdagrar, nya och tillgängliga funktioner och slutför produktinnovationer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425894/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453833/?captions=swe&learn=on)

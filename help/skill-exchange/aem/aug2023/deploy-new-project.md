@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Denna kunskapsutbyte fokuserar på hur en ny AEM-utvecklare kan starta och driftsätta ett nytt projekt. Fokus kommer att ligga på ämnen som AEM Project Archetype, Cloud Manager setup och utvecklingsverktyg.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424017/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457276/?captions=swe&learn=on)

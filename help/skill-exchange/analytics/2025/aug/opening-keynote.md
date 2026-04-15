@@ -25,7 +25,7 @@ Business Acumen &amp; Ethical Reasoning: Fatta smarta, etiska beslut utöver tek
 Research Methodology &amp; Storage Craft: Omvandla dataresultat till övertygande berättelser för intressenter.
 Teknisk kompetens och emotionell intelligens: Tillhandahåll stöd och lösningar med empati, inte bara teknisk kompetens.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471124/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471185/?captions=swe&learn=on&enablevpops)
 
 ## Låsa upp analyser för mänsklig påverkan
 

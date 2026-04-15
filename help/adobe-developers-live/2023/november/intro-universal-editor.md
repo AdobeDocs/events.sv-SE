@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Universal Editor är nästa generation av AEM kontextredigerare och löser de nuvarande begränsningarna i AEM Page Editor eller SPA Editor. Det är oberoende av ramverk, återgivningsmotorer och datakällor, vilket ger all den frihet som utvecklarna vill ha och gör det helt universellt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426341/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456471/?captions=swe&learn=on)
