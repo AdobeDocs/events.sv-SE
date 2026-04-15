@@ -26,7 +26,7 @@ Det här seminariet spelades in den 8 april 2025 och innehöll Ross Barton och L
 Tillsammans med on-demand-inspelningen har vi tagit med bildspelet och tips som delats i chatten:  
 
 * [Slide Deck PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
+* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=sv)
 
 ## Tips
 
@@ -40,4 +40,4 @@ Tillsammans med on-demand-inspelningen har vi tagit med bildspelet och tips som 
 
 Ett av de största temana vi såg i chatten var utmaningen att hålla projektmallarna enkla, men samtidigt hålla reda på arbetet och se till att teamen levererar på alla steg som behövs för att slutföra projektet.  
 
- Vi hoppas att vi får träffa dig på våra framtida kundframgångar!  Se till att du checkar ut [Workfront Events](https://experienceleague.adobe.com/events/?filters=Workfront) på Experience League för att få en fullständig lista och för att registrera dig.
+ Vi hoppas att vi får träffa dig på våra framtida kundframgångar!  Se till att du checkar ut [Workfront Events](https://experienceleague.adobe.com/events/?lang=sv-SE&filters=Workfront) på Experience League för att få en fullständig lista och för att registrera dig.

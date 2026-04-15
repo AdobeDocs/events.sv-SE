@@ -26,7 +26,7 @@ Delta i Bryan, Eric och Doug och diskutera hur ni snabbt ska komma igång med Cu
 
 >[!BEGINSHADEBOX &quot;Har du frågor?&quot;]
 
-Fortsätt diskutera [Experience League Community-forum](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
+Fortsätt diskutera [Experience League Community-forum](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093?profile.language=sv#M3582).
 
 >[!ENDSHADEBOX]
 

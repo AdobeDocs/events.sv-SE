@@ -26,7 +26,7 @@ Detta interaktiva 1-timmars seminarium spelades in den 7 maj 2025 och innehöll 
 Tillsammans med on-demand-inspelningen har vi tagit med bildspelet och tips som delats i chatten: 
 
 * [Slide Deck PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Mastering+Email+Notifications+in+Adobe+Workfront+050725.pdf)
-* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-mastering-email-notifications-in-adobe-workfront/td-p/752745)
+* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-mastering-email-notifications-in-adobe-workfront/td-p/752745?profile.language=sv)
 
 Här är en kort sammanfattning av tips som delades i chatten: 
 
@@ -37,4 +37,4 @@ Här är en kort sammanfattning av tips som delades i chatten: 
 * Om användarna inte får e-postmeddelanden har du alltid möjlighet att logga in som de för att bekräfta att meddelandet är aktiverat i deras profil. Kontakta kundsupport även om du fastnar!   
 * Överväg att stänga av e-postmeddelanden som är kopplade till statusförändringar - orsakar de mer brus än informativa åtgärder?  
 
-Vi hoppas att vi får träffa dig på våra framtida kundframgångar!  Se till att du checkar ut [Workfront Events](https://experienceleague.adobe.com/events/?filters=Workfront) på Experience League för att få en fullständig lista och för att registrera dig.
+Vi hoppas att vi får träffa dig på våra framtida kundframgångar!  Se till att du checkar ut [Workfront Events](https://experienceleague.adobe.com/events/?lang=sv-SE&filters=Workfront) på Experience League för att få en fullständig lista och för att registrera dig.

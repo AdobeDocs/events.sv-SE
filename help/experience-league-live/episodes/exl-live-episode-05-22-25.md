@@ -31,10 +31,10 @@ Under det här mötet utforskade vi:
 
 >[!BEGINSHADEBOX &quot;Har du frågor?&quot;]
 
-Fortsätt diskutera [Experience League Community-forum](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741#M4712).
+Fortsätt diskutera [Experience League Community-forum](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741?profile.language=sv#M4712).
 
 >[!ENDSHADEBOX]
 
 ## Ytterligare resurser
 
-[Content Analytics videor](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)
+[Content Analytics videor](https://experienceleague.adobe.com/sv/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)

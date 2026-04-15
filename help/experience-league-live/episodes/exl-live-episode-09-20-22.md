@@ -22,5 +22,5 @@ Adobe Target och Adobes kunddataplattform i realtid kan integreras för att ge e
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409425/?quality=12&learn=on)
 
-Mer information om [Edge-segmentering](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html) och [direktuppspelningssegmentering](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html) finns i dokumentationen.
+Mer information om [Edge-segmentering](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html?lang=sv-SE) och [direktuppspelningssegmentering](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html?lang=sv-SE) finns i dokumentationen.
 

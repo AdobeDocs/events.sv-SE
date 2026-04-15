@@ -38,13 +38,13 @@ Corre är en verkligt strategisk CSM som ger oss utrymme att använda Adobe Solu
 
 ### Möten
 
-* [Så här optimerade Adobe sitt innehåll Supply chain - S316](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : Utforska Adobe sätt att distribuera sitt innehåll Supply chain i sin egen marknadsföringsorganisation 
-* [Revolutionerar innehållsproduktion med Adobe - S305](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Upptäck hur Adobe kan maximera ditt innehåll supply chain och snabba upp ditt kreativa arbetsflöde 
+* [Så här optimerade Adobe sitt innehåll Supply chain - S316](https://business.adobe.com/se/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : Utforska Adobe sätt att distribuera sitt innehåll Supply chain i sin egen marknadsföringsorganisation 
+* [Revolutionerar innehållsproduktion med Adobe - S305](https://business.adobe.com/se/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Upptäck hur Adobe kan maximera ditt innehåll supply chain och snabba upp ditt kreativa arbetsflöde 
 
 ### Produktdemonstrationer
 
 * [Workfront](https://business.adobe.com/product-demos/workfront/interactive-tour.html) - eftersom en interaktiv [produktdemo] behövs för att illustrera omfattningen av vad som kan finnas i vår företagslösning för arbetshantering.  
-* [GenStudio](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) - Jag älskar hur omfattande detta är för våra kunder att börja knyta sina behov till lösningar som finns idag på Adobe.
+* [GenStudio](https://business.adobe.com/se/resources/sdk/getting-started-with-adobe-genstudio.html) - Jag älskar hur omfattande detta är för våra kunder att börja knyta sina behov till lösningar som finns idag på Adobe.
 
 ## Om högtalaren 
 

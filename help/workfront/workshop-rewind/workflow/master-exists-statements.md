@@ -25,8 +25,8 @@ Under den här workshopen delade de tekniska kunskaper och praktiska program fö
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477158/?learn=on&enablevpops)
 
-Missade du livesessionen? Inga problem! Granska Skye &amp; Nathan&#39;s [presentationsdäck](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-your-dream-workfront-report-exists-two/td-p/783550) och se hur on-demand-inspelningen följer med.
+Missade du livesessionen? Inga problem! Granska Skye &amp; Nathan&#39;s [presentationsdäck](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-your-dream-workfront-report-exists-two/td-p/783550?profile.language=sv) och se hur on-demand-inspelningen följer med.
 
 Har du idéer att dela eller har du frågor från evenemanget? Du kan släppa dem i kommentarerna på [Experience League Community-inlägget](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/10.28.25+EXISTS+Class.pdf)!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.

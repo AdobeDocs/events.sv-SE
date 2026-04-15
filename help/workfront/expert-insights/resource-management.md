@@ -28,21 +28,21 @@ Letar du efter råd om hur du kommer igång med resurshantering? Besök er On-De
 
 ## Resurs
 
-Funktionsvarning!  Läs mer om [det nya fältet Arbetstid](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855#M519): Nu kan du justera användarkapacitet OCH beräkna tillgänglighet baserat på användarens schema.
+Funktionsvarning!  Läs mer om [det nya fältet Arbetstid](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855?profile.language=sv#M519): Nu kan du justera användarkapacitet OCH beräkna tillgänglighet baserat på användarens schema.
 
 Söker du sätt att analysera data bättre för att vara säker på att du är redo? Ta en titt på katalogen med färdiga utkast!
 
-[Använd Workfront Blueprints för att optimera din arbetsmiljö!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
+[Använd Workfront Blueprints för att optimera din arbetsmiljö!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=sv)
 
 Letar du efter skillnaden mellan resursplaneraren och arbetsbelastningsutjämnaren? Här är några korta videoklipp:
 
-* [Vad är resursplaneraren?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=en)
-* [Tilldela arbete i arbetsbelastningsutjämnaren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=en)
+* [Vad är resursplaneraren?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=sv-SE)
+* [Tilldela arbete i arbetsbelastningsutjämnaren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=sv-SE)
 
 Eftersom resursplaneraren och arbetsbelastningsutjämnaren är två olika verktyg i funktionen Resurshantering är det viktigt att förstå filtreringen i båda. Mer information finns här:
 
-* [Filtrera information i resursplaneraren](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=en)
-* [Filtrera information i Utjämning av arbetsbelastning](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=en)
+* [Filtrera information i resursplaneraren](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=sv-SE)
+* [Filtrera information i Utjämning av arbetsbelastning](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=sv-SE)
 
 ## Om högtalaren
 

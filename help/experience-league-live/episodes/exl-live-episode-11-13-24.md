@@ -22,4 +22,4 @@ Besök oss i en spännande realtidssession där Adobe produktions- och teknikexp
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438012/?quality=12&learn=on)
 
-[**Fortsätt diskutera Experience League Community**](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/adobe-experience-league-live-introducing-ai-assistant-for/td-p/716720)
+[**Fortsätt diskutera Experience League Community**](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/adobe-experience-league-live-introducing-ai-assistant-for/td-p/716720?profile.language=sv)

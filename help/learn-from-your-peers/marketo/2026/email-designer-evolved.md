@@ -35,12 +35,12 @@ Följ oss för att få en heltäckande bild av hur e-postmarknadsföringen Desig
 
 ## Ytterligare resurser
 
-* [E-posta Designer - översikt](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
-* [AI-assistenten](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
-* [Anpassningsbara fragment](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
-* [Villkorligt innehåll](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
+* [E-posta Designer - översikt](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
+* [AI-assistenten](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
+* [Anpassningsbara fragment](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
+* [Villkorligt innehåll](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
 * [Varumärkesteman](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
-* [Jämförelse mellan gamla och nya Designer via e-post](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
-* [Versionsinformation](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current)
-* [Champion Deep Dive: Upptäck nya e-postprogrammet Designer i Marketo Engage](https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
+* [Jämförelse mellan gamla och nya Designer via e-post](https://experienceleague.adobe.com/sv/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
+* [Versionsinformation](https://experienceleague.adobe.com/sv/docs/marketo/using/release-notes/current)
+* [Champion Deep Dive: Upptäck nya e-postprogrammet Designer i Marketo Engage](https://experienceleague.adobe.com/sv/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
 * [Delta i konversationen i Community med frågor och svar](https://nation.marketo.com/t5/product-blogs/watch-on-demand-learn-from-your-peers-webinar-beyond-the-launch/ba-p/359083)

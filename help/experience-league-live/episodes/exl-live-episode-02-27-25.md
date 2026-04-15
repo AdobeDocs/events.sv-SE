@@ -28,11 +28,11 @@ Under det här mötet utforskade vi:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448635/?quality=12&learn=on)
 
-**Fortsätt diskutera Experience League [Community Post.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208){target=“_blank”}**
+**Fortsätt diskutera Experience League [Community Post.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208?profile.language=sv){target=“_blank”}**
 
 ## Ytterligare resurser
 
-[Översikt över AI-assistenten](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/overview)
+[Översikt över AI-assistenten](https://experienceleague.adobe.com/sv/docs/platform-learn/tutorials/ai-assistant/overview)
 
 [AI Assistant - faktablad för säkerhet](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-ai-assistant-in-aep-security-fact-sheet.pdf)
 

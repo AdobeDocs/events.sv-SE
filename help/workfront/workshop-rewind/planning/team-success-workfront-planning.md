@@ -36,16 +36,16 @@ Här finns ytterligare snabblänkar till resurser som hjälper dig att komma ig�
 
 ### Läs
 
-* [Skapa en lyckad kurs med Adobe Workfront Planning](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077)
+* [Skapa en lyckad kurs med Adobe Workfront Planning](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077?profile.language=sv)
 * [Guide - Din Workfront Planning GPS](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
 
 ### Utbildningsvideor för planering
 
-* [Lägga till planering i din instans (licensplaner och liknande)](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/add-planning-to-your-instance)
-* [Skapa en Workspace (Komma igång med grunden för planering)](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)
-* [Skapa och hantera en posttyp](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)
-* [Skapa och hantera tabellvyer](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)
-* [Dokumentation: Adobe Workfront Planning - översikt](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
-* [Adobe Workfront Planning - lanseringsaktivitet](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
+* [Lägga till planering i din instans (licensplaner och liknande)](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/workfront-planning/add-planning-to-your-instance)
+* [Skapa en Workspace (Komma igång med grunden för planering)](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)
+* [Skapa och hantera en posttyp](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)
+* [Skapa och hantera tabellvyer](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)
+* [Dokumentation: Adobe Workfront Planning - översikt](https://experienceleague.adobe.com/sv/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
+* [Adobe Workfront Planning - lanseringsaktivitet](https://experienceleague.adobe.com/sv/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
 
-Vi kommer snart fler event för Workfront Planning, så se till att regelbundet gå till sidan [Händelser på Experience League](https://experienceleague.adobe.com/events/?filters=Workfront)så att du inte missar något!
+Vi kommer snart fler event för Workfront Planning, så se till att regelbundet gå till sidan [Händelser på Experience League](https://experienceleague.adobe.com/events/?lang=sv-SE&filters=Workfront)så att du inte missar något!

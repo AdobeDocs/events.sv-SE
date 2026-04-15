@@ -31,5 +31,5 @@ Under denna Experience League Live Session kommer Adobe produktexperter att för
 
 **Klicka på bilden ovan om du vill titta på bildspelet!**
 
-Fortsätt diskutera [Experience League Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
+Fortsätt diskutera [Experience League Community-inlägget](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273?profile.language=sv#M132).
 

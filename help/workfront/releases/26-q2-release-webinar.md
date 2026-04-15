@@ -23,6 +23,6 @@ Upptäck de senaste funktionerna och uppdateringarna som introducerades i Adobe 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483385/?learn=on&enablevpops)
 
-Vill du ha mer information? Granska [versionsinformationen](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q2/26-q2-release-overview) i Experience League och checka ut [communityposten](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-adobe-workfront-second-quarter-2026-release-webinar-april-9-2026-249769?fid=23&tid=249769) med länkar till bildspelet, enskilda demovideor med mera!
+Vill du ha mer information? Granska [versionsinformationen](https://experienceleague.adobe.com/sv/docs/workfront/using/product-announcements/product-releases/release-26-q2/26-q2-release-overview) i Experience League och checka ut [communityposten](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-adobe-workfront-second-quarter-2026-release-webinar-april-9-2026-249769?profile.language=sv&fid=23&tid=249769) med länkar till bildspelet, enskilda demovideor med mera!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.

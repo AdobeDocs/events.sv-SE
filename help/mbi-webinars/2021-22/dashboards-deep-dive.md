@@ -38,5 +38,5 @@ Se en demo av de fyra kontrollpanelerna som ingår i varje Commerce Intelligence
 
 ## Användbara resurser
 
-[Kontrollpaneler](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
-[&#x200B; Exportera diagramdata &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+[Kontrollpaneler](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html?lang=sv-SE)
+[&#x200B; Exportera diagramdata &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html?lang=sv-SE)
