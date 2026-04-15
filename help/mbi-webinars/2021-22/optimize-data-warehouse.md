@@ -47,4 +47,4 @@ I det här webbinariet:
 ## Användbara resurser
 
 [Optimera databasen för analys](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
-[Rekommenderade datamått för segmentering och filtrering ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[Rekommenderade datamått för segmentering och filtrering &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

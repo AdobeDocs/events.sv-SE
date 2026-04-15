@@ -35,4 +35,4 @@ Användningsexempel delas av alla, som innehåller illustrativa exempel på hur 
 ## Ytterligare resurser
 
 [Commerce Intelligence Introduktion](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-[ Commerce Intelligence Support ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[&#x200B; Commerce Intelligence Support &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

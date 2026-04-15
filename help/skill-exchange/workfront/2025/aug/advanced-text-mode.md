@@ -35,7 +35,7 @@ Ta dina Workfront-rapporter till nästa nivå med avancerade textlägestekniker.
 
 Utnyttja kraften i Workfront rapportering genom att kombinera teknisk expertis med historieberättande.
 
-* **Avancerat textläge **Möjliggör flexibla, anpassade rapporter som går längre än de vanliga gränssnittsbegränsningarna.
+* **Avancerat textläge &#x200B;** Möjliggör flexibla, anpassade rapporter som går längre än de vanliga gränssnittsbegränsningarna.
 * **Sammanfogning av kolumner** minskar störande och förbättrar läsbarheten, så att du kan presentera viktig projektinformation i en enda vy.
 * **Värdeuttryck** Tillhandahåll realtidsinsikter, till exempel projektstatus och schemaläggningsberäkningar, direkt i dina rapporter.
 * **Anpassade frågor** Ge användarna möjlighet att filtrera och interagera med rapporter dynamiskt för att tillgodose olika teambehov.
