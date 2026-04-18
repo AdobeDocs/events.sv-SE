@@ -66,7 +66,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
   {description = Your destination as a customer data management technical and marketing practice leader and specialist. A one stop shop to hear from your peers, get inspired and learn about developments in martech.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png?lang=sv-SE}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html  
+* https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html?lang=sv-SE  
   {title = CX Analytics On-demand Webinars}
   {description = Browse on-demand CX Analytics videos covering product updates, integrations, onboarding, and real-world success stories to stay current and build expertise.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-cx-analytics-on-demand-webinars.png?lang=sv-SE}
@@ -356,7 +356,7 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html" title="CX Analytics On-demand-webbinarier" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html?lang=sv-SE" title="CX Analytics On-demand-webbinarier" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-cx-analytics-on-demand-webinars.png?lang=sv-SE" alt="CX Analytics On-demand-webbinarier"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -365,11 +365,11 @@ Håll dig uppdaterad om exklusiva event och webbinarier för att utöka din inl�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html" target="_blank" rel="referrer" title="CX Analytics On-demand-webbinarier">CX Analytics On-demand-webbinarier</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html?lang=sv-SE" target="_blank" rel="referrer" title="CX Analytics On-demand-webbinarier">CX Analytics On-demand-webbinarier</a>
                     </p>
                     <p class="is-size-6">Titta på on-demand-videor om CX Analytics som innehåller produktuppdateringar, integreringar, introduktioner och verkliga framgångar för att hålla dig uppdaterad och bygga upp expertis.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html?lang=sv-SE" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Visa inspelningar </span>
                 </a>
             </div>

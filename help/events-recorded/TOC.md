@@ -23,7 +23,7 @@ ht-degree: 0%
    + [Bakom Brew](https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html?lang=sv-SE)
    + [Commerce och kaffe](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html?lang=sv-SE)
    + [Voices om kunddatahantering](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=sv-SE)
-   + [CX Analytics On-demand-webbinarier](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html)
+   + [CX Analytics On-demand-webbinarier](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html?lang=sv-SE)
    + [Datahämtning](https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=sv-SE)
    + [Marketo Deep Dives](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html?lang=sv-SE)
    + [Espressos &amp; Experience Manager](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html?lang=sv-SE)
@@ -51,7 +51,7 @@ ht-degree: 0%
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html?lang=sv-SE)
    + Adobe Analytics {#aa}
       + [Adobe Customer Success Webinars](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=sv-SE)
-      + [CX Analytics On-demand-webbinarier](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html)
+      + [CX Analytics On-demand-webbinarier](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html?lang=sv-SE)
       + [Datahämtning](https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=sv-SE)
       + [Experience Cloud Tech Sessions](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html?lang=sv-SE)
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html?lang=sv-SE)
@@ -73,7 +73,7 @@ ht-degree: 0%
       + [Kunskapsbyggaren](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html?lang=sv-SE)
    + Adobe Customer Journey Analytics {#cja}
       + [Adobe Customer Success Webinars](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=sv-SE)
-      + [CX Analytics On-demand-webbinarier](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html)
+      + [CX Analytics On-demand-webbinarier](https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html?lang=sv-SE)
       + [Den perfekta blandningen](https://experienceleague.adobe.com/sv/docs/events/the-perfect-blend/overview)
       + [Kunskapsbyggaren](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html?lang=sv-SE)
    + Adobe Experience Manager {#aem}
