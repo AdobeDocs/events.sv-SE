@@ -23,9 +23,9 @@ ht-degree: 0%
 
 Vill du veta mer om hur du hanterar material med Problem, Anpassade Forms och Projektmallar? Fler resurser:
 
-* Se hur en kund hanterar sitt arbete i praktiken med [Power Templates: Hur IDEXX konfigurerade om projektmallar för globala framgångar &#x200B;](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/workflow/power-templates)!
-* Oavsett dina önskemål kan du lära dig hur du [skapar anpassade rapporter för problemhantering](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/report-on-issues) som ett proffs.
+* Se hur en kund hanterar sitt arbete i praktiken med [Power Templates: Hur IDEXX konfigurerade om projektmallar för globala framgångar &#x200B;](https://experienceleague.adobe.com/sv/docs/events/workfront-recordings/workshop-rewind/workflow/power-templates)!
+* Oavsett dina önskemål kan du lära dig hur du [skapar anpassade rapporter för problemhantering](https://experienceleague.adobe.com/sv/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/report-on-issues) som ett proffs.
 
-Intresserad av nya idéer och metoder? Anmäl dig till våra kommande workshops på [Experience League Events-sidan](https://experienceleague.adobe.com/en/events?filters=Workfront). Vi hoppas att vi ses snart!
+Intresserad av nya idéer och metoder? Anmäl dig till våra kommande workshops på [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events?filters=Workfront). Vi hoppas att vi ses snart!
 
 

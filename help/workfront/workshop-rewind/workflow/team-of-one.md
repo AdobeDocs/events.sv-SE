@@ -23,7 +23,7 @@ Titta på on demand-inspelningen och lär dig praktiska strategier, kreativa Wor
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484927/?learn=on&enablevpops)
 
-Letar du efter fler resurser som delades under evenemanget?  Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-confessions-of-a-workfront-team-of-one-4-29-26-250238?tid=250238)!
+Letar du efter fler resurser som delades under evenemanget?  Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-confessions-of-a-workfront-team-of-one-4-29-26-250238?profile.language=sv&tid=250238)!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events) för de senaste sessionerna.
 
