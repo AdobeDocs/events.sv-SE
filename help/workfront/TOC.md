@@ -3,9 +3,9 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 88adf7e72d49b8f8e8cf8199e320152556304d46
+source-git-commit: 50e173546cb6086bbe8170b0120e48abecd1bf3c
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -75,6 +75,7 @@ ht-degree: 0%
       + [Secure Executive Sponsorship](workshop-rewind/workflow/secure-executive-sponsorship.md)
       + [Självstudiekurs för framgång](workshop-rewind/workflow/self-taught-to-success.md)
       + [Spring Cleanup with Workfront Reports](workshop-rewind/workflow/workfront-reports-cleanup.md)
+      + [Ett team](workshop-rewind/workflow/team-of-one.md)
       + [10 Kommunikationtips](workshop-rewind/workflow/10-communication-tips.md)
       + [Tips för textläge](workshop-rewind/workflow/text-mode-tips.md)
       + [10 Fler tips för textläge](workshop-rewind/workflow/10-more-text-mode-tips.md)
@@ -109,6 +110,7 @@ ht-degree: 0%
          + [De tre viktigaste funktionerna för arbetstagare i Workfront](quick-takes/top3/watch-me-work-3.md)
    + Jämfört! {#versus}
       + [Grupper kontra team](quick-takes/versus/groups-vs-teams.md)
+      + [Problem jämfört med projekt](quick-takes/versus/issues-vs-projects.md)
 + Expertinsikter {#expert-insights}
    + [Antagande](expert-insights/adoption.md)
    + [Adobeundersökningar](expert-insights/adoption-surveys.md)
@@ -128,14 +130,14 @@ ht-degree: 0%
    + Administration {#administration}
       + [Granskningsspår och efterlevnad](user-groups/audit-trails-and-compliance.md)
       + [Automatisera arbetsflöden med Workfront Fusion](user-groups/automating-workflows-with-workfront-fusion.md)
-      + [Creative: Arbetsflöde och processer](user-groups/creative-agencies-workflows-and-process.md)
+      + [Creative: Arbetsflöde och process](user-groups/creative-agencies-workflows-and-process.md)
       + [Dra nytta av anpassade Forms](user-groups/leveraging-custom-forms.md)
       + [Systemadministratörens bästa praxis](user-groups/system-admin-best-practices.md)
       + [Workfront System Maintenance](user-groups/workfront-system-maintenance.md)
    + Agile {#agile}
       + [Agile in Marketing](user-groups/agile-in-marketing.md)
    + Rapportering och kontrollpaneler {#reporting-and-dashboards}
-      + [Creative-byråer: Rapporter och kontrollpaneler](user-groups/creative-agencies-reporting-and-dashboards.md)
+      + [Creative: Rapportering och kontrollpaneler](user-groups/creative-agencies-reporting-and-dashboards.md)
       + [Mätningskvalitet och engagemang](classics/gauging-quality-and-engagement.md)
       + [Introduktion till textlägesrapportering](classics/introduction-to-text-mode-reporting.md)
       + [Rapportering och instrumentpaneler](user-groups/reporting-and-dashboards.md)
