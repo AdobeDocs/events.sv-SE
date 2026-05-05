@@ -2,9 +2,9 @@
 title: Acrobat Sign webbinarier
 description: Lär dig av Adobe experter hur du bemästrar nya arbetsflöden för e-signaturer i Acrobat Sign.
 exl-id: e5912c6e-65a1-471b-9a5d-83ac7eaccb90
-source-git-commit: c7127e3ce7b0215d208bdd53db3d881e9bfb83d1
+source-git-commit: 23f0005edc68e39508f2435c5e633e9eb82456de
 workflow-type: tm+mt
-source-wordcount: '808'
+source-wordcount: '864'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Lär dig av Adobe experter hur du bemästrar nya arbetsflöden för e-signaturer
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/acrobat-sign-february-2026-release.md" title="Nyheter - Acrobat Sign februari 2026" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480103/?format=jpeg&nocache=1774900338185" alt="Nyheter - Acrobat Sign februari 2026"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480103/?format=jpeg&nocache=1778006131487" alt="Nyheter - Acrobat Sign februari 2026"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -55,7 +55,7 @@ Lär dig av Adobe experter hur du bemästrar nya arbetsflöden för e-signaturer
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/acrobat-sign-october-2025-release.md" title="Nyheter - Acrobat Sign oktober 2025" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477223/?format=jpeg&nocache=1774900338179" alt="Nyheter - Acrobat Sign oktober 2025"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477223/?format=jpeg&nocache=1778006131480" alt="Nyheter - Acrobat Sign oktober 2025"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -78,7 +78,7 @@ Lär dig av Adobe experter hur du bemästrar nya arbetsflöden för e-signaturer
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/acrobat-july-release.md" title="Läs allt om våra senaste förbättringar - Acrobat Sign juliversion 2025" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473003/?format=jpeg&nocache=1774900338190" alt="Läs allt om våra senaste förbättringar - Acrobat Sign juliversion 2025"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473003/?format=jpeg&nocache=1778006131492" alt="Läs allt om våra senaste förbättringar - Acrobat Sign juliversion 2025"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -105,18 +105,42 @@ Lär dig av Adobe experter hur du bemästrar nya arbetsflöden för e-signaturer
 
 {cta  = Watch event}
 
+* ./skill-builders/custom-workflows.md
 * ./skill-builders/identity-verification-security.md
 * ./skill-builders/mobile-e-signing.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Getting started with Custom Workflows in Acrobat Sign">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./skill-builders/custom-workflows.md" title="Komma igång med anpassade arbetsflöden i Acrobat Sign" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486245/?format=jpeg&nocache=1778006131902" alt="Komma igång med anpassade arbetsflöden i Acrobat Sign"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./skill-builders/custom-workflows.md" target="_blank" rel="referrer" title="Komma igång med anpassade arbetsflöden i Acrobat Sign">Komma igång med anpassade arbetsflöden i Acrobat Sign</a>
+                    </p>
+                    <p class="is-size-6">Läs om hur Acrobat Sign anpassade arbetsflöden automatiserar sekventiell och parallell signering, mallar, påminnelser och regelefterlevnad - praktiska webbinarier för administratörer och användare.</p>
+                </div>
+                <a href="./skill-builders/custom-workflows.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Bevakningshändelse </span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Establishing Digital Trust at Scale - Identity Verification and Security with Acrobat Sign">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/identity-verification-security.md" title="Creating Digital Trust at Scale - Identity Verification and Security with Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3482221/?format=jpeg&nocache=1774900338793" alt="Creating Digital Trust at Scale - Identity Verification and Security with Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3482221/?format=jpeg&nocache=1778006131896" alt="Creating Digital Trust at Scale - Identity Verification and Security with Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -139,7 +163,7 @@ Lär dig av Adobe experter hur du bemästrar nya arbetsflöden för e-signaturer
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/mobile-e-signing.md" title="Optimera e-signering för mobiler med Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477532/?format=jpeg&nocache=1774900338786" alt="Optimera e-signering för mobiler med Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477532/?format=jpeg&nocache=1778006131905" alt="Optimera e-signering för mobiler med Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -181,7 +205,7 @@ Lär dig av Adobe experter hur du bemästrar nya arbetsflöden för e-signaturer
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/getting-started.md" title="Acrobat Sign 101 - Komma igång" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455469/?captions=swe&format=jpeg&nocache=1774900339285" alt="Acrobat Sign 101 - Komma igång"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428183/?format=jpeg&nocache=1778006132191" alt="Acrobat Sign 101 - Komma igång"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -204,7 +228,7 @@ Lär dig av Adobe experter hur du bemästrar nya arbetsflöden för e-signaturer
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/authoring-environment.md" title="Avancerad utbildning i redigeringsmiljön" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455903/?captions=swe&format=jpeg&nocache=1774900339290" alt="Avancerad utbildning i redigeringsmiljön"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428189/?format=jpeg&nocache=1778006132196" alt="Avancerad utbildning i redigeringsmiljön"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -243,7 +267,7 @@ Lär dig av Adobe experter hur du bemästrar nya arbetsflöden för e-signaturer
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/acrobat-sign-admin-experience.md" title="Stärk din Acrobat Sign Admin Experience" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477175/?format=jpeg&nocache=1774900339653" alt="Stärk din Acrobat Sign Admin Experience"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477175/?format=jpeg&nocache=1778006132397" alt="Stärk din Acrobat Sign Admin Experience"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -266,7 +290,7 @@ Lär dig av Adobe experter hur du bemästrar nya arbetsflöden för e-signaturer
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/acrobat-sign-admin-etla.md" title="Acrobat Sign 101 för administratörer i ETLA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479942/?format=jpeg&nocache=1774900339658" alt="Acrobat Sign 101 för administratörer i ETLA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479942/?format=jpeg&nocache=1778006132390" alt="Acrobat Sign 101 för administratörer i ETLA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -289,7 +313,7 @@ Lär dig av Adobe experter hur du bemästrar nya arbetsflöden för e-signaturer
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/advanced-reporting.md" title="Avancerad rapportering för Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454409/?captions=swe&format=jpeg&nocache=1774900339663" alt="Avancerad rapportering för Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428191/?format=jpeg&nocache=1778006132401" alt="Avancerad rapportering för Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -330,7 +354,7 @@ Lär dig av Adobe experter hur du bemästrar nya arbetsflöden för e-signaturer
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/advanced-sending-documents-signature.md" title="Avancerade tips för att skicka dokument för signering" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454884/?captions=swe&format=jpeg&nocache=1774900340040" alt="Avancerade tips för att skicka dokument för signering"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428186/?format=jpeg&nocache=1778006132755" alt="Avancerade tips för att skicka dokument för signering"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -353,7 +377,7 @@ Lär dig av Adobe experter hur du bemästrar nya arbetsflöden för e-signaturer
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/collect-signatures.md" title="Samla in många signaturer med ett klick" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454895/?captions=swe&format=jpeg&nocache=1774900340036" alt="Samla in många signaturer med ett klick"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428188/?format=jpeg&nocache=1778006132752" alt="Samla in många signaturer med ett klick"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -376,7 +400,7 @@ Lär dig av Adobe experter hur du bemästrar nya arbetsflöden för e-signaturer
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/document-builder.md" title="Document Builder för Adobe Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454917/?captions=swe&format=jpeg&nocache=1774900340024" alt="Document Builder för Adobe Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428193/?format=jpeg&nocache=1778006132748" alt="Document Builder för Adobe Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -399,7 +423,7 @@ Lär dig av Adobe experter hur du bemästrar nya arbetsflöden för e-signaturer
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/fillable-signable-web-form.md" title="Lägg upp ett ifyllbart, signerbart webbformulär" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455449/?captions=swe&format=jpeg&nocache=1774900340050" alt="Lägg upp ett ifyllbart, signerbart webbformulär"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428187/?format=jpeg&nocache=1778006132737" alt="Lägg upp ett ifyllbart, signerbart webbformulär"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -422,7 +446,7 @@ Lär dig av Adobe experter hur du bemästrar nya arbetsflöden för e-signaturer
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/workflow-automations.md" title="Automatisering av arbetsflöden med Microsoft Power Automate" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454928/?captions=swe&format=jpeg&nocache=1774900340030" alt="Automatisering av arbetsflöden med Microsoft Power Automate"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428194/?format=jpeg&nocache=1778006132743" alt="Automatisering av arbetsflöden med Microsoft Power Automate"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
