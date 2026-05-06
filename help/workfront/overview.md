@@ -56,7 +56,7 @@ Maj-månaden är början på examenssäsongen, en tid för nya perspektiv och in
 
 Söker du mer? Utforska det senaste från er Adobe Workfront-community genom vårt välstrukturerade urval av on-demand-event. Använd den vänstra navigeringsmenyn för att bläddra bland ämnen under Workshop Rewind, där sessionerna grupperas efter Fusion, Planning och Arbetsflöde för att snabbt hitta innehåll som är anpassat efter dina behov.
 
-Och se till att delta i kommande live-event för att ställa frågor, dela insikter och samarbeta med kollegor. Besök [Experience League Workfront Events-sidan](https://experienceleague.adobe.com/en/events?filters=Workfront) regelbundet för att se vad som kommer härnäst!
+Och se till att delta i kommande live-event för att ställa frågor, dela insikter och samarbeta med kollegor. Besök [Experience League Workfront Events-sidan](https://experienceleague.adobe.com/sv/events?filters=Workfront) regelbundet för att se vad som kommer härnäst!
 
 <!-- CARDS 
 
