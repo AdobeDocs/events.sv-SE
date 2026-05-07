@@ -21,8 +21,8 @@ Tina Craig, Chief Business Consultant, Adobe Professional Services, är en inter
 
 >[!VIDEO](https://video.tv.adobe.com/v/3486409/?learn=on&enablevpops)
 
-Vill du veta mer om de här funktionerna? Granska dokumentationen [Skapa och redigera affärsregler](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/configure-system-defaults/business-rules) för att automatisera valideringar och förhindra oönskade ändringar i Workfront-objekt, och läs artikeln för att [lägga till logikregler i anpassade formulär och fält](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/customize/custom-forms/design-a-form/display-skip-logic-form-designer#add-advanced-display-logic-to-a-custom-form) för fler anpassningar.
+Vill du veta mer om de här funktionerna? Granska dokumentationen [Skapa och redigera affärsregler](https://experienceleague.adobe.com/sv/docs/workfront/using/administration-and-setup/set-up-wf/configure-system-defaults/business-rules) för att automatisera valideringar och förhindra oönskade ändringar i Workfront-objekt, och läs artikeln för att [lägga till logikregler i anpassade formulär och fält](https://experienceleague.adobe.com/sv/docs/workfront/using/administration-and-setup/customize/custom-forms/design-a-form/display-skip-logic-form-designer#add-advanced-display-logic-to-a-custom-form) för fler anpassningar.
 
-Letar du efter fler resurser som delades under evenemanget? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-mastering-business-rules-validation-logic-in-adobe-workfront-may-7-2026-250357?tid=250357)!
+Letar du efter fler resurser som delades under evenemanget? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-mastering-business-rules-validation-logic-in-adobe-workfront-may-7-2026-250357?profile.language=sv&tid=250357)!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events?lang=en) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events?lang=en) för de senaste sessionerna.
