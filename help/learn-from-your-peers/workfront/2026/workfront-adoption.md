@@ -1,6 +1,6 @@
 ---
 title: Konfigurera hållbar Workfront-användning - från arkitektur till vardaglig användning
-description: Upptäck strategier för hållbar användning av Workfront, inklusive styrning, mallar, automatisering och användarengagemang för långsiktig framgång.
+description: Upptäck strategier för hållbar användning av Adobe Workfront, inklusive styrning, mallar, automatisering och användarengagemang för långsiktig framgång.
 feature: Workfront Fusion, System Setup and Administration
 topic: Performance, Administration
 role: Admin, Developer, Leader, User
@@ -12,18 +12,18 @@ hidefromtoc: true
 hide: true
 jira: KT-20786
 exl-id: d751d2d8-0779-451f-a2bf-351d26a56eab
-source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
+source-git-commit: 2f1f453350eff1dd50752212e1f8e0a5d7c707ae
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
 
-# Konfigurera hållbar användning av Workfront: Från arkitektur till vardaglig användning
+# Configuring Sustainable Workfront Adoption: Från arkitektur till användning i vardagen
 
 Workfront-implementering är inte en engångsöppning - det är en långsiktig strategi. Eftersom Workfront förändrar arbetsflödet (inte bara där det spåras) måste man ofta ändra processer, roller och långvariga vanor.
 
-Under en yrkesinriktad session delade Carol Thomas-Knipes, VP på Creative Technology Operations på Citi, Daniel Clarke, Director of Adobe Workfront and Fusion Practice på EMMsphere samt Victoria Sellers, Associate Manager på Accenture, hur man designar Workfront så att folk vill använda det - och fortsätta använda det.
+Under en yrkesinriktad session på Carol Thomas-Knipes, VP för Creative Technology Operations på Citi. Daniel Clarke, chef för Adobe Workfront och Fusion Practice på EMMsphere, och Victoria Sellers delade Associate Manager på Accenture hur man designade Workfront så att folk ville använda det - och fortsätta använda det.
 
 Tillsammans diskuterade de hur de bytte team från sporadiska användnings- och ad hoc-konfigurationer till repeterbara, insiktsdrivna processer som är enklare att underhålla, skala och utveckla.
 
