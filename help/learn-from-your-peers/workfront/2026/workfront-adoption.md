@@ -10,9 +10,9 @@ duration: 9
 last-substantial-update: 2026-04-08T00:00:00Z
 jira: KT-20786
 exl-id: d751d2d8-0779-451f-a2bf-351d26a56eab
-source-git-commit: c2e4b1ad02e11c18f37a06caaad4034aff15a7d2
+source-git-commit: a205e6f38f29aa6fa18366e4082793c570ba1e43
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,8 @@ Under en yrkesinriktad session på Carol Thomas-Knipes, VP för Creative Technol
 Tillsammans diskuterade de hur de bytte team från sporadiska användnings- och ad hoc-konfigurationer till repeterbara, insiktsdrivna processer som är enklare att underhålla, skala och utveckla.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483200/?learn=on&enablevpops)
+
+[Ladda ned bilderna](../../assets/workfront/adoption-wheel-may-13-2026.pdf)
 
 ## Viktiga punkter
 
