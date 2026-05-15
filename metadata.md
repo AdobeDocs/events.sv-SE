@@ -6,19 +6,19 @@ feature-set: Acrobat Services, Advertising, Analytics, Audience Manager, Campaig
 description: Samling inspelningar från Adobe live-streaming-event.
 type: Event
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/events.sv-SE
+git-repo: https://github.com/AdobeDocs/events.en
 index: true
 auto-video-transcripts: true
-source-git-commit: 433f059df7163639c8c365b6c569b21e151529ea
+source-git-commit: f31943fd1575309c29d091c26c92be9fb1f310d4
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 85%
+source-wordcount: '79'
+ht-degree: 0%
 
 ---
 
 
 # Metadata för intern användning
 
-Filen metadata.md innehåller metadata på lagringsplatsnivå som skickas till TOC.md-filer för användarhandboken i lagringsplatsen. Om du vill ändra innehållet för metadata.md för en användarhandbok gör du det i en TOC.md-fil.
+Filen metadata.md innehåller metadata på postnivå som skickas till TOC.md-filer för användarhandboken i svaret. Om du vill ändra metadata.md-innehåll för en användarhandbok gör du det i en TOC.md-fil.
 
-I [Metadata](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=sv) finns en lista över giltiga värden för **lösning**, **produkt** och **typ**.
+I [Metadata](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en) finns en lista över giltiga värden för **solution**, **product** och **type**.
