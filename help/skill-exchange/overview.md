@@ -55,7 +55,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/opening-keynote.md" title="Adobe Analytics inledningsanförande" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471124/?format=jpeg&nocache=1757465008519" alt="Adobe Analytics inledningsanförande"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471185/?captions=swe&format=jpeg&nocache=1757465008519" alt="Adobe Analytics inledningsanförande"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -193,7 +193,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/scalable-workflows.md" title="Data in Motion - Scalable Analytics Workflows for Insight-driven Teams" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471118/?format=jpeg&nocache=1757465008536" alt="Data in Motion - Scalable Analytics Workflows for Insight-driven Teams"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471233/?captions=swe&format=jpeg&nocache=1757465008536" alt="Data in Motion - Scalable Analytics Workflows for Insight-driven Teams"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -239,7 +239,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/workspace-features.md" title="Workspace-funktioner som du bör använda" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471117/?format=jpeg&nocache=1757465008539" alt="Workspace-funktioner som du bör använda"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471255/?captions=swe&format=jpeg&nocache=1757465008539" alt="Workspace-funktioner som du bör använda"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -281,7 +281,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/opening-keynote.md" title="Customer Journey Analytics inledningsanförande" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471108/?format=jpeg&nocache=1757465009661" alt="Customer Journey Analytics inledningsanförande"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471128/?captions=swe&format=jpeg&nocache=1757465009661" alt="Customer Journey Analytics inledningsanförande"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -304,7 +304,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/modern-takes-classic-aa.md" title="Matlagning med CJA - Modern Take on Classic Recept" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471110/?format=jpeg&nocache=1757465009634" alt="Matlagning med CJA - Modern Take on Classic Recept"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471244/?captions=swe&format=jpeg&nocache=1757465009634" alt="Matlagning med CJA - Modern Take on Classic Recept"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -350,7 +350,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/journey-canvas.md" title="Skapa kundupplevelser med Adobe Customer Journey Analytics Journey Canvas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471112/?format=jpeg&nocache=1757465009648" alt="Skapa kundupplevelser med Adobe Customer Journey Analytics Journey Canvas"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471218/?captions=swe&format=jpeg&nocache=1757465009648" alt="Skapa kundupplevelser med Adobe Customer Journey Analytics Journey Canvas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -415,7 +415,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/opening-keynote.md" title="Adobe Experience Manager inledningsanförande" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1757465010566" alt="Adobe Experience Manager inledningsanförande"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471400/?captions=swe&format=jpeg&nocache=1757465010566" alt="Adobe Experience Manager inledningsanförande"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -438,7 +438,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/asset-workflows-permissions-integration.md" title="AEM MasterClass - Asset Workflows, Permissions &amp; Integration" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471383/?format=jpeg&nocache=1757465010597" alt="AEM MasterClass - Asset Workflows, Permissions &amp; Integration"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471456/?captions=swe&format=jpeg&nocache=1757465010597" alt="AEM MasterClass - Asset Workflows, Permissions &amp; Integration"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -507,7 +507,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/scalable-asset-management.md" title="Taxonomi och struktur - AEM hemlighet för hantering av skalbara tillgångar" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471385/?format=jpeg&nocache=1757465010621" alt="Taxonomi och struktur - AEM hemlighet för hantering av skalbara tillgångar"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471428/?captions=swe&format=jpeg&nocache=1757465010621" alt="Taxonomi och struktur - AEM hemlighet för hantering av skalbara tillgångar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -549,7 +549,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Anteckning om kunskapsutbyte - framtiden för upplevelseskapande med AI, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1757465011389" alt="Anteckning om kunskapsutbyte - framtiden för upplevelseskapande med AI, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471359/?captions=swe&format=jpeg&nocache=1757465011389" alt="Anteckning om kunskapsutbyte - framtiden för upplevelseskapande med AI, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -729,7 +729,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/design-studio.md" title="Frigör kraften i Design Studio för Global Marketing Operations" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1757465012342" alt="Frigör kraften i Design Studio för Global Marketing Operations"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471425/?captions=swe&format=jpeg&nocache=1757465012342" alt="Frigör kraften i Design Studio för Global Marketing Operations"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -867,7 +867,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="Förbereda en högklassig Workfront-organisation" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1757465013254" alt="Förbereda en högklassig Workfront-organisation"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471588/?captions=swe&format=jpeg&nocache=1757465013254" alt="Förbereda en högklassig Workfront-organisation"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -890,7 +890,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/enable-users-new-features.md" title="Möjliggöra användare med nya funktioner - Agitation is Life" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471494/?format=jpeg&nocache=1757465013227" alt="Möjliggöra användare med nya funktioner - Agitation is Life"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471542/?captions=swe&format=jpeg&nocache=1757465013227" alt="Möjliggöra användare med nya funktioner - Agitation is Life"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -936,7 +936,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/review-approval.md" title="Komma igång med granskning och godkännande" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1757465013304" alt="Komma igång med granskning och godkännande"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471564/?captions=swe&format=jpeg&nocache=1757465013304" alt="Komma igång med granskning och godkännande"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -982,7 +982,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/user-management-licensing.md" title="Maximera din Workfront-licens - tips för användarhantering och licensiering" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473945/?format=jpeg&nocache=1757465013296" alt="Maximera din Workfront-licens - tips för användarhantering och licensiering"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473962/?captions=swe&format=jpeg&nocache=1757465013296" alt="Maximera din Workfront-licens - tips för användarhantering och licensiering"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
