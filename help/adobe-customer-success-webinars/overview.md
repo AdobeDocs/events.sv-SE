@@ -2946,11 +2946,11 @@ CARDS
 
 
 
->>
+&#x200B;>>
     &lt;div class=&quot;card-image&quot;>
     &lt;figure class=&quot;image x-is-16by9&quot;>
     &lt;a href=&quot;2024/workfront-mastery.md&quot; title=&quot;Workfront Master - Strategies for Success&quot; target=&quot;_blank&quot; rel=&quot;reference&quot;>
-    &lt;img class=&quot;is-bordered-r-small&quot; src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&amp;nocache=1764630166754&quot; alt=&quot; &quot;Workfront Mastery - Strategies for Success&quot;
+    &lt;img class=&quot;is-bordered-r-small&quot; src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1764630166754&quot; alt=&quot; &quot;Workfront Mastery - Strategies for Success&quot;
     style=&quot;width: 100 % proportioner: 16/9; objektpassning: täckning, spill: dolda, visa: block, marginal: auto;&quot;>
     &lt;/a>
     &lt;/figure>
