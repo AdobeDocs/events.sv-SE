@@ -26,5 +26,5 @@ Med all oväsen på marknaden om CDP:er är det svårt att veta var man ska foku
 ## Ytterligare information
 
 *[Bästa praxis för personer och processer för hantering av kunddata](people-and-process.md)
-*[Skapa fantastiska upplevelser med era egna data](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html)
-*[Fallstudie - TSB arbetar med dataanpassning i realtid för varje kund.](https://business.adobe.com/customer-success-stories/tsb-case-study.html)
+*[Skapa fantastiska upplevelser med era egna data](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html?lang=sv-SE)
+*[Fallstudie - TSB arbetar med dataanpassning i realtid för varje kund.](https://business.adobe.com/se/customer-success-stories/tsb-case-study.html)
