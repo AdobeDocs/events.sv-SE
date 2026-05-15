@@ -31,6 +31,6 @@ På det här webbinariet delade medlemmarna i Adobe-teamet, tillsammans med fyra
 **Ytterligare resurser** 
 
 * [Ansök om Adobe Champion Program för 2026-2027](https://event.adobe.com/2026-2027championprogramhub?cgen=7JJ162CW&mv=other) 
-* [Gå till Adobe Champion Program på Adobe Experience League](https://experienceleague.adobe.com/en/champions?cgen=X2PHHJ1W&mv=other) 
-* [Kolla in Champions bidrag till Adobe Experience League Perspective](https://experienceleague.adobe.com/en/perspectives)
+* [Gå till Adobe Champion Program på Adobe Experience League](https://experienceleague.adobe.com/sv/champions?cgen=X2PHHJ1W&mv=other) 
+* [Kolla in Champions bidrag till Adobe Experience League Perspective](https://experienceleague.adobe.com/sv/perspectives)
 
