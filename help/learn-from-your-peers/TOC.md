@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Samling med inspelningar från  [!DNL Experience Makers Learn from your peers]
-source-git-commit: a74b16144c63581e387e590ff4aa98f9a218ec84
+source-git-commit: 52ae84732dd4afdd0ffb29afbb5d3a3bd5921a43
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 6%
+source-wordcount: '370'
+ht-degree: 5%
 
 ---
 
@@ -57,7 +57,7 @@ ht-degree: 6%
    + 2024 {#2024}
       + [Avancerade segmenteringsgranskningar](marketo/2024/advanced-segmentation.md)
       + [Åtagandeprogram för flera strömmar](marketo/2024/multi-stream-engagement-programs.md)
-      + [Marketerns karta: Strategizing, Building, and Analyzing Marketo Campaigns](marketo/2024/marketers-map-marketo-campaigns.md)
+      + [Marknadsförarens karta: Strategiera, bygga och analysera Marketo-kampanjer](marketo/2024/marketers-map-marketo-campaigns.md)
       + [Praktiska tillämpningar av Marketo Engage REST API](marketo/2024/practical-applications-of-marketo-engage-rest-api.md)
       + [Person Scoring Mastery med Marketo Engage](marketo/2024/person-scoring-mastery.md)
    + 2023 {#2023}
@@ -70,7 +70,7 @@ ht-degree: 6%
    + 2026 {#2026}
       + [Hållbar användning av Workfront](workfront/2026/workfront-adoption.md)
    + 2025 {#2025}
-      + [Metadata Mayhem](https://experienceleague.adobe.com/sv/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [Metadata Mayhem](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Ledande effekt - Mät och dela Workfront-värde](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Förenkla resursplaneringen med automatisering](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
@@ -93,5 +93,6 @@ ht-degree: 6%
       + [Grunderna för driftsrapportering](workfront/2022/foundations-of-operational-reporting.md)
       + [Utnyttja gruppadministratören](workfront/2022/leveraging-the-group-admin.md)
       + [Vad är Workfront ledning?](workfront/2022/what-is-workfront-governance.md)
-+ [Utforska Adobe användargrupper i Experience Cloud](./adobe-user-groups.md)
++ [Lås upp Adobe Champion-förmånen](./unlock-the-adobe-champion-advantage.md)
 + [Läs om hur du anmäler dig till en Champion](./adobe-champion-application.md)
++ [Utforska Adobe användargrupper i Experience Cloud](./adobe-user-groups.md)
