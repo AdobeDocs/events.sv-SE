@@ -3,9 +3,9 @@ title: Adobe Commerce Webinars
 description: Adobe Commerce webbinarier är ett månatligt seminarium för Adobe Commerce-kunder som täcker ett brett urval av ämnen, från metodtips till produktplaner och branschtrender.
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '764'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,8 @@ Adobe Commerce webbinarier är ett månatligt seminarium för Adobe Commerce-kun
 
 ## Händelser 2024
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = Watch}
 
@@ -162,7 +163,7 @@ Adobe Commerce webbinarier är ett månatligt seminarium för Adobe Commerce-kun
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/visionary-thinking.md" target="_blank" rel="referrer" title="Creative Edge - How Visionary Thinking is Transforming Commerce">Creative Edge - hur visionärt tänkande håller på att omvandla Commerce</a>
                     </p>
-                    <p class="is-size-6">Det här webbinariet utforskar integreringen av kreativitet och handel och visar hur Adobe verktyg och tekniker kan hjälpa till att hantera resurser, skala innehållsskapandet och effektivisera innehållsförsörjningskedjan. Där diskuteras vikten av att sammanföra kreativitet och handel och även behandlas ämnen som personaliserade upplevelser, hantering av resurser och användning av verktyg som Adobe Workfront, Adobe Experience Manager och Adobe Stock för att effektivisera skapandet av innehåll.</p>
+                    <p class="is-size-6">Det här webbinariet utforskar integreringen av kreativitet och handel och visar hur Adobe verktyg och tekniker kan hantera resurser, skala innehållsskapande och effektivisera innehållet i supply chain. Där diskuteras vikten av att sammanföra kreativitet och handel och även behandlas ämnen som personaliserade upplevelser, hantering av resurser och användning av verktyg som Adobe Workfront, Adobe Experience Manager och Adobe Stock för att effektivisera skapandet av innehåll.</p>
                 </div>
                 <a href="2024/visionary-thinking.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>

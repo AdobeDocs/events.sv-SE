@@ -1,13 +1,13 @@
 ---
 title: Den perfekta blandningen
 description: Se hur Adobe DX-produkter kan integreras för att effektivisera arbetsflöden, öka effektiviteten och leverera smartare affärsresultat med live-demonstrationer och frågor och svar.
-source-git-commit: 7bf1026b10af86e4b6f8ca1bfe4b594fcb78f52f
+exl-id: 703a1a21-99e8-47db-aed6-d5477697ec36
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
-
 
 # Den perfekta blandningen {#the-perfect-blend}
 
@@ -15,7 +15,8 @@ Serien Perfect Blend fokuserar på en roterande grupp av två DX-produkter och f
 
 ## 2025
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 

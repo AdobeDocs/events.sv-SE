@@ -3,7 +3,7 @@ title: Adobe Workfront On-demand Workshops
 description: Workfront Events är ett videobibliotek där experter och kollegor har delat med sig av sina tankar och idéer om hur man kan använda Workfront för att förbättra det arbete som utförs i organisationen.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 3a52e5d2a9a35be25986a12324f14f9fee3d174e
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '949'
 ht-degree: 0%
@@ -16,7 +16,8 @@ ht-degree: 0%
 
 Denna pågående videoserie ger en tydlig och kortfattad översikt över varje kvartalsrelease från Adobe Workfront. Vare sig du är systemadministratör, kraftfull användare eller bara nyfiken på vad som är nytt är dessa sessioner utformade för att hjälpa dig att hålla dig informerad och säker om de senaste uppdateringarna. I samarbete med produkthanteringsteamet sätter de här händelserna fokus på viktiga funktioner, funktionsförbättringar och tips för att snabbt förstå vad som ändras och hur dessa ändringar kan hjälpa organisationen.
 
-<!-- CARDS 
+<!-- 
+CARDS 
 
 * releases/26-q2-release-webinar.md
  
@@ -56,9 +57,10 @@ Maj-månaden är början på examenssäsongen, en tid för nya perspektiv och in
 
 Söker du mer? Utforska det senaste från er Adobe Workfront-community genom vårt välstrukturerade urval av on-demand-event. Använd den vänstra navigeringsmenyn för att bläddra bland ämnen under Workshop Rewind, där sessionerna grupperas efter Fusion, Planning och Arbetsflöde för att snabbt hitta innehåll som är anpassat efter dina behov.
 
-Och se till att delta i kommande live-event för att ställa frågor, dela insikter och samarbeta med kollegor. Besök [Experience League Workfront Events-sidan](https://experienceleague.adobe.com/sv/events?filters=Workfront) regelbundet för att se vad som kommer härnäst!
+Och se till att delta i kommande live-event för att ställa frågor, dela insikter och samarbeta med kollegor. Besök [Experience League Workfront Events-sidan](https://experienceleague.adobe.com/en/events?filters=Workfront) regelbundet för att se vad som kommer härnäst!
 
-<!-- CARDS 
+<!-- 
+CARDS 
 
 * workshop-rewind/workflow/power-templates.md 
 * workshop-rewind/workflow/lessons-learned-admins.md
@@ -149,7 +151,8 @@ Versus! videofilmer visas sida vid sida och Workfront-funktioner som kan se lika
 
 Vare sig du är Workfront-administratör, projektledare eller användare i vardagen ger det här avsnittet tydlig och kortfattad vägledning som hjälper dig att fatta smartare beslut, optimera konfigurationen och få ut mer av Workfront - snabbt.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * quick-takes/top3/office-hours.md
 * quick-takes/versus/issues-vs-projects.md
@@ -162,7 +165,7 @@ Vare sig du är Workfront-administratör, projektledare eller användare i varda
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/office-hours.md" title="De tre viktigaste sätten att arbeta med kontorstider" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470146/?captions=swe&format=jpeg&nocache=1778106659577" alt="De tre viktigaste sätten att arbeta med kontorstider"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1778106659577" alt="De tre viktigaste sätten att arbeta med kontorstider"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -213,7 +216,8 @@ Serien Workfront Expert Insights är den användbara resursen för att frigöra 
 
 Sessionerna innehåller verkliga lösningar, kundexempel och användbara arbetsmetoder som är utformade för att hjälpa Workfront-användare på alla nivåer att optimera sin konfiguration, skala och få ut mer av plattformen. Vare sig du vill lösa en viss utmaning eller inspirera till innovation kan du med Workfront Expert Insights få en heltäckande bild av hur experterna lyckas.
 
-<!-- CARDS 
+<!-- 
+CARDS 
 
 * expert-insights/content-supply-chain.md
 * expert-insights/fusion.md
@@ -227,7 +231,7 @@ Sessionerna innehåller verkliga lösningar, kundexempel och användbara arbetsm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/content-supply-chain.md" title="Expertinsikter - Innehåll i Supply chain med Corre Kombol" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469998/?captions=swe&format=jpeg&nocache=1778106659855" alt="Expertinsikter - Innehåll i Supply chain med Corre Kombol"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1778106659855" alt="Expertinsikter - Innehåll i Supply chain med Corre Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -250,7 +254,7 @@ Sessionerna innehåller verkliga lösningar, kundexempel och användbara arbetsm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/fusion.md" title="Expertinsikter - Fusion with Ewan Hruska" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470020/?captions=swe&format=jpeg&nocache=1778106659859" alt="Expertinsikter - Fusion with Ewan Hruska"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469896/?format=jpeg&nocache=1778106659859" alt="Expertinsikter - Fusion with Ewan Hruska"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -273,7 +277,7 @@ Sessionerna innehåller verkliga lösningar, kundexempel och användbara arbetsm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/centers-of-excellence.md" title="Expertinsikter - Styrning och kompetenscenter med Danielle Johnston" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470009/?captions=swe&format=jpeg&nocache=1778106659848" alt="Expertinsikter - Styrning och kompetenscenter med Danielle Johnston"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469897/?format=jpeg&nocache=1778106659848" alt="Expertinsikter - Styrning och kompetenscenter med Danielle Johnston"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

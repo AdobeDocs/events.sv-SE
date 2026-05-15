@@ -3,20 +3,21 @@ title: Marketo och Mochas
 description: Marketo On-Demand Events är ett videobibliotek där experter och kollegor har delat med sig av sina tankar och idéer om hur de bäst använder Adobe Marketo.
 exl-id: eab06791-de71-4c26-bbb6-cbdeb9f6f8ec
 duration: 15
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '1401'
+source-wordcount: '1427'
 ht-degree: 0%
 
 ---
 
 # Marketo och Mochas
 
-Välkommen till inspelningar från Marketo och Mochas. Om du använder de här resurserna tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=sv-SE) och [självstudiekurserna](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=sv-SE) för Adobe Marketo får du en bättre förståelse för hur du använder Adobe Marketo för att stödja ditt företag.
+Välkommen till inspelningar från Marketo och Mochas. Om du använder de här resurserna tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/marketo-engage.html) och [självstudiekurserna](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) för Adobe Marketo får du en bättre förståelse för hur du använder Adobe Marketo för att stödja ditt företag.
 
 ## 2025 Inspelningar
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch}
 
@@ -148,7 +149,8 @@ Välkommen till inspelningar från Marketo och Mochas. Om du använder de här r
 
 ## 2024 inspelningar
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * 2024/ask-me-anything.md
 * 2024/attribution-dashboard-recording.md
@@ -351,7 +353,8 @@ Välkommen till inspelningar från Marketo och Mochas. Om du använder de här r
 
 ## 2023 Inspelningar
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * 2023/attribution.md
 * 2023/deliverability-part-one.md

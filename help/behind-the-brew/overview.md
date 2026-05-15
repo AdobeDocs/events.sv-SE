@@ -3,10 +3,10 @@ title: Bakom Brew
 description: Bakom Brew är den kompletterande serien till Commerce & Coffee skräddarsydd för tekniskt anpassade kunder som vill behärska de bästa metoderna, integreringar och avancerade funktioner för att förbättra sina e-handelsupplevelser.
 duration: 15
 exl-id: 30dd8695-7fd9-430b-87b6-05f82b6e9732
-source-git-commit: f5d96e8aefd0e0b3b9a27e7e2ace6a09c6b1478b
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 4%
+source-wordcount: '289'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +14,8 @@ ht-degree: 4%
 
 Bakom Brew finns en tilläggsserie till Commerce &amp; Coffee. Det är utformat för kunder med en teknisk bakgrund som vill lära sig mer om god praxis, integreringar och avancerade funktioner som de kan anpassa för att förbättra företagets e-handelsupplevelser.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

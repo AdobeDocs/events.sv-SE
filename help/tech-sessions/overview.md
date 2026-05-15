@@ -3,9 +3,9 @@ title: Experience Cloud Tech Sessions
 description: Förbättra dina färdigheter i Adobe Experience Cloud med live- och on-demand Tech Sessions som leds av Adobe experter. Få användbara tips och strategier när som helst för en smidig inlärningsupplevelse.
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
 duration: 53
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '1630'
+source-wordcount: '1666'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,8 @@ Utnyttja Adobe Experience Cloud fulla potential med livesessioner och on demand-
 
 ## Sessioner 2025
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2025/acc-delivery-performance.md
@@ -118,7 +119,7 @@ Utnyttja Adobe Experience Cloud fulla potential med livesessioner och on demand-
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2025/fastly-and-adobe-commerce.md" target="_blank" rel="referrer" title="Snabbt och Adobe Commerce">Snabbt och Adobe Commerce</a>
                     </p>
-                    <p class="is-size-6">Öka den digitala prestandan och säkerheten med Adobe supportstrategier, cachningstips och självbetjäningsverktyg för att lyckas bättre.**</p>
+                    <p class="is-size-6">Öka den digitala prestandan och säkerheten med Adobe supportstrategier, cachningstips och självbetjäningsverktyg för skalbar framgång.**</p>
                 </div>
                 <a href="2025/fastly-and-adobe-commerce.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Bevakning</span>
@@ -223,7 +224,8 @@ Utnyttja Adobe Experience Cloud fulla potential med livesessioner och on demand-
 
 ## Sessioner 2024
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2024/aep-web-sdk-troubleshooting.md
@@ -356,7 +358,8 @@ Utnyttja Adobe Experience Cloud fulla potential med livesessioner och on demand-
 
 ## Sessioner 2023
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = Watch}
 

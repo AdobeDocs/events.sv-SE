@@ -1,7 +1,8 @@
 ---
 title: CX Analytics On-demand-webbinarier
-description: Utforska on-demand-videor från CX Analytics med produktreleaser, funktionsuppdateringar, Adobe-lösningar, webbseminarier och nöjda kunder och partners i realtid för att ta fram expertkunskaper och hålla sig à jour med de senaste innovationerna från CX Analytics.
-source-git-commit: cb5b307d248b0f972db897b699d6bcc82bfab0bc
+description: Utforska on-demand-videor om CX Analytics med produktreleaser, funktionsuppdateringar, Adobe-lösningar, webbseminarier och verkliga nöjda kunder och partners för att bygga upp expertis och hålla er uppdaterade med de senaste CX Analytics-innovationerna.
+exl-id: daaa107c-522b-4d57-88b8-b2242ebad043
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -10,9 +11,10 @@ ht-degree: 0%
 
 # CX Analytics On-demand-webbinarier {#cx-analytics-ondemand-webinars}
 
-Titta på ett välstrukturerat bibliotek med CX Analytics-filmer, inklusive produkt- och funktionsreleaser, sammanställ berättelser från Adobe-lösningar, komma igång-webbinarier och nöjda partners/kunder. Titta på efterfrågan för att vässa din analyskompetens och hålla dig à jour med de senaste innovationerna i CX Analytics-portföljen, med nytt innehåll tillagt regelbundet.
+Utforska ett välstrukturerat bibliotek med CX Analytics-videor, inklusive produkt- och funktionsreleaser, berättelser om hur Adobe lösningar fungerar bättre, webbseminarier om hur du kommer igång samt nöjda partner- och kundberättelser. Titta på efterfrågan för att vässa er analyskompetens och hålla er à jour med de senaste innovationerna i CX Analytics-portföljen, med nytt innehåll tillagt regelbundet.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -46,4 +48,3 @@ Titta på ett välstrukturerat bibliotek med CX Analytics-filmer, inklusive prod
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-

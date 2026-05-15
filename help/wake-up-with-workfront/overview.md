@@ -3,9 +3,9 @@ title: Vakna med Workfront
 description: Wake Up with Workfront series visar upp bästa praxis för projekthantering och arbetsflöden för alla kunskapsnivåer, med användbara strategier, live-demonstrationer av Workfront viktigaste funktioner och en avslutningssession.
 duration: 15
 exl-id: f03214e9-1ab8-429d-bac5-f2fcef209bd1
-source-git-commit: 0f08a5e73b4c8842b2639d89552a69b06b7a6788
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,8 @@ ht-degree: 0%
 I Wake Up with Workfront Series beskrivs de effektivaste strategierna för projekthantering och arbetsflöden för kunder med alla färdigheter, och de fokuserar på strategier som kan användas för att förbättra samarbetet och öka effektiviteten. Sessionerna innehåller live-demonstrationer av de viktigaste funktionerna i Workfront som säkerställer att deltagarna förstår hur de kan tillämpa de beskrivningar de diskuterar i sina egna miljöer. Varje händelse avslutas också med en live-session.
 
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

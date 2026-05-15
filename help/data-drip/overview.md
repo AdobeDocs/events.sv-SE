@@ -3,7 +3,7 @@ title: Datahämtning
 description: Delta med Adobe experter i datadripserien för att utforska de senaste funktionerna och de bästa metoderna i Adobe Analytics & Target, med live-demonstrationer som säkerställer att kunderna maximerar sin produktpotential och behåller sin konkurrenskraft.
 duration: 15
 exl-id: dd36b140-d53a-41fd-9c26-4d97ab7740a1
-source-git-commit: d195ceaea0b4ccd0c16949e6cff65ec6d04a5e6d
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -14,7 +14,8 @@ ht-degree: 0%
 
 Serien Data Drip innehåller Adobe-experter och välkomnar befintliga Adobe Analytics- och Target-kunder på alla kunskapsnivåer. Serien fokuserar på några av de senaste funktionerna och de bästa metoderna som reflekterar evenemanget. Presentationen följs av en live-demonstration eller skärmdumpar med exempel på hur man gör något åt de bästa metoderna med funktionerna i produkten. Kunderna får en bättre förståelse för hur de kan förbli konkurrenskraftiga och lyckas, samtidigt som de får ut maximalt av produkten.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

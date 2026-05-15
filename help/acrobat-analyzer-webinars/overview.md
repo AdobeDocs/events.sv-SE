@@ -1,7 +1,8 @@
 ---
 title: Acrobat Analyzer-webbinarier
 description: Utforska webbinarierna i Adobe Acrobat Analyzer för att se hur Generative AI extraherar strukturerade, spårbara insikter från dokument för att automatisera arbetsflöden, minska riskerna och snabba upp beslutsfattandet i stor skala.
-source-git-commit: 679892dcd193ed2a9529f32a3d4cf2b90c054854
+exl-id: cbc929b5-3673-4118-826f-763dacff987b
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -12,7 +13,8 @@ ht-degree: 0%
 
 Upptäck hur Adobe Acrobat Analyzer använder generativ AI för att få strukturerade, spårbara insikter från stora dokumentvolymer. Lär dig automatisera arbetsflöden, minska riskerna och möjliggöra snabbare och smartare beslutsfattande i stor skala. Bläddra bland våra kommande webbinarier för att se hur ni kan omvandla dokumentintelligens i hela organisationen.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -46,7 +48,3 @@ Upptäck hur Adobe Acrobat Analyzer använder generativ AI för att få struktur
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
-
-
