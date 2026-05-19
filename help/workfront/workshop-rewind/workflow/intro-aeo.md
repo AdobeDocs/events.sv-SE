@@ -21,6 +21,6 @@ Utforska möjligheterna i Advanced Enterprise Operations när vårt produkthante
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491318/?learn=on&enablevpops)
 
-Söker du mer? Prenumerera på vårt [Advanced Enterprise Operations Event Series Experience League-inlägg](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-series-advanced-enterprise-operations-capabilities-250546) om du automatiskt vill få meddelanden när nya sessioner, registreringslänkar, inspelningar och resurser läggs till!
+Söker du mer? Prenumerera på vårt [Advanced Enterprise Operations Event Series Experience League-inlägg](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-series-advanced-enterprise-operations-capabilities-250546?profile.language=sv) om du automatiskt vill få meddelanden när nya sessioner, registreringslänkar, inspelningar och resurser läggs till!
 
-Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/en/events?lang=en) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så kontrollera [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events?lang=en) för de senaste sessionerna.
