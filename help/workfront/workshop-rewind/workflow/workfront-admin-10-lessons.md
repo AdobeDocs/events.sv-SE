@@ -24,7 +24,7 @@ Titta på on demand-inspelningen och lär dig av hennes erfarenheter från verkl
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491410/?learn=on&enablevpops)
 
-Letar du efter fler resurser som delades under evenemanget? Kolla in [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-inside-the-workfront-admin-role-10-lessons-from-my-first-two-years-may-21-2026-250661?fid=23&tid=250661) och se till att bokmärka Perspective [Growing via Workfront: Reella administratörslektioner &#x200B;](https://experienceleague.adobe.com/en/perspectives/growing-through-workfront-real-admin-lessons)!
+Letar du efter fler resurser som delades under evenemanget? Kolla in [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-inside-the-workfront-admin-role-10-lessons-from-my-first-two-years-may-21-2026-250661?profile.language=sv&fid=23&tid=250661) och se till att bokmärka Perspective [Growing via Workfront: Reella administratörslektioner &#x200B;](https://experienceleague.adobe.com/en/perspectives/growing-through-workfront-real-admin-lessons)!
 
-Nya händelser läggs till varje månad, så gå till [Experience League Events-sidan](https://experienceleague.adobe.com/en/events?lang=en) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så gå till [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events?lang=en) för de senaste sessionerna.
 
