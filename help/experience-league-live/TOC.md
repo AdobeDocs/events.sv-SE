@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 906af81ca9bfea0d33221278bd41136ecad48069
+source-git-commit: c59b43a7869d32b106f30bf25818c825cfa33166
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -19,14 +19,15 @@ ht-degree: 0%
 
 # Experience League Live Events {#experience-league-live-recordings}
 
-+ [Ökning](overview.md)
++ [Översikt](overview.md)
 + Avsnitten {#episodes}
+   + [Testa, simulera och validera resorna effektivt innan de publiceras](episodes/exl-live-episode-06-17-26.md)
    + [Nya användningsexempel för kundengagemang: iOS Live Activity, Web Push och Persistent Messaging](episodes/exl-live-episode-04-08-26.md)
    + [Lär känna kampanjsamordning i Adobe Journey Optimizer](episodes/exl-live-episode-03-12-26.md)
    + [Adobe Experience Platform Agents för förbättrad marknadsföring och bättre affärsresultat](episodes/exl-live-episode-03-03-26.md)
    + [Agenter på jobbet: Skapa och aktivera målgrupper och resor](episodes/exl-live-episode-01-28-26.md)
    + [Förenkla felsökning och ärendehantering med Product Support Agent](episodes/exl-live-episode-12-16-25.md)
-   + [The Next Era of Experimentation: How Agentic AI is Fueling Smarter Testing and Growth](episodes/exl-live-episode-10-30-25.md)
+   + [Nästa tid av experiment: Hur Agentic AI står bakom smartare testning och tillväxt](episodes/exl-live-episode-10-30-25.md)
    + [Adobe Experience Platform Agent Orchestrator](episodes/exl-live-episode-10-22-25.md)
    + [Upptäck kraften i Customer Journey Analytics B2B edition](episodes/exl-live-episode-10-16-25.md)
    + [Nå ut bättre med RCS och WhatsApp i Journey Optimizer](episodes/exl-live-episode-09-30-25.md)

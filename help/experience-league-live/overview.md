@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: f31943fd1575309c29d091c26c92be9fb1f310d4
+source-git-commit: 04f40ae4fcbad2ac47697dca520af1a18f4d41ef
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,16 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 <table>
 <tr>
-    <td style="vertical-align: top;">Fler program kommer snart! Gå tillbaka till den här sidan ofta, där du kan se kommande program samt se tidigare program.
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-17-26.md">
+      <img alt="Experience League LIVE 2011" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-06-17-26.md">
+        <strong>Så här testar, simulerar och validerar du resorna innan de publiceras </strong>
+      </a>
+      <br/><em>med Sandra Hausmann, Ariel Sultan och Nicolas Dufau</em>
+      <br/><em>17 juni 2026</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -79,5 +88,5 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 >[!TIP]
 >
->Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/sv#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=sv-SE).
+>Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
