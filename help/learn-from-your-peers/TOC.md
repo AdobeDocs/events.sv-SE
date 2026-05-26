@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Samling med inspelningar från  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 52ae84732dd4afdd0ffb29afbb5d3a3bd5921a43
+source-git-commit: 64cded01bdde73fff5b5b8e292f973af997f5386
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '374'
 ht-degree: 5%
 
 ---
@@ -27,6 +27,7 @@ ht-degree: 5%
       + [Telling Impact Stories with Data](analytics/2022/stories-with-data.md)
 + Commerce {#commerce}
    + 2026 {#2026}
+      + [Adobe Commerce GEO-strategi](commerce/2026/commerce-geo-strategy.md)
       + [Adobe Commerce produktrekommendationer - från installation till strategisk tillväxt](commerce/2026/product-recommendations-from-setup-to-strategic-growth.md)
    + 2025 {#2025}
       + [Adobe Commerce och App Builder Essentials - från Basics till Impact](commerce/2025/commerce-and-app-builder.md)
@@ -70,7 +71,7 @@ ht-degree: 5%
    + 2026 {#2026}
       + [Hållbar användning av Workfront](workfront/2026/workfront-adoption.md)
    + 2025 {#2025}
-      + [Metadata Mayhem](https://experienceleague.adobe.com/sv/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [Metadata Mayhem](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Ledande effekt - Mät och dela Workfront-värde](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Förenkla resursplaneringen med automatisering](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
