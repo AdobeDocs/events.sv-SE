@@ -10,9 +10,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
+source-git-commit: a7585dae52e0499645518c31bba406d8dee45323
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '106'
 ht-degree: 1%
 
 ---
@@ -25,12 +25,12 @@ ht-degree: 1%
    + [Admin Console Migration](admin-console.md)
    + [API:er](api.md)
    + [Använda AI i Marketo](applying-ai.md)
-   + [Smartare flöden med webhooks och självbetjäningsflödessteg](building-smarter-flows.md)
    + [Automatisera och effektivisera kampanjåtgärder med Marketo API](campaign-operations.md)
    + [Certifiering](certification.md)
    + [Upptäck nya Designer i Marketo Engage](email-designer.md)
    + [E-poststruktur](email-nurture.md)
    + [Körbara kampanjer](executable-campaigns.md)
+   + [Grundläggande om AI](fundamentals-for-ai.md)
    + [IMS-migrering ej packad](ims-migration.md)
    + [Ärva en instans](inheriting-an-instance.md)
    + [Leadlivscykler](lead-lifecycles.md)
@@ -40,5 +40,6 @@ ht-degree: 1%
    + [Maximera instansen med ett litet team](small-team-instance.md)
    + [Notera komplexa processer i aktivitetsloggen](activity-log.md)
    + [Salesforce bakgrundssynkronisering - uppgradering och användningsövervakning](salesforce-background-sync.md)
+   + [Smartare flöden med webhooks och självbetjäningsflödessteg](building-smarter-flows.md)
    + [Låser upp global marknadsföring](global-marketing.md)
    + [Överför data med hjälp av webbhooks](webhooks.md)
