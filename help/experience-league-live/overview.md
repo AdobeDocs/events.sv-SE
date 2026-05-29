@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 04f40ae4fcbad2ac47697dca520af1a18f4d41ef
+source-git-commit: 0019e73fe9b953bab04261b1a1361ef2bc1eeb58
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,20 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
       <a href="episodes/exl-live-episode-06-17-26.md">
         <strong>Så här testar, simulerar och validerar du resorna innan de publiceras </strong>
       </a>
-      <br/><em>med Sandra Hausmann, Ariel Sultan och Nicolas Dufau</em>
+      <br/><em> med Sandra Hausmann, Ariel Sultan och Nicolas Dufau </em>
+      <br/><em>17 juni 2026</em>
+    </div>
+  </td>
+</tr>
+<tr>
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-17-26.md">
+      <img alt="Experience League LIVE 2011" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-06-17-26.md">
+        <strong>Så här testar, simulerar och validerar du resorna innan de publiceras </strong>
+      </a>
+      <br/><em> med Sandra Hausmann, Ariel Sultan och Nicolas Dufau </em>
       <br/><em>17 juni 2026</em>
     </div>
   </td>
@@ -63,7 +76,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
       <a href="episodes/exl-live-episode-06-26-24.md">
         <strong>Hur de senaste Adobe Real-Time CDP-releaserna kan flytta nålen för ditt företag </strong>
       </a>
-      <br/><em>med Nina Caruso, Rudi Shumpert och Doug Moore</em>
+      <br/><em> med Nina Caruso, Rudi Shumpert och Doug Moore </em>
       <br/><em>26 juni 2024</em>
     </div>
   </td>
@@ -77,8 +90,8 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
       <a href="episodes/exl-live-episode-04-24-24.md">
         <strong> Ny kodbaserad upplevelsekanal i Journey Optimizer </strong>
       </a>
-      <br/><em>med Sandra Hausmann, Robert Calangiu och Brent Kostak</em>
-      <br/><em>24 april 2024</em>
+      <br/><em> med Sandra Hausmann, Robert Calangiu och Brent Kostak </em>
+      <br/><em>24 april 2024 </em>
     </div>
   </td>
   </tr>
@@ -88,5 +101,5 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 >[!TIP]
 >
->Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/sv#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=sv-SE).
+>Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).
 
