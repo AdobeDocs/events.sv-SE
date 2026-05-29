@@ -19,6 +19,6 @@ ht-degree: 0%
 
 I det här avsnittet av Experience League LIVE kommer Target-experter att dela med sig av de senaste banbrytande innovationerna i Adobe Target när vi tar vår nya agentiska era med nya Target MCP. Vi delar med oss av vad det gör, hur man kommer åt det och visar det i praktiken. Vi kommer också att visa upp alla våra nya Adobe Target-releaser med demos som visar fler användningsfall och förbättringar inom intelligens och exekvering!
 
-[![ExL LIVE 2026 ](/help/experience-league-live/assets/WebBannerExlLive-June24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
+[![ExL LIVE 2026 &#x200B;](/help/experience-league-live/assets/WebBannerExlLive-June24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
 
 [Sätt en påminnelse från YouTube!](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
