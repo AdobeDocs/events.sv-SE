@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: c59b43a7869d32b106f30bf25818c825cfa33166
+source-git-commit: 50b5538ac3ad157286a0ba23b548e6d05eaa22b3
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 0%
 
 + [Översikt](overview.md)
 + Avsnitten {#episodes}
+   + [Så här använder du Target MCP och andra viktiga nya releaser i Adobe Target](episodes/exl-live-episode-06-24-26.md)
    + [Testa, simulera och validera resorna effektivt innan de publiceras](episodes/exl-live-episode-06-17-26.md)
    + [Nya användningsexempel för kundengagemang: iOS Live Activity, Web Push och Persistent Messaging](episodes/exl-live-episode-04-08-26.md)
    + [Lär känna kampanjsamordning i Adobe Journey Optimizer](episodes/exl-live-episode-03-12-26.md)

@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 0019e73fe9b953bab04261b1a1361ef2bc1eeb58
+source-git-commit: 7f3035c2cb1e7c7fbd3ff17854dc9121e041849b
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 <table>
 <tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-17-26.md">
-      <img alt="Experience League LIVE 2011" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
+      <img alt="Experience League LIVE 17 juni" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-06-17-26.md">
@@ -38,15 +38,15 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
   </td>
 </tr>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-17-26.md">
-      <img alt="Experience League LIVE 2011" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-24-26.md">
+      <img alt="Experience League LIVE 24 juni" src="episodes/assets/webbanner-june-24-2026.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-06-17-26.md">
-        <strong>Så här testar, simulerar och validerar du resorna innan de publiceras </strong>
+      <a href="episodes/exl-live-episode-06-24-26.md">
+        <strong>Så här använder du Target MCP och andra viktiga nya utgåvor i Adobe Target </strong>
       </a>
-      <br/><em> med Sandra Hausmann, Ariel Sultan och Nicolas Dufau </em>
-      <br/><em>17 juni 2026</em>
+      <br/><em>med Daniel Wright, James Torio och Drew Burns</em>
+      <br/><em>24 juni 2026</em>
     </div>
   </td>
 </tr>
@@ -101,5 +101,5 @@ Experience League LIVE är ett direktuppspelningsprogram som producerats av Expe
 
 >[!TIP]
 >
->Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/sv#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=sv-SE).
+>Om du vill ha fler inlärningsmetoder kan du kolla in våra kostnadsfria [kurser](https://experienceleague.adobe.com/#dashboard/learning) samt enskilda [självstudiekurser](https://experienceleague.adobe.com/docs/home-tutorials.html).
 

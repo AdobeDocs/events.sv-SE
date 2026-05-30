@@ -1,24 +1,33 @@
 ---
 title: Så här använder du Target MCP och andra viktiga nya releaser i Adobe Target
 description: Testa och validera dina resor innan lanseringen och lär dig hur du kan gå vidare med den helt nya Journey-simuleringen.
-kt: 21225
-solution: Journey Optimizer
-feature: Deliverability
-event-cta-url-live: https://www.youtube.com/live/32NMm_z7lRw
-event-start-time: 2026-06-17 08:30-8
-event-guests: Sandra Hausmann, Ariel Sultan, Nicolas Dufau
-exl-id: 25df1808-5343-42e3-8c21-1520140defae
-source-git-commit: 0019e73fe9b953bab04261b1a1361ef2bc1eeb58
+kt: 21226
+solution: Target
+event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
+event-start-time: 2026-06-24 08:30-8
+event-guests: Daniel Wright, Drew Burns, James Torio
+source-git-commit: 83ba57e9aa2026437bae583a0db42b61fd05a23e
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
 
 # Så här använder du Target MCP och andra viktiga nya releaser i Adobe Target
 
-I det här avsnittet av Experience League LIVE kommer Target-experter att dela med sig av de senaste banbrytande innovationerna i Adobe Target när vi tar vår nya agentiska era med nya Target MCP. Vi delar med oss av vad det gör, hur man kommer åt det och visar det i praktiken. Vi kommer också att visa upp alla våra nya Adobe Target-releaser med demos som visar fler användningsfall och förbättringar inom intelligens och exekvering!
+Delta i det här Experience League LIVE-avsnittet där våra experter visar hur Adobe Target tillhandahåller en Target MCP för att analysera programinsikter och bygga och redigera aktiviteter med hjälp av en agent och ytterligare nya funktioner för skalningsoptimering.
 
-[![ExL LIVE 2026 &#x200B;](/help/experience-league-live/assets/WebBannerExlLive-June24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
+Under den här sessionen får du lära dig att:
+
+- Konfigurera mål-MCP med valfri agent
+- Använd Target MCP med CX Enterprise Coworker för att snabbt analysera dina aktiviteter, erbjudanden, målgrupper och prestanda
+- Förstå nästa steg och den framtida visionen om dynamisk optimering med Adobe Target
+- Lär dig använda nya releaser för att bredda dina användningsfall i Adobe Target, inklusive bayesisk testning, testning av funktionsflaggor och CDN-experiment
+- Se nya designer och funktioner som visar på den avkastning du får i programmet baserat på dina viktigaste affärsmål
+
+Missa inte den här chansen att se det senaste inom autentisk optimering och få svar live av våra experter.
+
+
+[![ExL LIVE 2026 ](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
 
 [Sätt en påminnelse från YouTube!](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
