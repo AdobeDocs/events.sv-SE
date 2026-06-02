@@ -53,11 +53,11 @@ CARDS
 
 ## Workshop Rewind
 
-Juni har kommit och det har även den senaste utgåvan av [Workfront Wire](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?tid=250880)! Det här nyhetsbrevet är det enda du behöver göra för att få de senaste nyheterna, uppdateringarna, händelserna och allt som händer i hela Workfront.
+Juni har kommit och det har även den senaste utgåvan av [Workfront Wire](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?profile.language=sv&tid=250880)! Det här nyhetsbrevet är det enda du behöver göra för att få de senaste nyheterna, uppdateringarna, händelserna och allt som händer i hela Workfront.
 
 Söker du mer? Utforska det senaste från er Adobe Workfront-community genom vårt välstrukturerade urval av on-demand-event. Använd den vänstra navigeringsmenyn för att bläddra bland ämnen under Workshop Rewind, där sessionerna grupperas efter Fusion, Planning och Arbetsflöde för att snabbt hitta innehåll som är anpassat efter dina behov.
 
-Och se till att delta i kommande live-event för att ställa frågor, dela insikter och samarbeta med kollegor. Besök [Experience League Workfront Events-sidan](https://experienceleague.adobe.com/en/events?filters=Workfront) regelbundet för att se vad som kommer härnäst!
+Och se till att delta i kommande live-event för att ställa frågor, dela insikter och samarbeta med kollegor. Besök [Experience League Workfront Events-sidan](https://experienceleague.adobe.com/sv/events?filters=Workfront) regelbundet för att se vad som kommer härnäst!
 
 <!-- 
 CARDS 
