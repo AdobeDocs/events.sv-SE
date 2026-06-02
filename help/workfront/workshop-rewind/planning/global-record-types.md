@@ -21,6 +21,6 @@ Häng med Senior Product Manager, Lilit Mkrtchyan för den här djupdykningen i 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491591/?learn=on&enablevpops)
 
-Letar du efter fler resurser som delades under evenemanget? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-planning-global-record-types-explained-when-why-and-how-to-use-them-may-28-2026-250827)!
+Letar du efter fler resurser som delades under evenemanget? Ta en titt på [Experience League Community-posten](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-planning-global-record-types-explained-when-why-and-how-to-use-them-may-28-2026-250827?profile.language=sv)!
 
-Nya händelser läggs till varje månad, så gå till [Experience League Events-sidan](https://experienceleague.adobe.com/en/events?lang=en) för de senaste sessionerna.
+Nya händelser läggs till varje månad, så gå till [Experience League Events-sidan](https://experienceleague.adobe.com/sv/events?lang=en) för de senaste sessionerna.
