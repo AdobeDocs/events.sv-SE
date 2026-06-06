@@ -43,7 +43,7 @@ Corre är en verkligt strategisk CSM som ger oss utrymme att använda Adobe Solu
 
 ### Produktdemonstrationer
 
-* [Workfront](https://business.adobe.com/product-demos/workfront/interactive-tour.html) - eftersom en interaktiv [produktdemo] behövs för att illustrera omfattningen av vad som kan finnas i vår företagslösning för arbetshantering.  
+* [Workfront](https://business.adobe.com/se/product-demos/workfront/interactive-tour.html) - eftersom en interaktiv [produktdemo] behövs för att illustrera omfattningen av vad som kan finnas i vår företagslösning för arbetshantering.  
 * [GenStudio](https://business.adobe.com/se/resources/sdk/getting-started-with-adobe-genstudio.html) - Jag älskar hur omfattande detta är för våra kunder att börja knyta sina behov till lösningar som finns idag på Adobe.
 
 ## Om högtalaren 
