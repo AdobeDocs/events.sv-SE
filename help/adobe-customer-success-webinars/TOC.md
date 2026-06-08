@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinars
 breadcrumb-title: Adobe Customer Success Webinars
 user-guide-description: Adobe Customer Success-led webbinarier som hjälper er att optimera er investering i Adobe Experience Cloud. Få värdefulla insikter för att maximera värdet och öka användningen av Adobe lösningar.
-source-git-commit: 6e906d6414d8e745c23fc144325430f2bbc996ac
+source-git-commit: e23d3b95b7551d025f912f9a299dd11decc29407
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '679'
 ht-degree: 4%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 4%
       + [Skapa BRD-SDR-filer för Customer Journey Analytics](2026/brd-sdr-file-best-practices.md)
       + [Låser upp identitet](2026/unlock-identities.md)
    + Experience Manager {#aem2026}
+      + [Omvandla AEM med AI-agenter och -assistenter](2026/transform-aem-with-ai-agents-and-assistants.md)
       + [Skapa i Edge Delivery Services](2026/authoring-eds.md)
       + [Maximera innehållets leveranskedjor](2026/value-with-content-supply-chain.md)
       + [Modern Delivery Models för AEM Sites](2026/modern-delivery-model-aem.md)
@@ -25,6 +26,7 @@ ht-degree: 4%
    + Experience Platform {#aep2026}
       + [Inbäddad Intelligence Shift](2026/embedded-intelligence.md)
    + Allmänt {#general2026}
+      + [Lås upp styrkan hos agens-AI](2026/unlock-the-power-of-agentic-ai.md)
       + [AI Strategies for Holiday Success](2026/2025-holiday-results.md)
       + [Supply chain strategier för ändringshantering](2026/csc-change-management.md)
       + [Content Supply chain Executive Sponsoration](2026/csc-executive-sponsorship.md)
