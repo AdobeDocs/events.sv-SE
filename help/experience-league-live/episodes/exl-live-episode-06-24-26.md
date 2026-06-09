@@ -6,16 +6,17 @@ solution: Target
 event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
 event-start-time: 2026-06-24 08:30-8
 event-guests: Daniel Wright, Drew Burns, James Torio
-source-git-commit: 83ba57e9aa2026437bae583a0db42b61fd05a23e
+exl-id: 1e99a025-d052-4cd6-96c8-0fd4b9a7ae7b
+source-git-commit: 4a81b87743847ed72b725a43cfb7979daec1dd5d
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
 # Så här använder du Target MCP och andra viktiga nya releaser i Adobe Target
 
-Delta i det här Experience League LIVE-avsnittet där våra experter visar hur Adobe Target tillhandahåller en Target MCP för att analysera programinsikter och bygga och redigera aktiviteter med hjälp av en agent och ytterligare nya funktioner för skalningsoptimering.
+Följ oss till nästa Experience League LIVE, där våra experter tar dig igenom de senaste Adobe Target-innovationerna när vi går in i en ny autentisk era. Vi presenterar nya Target MCP, inklusive vad det är, hur man kommer åt det och hur det fungerar för att analysera programinsikter och bygga och redigera aktiviteter med en agent. Vi delar också med oss av demonstrationer av nya funktioner och förbättringar som hjälper dig att skala optimeringen.
 
 Under den här sessionen får du lära dig att:
 
@@ -27,7 +28,6 @@ Under den här sessionen får du lära dig att:
 
 Missa inte den här chansen att se det senaste inom autentisk optimering och få svar live av våra experter.
 
-
-[![ExL LIVE 2026 &#x200B;](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
-
 [Sätt en påminnelse från YouTube!](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
+
+[![ExL LIVE 2026 ](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
