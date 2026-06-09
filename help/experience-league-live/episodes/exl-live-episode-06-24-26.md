@@ -30,4 +30,4 @@ Missa inte den här chansen att se det senaste inom autentisk optimering och få
 
 [Sätt en påminnelse från YouTube!](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
 
-[![ExL LIVE 2026 ](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
+[![ExL LIVE 2026 &#x200B;](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
